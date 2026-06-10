@@ -1,0 +1,178 @@
+>sp|A1L259|URAD_DANRE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Danio rerio OX=7955 GN=urad PE=1 SV=1
+>tr|A0A1U7QXP6|A0A1U7QXP6_MESAU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Mesocricetus auratus OX=10036 GN=Urad PE=3 SV=1
+>tr|A0A2K6GDP1|A0A2K6GDP1_PROCO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Propithecus coquereli OX=379532 PE=3 SV=1
+>tr|A0A452SD56|A0A452SD56_URSAM 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Ursus americanus OX=9643 GN=URAD PE=3 SV=1
+>tr|A0A4X2LNJ4|A0A4X2LNJ4_VOMUR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Vombatus ursinus OX=29139 GN=URAD PE=3 SV=1
+>tr|A0A6P5L4A1|A0A6P5L4A1_PHACI 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Phascolarctos cinereus OX=38626 GN=URAD PE=3 SV=1
+>tr|A0A7N4NNF6|A0A7N4NNF6_SARHA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Sarcophilus harrisii OX=9305 GN=URAD PE=3 SV=1
+>tr|A0A7N5P0R6|A0A7N5P0R6_AILME 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Ailuropoda melanoleuca OX=9646 GN=URAD PE=3 SV=1
+>tr|A0A8B7ERM5|A0A8B7ERM5_MICMU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Microcebus murinus OX=30608 GN=URAD PE=3 SV=1
+>tr|A0A8C2MQR1|A0A8C2MQR1_CRIGR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Cricetulus griseus OX=10029 GN=Urad PE=3 SV=1
+>tr|A0A8C5LIB5|A0A8C5LIB5_JACJA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Jaculus jaculus OX=51337 GN=Urad PE=3 SV=1
+>tr|A0A8C8UJ09|A0A8C8UJ09_PERMB 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Peromyscus maniculatus bairdii OX=230844 PE=3 SV=1
+>tr|M3Y149|M3Y149_MUSPF 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Mustela putorius furo OX=9669 GN=URAD PE=3 SV=1
+>sp|Q283N4|URAD_MOUSE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Mus musculus OX=10090 GN=Urad PE=1 SV=1
+>tr|A0A3B3HKS0|A0A3B3HKS0_ORYLA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Oryzias latipes OX=8090 GN=urad PE=3 SV=1
+>tr|A0A6I9PQP2|A0A6I9PQP2_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Notothenia coriiceps OX=8208 GN=urad PE=3 SV=1
+>tr|A0A6J2RTA0|A0A6J2RTA0_COTGO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Cottoperca gobio OX=56716 GN=urad PE=3 SV=1
+>tr|A0A8M1KKL3|A0A8M1KKL3_CLUHA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Clupea harengus OX=7950 GN=urad PE=3 SV=1
+>tr|A0A9Q0EUX5|A0A9Q0EUX5_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Muraenolepis orangiensis OX=630683 GN=NHX12_021163 PE=3 SV=1
+>tr|A0A9Q9VSG2|A0A9Q9VSG2_CYPCA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Cyprinus carpio OX=7962 GN=LOC122135352 PE=3 SV=1
+>tr|E6ZIS3|E6ZIS3_DICLA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Dicentrarchus labrax OX=13489 GN=PRHOXNB PE=3 SV=1
+>tr|A0A060Y0D6|A0A060Y0D6_ONCMY 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Oncorhynchus mykiss OX=8022 GN=GSONMT00008550001 PE=3 SV=1
+>tr|A0A1S3NHQ1|A0A1S3NHQ1_SALSA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Salmo salar OX=8030 GN=urad PE=3 SV=1
+>tr|A0A2U3WYP3|A0A2U3WYP3_ODORO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Odobenus rosmarus divergens OX=9708 GN=URAD PE=3 SV=1
+>tr|A0A2U3YYY9|A0A2U3YYY9_LEPWE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Leptonychotes weddellii OX=9713 GN=URAD PE=3 SV=1
+>tr|A0A2Y9KR18|A0A2Y9KR18_ENHLU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Enhydra lutris kenyoni OX=391180 GN=LOC111158587 PE=3 SV=1
+>tr|A0A3B3D7I8|A0A3B3D7I8_ORYME 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Oryzias melastigma OX=30732 PE=3 SV=1
+>tr|A0A3B3S6H7|A0A3B3S6H7_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Paramormyrops kingsleyae OX=1676925 PE=3 SV=1
+>tr|A0A3B4F1I2|A0A3B4F1I2_9CICH 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Pundamilia nyererei OX=303518 GN=urad PE=3 SV=1
+>tr|A0A3B4UPQ5|A0A3B4UPQ5_SERDU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Seriola dumerili OX=41447 PE=3 SV=1
+>tr|A0A3B4WLZ5|A0A3B4WLZ5_SERLL 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Seriola lalandi dorsalis OX=1841481 PE=3 SV=1
+>tr|A0A3B5B1V9|A0A3B5B1V9_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Stegastes partitus OX=144197 GN=urad PE=3 SV=1
+>tr|A0A3N0XXH0|A0A3N0XXH0_ANAGA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Anabarilius grahami OX=495550 GN=DPX16_16381 PE=3 SV=1
+>tr|A0A3P8TT57|A0A3P8TT57_AMPPE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Amphiprion percula OX=161767 PE=3 SV=1
+>tr|A0A3P8WH42|A0A3P8WH42_CYNSE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Cynoglossus semilaevis OX=244447 PE=3 SV=1
+>tr|A0A3P8WH61|A0A3P8WH61_CYNSE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Cynoglossus semilaevis OX=244447 PE=3 SV=1
+>tr|A0A3P9I034|A0A3P9I034_ORYLA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Oryzias latipes OX=8090 PE=3 SV=1
+>tr|A0A3Q0T2Y0|A0A3Q0T2Y0_AMPCI 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Amphilophus citrinellus OX=61819 PE=3 SV=1
+>tr|A0A3Q1I583|A0A3Q1I583_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Acanthochromis polyacanthus OX=80966 PE=3 SV=1
+>tr|A0A3Q2PQ69|A0A3Q2PQ69_FUNHE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Fundulus heteroclitus OX=8078 PE=3 SV=1
+>tr|A0A3Q2VX22|A0A3Q2VX22_HAPBU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Haplochromis burtoni OX=8153 PE=3 SV=1
+>tr|A0A3Q4I2C5|A0A3Q4I2C5_NEOBR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Neolamprologus brichardi OX=32507 PE=3 SV=1
+>tr|A0A3S2MGT1|A0A3S2MGT1_ORYJA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Oryzias javanicus OX=123683 GN=OJAV_G00197860 PE=3 SV=1
+>tr|A0A484C8I4|A0A484C8I4_PERFV 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Perca flavescens OX=8167 GN=EPR50_G00224430 PE=3 SV=1
+>tr|A0A4U5VHT4|A0A4U5VHT4_COLLU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Collichthys lucidus OX=240159 GN=D9C73_021872 PE=3 SV=1
+>tr|A0A4W4HES4|A0A4W4HES4_ELEEL 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Electrophorus electricus OX=8005 GN=urad PE=3 SV=2
+>tr|A0A4W5Q1L9|A0A4W5Q1L9_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Hucho hucho OX=62062 PE=3 SV=1
+>tr|A0A4W6DN21|A0A4W6DN21_LATCA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Lates calcarifer OX=8187 GN=urad PE=3 SV=1
+>tr|A0A553PEE4|A0A553PEE4_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Danionella cerebrum OX=2873325 GN=DNTS_012275 PE=3 SV=1
+>tr|A0A556TWK4|A0A556TWK4_BAGYA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Bagarius yarrelli OX=175774 GN=Baya_5347 PE=3 SV=1
+>tr|A0A5A9N5Q2|A0A5A9N5Q2_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Triplophysa tibetana OX=1572043 GN=E1301_Tti017241 PE=3 SV=1
+>tr|A0A5N5KS64|A0A5N5KS64_PANHP 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Pangasianodon hypophthalmus OX=310915 GN=PHYPO_G00129360 PE=3 SV=1
+>tr|A0A667XCT8|A0A667XCT8_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Myripristis murdjan OX=586833 GN=urad PE=3 SV=1
+>tr|A0A671TX04|A0A671TX04_SPAAU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Sparus aurata OX=8175 GN=urad PE=3 SV=1
+>tr|A0A672J4D7|A0A672J4D7_SALFA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Salarias fasciatus OX=181472 GN=urad PE=3 SV=1
+>tr|A0A672RU37|A0A672RU37_SINGR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Sinocyclocheilus grahami OX=75366 GN=urad PE=3 SV=1
+>tr|A0A673G7Z6|A0A673G7Z6_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Sinocyclocheilus rhinocerous OX=307959 GN=LOC107716415 PE=3 SV=1
+>tr|A0A673YBQ0|A0A673YBQ0_SALTR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Salmo trutta OX=8032 GN=urad PE=3 SV=1
+>tr|A0A6A5EGI0|A0A6A5EGI0_PERFL 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Perca fluviatilis OX=8168 GN=PFLUV_G00255930 PE=3 SV=1
+>tr|A0A6G0HLH6|A0A6G0HLH6_LARCR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Larimichthys crocea OX=215358 GN=D5F01_LYC22013 PE=3 SV=1
+>tr|A0A6G1QMX6|A0A6G1QMX6_CHAAH 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Channa argus OX=215402 GN=EXN66_Car019276 PE=3 SV=1
+>tr|A0A6J2CPK3|A0A6J2CPK3_ZALCA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Zalophus californianus OX=9704 GN=URAD PE=3 SV=1
+>tr|A0A6J2KZW6|A0A6J2KZW6_9CHIR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Phyllostomus discolor OX=89673 GN=URAD PE=3 SV=1
+>tr|A0A6J2V1V5|A0A6J2V1V5_CHACN 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Chanos chanos OX=29144 GN=urad PE=3 SV=1
+>tr|A0A6P6MD54|A0A6P6MD54_CARAU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Carassius auratus OX=7957 GN=LOC113066263 PE=3 SV=1
+>tr|A0A6P7KFZ8|A0A6P7KFZ8_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Parambassis ranga OX=210632 GN=urad PE=3 SV=1
+>tr|A0A6P7MDZ7|A0A6P7MDZ7_BETSP 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Betta splendens OX=158456 GN=urad PE=3 SV=1
+>tr|A0A6P8R5Y9|A0A6P8R5Y9_GEOSA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Geotrypetes seraphini OX=260995 GN=URAD PE=3 SV=1
+>tr|A0A7N6AAB8|A0A7N6AAB8_ANATE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Anabas testudineus OX=64144 PE=3 SV=1
+>tr|A0A834AXR1|A0A834AXR1_9CHIR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Phyllostomus discolor OX=89673 GN=HJG60_020008 PE=3 SV=1
+>tr|A0A8C4S5Q4|A0A8C4S5Q4_ERPCA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Erpetoichthys calabaricus OX=27687 GN=urad PE=3 SV=1
+>tr|A0A8C4ZLI1|A0A8C4ZLI1_GADMO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Gadus morhua OX=8049 GN=urad PE=3 SV=3
+>tr|A0A8C5GMA0|A0A8C5GMA0_GOUWI 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Gouania willdenowi OX=441366 GN=urad PE=3 SV=1
+>tr|A0A8C6HWZ5|A0A8C6HWZ5_MUSSI 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Mus spicilegus OX=10103 PE=3 SV=1
+>tr|A0A8C6HYZ0|A0A8C6HYZ0_MUSSI 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Mus spicilegus OX=10103 PE=3 SV=1
+>tr|A0A8C6Q235|A0A8C6Q235_NOTFU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Nothobranchius furzeri OX=105023 GN=urad PE=3 SV=1
+>tr|A0A8C7AAI4|A0A8C7AAI4_NEOVI 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Neovison vison OX=452646 PE=3 SV=1
+>tr|A0A8C7H1E4|A0A8C7H1E4_ONCKI 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Oncorhynchus kisutch OX=8019 GN=urad PE=3 SV=1
+>tr|A0A8C7TCK8|A0A8C7TCK8_ONCMY 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Oncorhynchus mykiss OX=8022 GN=urad PE=3 SV=1
+>tr|A0A8C7WUA8|A0A8C7WUA8_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Oryzias sinensis OX=183150 PE=3 SV=1
+>tr|A0A8C8CBG1|A0A8C8CBG1_ONCTS 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Oncorhynchus tshawytscha OX=74940 GN=urad PE=3 SV=1
+>tr|A0A8D0A3H2|A0A8D0A3H2_SANLU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Sander lucioperca OX=283035 GN=urad PE=3 SV=1
+>tr|A0A8I3PU09|A0A8I3PU09_CANLF 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Canis lupus familiaris OX=9615 GN=URAD PE=3 SV=1
+>tr|A0A8J4TZW8|A0A8J4TZW8_CLAMG 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase (Fragment) OS=Clarias magur OX=1594786 GN=urad PE=3 SV=1
+>tr|A0A8J6A3B3|A0A8J6A3B3_GALPY 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Galemys pyrenaicus OX=202257 GN=J0S82_015620 PE=3 SV=1
+>tr|A0A8J6FQ87|A0A8J6FQ87_ELECQ 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Eleutherodactylus coqui OX=57060 GN=GDO78_000415 PE=3 SV=1
+>tr|A0A8J7TG44|A0A8J7TG44_ATRSP 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase (Fragment) OS=Atractosteus spatula OX=7917 GN=Urad PE=3 SV=1
+>tr|A0A8M1F4R9|A0A8M1F4R9_URSMA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Ursus maritimus OX=29073 GN=URAD PE=3 SV=1
+>tr|A0A8S4AWD5|A0A8S4AWD5_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Menidia menidia OX=238744 GN=MMEN_LOCUS6994 PE=3 SV=1
+>tr|A0A8T2MNN0|A0A8T2MNN0_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Albula glossodonta OX=121402 GN=JZ751_027571 PE=3 SV=1
+>tr|A0A8T3D0R8|A0A8T3D0R8_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Albula goreensis OX=1534307 GN=AGOR_G00141670 PE=3 SV=1
+>tr|A0A8X8BJD2|A0A8X8BJD2_POLSE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase (Fragment) OS=Polypterus senegalus OX=55291 GN=Urad PE=3 SV=1
+>tr|A0A979E201|A0A979E201_ICTPU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Ictalurus punctatus OX=7998 GN=urad PE=3 SV=1
+>tr|A0A9D3NAM0|A0A9D3NAM0_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Hemibagrus wyckioides OX=337641 GN=KOW79_018615 PE=3 SV=1
+>tr|A0A9J7FW05|A0A9J7FW05_CRIGR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Cricetulus griseus OX=10029 GN=Urad PE=3 SV=1
+>tr|A0A9Q1DXB0|A0A9Q1DXB0_CONCO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Conger conger OX=82655 GN=COCON_G00023750 PE=3 SV=1
+>tr|A0A9Q1G4K8|A0A9Q1G4K8_SYNKA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Synaphobranchus kaupii OX=118154 GN=SKAU_G00059930 PE=3 SV=1
+>tr|A0A9W7T674|A0A9W7T674_TRIRA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Triplophysa rosa OX=992332 GN=IRJ41_008790 PE=3 SV=1
+>tr|A0AA47MMB9|A0AA47MMB9_MERPO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Merluccius polli OX=89951 GN=urad_0 PE=3 SV=1
+>tr|A0AA47NM47|A0AA47NM47_MERPO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Merluccius polli OX=89951 GN=urad_1 PE=3 SV=1
+>tr|A0AA88LG82|A0AA88LG82_TACVA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Tachysurus vachellii OX=175792 GN=Q7C36_023153 PE=3 SV=1
+>tr|A0AA88NH29|A0AA88NH29_CHASR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Channa striata OX=64152 GN=Q5P01_004094 PE=3 SV=1
+>tr|A0AA88TA27|A0AA88TA27_CHASR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Channa striata OX=64152 GN=Q5P01_004092 PE=3 SV=1
+>tr|A0AA88TBT7|A0AA88TBT7_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Cirrhinus molitorella OX=172907 GN=Q8A67_024470 PE=3 SV=1
+>tr|A0AAD3R3N5|A0AAD3R3N5_LATJO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Lates japonicus OX=270547 GN=AKAME5_000734200 PE=3 SV=1
+>tr|A0AAD6F8G3|A0AAD6F8G3_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Pogonophryne albipinna OX=1090488 GN=JOQ06_018051 PE=3 SV=1
+>tr|A0AAD6F9A1|A0AAD6F9A1_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Pogonophryne albipinna OX=1090488 GN=JOQ06_018182 PE=3 SV=1
+>tr|A0AAD8DDV3|A0AAD8DDV3_ACIOX 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Acipenser oxyrinchus oxyrinchus OX=40147 GN=urad PE=3 SV=1
+>tr|A0AAD8G8J1|A0AAD8G8J1_ACIOX 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Acipenser oxyrinchus oxyrinchus OX=40147 GN=urad PE=3 SV=1
+>tr|A0AAE0Q796|A0AAE0Q796_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Hemibagrus guttatus OX=175788 GN=QTP70_024225 PE=3 SV=1
+>tr|A0AAN7WJU6|A0AAN7WJU6_ELEMC 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Eleginops maclovinus OX=56733 GN=PBY51_014005 PE=3 SV=1
+>tr|A0AAN8GGM7|A0AAN8GGM7_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Champsocephalus esox OX=159716 GN=CesoFtcFv8_025360 PE=3 SV=1
+>tr|A0AAN8KKF7|A0AAN8KKF7_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Coregonus suidteri OX=861788 GN=J4Q44_G00366130 PE=3 SV=1
+>tr|A0AAN9C725|A0AAN9C725_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Phoxinus phoxinus OX=58324 GN=R3I93_021991 PE=3 SV=1
+>tr|A0AAV1H9F8|A0AAV1H9F8_XYRNO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Xyrichtys novacula OX=13765 GN=XNOV1_A027455 PE=3 SV=1
+>tr|A0AAV1PN58|A0AAV1PN58_SCOSC 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Scomber scombrus OX=13677 GN=FSCOSCO3_A030302 PE=3 SV=1
+>tr|A0AAV6G0X2|A0AAV6G0X2_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Alosa alosa OX=278164 GN=AALO_G00216290 PE=3 SV=1
+>tr|A0AAV6T4I6|A0AAV6T4I6_SOLSE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Solea senegalensis OX=28829 GN=JOB18_010154 PE=3 SV=1
+>tr|A0AAV6T4W2|A0AAV6T4W2_SOLSE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Solea senegalensis OX=28829 GN=JOB18_010154 PE=3 SV=1
+>tr|A0AAW1EZ22|A0AAW1EZ22_ZOAVI 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Zoarces viviparus OX=48416 GN=VZT92_014290 PE=3 SV=1
+>tr|A0AAW1YW18|A0AAW1YW18_CULAL 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Culter alburnus OX=194366 GN=ABG768_017320 PE=3 SV=1
+>tr|A0AAX6PMH4|A0AAX6PMH4_HETGA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Heterocephalus glaber OX=10181 GN=Urad PE=3 SV=1
+>tr|A0AAY4AM98|A0AAY4AM98_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Denticeps clupeoides OX=299321 GN=urad PE=3 SV=1
+>tr|A0ABD1JGI2|A0ABD1JGI2_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Coilia grayii OX=363190 GN=ACEWY4_018526 PE=3 SV=1
+>tr|A0ABD2FFT2|A0ABD2FFT2_PAGBO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Pagothenia borchgrevinki OX=8213 GN=OYC64_011494 PE=3 SV=1
+>tr|A0ABD2FG05|A0ABD2FG05_PAGBO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Pagothenia borchgrevinki OX=8213 GN=OYC64_011494 PE=3 SV=1
+>tr|A0ABM0HWB4|A0ABM0HWB4_CERSS 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Ceratotherium simum simum OX=73337 GN=LOC101388180 PE=3 SV=1
+>tr|A0ABS2Y521|A0ABS2Y521_POLSP 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase (Fragment) OS=Polyodon spathula OX=7913 GN=Urad PE=3 SV=1
+>tr|A0ABU7B9S0|A0ABU7B9S0_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Ataeniobius toweri OX=208326 GN=ATANTOWER_028294 PE=3 SV=1
+>tr|A0ABU7EW21|A0ABU7EW21_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Characodon lateralis OX=208331 GN=CHARACLAT_023301 PE=3 SV=1
+>tr|A0ABV0TD54|A0ABV0TD54_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Ilyodon furcidens OX=33524 GN=ILYODFUR_026519 PE=3 SV=1
+>tr|A0ABV0Z500|A0ABV0Z500_9TELE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Ameca splendens OX=208324 GN=AMECASPLE_034234 PE=3 SV=1
+>tr|G0LD29|G0LD29_PLEAT 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Plecoglossus altivelis OX=61084 GN=uraD PE=2 SV=1
+>tr|G1TL17|G1TL17_RABIT 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Oryctolagus cuniculus OX=9986 GN=URAD PE=3 SV=3
+>tr|G3GWI0|G3GWI0_CRIGR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Cricetulus griseus OX=10029 GN=I79_002105 PE=3 SV=1
+>tr|I3K9H9|I3K9H9_ORENI 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Oreochromis niloticus OX=8128 GN=urad PE=3 SV=1
+>tr|Q0ZD39|Q0ZD39_POLSE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase (Fragment) OS=Polypterus senegalus OX=55291 GN=Prhoxnb PE=3 SV=1
+>tr|U6DSM9|U6DSM9_NEOVI 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase (Fragment) OS=Neovison vison OX=452646 GN=URAD PE=2 SV=1
+>tr|W5M9S0|W5M9S0_LEPOC 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Lepisosteus oculatus OX=7918 PE=3 SV=1
+>tr|W5UEC0|W5UEC0_ICTPU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Ictalurus punctatus OX=7998 GN=urad PE=2 SV=1
+>tr|A0ACB7F4M4|A0ACB7F4M4_NIBAL 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Nibea albiflora OX=240163 GN=URAD PE=4 SV=1
+>tr|A0ACB9W374|A0ACB9W374_CHAAC Uncharacterized protein OS=Chaenocephalus aceratus OX=36190 GN=KUCAC02_017822 PE=4 SV=1
+>tr|A0ACC5XKU4|A0ACC5XKU4_PANGG Uncharacterized protein OS=Pangasianodon gigas OX=30993 GN=PGIGA_G00135960 PE=4 SV=1
+>tr|A0ACC5ZD63|A0ACC5ZD63_9TELE Uncharacterized protein OS=Pangasius djambal OX=1691987 GN=PDJAM_G00134690 PE=4 SV=1
+>tr|A0A2K5R574|A0A2K5R574_CEBIM 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Cebus imitator OX=2715852 PE=3 SV=1
+>tr|A0A2K6TS65|A0A2K6TS65_SAIBB 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Saimiri boliviensis boliviensis OX=39432 PE=3 SV=1
+>tr|A0A671DXC8|A0A671DXC8_RHIFE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Rhinolophus ferrumequinum OX=59479 GN=URAD PE=3 SV=1
+>tr|A0A8C0R7P9|A0A8C0R7P9_CANLU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Canis lupus dingo OX=286419 GN=URAD PE=3 SV=1
+>tr|A0A8C6A865|A0A8C6A865_MARMA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Marmota marmota marmota OX=9994 GN=Urad PE=3 SV=1
+>tr|A0A8D2KLY9|A0A8D2KLY9_UROPR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Urocitellus parryii OX=9999 GN=Urad PE=3 SV=1
+>tr|A0A8I3PU74|A0A8I3PU74_CANLF 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Canis lupus familiaris OX=9615 GN=URAD PE=3 SV=1
+>tr|F7GNJ9|F7GNJ9_CALJA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Callithrix jacchus OX=9483 GN=URAD PE=3 SV=1
+>tr|I3N7H5|I3N7H5_ICTTR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Ictidomys tridecemlineatus OX=43179 GN=Urad PE=3 SV=2
+>tr|A0A8D2DUB0|A0A8D2DUB0_SCIVU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Sciurus vulgaris OX=55149 GN=URAD PE=3 SV=1
+>tr|A0AA41T731|A0AA41T731_SCICA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Sciurus carolinensis OX=30640 GN=SUZIE_187255 PE=3 SV=1
+>sp|A6NGE7|URAD_HUMAN Putative 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Homo sapiens OX=9606 GN=URAD PE=5 SV=2
+>tr|A0A2J8L597|A0A2J8L597_PANTR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Pan troglodytes OX=9598 GN=CK820_G0032567 PE=3 SV=1
+>tr|A0A2K5DNG8|A0A2K5DNG8_AOTNA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Aotus nancymaae OX=37293 GN=URAD PE=3 SV=1
+>tr|A0A2K5VFU0|A0A2K5VFU0_MACFA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Macaca fascicularis OX=9541 GN=URAD PE=3 SV=1
+>tr|A0A341CAI7|A0A341CAI7_NEOAA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=URAD PE=4 SV=1
+>tr|A0A485MI04|A0A485MI04_LYNPA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Lynx pardinus OX=191816 GN=LYPA_23C007891 PE=3 SV=1
+>tr|A0A5E4AMA7|A0A5E4AMA7_MARMO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Marmota monax OX=9995 GN=GHT09_015595 PE=3 SV=1
+>tr|A0A6J1ZUW9|A0A6J1ZUW9_ACIJB 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Acinonyx jubatus OX=32536 GN=URAD PE=3 SV=1
+>tr|A0A6J3J5X8|A0A6J3J5X8_SAPAP 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Sapajus apella OX=9515 GN=URAD PE=3 SV=1
+>tr|A0A7J7ELR0|A0A7J7ELR0_DICBM 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Diceros bicornis minor OX=77932 GN=HPG69_017590 PE=3 SV=1
+>tr|A0A7J8G2G9|A0A7J8G2G9_MOLMO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Molossus molossus OX=27622 GN=HJG59_019244 PE=3 SV=1
+>tr|A0A8B7BBB8|A0A8B7BBB8_ORYAF 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Orycteropus afer afer OX=1230840 GN=URAD PE=3 SV=1
+>tr|A0A8B7T935|A0A8B7T935_HIPAR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Hipposideros armiger OX=186990 GN=URAD PE=3 SV=1
+>tr|A0A8C0RPK8|A0A8C0RPK8_CANLF 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Canis lupus familiaris OX=9615 GN=URAD PE=3 SV=1
+>tr|A0A8C0T904|A0A8C0T904_CANLF 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Canis lupus familiaris OX=9615 PE=3 SV=1
+>tr|A0A8C8Y5U9|A0A8C8Y5U9_PANLE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Panthera leo OX=9689 GN=URAD PE=3 SV=1
+>tr|A0A9B0T4Q0|A0A9B0T4Q0_CHRAS 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Chrysochloris asiatica OX=185453 GN=URAD PE=3 SV=1
+>tr|A0A9V1FHI9|A0A9V1FHI9_PANPR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Panthera pardus OX=9691 GN=URAD PE=3 SV=1
+>tr|A0A9X9PT75|A0A9X9PT75_GULGU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase (Fragment) OS=Gulo gulo OX=48420 GN=BN2614_LOCUS1 PE=3 SV=1
+>tr|A0ABM4XDA4|A0ABM4XDA4_VULVU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Vulpes vulpes OX=9627 GN=URAD PE=3 SV=1
+>tr|G1QHQ1|G1QHQ1_NOMLE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Nomascus leucogenys OX=61853 GN=URAD PE=3 SV=2
+>tr|G3QRV7|G3QRV7_GORGO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Gorilla gorilla gorilla OX=9595 GN=URAD PE=3 SV=1
+>tr|H2Q7C6|H2Q7C6_PANTR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Pan troglodytes OX=9598 GN=URAD PE=3 SV=1
