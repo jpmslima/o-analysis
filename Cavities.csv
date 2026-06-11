@@ -1,0 +1,522 @@
+9 cavities found for Pan troglodytes.cif #1
+Pan troglodytes.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+1.1.1		220.54	206.36	1021	7.4	2.92
+1.1.3		53.57	64.59	248	2.55	0.6
+1.1.5		49.03	87.54	227	0	0
+1.1.4		37.37	59.33	173	0	0
+1.1.7		23.33	42.6	108	3.5	1.36
+1.1.2		20.95	29.01	97	1.7	0.42
+1.1.9		16.85	32.3	78	0	0
+1.1.6		12.31	29.54	57	0	0
+1.1.8		10.37	19.37	48	1.2	0.29
+
+5 cavities found for Pan troglodytes 2.cif #2
+Pan troglodytes 2.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+2.1.1		275.62	277.89	1276	7.32	2.16
+2.1.3		36.72	68.49	170	0	0
+2.1.5		32.62	62.2	151	0	0
+2.1.2		12.31	29.54	57	0	0
+2.1.4		6.91	13.39	32	0.85	0.27
+
+15 cavities found for Acinonyx jubatus.cif #3
+Acinonyx jubatus.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+3.1.4		195.05	208.08	903	0	0
+3.1.2		49.68	63.31	230	1.7	0.46
+3.1.10		22.9	38.32	106	2.16	0.6
+3.1.11		20.52	40.82	95	0	0
+3.1.8		19.87	36.19	92	0	0
+3.1.6		19.01	32.78	88	1.8	0.69
+3.1.13		16.85	32.3	78	0	0
+3.1.9		15.77	26.45	73	1.8	0.61
+3.1.5		12.74	24.22	59	1.7	0.54
+3.1.14		12.31	29.54	57	0	0
+3.1.15		12.31	29.54	57	0	0
+3.1.7		9.5	19.83	44	1.34	0.59
+3.1.1		8.86	14.78	41	0.6	0.2
+3.1.3		6.7	12.62	31	0.6	0.14
+3.1.12		5.18	12.83	24	0.85	0.29
+
+9 cavities found for Aotus nancymaae.cif #4
+Aotus nancymaae.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+4.1.5		200.66	205.93	929	0	0
+4.1.8		118.58	124.59	549	3.6	1.17
+4.1.1		23.54	38.46	109	2.16	0.62
+4.1.7		19.87	36.19	92	0	0
+4.1.9		19.87	36.19	92	0	0
+4.1.3		19.22	31.78	89	1.8	0.55
+4.1.4		12.31	29.54	57	0	0
+4.1.6		11.88	27.62	55	2.16	1.18
+4.1.2		5.62	14.2	26	0.85	0.31
+
+7 cavities found for callithrix_jacchus.cif #5
+callithrix_jacchus.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+5.1.2		192.67	201.58	892	0	0
+5.1.7		71.5	68.83	331	2.68	0.85
+5.1.4		34.56	49.33	160	1.34	0.35
+5.1.3		19.87	36.19	92	0	0
+5.1.6		19.87	36.19	92	0	0
+5.1.5		12.31	29.54	57	0	0
+5.1.1		11.02	16.71	51	0.85	0.19
+
+10 cavities found for canis_lupus_dingo.cif #6
+canis_lupus_dingo.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+6.1.5		206.71	209.74	957	0	0
+6.1.4		73.87	93.24	342	3	0.68
+6.1.6		42.55	58.52	197	2.16	0.51
+6.1.1		23.33	34.13	108	1.34	0.43
+6.1.8		21.38	23.21	99	1.34	0.37
+6.1.9		21.38	37.45	99	0	0
+6.1.10		19.87	36.19	92	0	0
+6.1.2		19.44	32.04	90	1.8	0.54
+6.1.3		9.72	21.04	45	1.7	0.74
+6.1.7		8.64	18.7	40	1.34	0.52
+
+9 cavities found for canis_lupus_familiaris.cif #7
+canis_lupus_familiaris.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+7.1.3		200.88	222.55	930	0	0
+7.1.1		78.62	75.5	364	3	0.94
+7.1.7		44.71	53.24	207	2.68	0.94
+7.1.9		41.26	53.68	191	2.16	0.52
+7.1.2		16.85	32.3	78	0	0
+7.1.5		12.31	29.54	57	0	0
+7.1.6		9.72	21.04	45	1.7	0.74
+7.1.8		9.5	16.66	44	1.04	0.31
+7.1.4		7.34	13.6	34	0.6	0.19
+
+9 cavities found for canis_lupus_familiaris_2.cif #8
+canis_lupus_familiaris_2.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+8.1.5		177.98	189.57	824	0	0
+8.1.3		52.49	74.22	243	2.16	0.73
+8.1.4		20.52	40.82	95	0	0
+8.1.1		19.87	36.19	92	0	0
+8.1.7		17.93	25.02	83	1.7	0.53
+8.1.8		17.93	34.66	83	1.34	0.41
+8.1.2		7.34	13.57	34	0.85	0.34
+8.1.6		6.7	13.09	31	0.6	0.15
+8.1.9		5.62	12.37	26	0.85	0.31
+
+9 cavities found for Canis lupus familiaris.cif #9
+Canis lupus familiaris.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+9.1.3		173.66	189.59	804	0	0
+9.1.8		79.92	81.66	370	2.16	0.66
+9.1.7		28.73	44.18	133	2.16	0.65
+9.1.2		27.43	43.69	127	1.2	0.32
+9.1.5		22.9	39.3	106	0	0
+9.1.9		18.79	28.08	87	2.4	0.85
+9.1.4		16.85	32.3	78	0	0
+9.1.1		12.31	29.54	57	0	0
+9.1.6		5.4	12.43	25	0.85	0.26
+
+4 cavities found for cebus_imitator.cif #10
+cebus_imitator.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+10.1.3		69.34	79.22	321	2.55	0.78
+10.1.4		21.17	39.07	98	0	0
+10.1.1		20.52	29.31	95	2.4	0.71
+10.1.2		14.69	28.82	68	1.9	0.75
+
+7 cavities found for Chrysochloris asiatica.cif #11
+Chrysochloris asiatica.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+11.1.3		176.47	188.85	817	0	0
+11.1.6		64.58	76.63	299	1.9	0.58
+11.1.2		56.81	90.69	263	2.47	0.73
+11.1.7		49.68	60.87	230	2.81	1.25
+11.1.4		16.85	32.3	78	0	0
+11.1.5		12.31	29.54	57	0	0
+11.1.1		6.7	12.8	31	1.2	0.3
+
+9 cavities found for Diceros bicornis.cif #12
+Diceros bicornis.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+12.1.3		189	197.21	875	0	0
+12.1.1		66.74	83.68	309	2.47	0.67
+12.1.4		36.29	53.8	168	1.7	0.41
+12.1.2		25.27	32.33	117	2.16	0.64
+12.1.6		22.9	41.28	106	0	0
+12.1.7		19.87	36.19	92	0	0
+12.1.9		19.87	31.06	92	1.7	0.57
+12.1.5		12.31	29.54	57	0	0
+12.1.8		6.48	12.95	30	0.6	0.16
+
+12 cavities found for Felis catus.cif #13
+Felis catus.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+13.1.8		189.22	203.08	876	0	0
+13.1.11		25.27	35.44	117	1.2	0.44
+13.1.3		23.76	44.96	110	0	0
+13.1.5		22.03	40.03	102	0	0
+13.1.12		15.34	25.81	71	1.7	0.65
+13.1.7		13.39	22.21	62	1.2	0.29
+13.1.4		12.96	19.77	60	1.2	0.33
+13.1.6		12.31	29.54	57	0	0
+13.1.10		8.86	19.12	41	1.34	0.63
+13.1.9		8.64	18.27	40	1.34	0.55
+13.1.2		6.7	11.63	31	0.6	0.14
+13.1.1		6.48	13.76	30	0.6	0.12
+
+12 cavities found for Gorilla gorilla gorilla.cif #14
+Gorilla gorilla gorilla.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+14.1.7		154.44	170.91	715	0	0
+14.1.5		48.17	55.49	223	2.4	0.67
+14.1.3		23.76	50.14	110	0	0
+14.1.11		23.76	34.54	110	2.4	0.81
+14.1.9		21.6	36.01	100	2.55	1.06
+14.1.1		19.01	38.34	88	0	0
+14.1.2		18.58	29.05	86	1.9	0.65
+14.1.6		12.31	29.54	57	0	0
+14.1.8		12.31	29.54	57	0	0
+14.1.10		8.86	15.42	41	0.85	0.38
+14.1.4		7.34	14.63	34	0.6	0.18
+14.1.12		6.7	13.25	31	0.6	0.19
+
+8 cavities found for Gulo gulo .cif #15
+Gulo gulo .cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+15.1.1		803.09	523.69	3718	9.33	2.63
+15.1.4		44.71	50.89	207	1.2	0.22
+15.1.3		27.86	38	129	2.16	0.77
+15.1.6		17.28	36.68	80	0	0
+15.1.7		11.88	27.62	55	2.16	1.18
+15.1.8		11.23	19.04	52	1.2	0.27
+15.1.5		10.37	21.91	48	0.85	0.28
+15.1.2		8.64	16.29	40	1.2	0.38
+
+7 cavities found for Hipposideros armiger.cif #16
+Hipposideros armiger.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+16.1.5		180.79	194.43	837	0	0
+16.1.7		27	38.16	125	1.99	0.72
+16.1.1		22.9	39.3	106	0	0
+16.1.3		21.82	40.63	101	0	0
+16.1.4		21.82	44.53	101	0.85	0.23
+16.1.6		21.82	39.96	101	2.47	1.08
+16.1.2		12.31	29.54	57	0	0
+
+8 cavities found for homo_sapiens.cif #17
+homo_sapiens.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+17.1.2		170.64	189.01	790	0	0
+17.1.6		67.18	82.56	311	1.9	0.57
+17.1.7		49.03	62.48	227	1.34	0.41
+17.1.3		37.15	61.95	172	0	0
+17.1.8		17.28	36.68	80	0	0
+17.1.5		16.85	32.3	78	0	0
+17.1.4		12.31	29.54	57	0	0
+17.1.1		7.13	13.64	33	0.6	0.22
+
+7 cavities found for ictidomys_tridecemlineatus.cif #18
+ictidomys_tridecemlineatus.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+18.1.4		182.09	204.03	843	0	0
+18.1.2		45.79	59.11	212	1.8	0.48
+18.1.3		23.11	42.35	107	0	0
+18.1.1		22.46	35.7	104	0	0
+18.1.5		19.01	28.69	88	1.2	0.31
+18.1.7		17.93	28.62	83	1.9	0.57
+18.1.6		13.82	26.9	64	0.85	0.21
+
+10 cavities found for Lynx pardinus.cif #19
+Lynx pardinus.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+19.1.5		160.7	172.75	744	0	0
+19.1.6		25.92	42.65	120	1.34	0.38
+19.1.10		20.3	32.96	94	1.8	0.52
+19.1.2		19.01	38.34	88	0	0
+19.1.7		12.31	29.54	57	0	0
+19.1.8		12.31	29.54	57	0	0
+19.1.9		8.42	17.7	39	1.2	0.42
+19.1.1		6.91	11.65	32	0.85	0.29
+19.1.4		6.05	14.68	28	0.85	0.39
+19.1.3		5.83	10.48	27	0.6	0.18
+
+8 cavities found for Macaca fascicularis.cif #20
+Macaca fascicularis.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+20.1.3		173.45	198.2	803	0	0
+20.1.8		52.7	67.88	244	1.9	0.58
+20.1.7		22.9	39.3	106	0	0
+20.1.6		12.31	29.54	57	0	0
+20.1.2		8.86	20.26	41	0.85	0.41
+20.1.4		7.78	18.22	36	1.04	0.54
+20.1.5		6.48	14.07	30	0.6	0.18
+20.1.1		5.62	13.26	26	0.6	0.12
+
+6 cavities found for Macaca nemestrina .cif #21
+Macaca nemestrina .cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+21.1.4		161.57	171.5	748	0	0
+21.1.1		86.4	92.02	400	2.4	0.62
+21.1.6		19.44	33.82	90	1.8	0.58
+21.1.5		19.01	38.34	88	0	0
+21.1.3		17.93	30.55	83	1.2	0.34
+21.1.2		16.85	32.3	78	0	0
+
+6 cavities found for marmota_marmota_marmota.cif #22
+marmota_marmota_marmota.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+22.1.4		169.99	181.13	787	0	0
+22.1.1		72.79	78.12	337	2.24	0.65
+22.1.3		46.01	58.24	213	1.9	0.52
+22.1.2		17.28	36.68	80	0	0
+22.1.5		12.31	29.54	57	0	0
+22.1.6		9.72	18.09	45	1.04	0.4
+
+8 cavities found for Marmota monax.cif #23
+Marmota monax.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+23.1.4		187.49	196.46	868	0	0
+23.1.1		57.24	72.34	265	2.4	0.62
+23.1.2		32.4	45.05	150	2.55	0.78
+23.1.3		31.32	44.02	145	1.8	0.48
+23.1.6		16.85	32.3	78	0	0
+23.1.5		12.31	29.54	57	0	0
+23.1.7		12.31	29.54	57	0	0
+23.1.8		5.62	11.65	26	0.6	0.14
+
+7 cavities found for Molossus molossus.cif #24
+Molossus molossus.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+24.1.2		160.7	187.97	744	0	0
+24.1.1		49.46	62.47	229	3.23	1.35
+24.1.7		40.39	53.87	187	3.06	0.95
+24.1.5		39.31	43.09	182	2.4	0.79
+24.1.4		22.46	32.27	104	1.9	0.53
+24.1.3		16.85	32.3	78	0	0
+24.1.6		7.78	13.72	36	1.04	0.49
+
+10 cavities found for Neophocaena asiaeorientalis asiaeorientalis.cif #25
+Neophocaena asiaeorientalis asiaeorientalis.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+25.1.6		650.16	565.51	3010	16.2	6.87
+25.1.10		52.49	70.9	243	0	0
+25.1.9		47.74	57.39	221	2.47	0.79
+25.1.5		35.21	52.88	163	0	0
+25.1.3		28.3	40.59	131	2.47	1.11
+25.1.2		23.98	36.11	111	1.7	0.64
+25.1.4		21.6	31.17	100	1.8	0.61
+25.1.1		17.28	36.68	80	0	0
+25.1.7		12.31	29.54	57	0	0
+25.1.8		10.37	19.4	48	1.2	0.34
+
+5 cavities found for Nomascus leucogenys.cif #26
+Nomascus leucogenys.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+26.1.3		155.3	180.27	719	0	0
+26.1.5		18.58	24.89	86	1.34	0.38
+26.1.4		17.28	36.68	80	0	0
+26.1.1		12.31	29.54	57	0	0
+26.1.2		5.18	13.19	24	0.6	0.12
+
+11 cavities found for Orycteropus afer afer.cif #27
+Orycteropus afer afer.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+27.1.2		189	195.57	875	0	0
+27.1.3		57.24	80.17	265	5.47	2.69
+27.1.6		49.03	62.86	227	1.47	0.49
+27.1.1		22.25	35.57	103	1.34	0.33
+27.1.11		19.87	36.19	92	0	0
+27.1.10		16.85	32.42	78	1.34	0.28
+27.1.4		12.31	29.54	57	0	0
+27.1.5		12.31	29.54	57	0	0
+27.1.7		12.31	29.54	57	0	0
+27.1.9		12.31	29.54	57	0	0
+27.1.8		9.72	18.16	45	1.34	0.48
+
+10 cavities found for Panthera leo.cif #28
+Panthera leo.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+28.1.5		196.99	202.14	912	0	0
+28.1.4		72.58	95.94	336	3.55	0.9
+28.1.1		55.3	66.29	256	3.6	1.38
+28.1.7		33.05	46.03	153	1.7	0.48
+28.1.10		21.38	37.45	99	0	0
+28.1.8		16.85	32.3	78	0	0
+28.1.6		12.31	29.54	57	0	0
+28.1.9		6.91	16.05	32	1.2	0.41
+28.1.3		6.05	13.01	28	0.85	0.2
+28.1.2		5.18	12.85	24	0.85	0.38
+
+14 cavities found for Panthera pardus.cif #29
+Panthera pardus.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+29.1.6		178.63	196.07	827	0	0
+29.1.12		27.22	38.63	126	2.16	0.75
+29.1.13		23.98	35.08	111	1.7	0.52
+29.1.2		19.87	36.19	92	0	0
+29.1.3		16.85	32.3	78	0	0
+29.1.4		13.18	24.58	61	0.85	0.32
+29.1.11		12.31	29.54	57	0	0
+29.1.7		12.1	28.58	56	2.16	1.25
+29.1.9		11.23	20.75	52	1.34	0.42
+29.1.10		11.23	20.75	52	1.34	0.37
+29.1.5		10.15	15.42	47	0.6	0.14
+29.1.8		10.15	23.21	47	1.34	0.55
+29.1.14		7.56	14.93	35	0.6	0.14
+29.1.1		7.34	12.86	34	0.6	0.16
+
+11 cavities found for rhinolophus_ferrumequinum.cif #30
+rhinolophus_ferrumequinum.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+30.1.6		183.17	194.83	848	0	0
+30.1.10		38.23	51.73	177	1.8	0.51
+30.1.9		22.9	39.3	106	0	0
+30.1.1		19.01	32.77	88	1.47	0.62
+30.1.3		19.01	38.34	88	0	0
+30.1.2		13.18	22.29	61	1.34	0.48
+30.1.8		12.31	29.54	57	0	0
+30.1.11		12.31	29.54	57	0	0
+30.1.7		11.02	20.42	51	1.34	0.38
+30.1.5		10.15	22.92	47	0.6	0.15
+30.1.4		8.64	18.16	40	1.34	0.52
+
+4 cavities found for saimiri_boliviensis_boliviensis.cif #31
+saimiri_boliviensis_boliviensis.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+31.1.1		19.87	36.19	92	0	0
+31.1.2		19.01	45.38	88	3.55	1.58
+31.1.4		9.07	20.28	42	0.6	0.16
+31.1.3		5.62	10.05	26	0.6	0.07
+
+7 cavities found for Sapajus apella.cif #32
+Sapajus apella.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+32.1.3		210.38	227.33	974	0	0
+32.1.5		79.06	87.08	366	2.16	0.63
+32.1.1		55.94	62.2	259	2.62	0.95
+32.1.2		21.82	30.3	101	1.7	0.41
+32.1.7		19.87	36.19	92	0	0
+32.1.6		12.31	29.54	57	0	0
+32.1.4		10.58	23.85	49	1.7	0.8
+
+10 cavities found for sciurus_carolinensis.cif #33
+sciurus_carolinensis.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+33.1.6		192.02	206.77	889	0	0
+33.1.8		47.52	61.7	220	1.34	0.39
+33.1.5		19.87	34.05	92	2.16	0.93
+33.1.9		19.87	36.19	92	0	0
+33.1.10		19.87	36.19	92	0	0
+33.1.1		18.58	33.47	86	1.47	0.58
+33.1.2		15.34	26.81	71	1.7	0.64
+33.1.4		12.31	29.54	57	0	0
+33.1.3		6.48	13.42	30	0.6	0.08
+33.1.7		6.26	15.67	29	0.6	0.12
+
+9 cavities found for sciurus_vulgaris.cif #34
+sciurus_vulgaris.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+34.1.5		176.9	186.92	819	0	0
+34.1.9		30.02	43.69	139	2.16	0.82
+34.1.3		25.7	37.94	119	1.7	0.37
+34.1.1		19.87	36.19	92	0	0
+34.1.6		16.85	32.3	78	0	0
+34.1.7		11.45	19.21	53	1.2	0.37
+34.1.4		10.58	14.43	49	1.2	0.17
+34.1.8		6.91	16.05	32	1.2	0.41
+34.1.2		5.62	14.27	26	0.85	0.3
+
+8 cavities found for urocitellus_parryii.cif #35
+urocitellus_parryii.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+35.1.1		181.22	194.03	839	0	0
+35.1.3		47.52	58.68	220	1.8	0.46
+35.1.4		19.87	36.19	92	0	0
+35.1.8		18.58	27.19	86	1.2	0.32
+35.1.2		18.14	28.9	84	1.9	0.57
+35.1.5		16.85	32.3	78	0	0
+35.1.7		10.37	19.11	48	0.85	0.16
+35.1.6		5.62	12.41	26	0.6	0.12
+
+7 cavities found for Vulpes vulpes.cif #36
+Vulpes vulpes.cif Cavities
+ID		Volume	Area	Points	Maximum
+Depth	Average
+Depth
+36.1.4		198.94	210.92	921	0	0
+36.1.7		56.81	74.55	263	1.8	0.51
+36.1.3		47.52	62.56	220	1.47	0.44
+36.1.1		19.87	36.19	92	0	0
+36.1.2		12.31	29.54	57	0	0
+36.1.5		12.31	29.54	57	0	0
+36.1.6		12.31	29.54	57	0	0

@@ -1,0 +1,1267 @@
+RID: 2NTCCG04014	
+Job Title:37 sequences (tr|A0A2K5R574|A0A2K5R574_CEBIM...				
+Program: TBLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: tr|A0A2K5R574|A0A2K5R574_CEBIM 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Cebus imitator OX=2715852 PE=3 SV=1 Query ID: lcl|Query_4298385 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Cebus imitator ureidoimidazoline...                    Cebus imitator  Panamanian w... 2715852    348    348   100%  5e-118 100.00 1035       XM_017537498.2   
+
+
+Alignments:
+
+>PREDICTED: Cebus imitator ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), transcript variant X1, mRNA
+Sequence ID: XM_017537498.2 Length: 1035
+Range 1: 119 to 637
+
+Score:348 bits(893), Expect:5e-118, 
+Method:Compositional matrix adjust., 
+Identities:173/173(100%), Positives:173/173(100%), Gaps:0/173(0%)
+
+Query  1    MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFLDLEDLQKHFFAFIDALPQSGQ  60
+            MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFLDLEDLQKHFFAFIDALPQSGQ
+Sbjct  119  MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFLDLEDLQKHFFAFIDALPQSGQ  298
+
+Query  61   EGILRCHPDLAGRDLQQGTLTAESQREHSGAGLTSLGPDEQLRLAELNAQYRARFGFPFI  120
+            EGILRCHPDLAGRDLQQGTLTAESQREHSGAGLTSLGPDEQLRLAELNAQYRARFGFPFI
+Sbjct  299  EGILRCHPDLAGRDLQQGTLTAESQREHSGAGLTSLGPDEQLRLAELNAQYRARFGFPFI  478
+
+Query  121  LAARLSDRAAVPRELARRLLCPPAQELRTALGEVKKISGLRLADLLCADPAKL  173
+            LAARLSDRAAVPRELARRLLCPPAQELRTALGEVKKISGLRLADLLCADPAKL
+Sbjct  479  LAARLSDRAAVPRELARRLLCPPAQELRTALGEVKKISGLRLADLLCADPAKL  637
+
+
+
+
+
+Query #2: tr|A0A2K6TS65|A0A2K6TS65_SAIBB 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Saimiri boliviensis boliviensis OX=39432 PE=3 SV=1 Query ID: lcl|Query_4298386 Length: 171
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Saimiri boliviensis ureidoimidazoline...               Saimiri boli... Bolivian squ... 27679      337    337   100%  1e-113 98.27  1069       XM_003919720.4   
+
+
+Alignments:
+
+>PREDICTED: Saimiri boliviensis ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_003919720.4 Length: 1069
+Range 1: 149 to 667
+
+Score:337 bits(865), Expect:1e-113, 
+Method:Compositional matrix adjust., 
+Identities:170/173(98%), Positives:170/173(98%), Gaps:2/173(1%)
+
+Query  1    MDIEKVNSMDFGEFVDVFGNVVEKCPLIAAAVWSQRPFLDLEDLQKHFFAFIDALPQSGQ  60
+            MDIEKVNSMDFGEFVDVFGNVVEKCPLIAAAVWSQRPFLDLEDLQKHFFAFIDALPQSGQ
+Sbjct  149  MDIEKVNSMDFGEFVDVFGNVVEKCPLIAAAVWSQRPFLDLEDLQKHFFAFIDALPQSGQ  328
+
+Query  61   EGILRCHPDLAGRDLQQGTLTAESQREHR--GLTSLGADELLRLAELNAQYRARFGFPFI  118
+            EGILRCHPDLAGRDLQQGTLTAESQREH   GLTSLGADELLRLAELNAQYRARFGFPFI
+Sbjct  329  EGILRCHPDLAGRDLQQGTLTAESQREHSGAGLTSLGADELLRLAELNAQYRARFGFPFI  508
+
+Query  119  LAARLSDRAAVPRELARRLLCPPAQELRTALGEVKKISGLRLADLLCANPAKL  171
+            LAARLSDRAAVPRELARRLLCPPAQELRTALGEVKKISGLRLADLLCANPAKL
+Sbjct  509  LAARLSDRAAVPRELARRLLCPPAQELRTALGEVKKISGLRLADLLCANPAKL  667
+
+
+
+
+
+Query #3: tr|A0A671DXC8|A0A671DXC8_RHIFE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Rhinolophus ferrumequinum OX=59479 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298387 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Rhinolophus ferrumequinum ureidoimidazoline...         Rhinolophus ... greater hors... 59479      347    347   100%  1e-115 100.00 1506       XM_033103891.1   
+
+
+Alignments:
+
+>PREDICTED: Rhinolophus ferrumequinum ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_033103891.1 Length: 1506
+Range 1: 58 to 576
+
+Score:347 bits(891), Expect:1e-115, 
+Method:Compositional matrix adjust., 
+Identities:173/173(100%), Positives:173/173(100%), Gaps:0/173(0%)
+
+Query  1    MDIEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFSDLQDLKQHFYAFIDALPQSGQ  60
+            MDIEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFSDLQDLKQHFYAFIDALPQSGQ
+Sbjct  58   MDIEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFSDLQDLKQHFYAFIDALPQSGQ  237
+
+Query  61   EGILRCHPDLAGRELQLGTLTAESQREQSGAGLTSLGADERLRLAELNAQYRARFGFPFV  120
+            EGILRCHPDLAGRELQLGTLTAESQREQSGAGLTSLGADERLRLAELNAQYRARFGFPFV
+Sbjct  238  EGILRCHPDLAGRELQLGTLTAESQREQSGAGLTSLGADERLRLAELNAQYRARFGFPFV  417
+
+Query  121  LAARLSDRAAVPRELARRLHCPRAQELRTALGEVKKIARLRLADLLGIDPARL  173
+            LAARLSDRAAVPRELARRLHCPRAQELRTALGEVKKIARLRLADLLGIDPARL
+Sbjct  418  LAARLSDRAAVPRELARRLHCPRAQELRTALGEVKKIARLRLADLLGIDPARL  576
+
+
+
+
+
+Query #4: tr|A0A8C0R7P9|A0A8C0R7P9_CANLU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Canis lupus dingo OX=286419 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298388 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Canis lupus dingo ureidoimidazoline...                 Canis lupus ... dingo           286419     347    347   100%  1e-115 100.00 1477       XM_025462631.3   
+
+
+Alignments:
+
+>PREDICTED: Canis lupus dingo ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_025462631.3 Length: 1477
+Range 1: 88 to 606
+
+Score:347 bits(890), Expect:1e-115, 
+Method:Compositional matrix adjust., 
+Identities:173/173(100%), Positives:173/173(100%), Gaps:0/173(0%)
+
+Query  1    MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFDFIDALPQSGR  60
+            MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFDFIDALPQSGR
+Sbjct  88   MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFDFIDALPQSGR  267
+
+Query  61   EGILRCHPDLAGRELQQGTLSAESRREQSGAGLASLDADERLRLAELNAQYRARFGFPFV  120
+            EGILRCHPDLAGRELQQGTLSAESRREQSGAGLASLDADERLRLAELNAQYRARFGFPFV
+Sbjct  268  EGILRCHPDLAGRELQQGTLSAESRREQSGAGLASLDADERLRLAELNAQYRARFGFPFV  447
+
+Query  121  LAARRSHRAAVPRELARRLRCPPAQELRTALAEVKKIGHLRLADLLGTPPARL  173
+            LAARRSHRAAVPRELARRLRCPPAQELRTALAEVKKIGHLRLADLLGTPPARL
+Sbjct  448  LAARRSHRAAVPRELARRLRCPPAQELRTALAEVKKIGHLRLADLLGTPPARL  606
+
+
+
+
+
+Query #5: tr|A0A8C6A865|A0A8C6A865_MARMA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Marmota marmota marmota OX=9994 GN=Urad PE=3 SV=1 Query ID: lcl|Query_4298389 Length: 176
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Marmota monax ureidoimidazoline...                     Marmota monax   woodchuck       9995       352    352   100%  8e-120 99.44  1011       XM_046454329.1   
+
+
+Alignments:
+
+>PREDICTED: Marmota monax ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (Urad), mRNA
+Sequence ID: XM_046454329.1 Length: 1011
+Range 1: 107 to 637
+
+Score:352 bits(904), Expect:8e-120, 
+Method:Compositional matrix adjust., 
+Identities:176/177(99%), Positives:176/177(99%), Gaps:1/177(0%)
+
+Query  1    MNMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFFDLEDLEKHFFAFIDALPQSGQ  60
+            MNMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFFDLEDLEKHFFAFIDALPQSGQ
+Sbjct  107  MNMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFFDLEDLEKHFFAFIDALPQSGQ  286
+
+Query  61   EGILRCHPDLAGREQQRGTLTAESQREQSSAGLTSLSAEERQQLEKLNAQYRARFGFPFV  120
+            EGILRCHPDLAGREQQRGTLTAESQREQSSAGLTSLSAEERQQLEKLNAQYRARFGFPFV
+Sbjct  287  EGILRCHPDLAGREQQRGTLTAESQREQSSAGLTSLSAEERQQLEKLNAQYRARFGFPFV  466
+
+Query  121  LAARLSDRAAVPRELERRLHCQPAQELRTALGEVKKIGHLRLVDLLGADSSRL-KLR  176
+            LAARLSDRAAVPRELERRLHCQPAQELRTALGEVKKIGHLRLVDLLGADSSRL KLR
+Sbjct  467  LAARLSDRAAVPRELERRLHCQPAQELRTALGEVKKIGHLRLVDLLGADSSRL*KLR  637
+
+
+
+
+
+Query #6: tr|A0A8D2KLY9|A0A8D2KLY9_UROPR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Urocitellus parryii OX=9999 GN=Urad PE=3 SV=1 Query ID: lcl|Query_4298390 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Urocitellus parryii ureidoimidazoline...               Urocitellus ... Arctic groun... 9999       352    352   100%  6e-122 100.00 522        XM_026388354.2   
+
+
+Alignments:
+
+>PREDICTED: Urocitellus parryii ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (Urad), mRNA
+Sequence ID: XM_026388354.2 Length: 522
+Range 1: 1 to 519
+
+Score:352 bits(902), Expect:6e-122, 
+Method:Compositional matrix adjust., 
+Identities:173/173(100%), Positives:173/173(100%), Gaps:0/173(0%)
+
+Query  1    MNMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFFDLEDLEKHFFAFIDALPQSGQ  60
+            MNMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFFDLEDLEKHFFAFIDALPQSGQ
+Sbjct  1    MNMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFFDLEDLEKHFFAFIDALPQSGQ  180
+
+Query  61   EGILRCHPDLAGREQQRGTLTAESQREQSGAGLTSLSAEERQQLEKLNAQYRARFGFPFV  120
+            EGILRCHPDLAGREQQRGTLTAESQREQSGAGLTSLSAEERQQLEKLNAQYRARFGFPFV
+Sbjct  181  EGILRCHPDLAGREQQRGTLTAESQREQSGAGLTSLSAEERQQLEKLNAQYRARFGFPFV  360
+
+Query  121  LAARLSDRAAVPRELERRLHCQPAQELRTALGEVKKIGHLRLVDLLGADSSRL  173
+            LAARLSDRAAVPRELERRLHCQPAQELRTALGEVKKIGHLRLVDLLGADSSRL
+Sbjct  361  LAARLSDRAAVPRELERRLHCQPAQELRTALGEVKKIGHLRLVDLLGADSSRL  519
+
+
+
+
+
+Query #7: tr|A0A8I3PU74|A0A8I3PU74_CANLF 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Canis lupus familiaris OX=9615 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298391 Length: 176
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Canis lupus familiaris ureidoimidazoline...            Canis lupus ... dog             9615       353    353   100%  4e-118 100.00 1469       XM_543153.7      
+
+
+Alignments:
+
+>PREDICTED: Canis lupus familiaris ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_543153.7 Length: 1469
+Range 1: 80 to 607
+
+Score:353 bits(907), Expect:4e-118, 
+Method:Compositional matrix adjust., 
+Identities:176/176(100%), Positives:176/176(100%), Gaps:0/176(0%)
+
+Query  1    MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFDFIDALPQ  60
+            MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFDFIDALPQ
+Sbjct  80   MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFDFIDALPQ  259
+
+Query  61   SGREGILRCHPDLAGRELQQGTLSAESRREQSGAGLTSLDADERLRLAELNAQYRARFGF  120
+            SGREGILRCHPDLAGRELQQGTLSAESRREQSGAGLTSLDADERLRLAELNAQYRARFGF
+Sbjct  260  SGREGILRCHPDLAGRELQQGTLSAESRREQSGAGLTSLDADERLRLAELNAQYRARFGF  439
+
+Query  121  PFVLAARRSHRAAVPRELARRLRCPPAQELRTALAEVKKIGHLRLADLLGAPPARL  176
+            PFVLAARRSHRAAVPRELARRLRCPPAQELRTALAEVKKIGHLRLADLLGAPPARL
+Sbjct  440  PFVLAARRSHRAAVPRELARRLRCPPAQELRTALAEVKKIGHLRLADLLGAPPARL  607
+
+
+
+
+
+Query #8: tr|A0A8P0SWD8|A0A8P0SWD8_CANLF 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Canis lupus familiaris OX=9615 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298392 Length: 176
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Canis lupus familiaris ureidoimidazoline...            Canis lupus ... dog             9615       353    353   100%  4e-118 100.00 1469       XM_543153.7      
+
+
+Alignments:
+
+>PREDICTED: Canis lupus familiaris ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_543153.7 Length: 1469
+Range 1: 80 to 607
+
+Score:353 bits(907), Expect:4e-118, 
+Method:Compositional matrix adjust., 
+Identities:176/176(100%), Positives:176/176(100%), Gaps:0/176(0%)
+
+Query  1    MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFDFIDALPQ  60
+            MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFDFIDALPQ
+Sbjct  80   MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFDFIDALPQ  259
+
+Query  61   SGREGILRCHPDLAGRELQQGTLSAESRREQSGAGLTSLDADERLRLAELNAQYRARFGF  120
+            SGREGILRCHPDLAGRELQQGTLSAESRREQSGAGLTSLDADERLRLAELNAQYRARFGF
+Sbjct  260  SGREGILRCHPDLAGRELQQGTLSAESRREQSGAGLTSLDADERLRLAELNAQYRARFGF  439
+
+Query  121  PFVLAARRSHRAAVPRELARRLRCPPAQELRTALAEVKKIGHLRLADLLGAPPARL  176
+            PFVLAARRSHRAAVPRELARRLRCPPAQELRTALAEVKKIGHLRLADLLGAPPARL
+Sbjct  440  PFVLAARRSHRAAVPRELARRLRCPPAQELRTALAEVKKIGHLRLADLLGAPPARL  607
+
+
+
+
+
+Query #9: tr|F7GNJ9|F7GNJ9_CALJA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Callithrix jacchus OX=9483 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298393 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Callithrix jacchus ureidoimidazoline...                Callithrix j... white-tufted... 9483       347    347   100%  4e-119 100.00 715        XM_002748915.6   
+
+
+Alignments:
+
+>PREDICTED: Callithrix jacchus ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), transcript variant X1, mRNA
+Sequence ID: XM_002748915.6 Length: 715
+Range 1: 60 to 578
+
+Score:347 bits(890), Expect:4e-119, 
+Method:Compositional matrix adjust., 
+Identities:173/173(100%), Positives:173/173(100%), Gaps:0/173(0%)
+
+Query  1    MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFLDLEDLQKHFFAVIDALPQSGQ  60
+            MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFLDLEDLQKHFFAVIDALPQSGQ
+Sbjct  60   MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFLDLEDLQKHFFAVIDALPQSGQ  239
+
+Query  61   EGILRCHPDLAGRELQQGTLTAESQREQSGAGLTCLGADERLRLAELNAQYRARFGFPFI  120
+            EGILRCHPDLAGRELQQGTLTAESQREQSGAGLTCLGADERLRLAELNAQYRARFGFPFI
+Sbjct  240  EGILRCHPDLAGRELQQGTLTAESQREQSGAGLTCLGADERLRLAELNAQYRARFGFPFI  419
+
+Query  121  LAARLSDPAAMQRELARRLLCPPAQELRTALGEVKKIGGLRLADLLCADPAKL  173
+            LAARLSDPAAMQRELARRLLCPPAQELRTALGEVKKIGGLRLADLLCADPAKL
+Sbjct  420  LAARLSDPAAMQRELARRLLCPPAQELRTALGEVKKIGGLRLADLLCADPAKL  578
+
+
+
+
+
+Query #10: tr|I3N7H5|I3N7H5_ICTTR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Ictidomys tridecemlineatus OX=43179 GN=Urad PE=3 SV=2 Query ID: lcl|Query_4298394 Length: 176
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Ictidomys tridecemlineatus ureidoimidazoline...        Ictidomys tr... thirteen-lin... 43179      352    352   100%  1e-119 99.44  1006       XM_005317058.3   
+
+
+Alignments:
+
+>PREDICTED: Ictidomys tridecemlineatus ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (Urad), mRNA
+Sequence ID: XM_005317058.3 Length: 1006
+Range 1: 108 to 638
+
+Score:352 bits(903), Expect:1e-119, 
+Method:Compositional matrix adjust., 
+Identities:176/177(99%), Positives:176/177(99%), Gaps:1/177(0%)
+
+Query  1    MNMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFFDLEDLEKHFFAFIDALPQSGQ  60
+            MNMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFFDLEDLEKHFFAFIDALPQSGQ
+Sbjct  108  MNMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFFDLEDLEKHFFAFIDALPQSGQ  287
+
+Query  61   EGILRCHPDLAGREQQRGTLTAESQREQSGAGLTSLSAEERQQLEKLNAQYRARFGFPFV  120
+            EGILRCHPDLAGREQQRGTLTAESQREQSGAGLTSLSAEERQQLEKLNAQYRARFGFPFV
+Sbjct  288  EGILRCHPDLAGREQQRGTLTAESQREQSGAGLTSLSAEERQQLEKLNAQYRARFGFPFV  467
+
+Query  121  LAARLSDRAAVPRELERRLHCQPAQELRTALGEVKKIGHLRLVDLLGADSSRL-KLR  176
+            LAARLSDRAAVPRELERRLHCQPAQELRTALGEVKKIGHLRLVDLLGADSSRL KLR
+Sbjct  468  LAARLSDRAAVPRELERRLHCQPAQELRTALGEVKKIGHLRLVDLLGADSSRL*KLR  638
+
+
+
+
+
+Query #11: tr|A0A8D2DUB0|A0A8D2DUB0_SCIVU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Sciurus vulgaris OX=55149 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298395 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Sciurus vulgaris putative...                                      Sciurus vulg... Eurasian red... 55149      325    325   92%   2e-105 100.00 1802       XM_079138989.1   
+
+
+Alignments:
+
+>Sciurus vulgaris putative 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase (URAD), transcript variant 4, mRNA
+Sequence ID: XM_079138989.1 Length: 1802
+Range 1: 122 to 598
+
+Score:325 bits(832), Expect:2e-105, 
+Method:Compositional matrix adjust., 
+Identities:159/159(100%), Positives:159/159(100%), Gaps:0/159(0%)
+
+Query  1    MNMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLEKHFFAFIDALPQSGQ  60
+            MNMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLEKHFFAFIDALPQSGQ
+Sbjct  122  MNMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLEKHFFAFIDALPQSGQ  301
+
+Query  61   EGILRCHPDLAGREQQRGTLSAESQREQSGAGLTSLGADERQQLAKLNAQYRARFGFPFV  120
+            EGILRCHPDLAGREQQRGTLSAESQREQSGAGLTSLGADERQQLAKLNAQYRARFGFPFV
+Sbjct  302  EGILRCHPDLAGREQQRGTLSAESQREQSGAGLTSLGADERQQLAKLNAQYRARFGFPFV  481
+
+Query  121  LAARLSDRAAVPGELERRLHSQPAQELRTALGEVKKIGH  159
+            LAARLSDRAAVPGELERRLHSQPAQELRTALGEVKKIGH
+Sbjct  482  LAARLSDRAAVPGELERRLHSQPAQELRTALGEVKKIGH  598
+
+
+
+
+
+Query #12: tr|A0AA41T731|A0AA41T731_SCICA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Sciurus carolinensis OX=30640 GN=SUZIE_187255 PE=3 SV=1 Query ID: lcl|Query_4298396 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Sciurus carolinensis ureidoimidazoline...              Sciurus caro... gray squirrel   30640      324    324   92%   1e-108 100.00 1007       XM_047554574.1   
+
+
+Alignments:
+
+>PREDICTED: Sciurus carolinensis ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (Urad), transcript variant X2, mRNA
+Sequence ID: XM_047554574.1 Length: 1007
+Range 1: 107 to 583
+
+Score:324 bits(830), Expect:1e-108, 
+Method:Compositional matrix adjust., 
+Identities:159/159(100%), Positives:159/159(100%), Gaps:0/159(0%)
+
+Query  1    MNIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLEKHFFAFIDALPQSGQ  60
+            MNIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLEKHFFAFIDALPQSGQ
+Sbjct  107  MNIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLEKHFFAFIDALPQSGQ  286
+
+Query  61   EGILRCHPDLAGREQQRGTLSAESQREQSGAGLTSLGADERQQLAKLNAQYRARFGFPFV  120
+            EGILRCHPDLAGREQQRGTLSAESQREQSGAGLTSLGADERQQLAKLNAQYRARFGFPFV
+Sbjct  287  EGILRCHPDLAGREQQRGTLSAESQREQSGAGLTSLGADERQQLAKLNAQYRARFGFPFV  466
+
+Query  121  LAARLSDRAAVPGELERRLHSQPAQELRTALGEVKKIGH  159
+            LAARLSDRAAVPGELERRLHSQPAQELRTALGEVKKIGH
+Sbjct  467  LAARLSDRAAVPGELERRLHSQPAQELRTALGEVKKIGH  583
+
+
+
+
+
+Query #13: sp|A6NGE7|URAD_HUMAN Putative 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Homo sapiens OX=9606 GN=URAD PE=5 SV=2 Query ID: lcl|Query_4298397 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Homo sapiens ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-)...  Homo sapiens    human           9606       325    325   100%  4e-109 94.22  967        NM_001105577.2   
+
+
+Alignments:
+
+>Homo sapiens ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), transcript variant 1, mRNA
+Sequence ID: NM_001105577.2 Length: 967
+Range 1: 57 to 575
+
+Score:325 bits(832), Expect:4e-109, 
+Method:Compositional matrix adjust., 
+Identities:173/173(100%), Positives:173/173(100%), Gaps:0/173(0%)
+
+Query  1    MDIEKVNSMDLGEFVDVFGNATERCPLIAAAVWSQRPFSDLEDLEKHFFAFIDALAQSGQ  60
+            MDIEKVNSMDLGEFVDVFGNATERCPLIAAAVWSQRPFSDLEDLEKHFFAFIDALAQSGQ
+Sbjct  57   MDIEKVNSMDLGEFVDVFGNATERCPLIAAAVWSQRPFSDLEDLEKHFFAFIDALAQSGQ  236
+
+Query  61   EGILRCHPDLAGSELQRGTLTAESQREQSGAGLRSLGADERLRLAELNAQYRARFGFPFV  120
+            EGILRCHPDLAGSELQRGTLTAESQREQSGAGLRSLGADERLRLAELNAQYRARFGFPFV
+Sbjct  237  EGILRCHPDLAGSELQRGTLTAESQREQSGAGLRSLGADERLRLAELNAQYRARFGFPFV  416
+
+Query  121  LAARFSDRTAVPRELARRLLCPSAQELRTALGEVKKIGSlrladllradPAKL  173
+            LAARFSDRTAVPRELARRLLCPSAQELRTALGEVKKIGSLRLADLLRADPAKL
+Sbjct  417  LAARFSDRTAVPRELARRLLCPSAQELRTALGEVKKIGSLRLADLLRADPAKL  575
+
+
+
+
+
+Query #14: tr|A0A2J8L597|A0A2J8L597_PANTR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Pan troglodytes OX=9598 GN=CK820_G0032567 PE=3 SV=1 Query ID: lcl|Query_4298398 Length: 168
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Pan troglodytes ureidoimidazoline...                   Pan troglodytes chimpanzee      9598       311    311   100%  3e-103 92.90  1163       XM_003314092.5   
+
+
+Alignments:
+
+>PREDICTED: Pan troglodytes ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_003314092.5 Length: 1163
+Range 1: 80 to 586
+
+Score:311 bits(798), Expect:3e-103, 
+Method:Compositional matrix adjust., 
+Identities:167/169(99%), Positives:167/169(98%), Gaps:1/169(0%)
+
+Query  1    MDIEKVNSMDLGEFVDVFGNVTERCPLIAAAVWSQRPLSDLEDLEKHFFAFIDALPQSGQ  60
+            MDIEKVNSMDLGEFVDVFGNVTERCPLIAAAVWSQRPLSDLEDLEKHFFAFIDALPQSGQ
+Sbjct  80   MDIEKVNSMDLGEFVDVFGNVTERCPLIAAAVWSQRPLSDLEDLEKHFFAFIDALPQSGQ  259
+
+Query  61   EGILRCHPYLAGSELQRGTLTAESQREQSGAGLWSLGADERLRLAELNAQYRARFGFPFV  120
+            EGILRCHPYLAGSELQRGTLTAESQREQSGAGLWSLGADERLRLAELNAQYRARFGFPFV
+Sbjct  260  EGILRCHPYLAGSELQRGTLTAESQREQSGAGLWSLGADERLRLAELNAQYRARFGFPFV  439
+
+Query  121  LAARFSNRTAV-ARLLCPSAQELRTALGEVKKIGSlrladllradPAKL  168
+            LAARFSNRTA  ARLLCPSAQELRTALGEVKKIGSLRLADLLRADPAKL
+Sbjct  440  LAARFSNRTAAXARLLCPSAQELRTALGEVKKIGSLRLADLLRADPAKL  586
+
+
+
+
+
+Query #15: tr|A0A2K5DNG8|A0A2K5DNG8_AOTNA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Aotus nancymaae OX=37293 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298399 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Aotus nancymaae ureidoimidazoline...                   Aotus nancymaae Ma's night m... 37293      345    345   100%  7e-117 100.00 1075       XM_012471071.2   
+
+
+Alignments:
+
+>PREDICTED: Aotus nancymaae ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), transcript variant X1, mRNA
+Sequence ID: XM_012471071.2 Length: 1075
+Range 1: 158 to 676
+
+Score:345 bits(886), Expect:7e-117, 
+Method:Compositional matrix adjust., 
+Identities:173/173(100%), Positives:173/173(100%), Gaps:0/173(0%)
+
+Query  1    MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFLDLEDLEKHFFAFIDALPQSGQ  60
+            MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFLDLEDLEKHFFAFIDALPQSGQ
+Sbjct  158  MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFLDLEDLEKHFFAFIDALPQSGQ  337
+
+Query  61   EGILRCHPDLAGRELQQGKLTAESQREQSGAGLTSLGADERLRLAELNAQYRARFGFPFI  120
+            EGILRCHPDLAGRELQQGKLTAESQREQSGAGLTSLGADERLRLAELNAQYRARFGFPFI
+Sbjct  338  EGILRCHPDLAGRELQQGKLTAESQREQSGAGLTSLGADERLRLAELNAQYRARFGFPFI  517
+
+Query  121  LAARLSDRAAVPSELARRLLCPPAQELRTALGEVKKIGGLRLADLLCADPAKL  173
+            LAARLSDRAAVPSELARRLLCPPAQELRTALGEVKKIGGLRLADLLCADPAKL
+Sbjct  518  LAARLSDRAAVPSELARRLLCPPAQELRTALGEVKKIGGLRLADLLCADPAKL  676
+
+
+
+
+
+Query #16: tr|A0A2K5VFU0|A0A2K5VFU0_MACFA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Macaca fascicularis OX=9541 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298400 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Macaca mulatta ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-... Macaca mulatta  Rhesus monkey   9544       324    324   100%  3e-111 94.22  522        NM_001194734.3   
+
+
+Alignments:
+
+>Macaca mulatta ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: NM_001194734.3 Length: 522
+Range 1: 1 to 519
+
+Score:324 bits(831), Expect:3e-111, 
+Method:Compositional matrix adjust., 
+Identities:173/173(100%), Positives:173/173(100%), Gaps:0/173(0%)
+
+Query  1    MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLKKHFFAFIDALPQSGQ  60
+            MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLKKHFFAFIDALPQSGQ
+Sbjct  1    MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLKKHFFAFIDALPQSGQ  180
+
+Query  61   EGILRCHPDLAGSELRRGTLTAESQREQSAAGLTSLGADERLRLAELNAQYRARFGFPFV  120
+            EGILRCHPDLAGSELRRGTLTAESQREQSAAGLTSLGADERLRLAELNAQYRARFGFPFV
+Sbjct  181  EGILRCHPDLAGSELRRGTLTAESQREQSAAGLTSLGADERLRLAELNAQYRARFGFPFV  360
+
+Query  121  LAARFSDRAAVSRELARRLLCPSAQELRTALGEVKKIGSlrladllradPAKL  173
+            LAARFSDRAAVSRELARRLLCPSAQELRTALGEVKKIGSLRLADLLRADPAKL
+Sbjct  361  LAARFSDRAAVSRELARRLLCPSAQELRTALGEVKKIGSLRLADLLRADPAKL  519
+
+
+
+
+
+Query #17: tr|A0A2K6ECK0|A0A2K6ECK0_MACNE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Macaca nemestrina OX=9545 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298401 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Macaca mulatta ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-... Macaca mulatta  Rhesus monkey   9544       324    324   100%  3e-111 94.22  522        NM_001194734.3   
+
+
+Alignments:
+
+>Macaca mulatta ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: NM_001194734.3 Length: 522
+Range 1: 1 to 519
+
+Score:324 bits(831), Expect:3e-111, 
+Method:Compositional matrix adjust., 
+Identities:173/173(100%), Positives:173/173(100%), Gaps:0/173(0%)
+
+Query  1    MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLKKHFFAFIDALPQSGQ  60
+            MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLKKHFFAFIDALPQSGQ
+Sbjct  1    MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLKKHFFAFIDALPQSGQ  180
+
+Query  61   EGILRCHPDLAGSELRRGTLTAESQREQSAAGLTSLGADERLRLAELNAQYRARFGFPFV  120
+            EGILRCHPDLAGSELRRGTLTAESQREQSAAGLTSLGADERLRLAELNAQYRARFGFPFV
+Sbjct  181  EGILRCHPDLAGSELRRGTLTAESQREQSAAGLTSLGADERLRLAELNAQYRARFGFPFV  360
+
+Query  121  LAARFSDRAAVSRELARRLLCPSAQELRTALGEVKKIGSlrladllradPAKL  173
+            LAARFSDRAAVSRELARRLLCPSAQELRTALGEVKKIGSLRLADLLRADPAKL
+Sbjct  361  LAARFSDRAAVSRELARRLLCPSAQELRTALGEVKKIGSLRLADLLRADPAKL  519
+
+
+
+
+
+Query #18: tr|A0A341CAI7|A0A341CAI7_NEOAA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=URAD PE=4 SV=1 Query ID: lcl|Query_4298402 Length: 171
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Neophocaena asiaeorientalis asiaeorientalis...         Neophocaena ... Yangtze finl... 1706337    347    347   100%  2e-120 100.00 516        XM_024755655.1   
+
+
+Alignments:
+
+>PREDICTED: Neophocaena asiaeorientalis asiaeorientalis ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_024755655.1 Length: 516
+Range 1: 1 to 513
+
+Score:347 bits(891), Expect:2e-120, 
+Method:Compositional matrix adjust., 
+Identities:171/171(100%), Positives:171/171(100%), Gaps:0/171(0%)
+
+Query  1    MDIEKVNSTDFGEFVDVLFGSVTERCPLIAPTVFSQRPFSDLEDLEQHFFAFTDALPQSG  60
+            MDIEKVNSTDFGEFVDVLFGSVTERCPLIAPTVFSQRPFSDLEDLEQHFFAFTDALPQSG
+Sbjct  1    MDIEKVNSTDFGEFVDVLFGSVTERCPLIAPTVFSQRPFSDLEDLEQHFFAFTDALPQSG  180
+
+Query  61   KDKLVTYRPDRELQRGELSAESQREQSAAGHTSLGAAERLWLAALNAQYRARSGFPFALA  120
+            KDKLVTYRPDRELQRGELSAESQREQSAAGHTSLGAAERLWLAALNAQYRARSGFPFALA
+Sbjct  181  KDKLVTYRPDRELQRGELSAESQREQSAAGHTSLGAAERLWLAALNAQYRARSGFPFALA  360
+
+Query  121  ARVSDRAAVPRERARRLHCPPAQELNTALGEVKKIGRRRLADLLGSHATES  171
+            ARVSDRAAVPRERARRLHCPPAQELNTALGEVKKIGRRRLADLLGSHATES
+Sbjct  361  ARVSDRAAVPRERARRLHCPPAQELNTALGEVKKIGRRRLADLLGSHATES  513
+
+
+
+
+
+Query #19: tr|A0A485MI04|A0A485MI04_LYNPA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Lynx pardinus OX=191816 GN=LYPA_23C007891 PE=3 SV=1 Query ID: lcl|Query_4298403 Length: 174
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Lynx rufus ureidoimidazoline...                        Lynx rufus      bobcat          61384      296    296   90%   4e-100 93.63  525        XM_047079119.1   
+
+
+Alignments:
+
+>PREDICTED: Lynx rufus ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_047079119.1 Length: 525
+Range 1: 1 to 471
+
+Score:296 bits(758), Expect:4e-100, 
+Method:Compositional matrix adjust., 
+Identities:157/157(100%), Positives:157/157(100%), Gaps:0/157(0%)
+
+Query  1    MDMEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFSNSEDLEKHFFAFIDALPQSGQ  60
+            MDMEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFSNSEDLEKHFFAFIDALPQSGQ
+Sbjct  1    MDMEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFSNSEDLEKHFFAFIDALPQSGQ  180
+
+Query  61   EGILRCHPDLAGRELQQGTLTAESRREQGGAGLMSLDaaerlrlaelNAQYRARFGFPFV  120
+            EGILRCHPDLAGRELQQGTLTAESRREQGGAGLMSLDAAERLRLAELNAQYRARFGFPFV
+Sbjct  181  EGILRCHPDLAGRELQQGTLTAESRREQGGAGLMSLDAAERLRLAELNAQYRARFGFPFV  360
+
+Query  121  LAARLSDRAAVPGELARRLQRPPAEELRTALGEVKKI  157
+            LAARLSDRAAVPGELARRLQRPPAEELRTALGEVKKI
+Sbjct  361  LAARLSDRAAVPGELARRLQRPPAEELRTALGEVKKI  471
+
+
+
+
+
+Query #20: tr|A0A5E4AMA7|A0A5E4AMA7_MARMO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Marmota monax OX=9995 GN=GHT09_015595 PE=3 SV=1 Query ID: lcl|Query_4298404 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Marmota monax ureidoimidazoline...                     Marmota monax   woodchuck       9995       352    352   100%  1e-119 100.00 1011       XM_046454329.1   
+
+
+Alignments:
+
+>PREDICTED: Marmota monax ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (Urad), mRNA
+Sequence ID: XM_046454329.1 Length: 1011
+Range 1: 107 to 625
+
+Score:352 bits(902), Expect:1e-119, 
+Method:Compositional matrix adjust., 
+Identities:173/173(100%), Positives:173/173(100%), Gaps:0/173(0%)
+
+Query  1    MNMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFFDLEDLEKHFFAFIDALPQSGQ  60
+            MNMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFFDLEDLEKHFFAFIDALPQSGQ
+Sbjct  107  MNMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFFDLEDLEKHFFAFIDALPQSGQ  286
+
+Query  61   EGILRCHPDLAGREQQRGTLTAESQREQSSAGLTSLSAEERQQLEKLNAQYRARFGFPFV  120
+            EGILRCHPDLAGREQQRGTLTAESQREQSSAGLTSLSAEERQQLEKLNAQYRARFGFPFV
+Sbjct  287  EGILRCHPDLAGREQQRGTLTAESQREQSSAGLTSLSAEERQQLEKLNAQYRARFGFPFV  466
+
+Query  121  LAARLSDRAAVPRELERRLHCQPAQELRTALGEVKKIGHLRLVDLLGADSSRL  173
+            LAARLSDRAAVPRELERRLHCQPAQELRTALGEVKKIGHLRLVDLLGADSSRL
+Sbjct  467  LAARLSDRAAVPRELERRLHCQPAQELRTALGEVKKIGHLRLVDLLGADSSRL  625
+
+
+
+
+
+Query #21: tr|A0A6J1ZUW9|A0A6J1ZUW9_ACIJB 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Acinonyx jubatus OX=32536 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298405 Length: 174
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+PREDICTED: Acinonyx jubatus ureidoimidazoline...                  Acinonyx jub... cheetah         32536      297    297   90%   4e-98 93.63  977        XM_027064608.2   
+
+
+Alignments:
+
+>PREDICTED: Acinonyx jubatus ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), transcript variant X2, mRNA
+Sequence ID: XM_027064608.2 Length: 977
+Range 1: 87 to 557
+
+Score:297 bits(760), Expect:4e-98, 
+Method:Compositional matrix adjust., 
+Identities:157/157(100%), Positives:157/157(100%), Gaps:0/157(0%)
+
+Query  1    MDMEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFCNSEDLEKHFFAFIDALPQSGQ  60
+            MDMEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFCNSEDLEKHFFAFIDALPQSGQ
+Sbjct  87   MDMEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFCNSEDLEKHFFAFIDALPQSGQ  266
+
+Query  61   EGILRCHPDLAGRELQQGTLTAESRREQRGAGLMSLDaaerlrlaelNAQYRARFGFPFV  120
+            EGILRCHPDLAGRELQQGTLTAESRREQRGAGLMSLDAAERLRLAELNAQYRARFGFPFV
+Sbjct  267  EGILRCHPDLAGRELQQGTLTAESRREQRGAGLMSLDAAERLRLAELNAQYRARFGFPFV  446
+
+Query  121  LAARLSDRAAVPGELARRLQRPPAEELRTALGEVKKI  157
+            LAARLSDRAAVPGELARRLQRPPAEELRTALGEVKKI
+Sbjct  447  LAARLSDRAAVPGELARRLQRPPAEELRTALGEVKKI  557
+
+
+
+
+
+Query #22: tr|A0A6J3J5X8|A0A6J3J5X8_SAPAP 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Sapajus apella OX=9515 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298406 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Sapajus apella ureidoimidazoline...                    Sapajus apella  tufted capuchin 9515       348    348   100%  8e-118 100.00 1053       XM_032294386.1   
+
+
+Alignments:
+
+>PREDICTED: Sapajus apella ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), transcript variant X1, mRNA
+Sequence ID: XM_032294386.1 Length: 1053
+Range 1: 140 to 658
+
+Score:348 bits(892), Expect:8e-118, 
+Method:Compositional matrix adjust., 
+Identities:173/173(100%), Positives:173/173(100%), Gaps:0/173(0%)
+
+Query  1    MDIEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFLDLEDLQKHFFAFIDALPQSGQ  60
+            MDIEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFLDLEDLQKHFFAFIDALPQSGQ
+Sbjct  140  MDIEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFLDLEDLQKHFFAFIDALPQSGQ  319
+
+Query  61   EGILRCHPDLAGRDLQQGTLTAESQREHSGAGLTSLGPDEQLRLAELNAQYRARFGFPFI  120
+            EGILRCHPDLAGRDLQQGTLTAESQREHSGAGLTSLGPDEQLRLAELNAQYRARFGFPFI
+Sbjct  320  EGILRCHPDLAGRDLQQGTLTAESQREHSGAGLTSLGPDEQLRLAELNAQYRARFGFPFI  499
+
+Query  121  LAARLSDRAAVPRELARRLLCPPAQELRTALGEVKKISGLRLADLLCADPAKL  173
+            LAARLSDRAAVPRELARRLLCPPAQELRTALGEVKKISGLRLADLLCADPAKL
+Sbjct  500  LAARLSDRAAVPRELARRLLCPPAQELRTALGEVKKISGLRLADLLCADPAKL  658
+
+
+
+
+
+Query #23: tr|A0A7J7ELR0|A0A7J7ELR0_DICBM 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Diceros bicornis minor OX=77932 GN=HPG69_017590 PE=3 SV=1 Query ID: lcl|Query_4298407 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Diceros bicornis minor ureidoimidazoline...            Diceros bico... NA              77932      349    349   100%  4e-121 100.00 522        XM_058548570.1   
+
+
+Alignments:
+
+>PREDICTED: Diceros bicornis minor ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_058548570.1 Length: 522
+Range 1: 1 to 519
+
+Score:349 bits(896), Expect:4e-121, 
+Method:Compositional matrix adjust., 
+Identities:173/173(100%), Positives:173/173(100%), Gaps:0/173(0%)
+
+Query  1    MDMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLEKHFFALIDALPQSGQ  60
+            MDMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLEKHFFALIDALPQSGQ
+Sbjct  1    MDMEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLEKHFFALIDALPQSGQ  180
+
+Query  61   EGILRCHPDLAGRELQRGTLTAESQREQSGAGLTSLGADERLRLAELNAQYRARFGFPFV  120
+            EGILRCHPDLAGRELQRGTLTAESQREQSGAGLTSLGADERLRLAELNAQYRARFGFPFV
+Sbjct  181  EGILRCHPDLAGRELQRGTLTAESQREQSGAGLTSLGADERLRLAELNAQYRARFGFPFV  360
+
+Query  121  LAARLTDPAAMPRELARRLHCPPAQELRTALGEVKKIGRLRLADLLCVDPSGP  173
+            LAARLTDPAAMPRELARRLHCPPAQELRTALGEVKKIGRLRLADLLCVDPSGP
+Sbjct  361  LAARLTDPAAMPRELARRLHCPPAQELRTALGEVKKIGRLRLADLLCVDPSGP  519
+
+
+
+
+
+Query #24: tr|A0A7J8G2G9|A0A7J8G2G9_MOLMO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Molossus molossus OX=27622 GN=HJG59_019244 PE=3 SV=1 Query ID: lcl|Query_4298408 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+PREDICTED: Molossus molossus ureidoimidazoline...                 Molossus mol... Pallas's mas... 27622      289    289   100%  4e-97 84.39  522        XM_036250763.1   
+
+
+Alignments:
+
+>PREDICTED: Molossus molossus ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_036250763.1 Length: 522
+Range 1: 1 to 519
+
+Score:289 bits(739), Expect:4e-97, 
+Method:Compositional matrix adjust., 
+Identities:173/173(100%), Positives:173/173(100%), Gaps:0/173(0%)
+
+Query  1    MDMEKVNSMDFREFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLEQHFSAFIDALPQAGQ  60
+            MDMEKVNSMDFREFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLEQHFSAFIDALPQAGQ
+Sbjct  1    MDMEKVNSMDFREFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLEQHFSAFIDALPQAGQ  180
+
+Query  61   EGILRCYPDLAGRELQRGTLSAESQREHSAAGLTSlraeerlrlaelnaQYRARFGFPFV  120
+            EGILRCYPDLAGRELQRGTLSAESQREHSAAGLTSLRAEERLRLAELNAQYRARFGFPFV
+Sbjct  181  EGILRCYPDLAGRELQRGTLSAESQREHSAAGLTSLRAEERLRLAELNAQYRARFGFPFV  360
+
+Query  121  LAARLSDreavarelarrlrCPPALELRTALGEVKKIGRLRLADRLGADSARM  173
+            LAARLSDREAVARELARRLRCPPALELRTALGEVKKIGRLRLADRLGADSARM
+Sbjct  361  LAARLSDREAVARELARRLRCPPALELRTALGEVKKIGRLRLADRLGADSARM  519
+
+
+
+
+
+Query #25: tr|A0A8B7BBB8|A0A8B7BBB8_ORYAF 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Orycteropus afer afer OX=1230840 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298409 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Orycteropus afer afer ureidoimidazoline...             Orycteropus ... NA              1230840    318    318   91%   6e-109 100.00 522        XM_007958636.1   
+
+
+Alignments:
+
+>PREDICTED: Orycteropus afer afer ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_007958636.1 Length: 522
+Range 1: 1 to 474
+
+Score:318 bits(816), Expect:6e-109, 
+Method:Compositional matrix adjust., 
+Identities:158/158(100%), Positives:158/158(100%), Gaps:0/158(0%)
+
+Query  1    MDVEKVNAMDFGDFVAVFGNVIERCPLIAAAVWSQRPFSDVDDLDKRFCAFIDALPQSGQ  60
+            MDVEKVNAMDFGDFVAVFGNVIERCPLIAAAVWSQRPFSDVDDLDKRFCAFIDALPQSGQ
+Sbjct  1    MDVEKVNAMDFGDFVAVFGNVIERCPLIAAAVWSQRPFSDVDDLDKRFCAFIDALPQSGQ  180
+
+Query  61   EGVLRCHPDLAGRELQQGTLTAESQREQSAAGLQSLSADERRRLAQLNAQYRARFGFPFV  120
+            EGVLRCHPDLAGRELQQGTLTAESQREQSAAGLQSLSADERRRLAQLNAQYRARFGFPFV
+Sbjct  181  EGVLRCHPDLAGRELQQGTLTAESQREQSAAGLQSLSADERRRLAQLNAQYRARFGFPFV  360
+
+Query  121  LAARLRDPAAVASELERRLHSPPAQELRTALGEVKTIG  158
+            LAARLRDPAAVASELERRLHSPPAQELRTALGEVKTIG
+Sbjct  361  LAARLRDPAAVASELERRLHSPPAQELRTALGEVKTIG  474
+
+
+
+
+
+Query #26: tr|A0A8B7T935|A0A8B7T935_HIPAR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Hipposideros armiger OX=186990 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298410 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Hipposideros armiger ureidoimidazoline...              Hipposideros... great roundl... 186990     348    348   100%  4e-116 100.00 1444       XM_019666044.1   
+
+
+Alignments:
+
+>PREDICTED: Hipposideros armiger ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_019666044.1 Length: 1444
+Range 1: 115 to 633
+
+Score:348 bits(893), Expect:4e-116, 
+Method:Compositional matrix adjust., 
+Identities:173/173(100%), Positives:173/173(100%), Gaps:0/173(0%)
+
+Query  1    MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLEKHFYAFIDALPPSGQ  60
+            MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLEKHFYAFIDALPPSGQ
+Sbjct  115  MDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSDLEDLEKHFYAFIDALPPSGQ  294
+
+Query  61   EGILRCHPDLAGRELQQGTLTAESQREQSGAGLTSLGADERLRLEELNAQYRARFGFPFV  120
+            EGILRCHPDLAGRELQQGTLTAESQREQSGAGLTSLGADERLRLEELNAQYRARFGFPFV
+Sbjct  295  EGILRCHPDLAGRELQQGTLTAESQREQSGAGLTSLGADERLRLEELNAQYRARFGFPFV  474
+
+Query  121  LAARLSHRAAVPRELARRLHCSPAQELRIALGEVKKIARLRLADLLGVDPSRL  173
+            LAARLSHRAAVPRELARRLHCSPAQELRIALGEVKKIARLRLADLLGVDPSRL
+Sbjct  475  LAARLSHRAAVPRELARRLHCSPAQELRIALGEVKKIARLRLADLLGVDPSRL  633
+
+
+
+
+
+Query #27: tr|A0A8C0RPK8|A0A8C0RPK8_CANLF 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Canis lupus familiaris OX=9615 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298411 Length: 176
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Canis lupus familiaris ureidoimidazoline...            Canis lupus ... dog             9615       354    354   100%  2e-118 100.00 1478       XM_038573392.1   
+
+
+Alignments:
+
+>PREDICTED: Canis lupus familiaris ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_038573392.1 Length: 1478
+Range 1: 80 to 607
+
+Score:354 bits(909), Expect:2e-118, 
+Method:Compositional matrix adjust., 
+Identities:176/176(100%), Positives:176/176(100%), Gaps:0/176(0%)
+
+Query  1    MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFDFIDALPQ  60
+            MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFDFIDALPQ
+Sbjct  80   MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFDFIDALPQ  259
+
+Query  61   SGREGILRCHPDLAGRELQQGTLSAESRREQSGAGLTSLDADERLRLAELNAQYRARFGF  120
+            SGREGILRCHPDLAGRELQQGTLSAESRREQSGAGLTSLDADERLRLAELNAQYRARFGF
+Sbjct  260  SGREGILRCHPDLAGRELQQGTLSAESRREQSGAGLTSLDADERLRLAELNAQYRARFGF  439
+
+Query  121  PFVLAARRSHRAAVPRELARRLRCPPAQELRTALAEVKKIGHLRLADLLGAHPARL  176
+            PFVLAARRSHRAAVPRELARRLRCPPAQELRTALAEVKKIGHLRLADLLGAHPARL
+Sbjct  440  PFVLAARRSHRAAVPRELARRLRCPPAQELRTALAEVKKIGHLRLADLLGAHPARL  607
+
+
+
+
+
+Query #28: tr|A0A8C0T904|A0A8C0T904_CANLF 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Canis lupus familiaris OX=9615 PE=3 SV=1 Query ID: lcl|Query_4298412 Length: 176
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Canis lupus familiaris ureidoimidazoline...            Canis lupus ... dog             9615       351    351   100%  3e-117 99.43  1469       XM_543153.7      
+
+
+Alignments:
+
+>PREDICTED: Canis lupus familiaris ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_543153.7 Length: 1469
+Range 1: 80 to 607
+
+Score:351 bits(901), Expect:3e-117, 
+Method:Compositional matrix adjust., 
+Identities:175/176(99%), Positives:175/176(99%), Gaps:0/176(0%)
+
+Query  1    MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFDFIDALPQ  60
+            MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFDFIDALPQ
+Sbjct  80   MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFDFIDALPQ  259
+
+Query  61   SGREGILRCHPDLAGRELQQGTLSAESRREQSGAGLASLDADERLRLAELNAQYRARFGF  120
+            SGREGILRCHPDLAGRELQQGTLSAESRREQSGAGL SLDADERLRLAELNAQYRARFGF
+Sbjct  260  SGREGILRCHPDLAGRELQQGTLSAESRREQSGAGLTSLDADERLRLAELNAQYRARFGF  439
+
+Query  121  PFVLAARRSHRAAVPRELARRLRCPPAQELRTALAEVKKIGHLRLADLLGAPPARL  176
+            PFVLAARRSHRAAVPRELARRLRCPPAQELRTALAEVKKIGHLRLADLLGAPPARL
+Sbjct  440  PFVLAARRSHRAAVPRELARRLRCPPAQELRTALAEVKKIGHLRLADLLGAPPARL  607
+
+
+
+
+
+Query #29: tr|A0A8C8Y5U9|A0A8C8Y5U9_PANLE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Panthera leo OX=9689 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298413 Length: 174
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+PREDICTED: Panthera onca ureidoimidazoline...                     Panthera onca   jaguar          9690       293    293   90%   2e-95 92.99  1301       XM_060637464.2   
+
+
+Alignments:
+
+>PREDICTED: Panthera onca ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_060637464.2 Length: 1301
+Range 1: 84 to 554
+
+Score:293 bits(751), Expect:2e-95, 
+Method:Compositional matrix adjust., 
+Identities:156/157(99%), Positives:156/157(99%), Gaps:0/157(0%)
+
+Query  1    MDMEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFSNSEDLEKHFFAFIDALPQSGQ  60
+            MDMEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFSNSEDLEKHFFAFIDALPQSGQ
+Sbjct  84   MDMEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFSNSEDLEKHFFAFIDALPQSGQ  263
+
+Query  61   EGILRCHPDLAGRELQQGTLTAESRREQRGAGLMSLDaaerlrlaelNAQYRARFGFPFV  120
+            EGILRCHPDLAGRELQQGTLTAESRREQRGAGLMSLDAAERLRLAELNAQYRARFGFPFV
+Sbjct  264  EGILRCHPDLAGRELQQGTLTAESRREQRGAGLMSLDAAERLRLAELNAQYRARFGFPFV  443
+
+Query  121  LAARLSDRAAVPGELARRLQRPPAEELCTALGEVKKI  157
+            LAARLSDRAAVPGELARRLQRPPAEEL TALGEVKKI
+Sbjct  444  LAARLSDRAAVPGELARRLQRPPAEELRTALGEVKKI  554
+
+
+
+
+
+Query #30: tr|A0A9B0T4Q0|A0A9B0T4Q0_CHRAS 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Chrysochloris asiatica OX=185453 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298414 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Chrysochloris asiatica ureidoimidazoline...            Chrysochlori... Cape golden ... 185453     318    318   91%   9e-109 100.00 522        XM_006831939.1   
+
+
+Alignments:
+
+>PREDICTED: Chrysochloris asiatica ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_006831939.1 Length: 522
+Range 1: 1 to 471
+
+Score:318 bits(815), Expect:9e-109, 
+Method:Compositional matrix adjust., 
+Identities:157/157(100%), Positives:157/157(100%), Gaps:0/157(0%)
+
+Query  1    MDMDKVNSMDFGDFVEVFGNVIERCPLIAAAVWSQRPFSDLEDLEARFCAFIDVLPQSGQ  60
+            MDMDKVNSMDFGDFVEVFGNVIERCPLIAAAVWSQRPFSDLEDLEARFCAFIDVLPQSGQ
+Sbjct  1    MDMDKVNSMDFGDFVEVFGNVIERCPLIAAAVWSQRPFSDLEDLEARFCAFIDVLPQSGQ  180
+
+Query  61   EGILRCHPDLAGRQLQRGTLTAESQREQSAAGLQGLGAEERRRLAELNAQYRARFGFPFV  120
+            EGILRCHPDLAGRQLQRGTLTAESQREQSAAGLQGLGAEERRRLAELNAQYRARFGFPFV
+Sbjct  181  EGILRCHPDLAGRQLQRGTLTAESQREQSAAGLQGLGAEERRRLAELNAQYRARFGFPFV  360
+
+Query  121  LAARLRDSAAVMSELARRLHCPPAQELRTALGEVKTI  157
+            LAARLRDSAAVMSELARRLHCPPAQELRTALGEVKTI
+Sbjct  361  LAARLRDSAAVMSELARRLHCPPAQELRTALGEVKTI  471
+
+
+
+
+
+Query #31: tr|A0A9V1FHI9|A0A9V1FHI9_PANPR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Panthera pardus OX=9691 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298415 Length: 174
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+PREDICTED: Panthera onca ureidoimidazoline...                     Panthera onca   jaguar          9690       297    297   90%   1e-96 93.63  1301       XM_060637464.2   
+
+
+Alignments:
+
+>PREDICTED: Panthera onca ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_060637464.2 Length: 1301
+Range 1: 84 to 554
+
+Score:297 bits(760), Expect:1e-96, 
+Method:Compositional matrix adjust., 
+Identities:157/157(100%), Positives:157/157(100%), Gaps:0/157(0%)
+
+Query  1    MDMEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFSNSEDLEKHFFAFIDALPQSGQ  60
+            MDMEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFSNSEDLEKHFFAFIDALPQSGQ
+Sbjct  84   MDMEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFSNSEDLEKHFFAFIDALPQSGQ  263
+
+Query  61   EGILRCHPDLAGRELQQGTLTAESRREQRGAGLMSLDaaerlrlaelNAQYRARFGFPFV  120
+            EGILRCHPDLAGRELQQGTLTAESRREQRGAGLMSLDAAERLRLAELNAQYRARFGFPFV
+Sbjct  264  EGILRCHPDLAGRELQQGTLTAESRREQRGAGLMSLDAAERLRLAELNAQYRARFGFPFV  443
+
+Query  121  LAARLSDRAAVPGELARRLQRPPAEELRTALGEVKKI  157
+            LAARLSDRAAVPGELARRLQRPPAEELRTALGEVKKI
+Sbjct  444  LAARLSDRAAVPGELARRLQRPPAEELRTALGEVKKI  554
+
+
+
+
+
+Query #32: tr|A0A9X9PT75|A0A9X9PT75_GULGU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase (Fragment) OS=Gulo gulo OX=48420 GN=BN2614_LOCUS1 PE=3 SV=1 Query ID: lcl|Query_4298416 Length: 148
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Martes martes putative...                                         Martes martes   European pin... 29065      301    301   100%  2e-98 100.00 1409       XM_080798456.1   
+
+
+Alignments:
+
+>Martes martes putative 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase (URAD), mRNA
+Sequence ID: XM_080798456.1 Length: 1409
+Range 1: 38 to 481
+
+Score:301 bits(772), Expect:2e-98, 
+Method:Compositional matrix adjust., 
+Identities:148/148(100%), Positives:148/148(100%), Gaps:0/148(0%)
+
+Query  1    MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFAFIDGLPQ  60
+            MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFAFIDGLPQ
+Sbjct  38   MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFAFIDGLPQ  217
+
+Query  61   SGQEGILRCHPDLAGRELQRGTLTAESQREQRGAGLTSLDADERLRLAELNAQYRARFGF  120
+            SGQEGILRCHPDLAGRELQRGTLTAESQREQRGAGLTSLDADERLRLAELNAQYRARFGF
+Sbjct  218  SGQEGILRCHPDLAGRELQRGTLTAESQREQRGAGLTSLDADERLRLAELNAQYRARFGF  397
+
+Query  121  PFVLAARLSDRAAVPRELARRLHCPPAQ  148
+            PFVLAARLSDRAAVPRELARRLHCPPAQ
+Sbjct  398  PFVLAARLSDRAAVPRELARRLHCPPAQ  481
+
+
+
+
+
+Query #33: tr|A0ABI7XYN9|A0ABI7XYN9_FELCA 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Felis catus OX=9685 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298417 Length: 174
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+PREDICTED: Panthera onca ureidoimidazoline...                     Panthera onca   jaguar          9690       297    297   90%   1e-96 93.63  1301       XM_060637464.2   
+
+
+Alignments:
+
+>PREDICTED: Panthera onca ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_060637464.2 Length: 1301
+Range 1: 84 to 554
+
+Score:297 bits(760), Expect:1e-96, 
+Method:Compositional matrix adjust., 
+Identities:157/157(100%), Positives:157/157(100%), Gaps:0/157(0%)
+
+Query  1    MDMEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFSNSEDLEKHFFAFIDALPQSGQ  60
+            MDMEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFSNSEDLEKHFFAFIDALPQSGQ
+Sbjct  84   MDMEKVNSMDFGEFVDVFGNVVERCPLIAAAVWSQRPFSNSEDLEKHFFAFIDALPQSGQ  263
+
+Query  61   EGILRCHPDLAGRELQQGTLTAESRREQRGAGLMSLDaaerlrlaelNAQYRARFGFPFV  120
+            EGILRCHPDLAGRELQQGTLTAESRREQRGAGLMSLDAAERLRLAELNAQYRARFGFPFV
+Sbjct  264  EGILRCHPDLAGRELQQGTLTAESRREQRGAGLMSLDAAERLRLAELNAQYRARFGFPFV  443
+
+Query  121  LAARLSDRAAVPGELARRLQRPPAEELRTALGEVKKI  157
+            LAARLSDRAAVPGELARRLQRPPAEELRTALGEVKKI
+Sbjct  444  LAARLSDRAAVPGELARRLQRPPAEELRTALGEVKKI  554
+
+
+
+
+
+Query #34: tr|A0ABM4XDA4|A0ABM4XDA4_VULVU 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Vulpes vulpes OX=9627 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298418 Length: 176
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Vulpes vulpes ureidoimidazoline...                     Vulpes vulpes   red fox         9627       353    353   100%  5e-121 100.00 811        XM_072719885.1   
+
+
+Alignments:
+
+>PREDICTED: Vulpes vulpes ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_072719885.1 Length: 811
+Range 1: 80 to 607
+
+Score:353 bits(906), Expect:5e-121, 
+Method:Compositional matrix adjust., 
+Identities:176/176(100%), Positives:176/176(100%), Gaps:0/176(0%)
+
+Query  1    MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFAFIDALPQ  60
+            MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFAFIDALPQ
+Sbjct  80   MQAMDIEKVNSMDFGEFVDVFGNVIERCPLIAAAVWSQRPFSNLEDLEKHFFAFIDALPQ  259
+
+Query  61   SGREGILRCHPDLAGRELQQGTLSAESLREQRGAGLTSLDAGERLRLAELNGQYRARFGF  120
+            SGREGILRCHPDLAGRELQQGTLSAESLREQRGAGLTSLDAGERLRLAELNGQYRARFGF
+Sbjct  260  SGREGILRCHPDLAGRELQQGTLSAESLREQRGAGLTSLDAGERLRLAELNGQYRARFGF  439
+
+Query  121  PFVLAARRSDRAAVPRELERRLRCAPAQELRTALAEVKKIGHLRLADLLGAHPAGL  176
+            PFVLAARRSDRAAVPRELERRLRCAPAQELRTALAEVKKIGHLRLADLLGAHPAGL
+Sbjct  440  PFVLAARRSDRAAVPRELERRLRCAPAQELRTALAEVKKIGHLRLADLLGAHPAGL  607
+
+
+
+
+
+Query #35: tr|G1QHQ1|G1QHQ1_NOMLE 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Nomascus leucogenys OX=61853 GN=URAD PE=3 SV=2 Query ID: lcl|Query_4298419 Length: 154
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Nomascus leucogenys ureidoimidazoline...               Nomascus leu... northern whi... 61853      296    296   100%  2e-100 89.53  519        XM_003270214.1   
+
+
+Alignments:
+
+>PREDICTED: Nomascus leucogenys ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_003270214.1 Length: 519
+Range 1: 1 to 516
+
+Score:296 bits(759), Expect:2e-100, 
+Method:Compositional matrix adjust., 
+Identities:154/172(90%), Positives:154/172(89%), Gaps:18/172(10%)
+
+Query  1    MDIEKVNSMDFGEFVDVFGNVIERCPLIADAVWSQRPFSDLEDLEKHFFAFIDALPQSGQ  60
+            MDIEKVNSMDFGEFVDVFGNVIERCPLIADAVWSQRPFSDLEDLEKHFFAFIDALPQSGQ
+Sbjct  1    MDIEKVNSMDFGEFVDVFGNVIERCPLIADAVWSQRPFSDLEDLEKHFFAFIDALPQSGQ  180
+
+Query  61   EGILRCHPDLAGSELQRGTLT----REQSGAGLTSLGADERLRLAELNAQYRARFGFPFV  116
+            EGILRCHPDLAGSELQRGTLT    REQSGAGLTSLGADERLRLAELNAQYRARFGFPFV
+Sbjct  181  EGILRCHPDLAGSELQRGTLTXESQREQSGAGLTSLGADERLRLAELNAQYRARFGFPFV  360
+
+Query  117  LAARFSYRTA--------------ELRTALGEVKKIGSLRLAGLLRSDPAKL  154
+            LAARFSYRTA              ELRTALGEVKKIGSLRLAGLLRSDPAKL
+Sbjct  361  LAARFSYRTAVPRELERRLLCPXQELRTALGEVKKIGSLRLAGLLRSDPAKL  516
+
+
+
+
+
+Query #36: tr|G3QRV7|G3QRV7_GORGO 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Gorilla gorilla gorilla OX=9595 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298420 Length: 173
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Gorilla gorilla gorilla ureidoimidazoline...           Gorilla gori... western lowl... 9595       326    326   100%  9e-110 94.22  964        XM_004054307.3   
+
+
+Alignments:
+
+>PREDICTED: Gorilla gorilla gorilla ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_004054307.3 Length: 964
+Range 1: 51 to 569
+
+Score:326 bits(836), Expect:9e-110, 
+Method:Compositional matrix adjust., 
+Identities:173/173(100%), Positives:173/173(100%), Gaps:0/173(0%)
+
+Query  1    MDTEKVNSMDFGEFVDVFGNVTERCPLIAAAVWSQRPFSDLEDLEKHFFAFIDALPQSGQ  60
+            MDTEKVNSMDFGEFVDVFGNVTERCPLIAAAVWSQRPFSDLEDLEKHFFAFIDALPQSGQ
+Sbjct  51   MDTEKVNSMDFGEFVDVFGNVTERCPLIAAAVWSQRPFSDLEDLEKHFFAFIDALPQSGQ  230
+
+Query  61   EGILRCHPDLAGSELQRGTLTAESQREQSGAGLRSLGADGRLRLAELNAQYRARFGFPFV  120
+            EGILRCHPDLAGSELQRGTLTAESQREQSGAGLRSLGADGRLRLAELNAQYRARFGFPFV
+Sbjct  231  EGILRCHPDLAGSELQRGTLTAESQREQSGAGLRSLGADGRLRLAELNAQYRARFGFPFV  410
+
+Query  121  LAARFSDRTAVPRELARLLLCPSAQELRTALGEVKKIGSlrladllradPAKL  173
+            LAARFSDRTAVPRELARLLLCPSAQELRTALGEVKKIGSLRLADLLRADPAKL
+Sbjct  411  LAARFSDRTAVPRELARLLLCPSAQELRTALGEVKKIGSLRLADLLRADPAKL  569
+
+
+
+
+
+Query #37: tr|H2Q7C6|H2Q7C6_PANTR 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase OS=Pan troglodytes OX=9598 GN=URAD PE=3 SV=1 Query ID: lcl|Query_4298421 Length: 168
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+PREDICTED: Pan troglodytes ureidoimidazoline...                   Pan troglodytes chimpanzee      9598       311    311   100%  5e-103 92.90  1163       XM_003314092.5   
+
+
+Alignments:
+
+>PREDICTED: Pan troglodytes ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase (URAD), mRNA
+Sequence ID: XM_003314092.5 Length: 1163
+Range 1: 80 to 586
+
+Score:311 bits(797), Expect:5e-103, 
+Method:Compositional matrix adjust., 
+Identities:167/169(99%), Positives:167/169(98%), Gaps:1/169(0%)
+
+Query  1    MDIEKVNSMDLGEFVDVFGNVTERCPLIAAAVWSQRPLSDLEDLEKHFFAFIDALPQSGQ  60
+            MDIEKVNSMDLGEFVDVFGNVTERCPLIAAAVWSQRPLSDLEDLEKHFFAFIDALPQSGQ
+Sbjct  80   MDIEKVNSMDLGEFVDVFGNVTERCPLIAAAVWSQRPLSDLEDLEKHFFAFIDALPQSGQ  259
+
+Query  61   EGILRCHPYLAGSELQRGTLTAESQREQSGAGLWSLGADERLRLAELNAQYRARFGFPFV  120
+            EGILRCHPYLAGSELQRGTLTAESQREQSGAGLWSLGADERLRLAELNAQYRARFGFPFV
+Sbjct  260  EGILRCHPYLAGSELQRGTLTAESQREQSGAGLWSLGADERLRLAELNAQYRARFGFPFV  439
+
+Query  121  LAARFSNRTAAR-RLLCPSAQELRTALGEVKKIGSlrladllradPAKL  168
+            LAARFSNRTAA  RLLCPSAQELRTALGEVKKIGSLRLADLLRADPAKL
+Sbjct  440  LAARFSNRTAAXARLLCPSAQELRTALGEVKKIGSLRLADLLRADPAKL  586
+
+
+
+
+
+
+
+		
+
+

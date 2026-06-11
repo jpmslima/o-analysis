@@ -1,0 +1,51 @@
+Clade 1:
+1   Pan_troglodytes
+2   Pan_troglodytes_2
+17  Homo_sapiens
+14  Gorilla_gorilla_gorilla
+26  Nomascus_leucogenys
+20  Macaca_fascicularis
+21  Macaca_nemestrina
+
+Clade 2:
+31  Saimiri_boliviensis_boliviensis
+32  Sapajus_apella
+10  Cebus_imitator
+5   Callithrix_jacchus
+4   Aotus_nancymaae
+
+Clade 3:
+16  Hipposideros_armiger
+30  Rhinolophus_ferrumequinum
+
+Clade 4:
+29  Panthera_pardus
+13  Felis_catus
+3   Acinonyx_jubatus
+28  Panthera_leo
+19  Lynx_pardinus
+
+Clade 5:
+6   Canis_lupus_dingo 
+7   Canis_lupus_familiaris 
+8   Canis_lupus_familiaris_2
+9   Canis_lupus_familiaris_3
+36  Vulpes_vulpes
+15  Gulo_gulo
+
+Clade 6:
+22  Marmota_marmota_marmota
+23  Marmota_monax
+35  Urocitellus_parryii
+18  Ictidomys_tridecemlineatus
+33  Sciurus_carolinensis
+34  Sciurus_vulgaris
+12  Diceros_bicornis 
+
+Clade 7:
+25  Neophocaena_asiaeorientalis_asiaeorientalis
+24  Molossus_molossus
+
+Clade 8 (Root):
+27  Orycteropus_afer_afer
+11  Chrysochloris_asiatica 
