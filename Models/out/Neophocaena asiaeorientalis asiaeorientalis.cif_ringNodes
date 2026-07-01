@@ -1,0 +1,172 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	2	74.966	-19.059	-5.451	3.877	Neophocaena asiaeorientalis asiaeorientalis.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	6	80.206	-21.277	-3.529	1.463	Neophocaena asiaeorientalis asiaeorientalis.cif#2.A	1
+A:3:_:ILE	A	3	ILE	RES	H	1	88.140	-21.224	0.178	0.756	Neophocaena asiaeorientalis asiaeorientalis.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	0	90.622	-24.301	0.845	2.897	Neophocaena asiaeorientalis asiaeorientalis.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	5	88.852	-22.490	-0.609	5.910	Neophocaena asiaeorientalis asiaeorientalis.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	6	93.124	-19.425	1.501	5.117	Neophocaena asiaeorientalis asiaeorientalis.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	7	96.054	-21.628	4.601	5.034	Neophocaena asiaeorientalis asiaeorientalis.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	0	95.483	-23.181	3.659	8.397	Neophocaena asiaeorientalis asiaeorientalis.cif#8.A	1
+A:9:_:THR	A	9	THR	RES	 	3	92.703	-19.919	2.994	10.252	Neophocaena asiaeorientalis asiaeorientalis.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	1	95.490	-18.992	5.463	12.984	Neophocaena asiaeorientalis asiaeorientalis.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	4	96.418	-15.768	7.482	12.985	Neophocaena asiaeorientalis asiaeorientalis.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	1	95.600	-13.898	5.361	15.507	Neophocaena asiaeorientalis asiaeorientalis.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	4	92.458	-14.561	2.084	13.743	Neophocaena asiaeorientalis asiaeorientalis.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	7	95.529	-13.938	3.571	10.288	Neophocaena asiaeorientalis asiaeorientalis.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	3	92.728	-10.601	5.182	11.179	Neophocaena asiaeorientalis asiaeorientalis.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	1	88.479	-9.182	3.032	13.975	Neophocaena asiaeorientalis asiaeorientalis.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	1	86.226	-10.456	-0.434	13.050	Neophocaena asiaeorientalis asiaeorientalis.cif#17.A	1
+A:18:_:LEU	A	18	LEU	RES	H	4	88.395	-11.393	-0.743	9.378	Neophocaena asiaeorientalis asiaeorientalis.cif#18.A	1
+A:19:_:PHE	A	19	PHE	RES	H	5	90.724	-9.771	1.785	7.046	Neophocaena asiaeorientalis asiaeorientalis.cif#19.A	1
+A:20:_:GLY	A	20	GLY	RES	H	0	87.074	-6.887	3.338	8.982	Neophocaena asiaeorientalis asiaeorientalis.cif#20.A	1
+A:21:_:SER	A	21	SER	RES	H	4	78.887	-4.471	0.725	7.643	Neophocaena asiaeorientalis asiaeorientalis.cif#21.A	1
+A:22:_:VAL	A	22	VAL	RES	H	1	86.064	-5.512	0.986	3.987	Neophocaena asiaeorientalis asiaeorientalis.cif#22.A	1
+A:23:_:THR	A	23	THR	RES	S	1	78.769	-2.652	3.456	3.622	Neophocaena asiaeorientalis asiaeorientalis.cif#23.A	1
+A:24:_:GLU	A	24	GLU	RES	T	3	67.165	-0.189	2.619	6.391	Neophocaena asiaeorientalis asiaeorientalis.cif#24.A	1
+A:25:_:ARG	A	25	ARG	RES	T	2	63.938	1.464	5.408	8.382	Neophocaena asiaeorientalis asiaeorientalis.cif#25.A	1
+A:26:_:CYS	A	26	CYS	RES	 	5	75.752	-0.631	8.173	6.853	Neophocaena asiaeorientalis asiaeorientalis.cif#26.A	1
+A:27:_:PRO	A	27	PRO	RES	H	0	79.548	-3.173	8.888	9.593	Neophocaena asiaeorientalis asiaeorientalis.cif#27.A	1
+A:28:_:LEU	A	28	LEU	RES	H	1	82.409	-4.742	11.862	7.787	Neophocaena asiaeorientalis asiaeorientalis.cif#28.A	1
+A:29:_:ILE	A	29	ILE	RES	H	6	87.912	-6.214	9.844	4.911	Neophocaena asiaeorientalis asiaeorientalis.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	2	92.760	-8.848	7.730	6.654	Neophocaena asiaeorientalis asiaeorientalis.cif#30.A	1
+A:31:_:PRO	A	31	PRO	RES	H	1	93.955	-10.446	10.617	8.608	Neophocaena asiaeorientalis asiaeorientalis.cif#31.A	1
+A:32:_:THR	A	32	THR	RES	H	3	91.774	-10.502	12.722	5.440	Neophocaena asiaeorientalis asiaeorientalis.cif#32.A	1
+A:33:_:VAL	A	33	VAL	RES	H	3	95.599	-12.111	9.925	3.432	Neophocaena asiaeorientalis asiaeorientalis.cif#33.A	1
+A:34:_:PHE	A	34	PHE	RES	H	8	96.859	-14.631	9.445	6.260	Neophocaena asiaeorientalis asiaeorientalis.cif#34.A	1
+A:35:_:SER	A	35	SER	RES	H	3	95.605	-15.763	13.048	5.749	Neophocaena asiaeorientalis asiaeorientalis.cif#35.A	1
+A:36:_:GLN	A	36	GLN	RES	H	1	94.883	-16.602	12.309	2.093	Neophocaena asiaeorientalis asiaeorientalis.cif#36.A	1
+A:37:_:ARG	A	37	ARG	RES	 	5	93.902	-19.493	9.943	2.897	Neophocaena asiaeorientalis asiaeorientalis.cif#37.A	1
+A:38:_:PRO	A	38	PRO	RES	 	0	96.614	-21.899	8.879	1.548	Neophocaena asiaeorientalis asiaeorientalis.cif#38.A	1
+A:39:_:PHE	A	39	PHE	RES	 	9	95.057	-20.061	6.817	-1.062	Neophocaena asiaeorientalis asiaeorientalis.cif#39.A	1
+A:40:_:SER	A	40	SER	RES	S	3	94.560	-22.008	5.723	-4.115	Neophocaena asiaeorientalis asiaeorientalis.cif#40.A	1
+A:41:_:ASP	A	41	ASP	RES	S	3	88.361	-20.162	2.419	-4.607	Neophocaena asiaeorientalis asiaeorientalis.cif#41.A	1
+A:42:_:LEU	A	42	LEU	RES	H	1	81.762	-16.899	0.654	-3.821	Neophocaena asiaeorientalis asiaeorientalis.cif#42.A	1
+A:43:_:GLU	A	43	GLU	RES	H	0	86.268	-15.120	2.311	-6.753	Neophocaena asiaeorientalis asiaeorientalis.cif#43.A	1
+A:44:_:ASP	A	44	ASP	RES	H	8	93.677	-16.103	5.710	-5.347	Neophocaena asiaeorientalis asiaeorientalis.cif#44.A	1
+A:45:_:LEU	A	45	LEU	RES	H	3	92.873	-14.640	4.794	-1.949	Neophocaena asiaeorientalis asiaeorientalis.cif#45.A	1
+A:46:_:GLU	A	46	GLU	RES	H	9	90.062	-11.403	3.584	-3.550	Neophocaena asiaeorientalis asiaeorientalis.cif#46.A	1
+A:47:_:GLN	A	47	GLN	RES	H	3	94.225	-11.104	6.722	-5.668	Neophocaena asiaeorientalis asiaeorientalis.cif#47.A	1
+A:48:_:HIS	A	48	HIS	RES	H	5	95.448	-11.382	8.948	-2.584	Neophocaena asiaeorientalis asiaeorientalis.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	H	5	93.273	-8.411	7.129	-1.032	Neophocaena asiaeorientalis asiaeorientalis.cif#49.A	1
+A:50:_:PHE	A	50	PHE	RES	H	4	92.160	-6.304	7.392	-4.169	Neophocaena asiaeorientalis asiaeorientalis.cif#50.A	1
+A:51:_:ALA	A	51	ALA	RES	H	3	93.815	-7.283	10.962	-5.047	Neophocaena asiaeorientalis asiaeorientalis.cif#51.A	1
+A:52:_:PHE	A	52	PHE	RES	H	4	91.196	-6.271	12.089	-1.564	Neophocaena asiaeorientalis asiaeorientalis.cif#52.A	1
+A:53:_:THR	A	53	THR	RES	H	3	88.080	-2.968	10.263	-1.930	Neophocaena asiaeorientalis asiaeorientalis.cif#53.A	1
+A:54:_:ASP	A	54	ASP	RES	H	0	90.391	-2.350	12.086	-5.216	Neophocaena asiaeorientalis asiaeorientalis.cif#54.A	1
+A:55:_:ALA	A	55	ALA	RES	H	2	91.927	-3.238	15.441	-3.660	Neophocaena asiaeorientalis asiaeorientalis.cif#55.A	1
+A:56:_:LEU	A	56	LEU	RES	 	3	88.269	-0.840	15.166	-0.704	Neophocaena asiaeorientalis asiaeorientalis.cif#56.A	1
+A:57:_:PRO	A	57	PRO	RES	I	2	88.765	1.934	17.746	-0.487	Neophocaena asiaeorientalis asiaeorientalis.cif#57.A	1
+A:58:_:GLN	A	58	GLN	RES	H	3	82.770	5.495	16.514	-0.858	Neophocaena asiaeorientalis asiaeorientalis.cif#58.A	1
+A:59:_:SER	A	59	SER	RES	H	1	82.601	5.882	15.979	2.898	Neophocaena asiaeorientalis asiaeorientalis.cif#59.A	1
+A:60:_:GLY	A	60	GLY	RES	H	2	84.601	2.847	13.687	2.886	Neophocaena asiaeorientalis asiaeorientalis.cif#60.A	1
+A:61:_:LYS	A	61	LYS	RES	H	4	85.031	4.088	11.731	-0.114	Neophocaena asiaeorientalis asiaeorientalis.cif#61.A	1
+A:62:_:ASP	A	62	ASP	RES	H	7	79.117	7.483	11.369	1.562	Neophocaena asiaeorientalis asiaeorientalis.cif#62.A	1
+A:63:_:LYS	A	63	LYS	RES	H	2	77.117	5.749	9.934	4.622	Neophocaena asiaeorientalis asiaeorientalis.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	5	81.777	4.107	7.264	2.471	Neophocaena asiaeorientalis asiaeorientalis.cif#64.A	1
+A:65:_:VAL	A	65	VAL	RES	H	2	81.485	7.339	6.062	0.882	Neophocaena asiaeorientalis asiaeorientalis.cif#65.A	1
+A:66:_:THR	A	66	THR	RES	H	4	71.381	9.675	6.368	3.901	Neophocaena asiaeorientalis asiaeorientalis.cif#66.A	1
+A:67:_:TYR	A	67	TYR	RES	 	2	65.945	7.738	3.833	5.979	Neophocaena asiaeorientalis asiaeorientalis.cif#67.A	1
+A:68:_:ARG	A	68	ARG	RES	 	2	62.340	10.029	0.842	6.743	Neophocaena asiaeorientalis asiaeorientalis.cif#68.A	1
+A:69:_:PRO	A	69	PRO	RES	H	0	62.807	8.029	-2.321	7.376	Neophocaena asiaeorientalis asiaeorientalis.cif#69.A	1
+A:70:_:ASP	A	70	ASP	RES	H	1	61.628	11.284	-4.290	7.620	Neophocaena asiaeorientalis asiaeorientalis.cif#70.A	1
+A:71:_:ARG	A	71	ARG	RES	H	3	65.768	12.184	-2.369	10.781	Neophocaena asiaeorientalis asiaeorientalis.cif#71.A	1
+A:72:_:GLU	A	72	GLU	RES	H	2	66.554	8.799	-3.117	12.349	Neophocaena asiaeorientalis asiaeorientalis.cif#72.A	1
+A:73:_:LEU	A	73	LEU	RES	H	1	65.668	9.181	-6.770	11.332	Neophocaena asiaeorientalis asiaeorientalis.cif#73.A	1
+A:74:_:GLN	A	74	GLN	RES	H	1	68.074	12.412	-6.971	13.323	Neophocaena asiaeorientalis asiaeorientalis.cif#74.A	1
+A:75:_:ARG	A	75	ARG	RES	H	1	67.828	10.655	-5.354	16.296	Neophocaena asiaeorientalis asiaeorientalis.cif#75.A	1
+A:76:_:GLY	A	76	GLY	RES	H	1	67.225	7.638	-7.666	16.022	Neophocaena asiaeorientalis asiaeorientalis.cif#76.A	1
+A:77:_:GLU	A	77	GLU	RES	 	1	64.935	5.410	-4.583	15.737	Neophocaena asiaeorientalis asiaeorientalis.cif#77.A	1
+A:78:_:LEU	A	78	LEU	RES	 	1	67.300	3.826	-5.000	12.294	Neophocaena asiaeorientalis asiaeorientalis.cif#78.A	1
+A:79:_:SER	A	79	SER	RES	 	4	66.711	0.129	-4.475	11.794	Neophocaena asiaeorientalis asiaeorientalis.cif#79.A	1
+A:80:_:ALA	A	80	ALA	RES	H	3	68.927	-1.793	-7.464	10.471	Neophocaena asiaeorientalis asiaeorientalis.cif#80.A	1
+A:81:_:GLU	A	81	GLU	RES	H	4	66.497	-1.868	-5.862	7.019	Neophocaena asiaeorientalis asiaeorientalis.cif#81.A	1
+A:82:_:SER	A	82	SER	RES	H	2	69.955	1.882	-5.203	6.891	Neophocaena asiaeorientalis asiaeorientalis.cif#82.A	1
+A:83:_:GLN	A	83	GLN	RES	H	4	68.542	2.581	-8.684	8.256	Neophocaena asiaeorientalis asiaeorientalis.cif#83.A	1
+A:84:_:ARG	A	84	ARG	RES	H	4	70.815	0.704	-10.148	5.293	Neophocaena asiaeorientalis asiaeorientalis.cif#84.A	1
+A:85:_:GLU	A	85	GLU	RES	H	5	70.946	2.766	-8.039	2.885	Neophocaena asiaeorientalis asiaeorientalis.cif#85.A	1
+A:86:_:GLN	A	86	GLN	RES	H	5	69.523	6.047	-9.120	4.479	Neophocaena asiaeorientalis asiaeorientalis.cif#86.A	1
+A:87:_:SER	A	87	SER	RES	H	2	71.949	4.991	-12.766	4.454	Neophocaena asiaeorientalis asiaeorientalis.cif#87.A	1
+A:88:_:ALA	A	88	ALA	RES	H	1	68.003	4.016	-12.530	0.777	Neophocaena asiaeorientalis asiaeorientalis.cif#88.A	1
+A:89:_:ALA	A	89	ALA	RES	H	3	69.361	7.426	-11.005	0.031	Neophocaena asiaeorientalis asiaeorientalis.cif#89.A	1
+A:90:_:GLY	A	90	GLY	RES	H	2	68.100	9.114	-13.942	1.782	Neophocaena asiaeorientalis asiaeorientalis.cif#90.A	1
+A:91:_:HIS	A	91	HIS	RES	G	3	65.878	10.785	-11.757	4.405	Neophocaena asiaeorientalis asiaeorientalis.cif#91.A	1
+A:92:_:THR	A	92	THR	RES	G	1	68.313	9.620	-13.972	7.283	Neophocaena asiaeorientalis asiaeorientalis.cif#92.A	1
+A:93:_:SER	A	93	SER	RES	G	1	72.284	11.438	-17.028	5.866	Neophocaena asiaeorientalis asiaeorientalis.cif#93.A	1
+A:94:_:LEU	A	94	LEU	RES	 	3	72.070	14.859	-15.524	5.135	Neophocaena asiaeorientalis asiaeorientalis.cif#94.A	1
+A:95:_:GLY	A	95	GLY	RES	 	2	78.442	17.999	-17.315	6.248	Neophocaena asiaeorientalis asiaeorientalis.cif#95.A	1
+A:96:_:ALA	A	96	ALA	RES	H	2	84.330	21.143	-15.606	7.468	Neophocaena asiaeorientalis asiaeorientalis.cif#96.A	1
+A:97:_:ALA	A	97	ALA	RES	H	0	83.665	22.759	-15.289	4.029	Neophocaena asiaeorientalis asiaeorientalis.cif#97.A	1
+A:98:_:GLU	A	98	GLU	RES	H	1	76.604	19.559	-13.916	2.487	Neophocaena asiaeorientalis asiaeorientalis.cif#98.A	1
+A:99:_:ARG	A	99	ARG	RES	H	3	76.515	19.211	-11.375	5.295	Neophocaena asiaeorientalis asiaeorientalis.cif#99.A	1
+A:100:_:LEU	A	100	LEU	RES	H	2	85.461	22.752	-10.096	4.739	Neophocaena asiaeorientalis asiaeorientalis.cif#100.A	1
+A:101:_:TRP	A	101	TRP	RES	H	2	81.224	22.232	-9.799	0.994	Neophocaena asiaeorientalis asiaeorientalis.cif#101.A	1
+A:102:_:LEU	A	102	LEU	RES	H	1	76.633	18.894	-8.044	1.391	Neophocaena asiaeorientalis asiaeorientalis.cif#102.A	1
+A:103:_:ALA	A	103	ALA	RES	H	1	79.457	20.272	-5.623	3.994	Neophocaena asiaeorientalis asiaeorientalis.cif#103.A	1
+A:104:_:ALA	A	104	ALA	RES	H	2	86.497	23.073	-4.615	1.630	Neophocaena asiaeorientalis asiaeorientalis.cif#104.A	1
+A:105:_:LEU	A	105	LEU	RES	H	2	82.271	20.661	-4.175	-1.272	Neophocaena asiaeorientalis asiaeorientalis.cif#105.A	1
+A:106:_:ASN	A	106	ASN	RES	H	1	78.961	18.241	-2.117	0.824	Neophocaena asiaeorientalis asiaeorientalis.cif#106.A	1
+A:107:_:ALA	A	107	ALA	RES	H	2	86.644	21.068	0.133	2.014	Neophocaena asiaeorientalis asiaeorientalis.cif#107.A	1
+A:108:_:GLN	A	108	GLN	RES	H	4	89.125	22.132	0.799	-1.581	Neophocaena asiaeorientalis asiaeorientalis.cif#108.A	1
+A:109:_:TYR	A	109	TYR	RES	H	10	87.017	18.539	1.433	-2.655	Neophocaena asiaeorientalis asiaeorientalis.cif#109.A	1
+A:110:_:ARG	A	110	ARG	RES	H	2	84.714	17.839	3.881	0.159	Neophocaena asiaeorientalis asiaeorientalis.cif#110.A	1
+A:111:_:ALA	A	111	ALA	RES	H	1	89.849	21.127	5.718	-0.381	Neophocaena asiaeorientalis asiaeorientalis.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	1	88.740	20.176	6.296	-4.016	Neophocaena asiaeorientalis asiaeorientalis.cif#112.A	1
+A:113:_:SER	A	113	SER	RES	H	2	85.824	16.432	6.927	-3.787	Neophocaena asiaeorientalis asiaeorientalis.cif#113.A	1
+A:114:_:GLY	A	114	GLY	RES	T	2	85.504	16.094	8.457	-0.319	Neophocaena asiaeorientalis asiaeorientalis.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	S	5	83.817	13.342	6.040	0.689	Neophocaena asiaeorientalis asiaeorientalis.cif#115.A	1
+A:116:_:PRO	A	116	PRO	RES	 	2	78.786	12.760	2.306	1.216	Neophocaena asiaeorientalis asiaeorientalis.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	 	3	81.757	11.774	-0.153	-1.483	Neophocaena asiaeorientalis asiaeorientalis.cif#117.A	1
+A:118:_:ALA	A	118	ALA	RES	 	0	79.381	8.019	-0.482	-1.995	Neophocaena asiaeorientalis asiaeorientalis.cif#118.A	1
+A:119:_:LEU	A	119	LEU	RES	 	2	78.229	6.255	-3.293	-3.842	Neophocaena asiaeorientalis asiaeorientalis.cif#119.A	1
+A:120:_:ALA	A	120	ALA	RES	 	2	77.584	2.726	-4.671	-3.671	Neophocaena asiaeorientalis asiaeorientalis.cif#120.A	1
+A:121:_:ALA	A	121	ALA	RES	G	1	69.724	4.055	-8.126	-2.873	Neophocaena asiaeorientalis asiaeorientalis.cif#121.A	1
+A:122:_:ARG	A	122	ARG	RES	G	6	66.148	0.652	-9.754	-2.359	Neophocaena asiaeorientalis asiaeorientalis.cif#122.A	1
+A:123:_:VAL	A	123	VAL	RES	G	1	61.431	-0.304	-9.031	-5.972	Neophocaena asiaeorientalis asiaeorientalis.cif#123.A	1
+A:124:_:SER	A	124	SER	RES	S	1	62.835	3.166	-9.877	-7.335	Neophocaena asiaeorientalis asiaeorientalis.cif#124.A	1
+A:125:_:ASP	A	125	ASP	RES	 	1	66.752	4.897	-13.188	-7.844	Neophocaena asiaeorientalis asiaeorientalis.cif#125.A	1
+A:126:_:ARG	A	126	ARG	RES	H	0	65.160	6.831	-13.906	-4.637	Neophocaena asiaeorientalis asiaeorientalis.cif#126.A	1
+A:127:_:ALA	A	127	ALA	RES	H	1	70.766	9.839	-15.058	-6.653	Neophocaena asiaeorientalis asiaeorientalis.cif#127.A	1
+A:128:_:ALA	A	128	ALA	RES	H	2	72.083	9.961	-11.699	-8.436	Neophocaena asiaeorientalis asiaeorientalis.cif#128.A	1
+A:129:_:VAL	A	129	VAL	RES	H	1	73.843	10.326	-9.573	-5.284	Neophocaena asiaeorientalis asiaeorientalis.cif#129.A	1
+A:130:_:PRO	A	130	PRO	RES	H	1	75.626	14.143	-9.683	-4.987	Neophocaena asiaeorientalis asiaeorientalis.cif#130.A	1
+A:131:_:ARG	A	131	ARG	RES	H	1	82.193	14.480	-9.289	-8.769	Neophocaena asiaeorientalis asiaeorientalis.cif#131.A	1
+A:132:_:GLU	A	132	GLU	RES	H	6	84.385	12.300	-6.178	-8.770	Neophocaena asiaeorientalis asiaeorientalis.cif#132.A	1
+A:133:_:ARG	A	133	ARG	RES	H	3	80.289	14.281	-4.755	-5.857	Neophocaena asiaeorientalis asiaeorientalis.cif#133.A	1
+A:134:_:ALA	A	134	ALA	RES	H	2	83.510	17.556	-5.249	-7.728	Neophocaena asiaeorientalis asiaeorientalis.cif#134.A	1
+A:135:_:ARG	A	135	ARG	RES	H	5	89.782	16.122	-3.830	-10.962	Neophocaena asiaeorientalis asiaeorientalis.cif#135.A	1
+A:136:_:ARG	A	136	ARG	RES	H	8	89.788	14.657	-0.730	-9.353	Neophocaena asiaeorientalis asiaeorientalis.cif#136.A	1
+A:137:_:LEU	A	137	LEU	RES	H	5	86.988	17.932	0.039	-7.607	Neophocaena asiaeorientalis asiaeorientalis.cif#137.A	1
+A:138:_:HIS	A	138	HIS	RES	H	2	88.743	19.002	1.450	-10.984	Neophocaena asiaeorientalis asiaeorientalis.cif#138.A	1
+A:139:_:CYS	A	139	CYS	RES	S	2	90.024	15.873	3.494	-11.761	Neophocaena asiaeorientalis asiaeorientalis.cif#139.A	1
+A:140:_:PRO	A	140	PRO	RES	 	2	90.826	16.091	7.294	-11.829	Neophocaena asiaeorientalis asiaeorientalis.cif#140.A	1
+A:141:_:PRO	A	141	PRO	RES	H	1	83.844	15.040	8.648	-8.411	Neophocaena asiaeorientalis asiaeorientalis.cif#141.A	1
+A:142:_:ALA	A	142	ALA	RES	H	1	84.978	12.205	10.843	-9.708	Neophocaena asiaeorientalis asiaeorientalis.cif#142.A	1
+A:143:_:GLN	A	143	GLN	RES	H	3	91.670	10.756	7.938	-11.692	Neophocaena asiaeorientalis asiaeorientalis.cif#143.A	1
+A:144:_:GLU	A	144	GLU	RES	H	10	91.599	11.196	5.626	-8.708	Neophocaena asiaeorientalis asiaeorientalis.cif#144.A	1
+A:145:_:LEU	A	145	LEU	RES	H	3	86.655	9.246	7.967	-6.415	Neophocaena asiaeorientalis asiaeorientalis.cif#145.A	1
+A:146:_:ASN	A	146	ASN	RES	H	3	89.004	6.259	7.778	-8.761	Neophocaena asiaeorientalis asiaeorientalis.cif#146.A	1
+A:147:_:THR	A	147	THR	RES	H	4	91.998	6.629	4.007	-8.985	Neophocaena asiaeorientalis asiaeorientalis.cif#147.A	1
+A:148:_:ALA	A	148	ALA	RES	H	2	89.409	6.744	3.704	-5.186	Neophocaena asiaeorientalis asiaeorientalis.cif#148.A	1
+A:149:_:LEU	A	149	LEU	RES	H	3	89.303	3.591	5.798	-4.807	Neophocaena asiaeorientalis asiaeorientalis.cif#149.A	1
+A:150:_:GLY	A	150	GLY	RES	H	3	91.136	1.895	3.572	-7.375	Neophocaena asiaeorientalis asiaeorientalis.cif#150.A	1
+A:151:_:GLU	A	151	GLU	RES	H	8	87.439	2.860	0.537	-5.317	Neophocaena asiaeorientalis asiaeorientalis.cif#151.A	1
+A:152:_:VAL	A	152	VAL	RES	H	4	85.645	1.363	2.156	-2.212	Neophocaena asiaeorientalis asiaeorientalis.cif#152.A	1
+A:153:_:LYS	A	153	LYS	RES	H	3	89.673	-1.922	2.482	-4.121	Neophocaena asiaeorientalis asiaeorientalis.cif#153.A	1
+A:154:_:LYS	A	154	LYS	RES	H	6	86.352	-1.760	-1.165	-5.209	Neophocaena asiaeorientalis asiaeorientalis.cif#154.A	1
+A:155:_:ILE	A	155	ILE	RES	H	3	83.479	-1.262	-2.206	-1.583	Neophocaena asiaeorientalis asiaeorientalis.cif#155.A	1
+A:156:_:GLY	A	156	GLY	RES	H	4	86.641	-4.246	-0.071	-0.578	Neophocaena asiaeorientalis asiaeorientalis.cif#156.A	1
+A:157:_:ARG	A	157	ARG	RES	H	7	86.894	-6.357	-1.596	-3.341	Neophocaena asiaeorientalis asiaeorientalis.cif#157.A	1
+A:158:_:ARG	A	158	ARG	RES	H	12	80.515	-5.525	-5.105	-2.127	Neophocaena asiaeorientalis asiaeorientalis.cif#158.A	1
+A:159:_:ARG	A	159	ARG	RES	H	8	83.944	-6.346	-4.152	1.462	Neophocaena asiaeorientalis asiaeorientalis.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	4	87.499	-9.699	-2.691	0.411	Neophocaena asiaeorientalis asiaeorientalis.cif#160.A	1
+A:161:_:ALA	A	161	ALA	RES	H	3	80.094	-10.452	-5.889	-1.495	Neophocaena asiaeorientalis asiaeorientalis.cif#161.A	1
+A:162:_:ASP	A	162	ASP	RES	H	12	78.229	-9.644	-7.948	1.598	Neophocaena asiaeorientalis asiaeorientalis.cif#162.A	1
+A:163:_:LEU	A	163	LEU	RES	H	3	82.052	-11.790	-5.781	3.849	Neophocaena asiaeorientalis asiaeorientalis.cif#163.A	1
+A:164:_:LEU	A	164	LEU	RES	H	2	81.469	-14.774	-5.607	1.503	Neophocaena asiaeorientalis asiaeorientalis.cif#164.A	1
+A:165:_:GLY	A	165	GLY	RES	T	1	71.840	-14.678	-9.191	0.235	Neophocaena asiaeorientalis asiaeorientalis.cif#165.A	1
+A:166:_:SER	A	166	SER	RES	 	1	49.874	-14.127	-8.138	-3.362	Neophocaena asiaeorientalis asiaeorientalis.cif#166.A	1
+A:167:_:HIS	A	167	HIS	RES	G	3	43.616	-11.358	-8.506	-5.932	Neophocaena asiaeorientalis asiaeorientalis.cif#167.A	1
+A:168:_:ALA	A	168	ALA	RES	G	0	45.497	-12.663	-5.594	-7.997	Neophocaena asiaeorientalis asiaeorientalis.cif#168.A	1
+A:169:_:THR	A	169	THR	RES	G	0	46.050	-10.039	-3.259	-6.507	Neophocaena asiaeorientalis asiaeorientalis.cif#169.A	1
+A:170:_:GLU	A	170	GLU	RES	G	6	46.584	-7.050	-5.339	-7.690	Neophocaena asiaeorientalis asiaeorientalis.cif#170.A	1
+A:171:_:SER	A	171	SER	RES	 	0	43.404	-6.965	-3.910	-11.214	Neophocaena asiaeorientalis asiaeorientalis.cif#171.A	1

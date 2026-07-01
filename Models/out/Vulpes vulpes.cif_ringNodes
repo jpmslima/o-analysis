@@ -1,0 +1,177 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	1	47.042	2.496	0.074	17.879	Vulpes vulpes.cif#1.A	1
+A:2:_:GLN	A	2	GLN	RES	 	0	56.216	-0.498	-0.709	20.120	Vulpes vulpes.cif#2.A	1
+A:3:_:ALA	A	3	ALA	RES	 	0	64.533	-3.612	-2.672	19.255	Vulpes vulpes.cif#3.A	1
+A:4:_:MET	A	4	MET	RES	 	3	76.105	-6.992	-1.069	19.912	Vulpes vulpes.cif#4.A	1
+A:5:_:ASP	A	5	ASP	RES	 	2	81.208	-10.650	-2.055	19.913	Vulpes vulpes.cif#5.A	1
+A:6:_:ILE	A	6	ILE	RES	H	3	89.662	-13.491	-0.631	17.877	Vulpes vulpes.cif#6.A	1
+A:7:_:GLU	A	7	GLU	RES	H	0	89.899	-14.852	1.312	20.864	Vulpes vulpes.cif#7.A	1
+A:8:_:LYS	A	8	LYS	RES	H	3	89.321	-11.612	3.282	21.002	Vulpes vulpes.cif#8.A	1
+A:9:_:VAL	A	9	VAL	RES	H	3	94.732	-11.752	3.902	17.256	Vulpes vulpes.cif#9.A	1
+A:10:_:ASN	A	10	ASN	RES	H	2	96.057	-15.285	5.283	17.536	Vulpes vulpes.cif#10.A	1
+A:11:_:SER	A	11	SER	RES	H	2	94.467	-14.231	7.626	20.364	Vulpes vulpes.cif#11.A	1
+A:12:_:MET	A	12	MET	RES	 	1	95.975	-11.446	9.322	18.388	Vulpes vulpes.cif#12.A	1
+A:13:_:ASP	A	13	ASP	RES	 	1	97.603	-11.684	12.917	17.265	Vulpes vulpes.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	5	98.329	-10.759	13.868	13.708	Vulpes vulpes.cif#14.A	1
+A:15:_:GLY	A	15	GLY	RES	H	1	98.217	-7.099	14.616	14.388	Vulpes vulpes.cif#15.A	1
+A:16:_:GLU	A	16	GLU	RES	H	3	95.848	-6.496	11.454	16.369	Vulpes vulpes.cif#16.A	1
+A:17:_:PHE	A	17	PHE	RES	H	7	98.128	-8.289	9.280	13.803	Vulpes vulpes.cif#17.A	1
+A:18:_:VAL	A	18	VAL	RES	H	2	98.145	-6.254	10.654	10.898	Vulpes vulpes.cif#18.A	1
+A:19:_:ASP	A	19	ASP	RES	H	2	95.730	-3.038	10.302	12.891	Vulpes vulpes.cif#19.A	1
+A:20:_:VAL	A	20	VAL	RES	H	1	94.095	-3.767	6.625	13.556	Vulpes vulpes.cif#20.A	1
+A:21:_:PHE	A	21	PHE	RES	H	5	97.234	-5.368	5.586	10.262	Vulpes vulpes.cif#21.A	1
+A:22:_:GLY	A	22	GLY	RES	H	2	97.831	-3.887	8.070	7.793	Vulpes vulpes.cif#22.A	1
+A:23:_:ASN	A	23	ASN	RES	H	3	96.731	-1.422	5.516	6.428	Vulpes vulpes.cif#23.A	1
+A:24:_:VAL	A	24	VAL	RES	H	5	97.324	-3.827	2.581	6.138	Vulpes vulpes.cif#24.A	1
+A:25:_:ILE	A	25	ILE	RES	H	1	97.926	-3.646	3.483	2.445	Vulpes vulpes.cif#25.A	1
+A:26:_:GLU	A	26	GLU	RES	H	6	96.406	-0.014	4.407	1.838	Vulpes vulpes.cif#26.A	1
+A:27:_:ARG	A	27	ARG	RES	H	3	95.029	0.530	8.164	2.129	Vulpes vulpes.cif#27.A	1
+A:28:_:CYS	A	28	CYS	RES	H	2	95.156	-3.185	8.873	1.512	Vulpes vulpes.cif#28.A	1
+A:29:_:PRO	A	29	PRO	RES	H	2	96.622	-4.469	10.532	4.700	Vulpes vulpes.cif#29.A	1
+A:30:_:LEU	A	30	LEU	RES	H	2	93.151	-7.413	12.093	2.867	Vulpes vulpes.cif#30.A	1
+A:31:_:ILE	A	31	ILE	RES	H	4	97.667	-9.026	8.653	2.663	Vulpes vulpes.cif#31.A	1
+A:32:_:ALA	A	32	ALA	RES	H	3	98.160	-8.900	8.331	6.450	Vulpes vulpes.cif#32.A	1
+A:33:_:ALA	A	33	ALA	RES	H	3	97.985	-10.261	11.869	6.751	Vulpes vulpes.cif#33.A	1
+A:34:_:ALA	A	34	ALA	RES	H	1	97.072	-13.251	10.910	4.595	Vulpes vulpes.cif#34.A	1
+A:35:_:VAL	A	35	VAL	RES	H	5	98.339	-13.839	7.623	6.427	Vulpes vulpes.cif#35.A	1
+A:36:_:TRP	A	36	TRP	RES	H	12	98.267	-13.898	9.370	9.819	Vulpes vulpes.cif#36.A	1
+A:37:_:SER	A	37	SER	RES	H	0	96.094	-17.375	10.739	9.077	Vulpes vulpes.cif#37.A	1
+A:38:_:GLN	A	38	GLN	RES	H	2	96.696	-18.801	7.222	8.606	Vulpes vulpes.cif#38.A	1
+A:39:_:ARG	A	39	ARG	RES	 	5	94.844	-18.660	6.289	12.325	Vulpes vulpes.cif#39.A	1
+A:40:_:PRO	A	40	PRO	RES	 	0	95.705	-19.807	4.407	14.271	Vulpes vulpes.cif#40.A	1
+A:41:_:PHE	A	41	PHE	RES	 	4	96.432	-18.076	1.274	12.990	Vulpes vulpes.cif#41.A	1
+A:42:_:SER	A	42	SER	RES	 	5	94.021	-19.218	-2.114	14.257	Vulpes vulpes.cif#42.A	1
+A:43:_:ASN	A	43	ASN	RES	S	3	88.585	-15.990	-4.076	13.661	Vulpes vulpes.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	6	86.484	-12.842	-4.230	11.546	Vulpes vulpes.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	H	0	90.631	-14.768	-5.436	8.502	Vulpes vulpes.cif#45.A	1
+A:46:_:ASP	A	46	ASP	RES	H	7	95.368	-17.146	-2.474	8.692	Vulpes vulpes.cif#46.A	1
+A:47:_:LEU	A	47	LEU	RES	H	5	96.311	-14.253	-0.032	9.035	Vulpes vulpes.cif#47.A	1
+A:48:_:GLU	A	48	GLU	RES	H	6	93.074	-12.342	-1.505	6.108	Vulpes vulpes.cif#48.A	1
+A:49:_:LYS	A	49	LYS	RES	H	3	96.775	-15.481	-1.527	3.943	Vulpes vulpes.cif#49.A	1
+A:50:_:HIS	A	50	HIS	RES	H	2	98.235	-15.518	2.262	4.097	Vulpes vulpes.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	2	98.353	-11.846	2.552	3.140	Vulpes vulpes.cif#51.A	1
+A:52:_:PHE	A	52	PHE	RES	H	3	97.933	-12.281	0.244	0.159	Vulpes vulpes.cif#52.A	1
+A:53:_:ALA	A	53	ALA	RES	H	3	97.908	-15.595	1.763	-0.938	Vulpes vulpes.cif#53.A	1
+A:54:_:PHE	A	54	PHE	RES	H	3	97.255	-13.896	5.158	-1.087	Vulpes vulpes.cif#54.A	1
+A:55:_:ILE	A	55	ILE	RES	H	2	96.970	-11.221	3.741	-3.391	Vulpes vulpes.cif#55.A	1
+A:56:_:ASP	A	56	ASP	RES	H	4	96.540	-13.812	2.010	-5.561	Vulpes vulpes.cif#56.A	1
+A:57:_:ALA	A	57	ALA	RES	H	2	97.000	-15.809	5.233	-5.966	Vulpes vulpes.cif#57.A	1
+A:58:_:LEU	A	58	LEU	RES	S	2	97.004	-12.871	7.230	-7.344	Vulpes vulpes.cif#58.A	1
+A:59:_:PRO	A	59	PRO	RES	 	2	97.122	-12.482	7.863	-11.058	Vulpes vulpes.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	2	93.173	-9.633	6.044	-12.790	Vulpes vulpes.cif#60.A	1
+A:61:_:SER	A	61	SER	RES	H	1	95.562	-7.302	9.033	-12.431	Vulpes vulpes.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	4	96.592	-7.870	9.046	-8.675	Vulpes vulpes.cif#62.A	1
+A:63:_:ARG	A	63	ARG	RES	H	3	96.771	-7.271	5.312	-8.405	Vulpes vulpes.cif#63.A	1
+A:64:_:GLU	A	64	GLU	RES	H	3	97.009	-4.022	5.693	-10.344	Vulpes vulpes.cif#64.A	1
+A:65:_:GLY	A	65	GLY	RES	H	2	97.421	-3.112	8.542	-8.000	Vulpes vulpes.cif#65.A	1
+A:66:_:ILE	A	66	ILE	RES	H	5	96.741	-3.436	6.195	-5.031	Vulpes vulpes.cif#66.A	1
+A:67:_:LEU	A	67	LEU	RES	H	6	98.214	-1.032	3.777	-6.712	Vulpes vulpes.cif#67.A	1
+A:68:_:ARG	A	68	ARG	RES	H	3	97.129	1.465	6.584	-7.296	Vulpes vulpes.cif#68.A	1
+A:69:_:CYS	A	69	CYS	RES	H	2	95.675	1.649	7.133	-3.524	Vulpes vulpes.cif#69.A	1
+A:70:_:HIS	A	70	HIS	RES	S	5	96.559	3.293	3.721	-3.027	Vulpes vulpes.cif#70.A	1
+A:71:_:PRO	A	71	PRO	RES	 	1	95.424	7.066	3.235	-3.008	Vulpes vulpes.cif#71.A	1
+A:72:_:ASP	A	72	ASP	RES	 	1	94.293	8.907	0.886	-5.339	Vulpes vulpes.cif#72.A	1
+A:73:_:LEU	A	73	LEU	RES	T	1	94.446	9.705	-2.414	-3.648	Vulpes vulpes.cif#73.A	1
+A:74:_:ALA	A	74	ALA	RES	T	1	93.078	13.385	-2.362	-2.618	Vulpes vulpes.cif#74.A	1
+A:75:_:GLY	A	75	GLY	RES	S	3	92.932	13.622	0.991	-4.395	Vulpes vulpes.cif#75.A	1
+A:76:_:ARG	A	76	ARG	RES	H	0	89.943	14.969	4.467	-3.777	Vulpes vulpes.cif#76.A	1
+A:77:_:GLU	A	77	GLU	RES	H	6	93.156	12.955	5.177	-0.635	Vulpes vulpes.cif#77.A	1
+A:78:_:LEU	A	78	LEU	RES	H	1	92.973	14.323	2.053	1.023	Vulpes vulpes.cif#78.A	1
+A:79:_:GLN	A	79	GLN	RES	H	2	89.103	17.907	2.965	0.112	Vulpes vulpes.cif#79.A	1
+A:80:_:GLN	A	80	GLN	RES	H	0	93.486	17.402	6.545	1.360	Vulpes vulpes.cif#80.A	1
+A:81:_:GLY	A	81	GLY	RES	H	1	93.729	15.715	5.480	4.604	Vulpes vulpes.cif#81.A	1
+A:82:_:THR	A	82	THR	RES	 	4	94.534	12.518	7.403	3.824	Vulpes vulpes.cif#82.A	1
+A:83:_:LEU	A	83	LEU	RES	 	0	95.583	9.912	4.617	3.794	Vulpes vulpes.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	 	4	95.234	6.929	4.902	6.086	Vulpes vulpes.cif#84.A	1
+A:85:_:ALA	A	85	ALA	RES	H	1	92.499	7.203	2.775	9.217	Vulpes vulpes.cif#85.A	1
+A:86:_:GLU	A	86	GLU	RES	H	3	93.506	4.577	0.413	7.827	Vulpes vulpes.cif#86.A	1
+A:87:_:SER	A	87	SER	RES	H	5	96.298	6.314	-0.061	4.474	Vulpes vulpes.cif#87.A	1
+A:88:_:LEU	A	88	LEU	RES	H	3	95.338	9.662	-0.613	6.167	Vulpes vulpes.cif#88.A	1
+A:89:_:ARG	A	89	ARG	RES	H	4	91.798	8.242	-3.415	8.314	Vulpes vulpes.cif#89.A	1
+A:90:_:GLU	A	90	GLU	RES	H	7	94.659	6.466	-4.954	5.338	Vulpes vulpes.cif#90.A	1
+A:91:_:GLN	A	91	GLN	RES	H	4	95.721	9.513	-4.935	3.081	Vulpes vulpes.cif#91.A	1
+A:92:_:ARG	A	92	ARG	RES	H	3	93.073	11.811	-6.175	5.838	Vulpes vulpes.cif#92.A	1
+A:93:_:GLY	A	93	GLY	RES	H	1	91.049	9.455	-9.074	6.522	Vulpes vulpes.cif#93.A	1
+A:94:_:ALA	A	94	ALA	RES	H	2	91.932	9.597	-10.053	2.851	Vulpes vulpes.cif#94.A	1
+A:95:_:GLY	A	95	GLY	RES	H	1	93.578	13.411	-9.975	2.819	Vulpes vulpes.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	G	1	93.450	13.539	-6.949	0.515	Vulpes vulpes.cif#96.A	1
+A:97:_:THR	A	97	THR	RES	G	1	90.665	15.746	-4.873	2.831	Vulpes vulpes.cif#97.A	1
+A:98:_:SER	A	98	SER	RES	G	2	90.927	18.634	-7.369	2.491	Vulpes vulpes.cif#98.A	1
+A:99:_:LEU	A	99	LEU	RES	 	2	92.497	18.969	-7.739	-1.287	Vulpes vulpes.cif#99.A	1
+A:100:_:ASP	A	100	ASP	RES	 	4	93.204	22.447	-7.766	-2.766	Vulpes vulpes.cif#100.A	1
+A:101:_:ALA	A	101	ALA	RES	H	1	92.397	23.515	-5.258	-5.416	Vulpes vulpes.cif#101.A	1
+A:102:_:GLY	A	102	GLY	RES	H	0	94.983	22.626	-7.534	-8.327	Vulpes vulpes.cif#102.A	1
+A:103:_:GLU	A	103	GLU	RES	H	5	93.388	19.145	-8.202	-6.973	Vulpes vulpes.cif#103.A	1
+A:104:_:ARG	A	104	ARG	RES	H	3	91.645	18.579	-4.482	-6.420	Vulpes vulpes.cif#104.A	1
+A:105:_:LEU	A	105	LEU	RES	H	1	95.278	19.690	-3.672	-9.964	Vulpes vulpes.cif#105.A	1
+A:106:_:ARG	A	106	ARG	RES	H	5	94.717	17.352	-6.288	-11.424	Vulpes vulpes.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	3	95.104	14.375	-5.004	-9.464	Vulpes vulpes.cif#107.A	1
+A:108:_:ALA	A	108	ALA	RES	H	2	95.326	15.215	-1.406	-10.394	Vulpes vulpes.cif#108.A	1
+A:109:_:GLU	A	109	GLU	RES	H	4	97.381	15.191	-2.381	-14.069	Vulpes vulpes.cif#109.A	1
+A:110:_:LEU	A	110	LEU	RES	H	4	97.466	11.853	-4.182	-13.747	Vulpes vulpes.cif#110.A	1
+A:111:_:ASN	A	111	ASN	RES	H	3	96.688	10.349	-1.304	-11.750	Vulpes vulpes.cif#111.A	1
+A:112:_:GLY	A	112	GLY	RES	H	3	97.424	11.398	1.104	-14.496	Vulpes vulpes.cif#112.A	1
+A:113:_:GLN	A	113	GLN	RES	H	3	98.255	9.829	-1.054	-17.200	Vulpes vulpes.cif#113.A	1
+A:114:_:TYR	A	114	TYR	RES	H	13	98.318	6.629	-1.312	-15.158	Vulpes vulpes.cif#114.A	1
+A:115:_:ARG	A	115	ARG	RES	H	3	95.928	6.364	2.450	-14.668	Vulpes vulpes.cif#115.A	1
+A:116:_:ALA	A	116	ALA	RES	H	1	98.076	7.010	3.034	-18.371	Vulpes vulpes.cif#116.A	1
+A:117:_:ARG	A	117	ARG	RES	H	4	98.005	4.182	0.681	-19.311	Vulpes vulpes.cif#117.A	1
+A:118:_:PHE	A	118	PHE	RES	H	3	97.978	1.524	1.528	-16.721	Vulpes vulpes.cif#118.A	1
+A:119:_:GLY	A	119	GLY	RES	T	3	97.076	2.352	5.013	-15.407	Vulpes vulpes.cif#119.A	1
+A:120:_:PHE	A	120	PHE	RES	S	3	97.439	2.329	3.973	-11.743	Vulpes vulpes.cif#120.A	1
+A:121:_:PRO	A	121	PRO	RES	 	1	96.423	4.581	1.866	-9.521	Vulpes vulpes.cif#121.A	1
+A:122:_:PHE	A	122	PHE	RES	 	7	97.739	4.299	-1.885	-9.092	Vulpes vulpes.cif#122.A	1
+A:123:_:VAL	A	123	VAL	RES	 	0	97.521	2.264	-2.607	-5.973	Vulpes vulpes.cif#123.A	1
+A:124:_:LEU	A	124	LEU	RES	 	1	96.159	2.377	-5.985	-4.217	Vulpes vulpes.cif#124.A	1
+A:125:_:ALA	A	125	ALA	RES	 	2	95.152	1.445	-6.913	-0.668	Vulpes vulpes.cif#125.A	1
+A:126:_:ALA	A	126	ALA	RES	G	1	89.363	5.008	-7.679	0.382	Vulpes vulpes.cif#126.A	1
+A:127:_:ARG	A	127	ARG	RES	G	1	84.442	3.966	-9.417	3.610	Vulpes vulpes.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	G	1	82.701	2.473	-12.194	1.484	Vulpes vulpes.cif#128.A	1
+A:129:_:SER	A	129	SER	RES	 	1	82.833	5.530	-12.628	-0.780	Vulpes vulpes.cif#129.A	1
+A:130:_:ASP	A	130	ASP	RES	 	5	82.264	9.210	-13.430	-0.584	Vulpes vulpes.cif#130.A	1
+A:131:_:ARG	A	131	ARG	RES	H	2	85.889	12.203	-11.960	-2.359	Vulpes vulpes.cif#131.A	1
+A:132:_:ALA	A	132	ALA	RES	H	0	88.142	12.297	-14.671	-5.033	Vulpes vulpes.cif#132.A	1
+A:133:_:ALA	A	133	ALA	RES	H	6	89.407	8.627	-14.218	-5.931	Vulpes vulpes.cif#133.A	1
+A:134:_:VAL	A	134	VAL	RES	H	3	94.395	8.710	-10.438	-6.381	Vulpes vulpes.cif#134.A	1
+A:135:_:PRO	A	135	PRO	RES	H	1	94.559	10.600	-10.266	-9.711	Vulpes vulpes.cif#135.A	1
+A:136:_:ARG	A	136	ARG	RES	H	1	94.425	8.574	-13.176	-11.129	Vulpes vulpes.cif#136.A	1
+A:137:_:GLU	A	137	GLU	RES	H	7	96.325	5.315	-11.448	-10.261	Vulpes vulpes.cif#137.A	1
+A:138:_:LEU	A	138	LEU	RES	H	6	97.090	6.565	-8.148	-11.662	Vulpes vulpes.cif#138.A	1
+A:139:_:GLU	A	139	GLU	RES	H	2	96.848	7.528	-9.816	-14.950	Vulpes vulpes.cif#139.A	1
+A:140:_:ARG	A	140	ARG	RES	H	8	97.272	4.181	-11.612	-15.136	Vulpes vulpes.cif#140.A	1
+A:141:_:ARG	A	141	ARG	RES	H	11	98.211	2.181	-8.461	-14.561	Vulpes vulpes.cif#141.A	1
+A:142:_:LEU	A	142	LEU	RES	H	3	97.995	4.205	-6.536	-17.157	Vulpes vulpes.cif#142.A	1
+A:143:_:ARG	A	143	ARG	RES	H	3	96.979	2.425	-8.755	-19.705	Vulpes vulpes.cif#143.A	1
+A:144:_:CYS	A	144	CYS	RES	S	3	96.831	-1.087	-7.867	-18.497	Vulpes vulpes.cif#144.A	1
+A:145:_:ALA	A	145	ALA	RES	 	2	98.259	-3.488	-5.506	-20.195	Vulpes vulpes.cif#145.A	1
+A:146:_:PRO	A	146	PRO	RES	H	1	96.371	-3.512	-2.042	-18.600	Vulpes vulpes.cif#146.A	1
+A:147:_:ALA	A	147	ALA	RES	H	1	95.967	-7.123	-2.216	-17.400	Vulpes vulpes.cif#147.A	1
+A:148:_:GLN	A	148	GLN	RES	H	2	97.317	-6.505	-5.630	-15.849	Vulpes vulpes.cif#148.A	1
+A:149:_:GLU	A	149	GLU	RES	H	9	98.487	-3.307	-4.429	-14.183	Vulpes vulpes.cif#149.A	1
+A:150:_:LEU	A	150	LEU	RES	H	2	97.725	-5.047	-1.399	-12.678	Vulpes vulpes.cif#150.A	1
+A:151:_:ARG	A	151	ARG	RES	H	2	96.915	-7.592	-3.703	-11.049	Vulpes vulpes.cif#151.A	1
+A:152:_:THR	A	152	THR	RES	H	2	98.228	-4.880	-6.063	-9.841	Vulpes vulpes.cif#152.A	1
+A:153:_:ALA	A	153	ALA	RES	H	3	98.455	-2.747	-3.268	-8.373	Vulpes vulpes.cif#153.A	1
+A:154:_:LEU	A	154	LEU	RES	H	5	98.036	-5.732	-1.784	-6.534	Vulpes vulpes.cif#154.A	1
+A:155:_:ALA	A	155	ALA	RES	H	4	97.930	-6.544	-5.229	-5.142	Vulpes vulpes.cif#155.A	1
+A:156:_:GLU	A	156	GLU	RES	H	8	97.889	-3.005	-5.278	-3.737	Vulpes vulpes.cif#156.A	1
+A:157:_:VAL	A	157	VAL	RES	H	3	98.245	-3.595	-1.867	-2.133	Vulpes vulpes.cif#157.A	1
+A:158:_:LYS	A	158	LYS	RES	H	6	97.750	-6.665	-3.347	-0.449	Vulpes vulpes.cif#158.A	1
+A:159:_:LYS	A	159	LYS	RES	H	4	96.136	-4.672	-6.354	0.792	Vulpes vulpes.cif#159.A	1
+A:160:_:ILE	A	160	ILE	RES	H	4	97.352	-2.119	-3.981	2.320	Vulpes vulpes.cif#160.A	1
+A:161:_:GLY	A	161	GLY	RES	H	3	96.904	-4.870	-1.889	3.897	Vulpes vulpes.cif#161.A	1
+A:162:_:HIS	A	162	HIS	RES	H	2	94.355	-6.552	-4.975	5.320	Vulpes vulpes.cif#162.A	1
+A:163:_:LEU	A	163	LEU	RES	H	1	92.822	-3.320	-6.144	6.951	Vulpes vulpes.cif#163.A	1
+A:164:_:ARG	A	164	ARG	RES	H	6	95.370	-2.583	-2.702	8.388	Vulpes vulpes.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	7	94.217	-6.087	-2.393	9.845	Vulpes vulpes.cif#165.A	1
+A:166:_:ALA	A	166	ALA	RES	H	1	89.333	-5.822	-5.880	11.352	Vulpes vulpes.cif#166.A	1
+A:167:_:ASP	A	167	ASP	RES	H	1	88.534	-2.538	-4.922	12.998	Vulpes vulpes.cif#167.A	1
+A:168:_:LEU	A	168	LEU	RES	H	2	91.309	-3.979	-1.696	14.406	Vulpes vulpes.cif#168.A	1
+A:169:_:LEU	A	169	LEU	RES	H	4	88.640	-7.042	-3.435	15.849	Vulpes vulpes.cif#169.A	1
+A:170:_:GLY	A	170	GLY	RES	T	1	78.965	-5.251	-6.594	16.998	Vulpes vulpes.cif#170.A	1
+A:171:_:ALA	A	171	ALA	RES	 	2	63.101	-7.461	-8.778	14.807	Vulpes vulpes.cif#171.A	1
+A:172:_:HIS	A	172	HIS	RES	 	0	58.561	-4.637	-10.730	13.096	Vulpes vulpes.cif#172.A	1
+A:173:_:PRO	A	173	PRO	RES	 	1	50.652	-6.803	-12.746	10.699	Vulpes vulpes.cif#173.A	1
+A:174:_:ALA	A	174	ALA	RES	S	0	51.399	-5.495	-16.160	9.636	Vulpes vulpes.cif#174.A	1
+A:175:_:GLY	A	175	GLY	RES	 	0	50.256	-5.624	-15.205	5.955	Vulpes vulpes.cif#175.A	1
+A:176:_:LEU	A	176	LEU	RES	 	1	46.498	-7.140	-13.080	3.204	Vulpes vulpes.cif#176.A	1

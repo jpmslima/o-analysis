@@ -1,0 +1,175 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	5	74.499	0.652	-0.250	-19.312	Panthera pardus.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	2	77.687	-2.655	0.968	-20.703	Panthera pardus.cif#2.A	1
+A:3:_:MET	A	3	MET	RES	H	5	87.628	-6.160	0.005	-19.682	Panthera pardus.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	1	88.410	-6.757	-2.130	-22.758	Panthera pardus.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	3	88.260	-3.891	-4.374	-21.677	Panthera pardus.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	7	92.731	-5.035	-4.362	-18.057	Panthera pardus.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	8	93.995	-8.582	-5.268	-19.079	Panthera pardus.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	2	94.984	-7.341	-8.132	-21.262	Panthera pardus.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	8	95.455	-5.351	-9.818	-18.489	Panthera pardus.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	3	97.032	-6.502	-13.156	-17.191	Panthera pardus.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	4	97.171	-6.882	-13.703	-13.455	Panthera pardus.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	1	97.397	-3.383	-15.041	-12.846	Panthera pardus.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	4	95.695	-1.669	-12.361	-14.883	Panthera pardus.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	5	97.564	-3.639	-9.570	-13.204	Panthera pardus.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	97.393	-2.868	-10.829	-9.698	Panthera pardus.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	1	94.279	0.788	-11.311	-10.599	Panthera pardus.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	1	93.365	1.039	-7.693	-11.737	Panthera pardus.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	2	95.547	-1.208	-5.958	-9.210	Panthera pardus.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	2	95.449	-1.143	-8.329	-6.243	Panthera pardus.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	6	89.065	1.195	-6.135	-4.214	Panthera pardus.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	1	94.357	-0.528	-2.815	-4.881	Panthera pardus.cif#21.A	1
+A:22:_:VAL	A	22	VAL	RES	S	1	94.879	-1.627	-3.345	-1.285	Panthera pardus.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	3	88.016	1.276	-4.865	0.627	Panthera pardus.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	2	86.896	1.098	-8.670	0.743	Panthera pardus.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	2	92.462	-2.636	-8.610	-0.049	Panthera pardus.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	3	94.868	-3.091	-10.333	-3.411	Panthera pardus.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	1	91.781	-6.688	-11.161	-2.534	Panthera pardus.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	3	96.394	-7.587	-7.493	-2.975	Panthera pardus.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	4	97.344	-6.278	-7.594	-6.530	Panthera pardus.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	1	97.136	-8.156	-10.854	-7.043	Panthera pardus.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	1	96.330	-11.397	-9.178	-5.982	Panthera pardus.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	6	97.428	-10.768	-6.080	-8.097	Panthera pardus.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	9	97.570	-10.085	-8.187	-11.195	Panthera pardus.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	0	95.004	-13.785	-9.034	-11.469	Panthera pardus.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	3	94.917	-14.702	-5.335	-11.702	Panthera pardus.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	7	93.962	-13.250	-4.880	-15.205	Panthera pardus.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	94.060	-13.437	-3.119	-17.574	Panthera pardus.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	5	93.536	-11.628	-0.126	-16.101	Panthera pardus.cif#38.A	1
+A:39:_:SER	A	39	SER	RES	S	3	90.774	-11.838	3.101	-18.069	Panthera pardus.cif#39.A	1
+A:40:_:ASN	A	40	ASN	RES	S	3	86.008	-8.563	4.616	-16.826	Panthera pardus.cif#40.A	1
+A:41:_:SER	A	41	SER	RES	H	2	85.029	-6.021	4.405	-14.022	Panthera pardus.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	1	86.219	-8.216	6.474	-11.702	Panthera pardus.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	7	90.903	-11.055	4.008	-12.186	Panthera pardus.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	4	93.315	-8.751	1.099	-11.363	Panthera pardus.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	H	5	92.320	-7.488	2.911	-8.263	Panthera pardus.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	1	93.363	-11.065	3.657	-7.208	Panthera pardus.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	6	96.756	-11.910	-0.036	-7.178	Panthera pardus.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	2	97.203	-8.910	-0.910	-5.015	Panthera pardus.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	H	6	96.269	-9.719	1.793	-2.498	Panthera pardus.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	1	97.062	-13.465	1.133	-2.515	Panthera pardus.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	0	96.705	-12.769	-2.503	-1.678	Panthera pardus.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	4	96.913	-10.578	-1.469	1.249	Panthera pardus.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	7	96.559	-13.216	0.956	2.486	Panthera pardus.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	1	96.676	-15.968	-1.660	2.260	Panthera pardus.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	3	96.858	-14.169	-4.169	4.477	Panthera pardus.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	I	4	97.269	-15.264	-4.565	8.077	Panthera pardus.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	3	95.684	-12.888	-3.156	10.677	Panthera pardus.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	1	96.186	-11.284	-6.558	11.247	Panthera pardus.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	4	96.811	-10.478	-6.784	7.541	Panthera pardus.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	5	97.544	-9.061	-3.272	7.464	Panthera pardus.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	5	96.976	-6.847	-4.058	10.445	Panthera pardus.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	2	96.872	-5.788	-7.244	8.683	Panthera pardus.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	5	95.383	-4.552	-5.181	5.744	Panthera pardus.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	4	97.101	-2.455	-3.082	8.108	Panthera pardus.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	2	95.936	-0.987	-6.192	9.728	Panthera pardus.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	3	90.984	0.459	-7.180	6.345	Panthera pardus.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	2	90.795	2.752	-4.135	6.354	Panthera pardus.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	1	83.548	6.266	-4.273	7.804	Panthera pardus.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	5	80.436	7.629	-2.073	10.565	Panthera pardus.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	2	77.678	9.731	0.748	9.169	Panthera pardus.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	1	67.692	13.412	-0.184	9.560	Panthera pardus.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	3	71.842	12.242	-3.210	11.520	Panthera pardus.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	H	3	70.119	12.849	-6.927	11.715	Panthera pardus.cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	H	4	68.002	11.838	-7.705	8.131	Panthera pardus.cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	H	1	68.616	14.405	-5.261	6.779	Panthera pardus.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	2	66.125	17.166	-6.857	8.860	Panthera pardus.cif#76.A	1
+A:77:_:GLN	A	77	GLN	RES	H	3	65.363	16.116	-10.364	7.839	Panthera pardus.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	H	3	65.885	15.912	-9.460	4.146	Panthera pardus.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	2	62.881	12.261	-10.489	3.875	Panthera pardus.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	S	0	67.449	10.719	-7.217	2.671	Panthera pardus.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	5	73.598	8.894	-7.174	-0.629	Panthera pardus.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	2	64.573	10.787	-5.530	-3.467	Panthera pardus.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	4	66.564	8.411	-2.576	-3.284	Panthera pardus.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	5	68.713	8.854	-2.015	0.451	Panthera pardus.cif#84.A	1
+A:85:_:ARG	A	85	ARG	RES	H	3	65.006	12.615	-2.374	0.153	Panthera pardus.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	3	65.588	12.741	0.376	-2.484	Panthera pardus.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	3	70.029	10.432	2.586	-0.446	Panthera pardus.cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	H	3	65.578	12.383	2.234	2.794	Panthera pardus.cif#88.A	1
+A:89:_:ARG	A	89	ARG	RES	H	2	64.381	15.684	2.714	0.985	Panthera pardus.cif#89.A	1
+A:90:_:GLY	A	90	GLY	RES	H	0	63.851	14.332	5.888	-0.598	Panthera pardus.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	4	63.313	13.289	7.165	2.824	Panthera pardus.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	0	65.826	16.807	6.654	4.177	Panthera pardus.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	G	4	67.853	15.816	3.956	6.674	Panthera pardus.cif#93.A	1
+A:94:_:MET	A	94	MET	RES	G	0	66.693	18.608	1.501	5.835	Panthera pardus.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	G	1	71.810	21.484	3.407	7.489	Panthera pardus.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	6	74.075	20.278	3.927	11.042	Panthera pardus.cif#96.A	1
+A:97:_:ASP	A	97	ASP	RES	 	6	78.986	22.846	3.802	13.821	Panthera pardus.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	H	1	83.728	22.357	1.595	16.868	Panthera pardus.cif#98.A	1
+A:99:_:ALA	A	99	ALA	RES	H	1	87.850	20.691	4.295	18.963	Panthera pardus.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	H	8	81.880	18.300	5.187	16.135	Panthera pardus.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	H	4	82.783	17.408	1.530	15.607	Panthera pardus.cif#101.A	1
+A:102:_:LEU	A	102	LEU	RES	H	2	88.816	16.750	1.016	19.297	Panthera pardus.cif#102.A	1
+A:103:_:ARG	A	103	ARG	RES	H	4	89.223	14.564	4.108	19.567	Panthera pardus.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	2	87.625	12.513	3.226	16.520	Panthera pardus.cif#104.A	1
+A:105:_:ALA	A	105	ALA	RES	H	2	88.676	12.090	-0.370	17.716	Panthera pardus.cif#105.A	1
+A:106:_:GLU	A	106	GLU	RES	H	5	93.959	10.804	0.942	21.040	Panthera pardus.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	3	93.752	8.292	3.214	19.319	Panthera pardus.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	3	91.103	7.180	0.441	16.956	Panthera pardus.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	3	93.812	6.601	-1.873	19.922	Panthera pardus.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	3	96.490	4.524	0.749	21.724	Panthera pardus.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	10	96.114	2.494	1.371	18.573	Panthera pardus.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	5	93.743	1.754	-2.319	18.040	Panthera pardus.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	1	97.146	0.830	-2.749	21.695	Panthera pardus.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	2	97.210	-1.629	0.129	21.502	Panthera pardus.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	3	97.288	-3.252	-0.413	18.108	Panthera pardus.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	1	96.467	-2.657	-4.075	17.253	Panthera pardus.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	3	96.287	-1.093	-3.346	13.866	Panthera pardus.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	0	92.350	2.172	-1.835	12.665	Panthera pardus.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	8	93.708	2.765	1.856	12.093	Panthera pardus.cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	4	93.072	2.096	2.540	8.423	Panthera pardus.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	1	89.010	3.592	5.556	6.677	Panthera pardus.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	3	86.357	4.069	6.165	2.975	Panthera pardus.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	G	2	76.198	7.846	6.065	3.303	Panthera pardus.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	G	5	72.896	8.386	7.156	-0.298	Panthera pardus.cif#124.A	1
+A:125:_:LEU	A	125	LEU	RES	G	1	71.013	6.835	10.508	0.648	Panthera pardus.cif#125.A	1
+A:126:_:SER	A	126	SER	RES	S	2	67.646	8.706	10.857	3.943	Panthera pardus.cif#126.A	1
+A:127:_:ASP	A	127	ASP	RES	 	1	71.380	12.129	11.571	5.369	Panthera pardus.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	H	5	68.232	13.875	9.298	7.840	Panthera pardus.cif#128.A	1
+A:129:_:ALA	A	129	ALA	RES	H	0	74.991	14.394	12.135	10.309	Panthera pardus.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	H	3	78.785	10.635	12.689	10.548	Panthera pardus.cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	H	4	84.602	9.651	9.072	11.205	Panthera pardus.cif#131.A	1
+A:132:_:PRO	A	132	PRO	RES	H	1	87.960	10.188	8.863	14.999	Panthera pardus.cif#132.A	1
+A:133:_:GLY	A	133	GLY	RES	H	1	91.465	8.338	12.123	15.632	Panthera pardus.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	H	8	91.119	5.415	11.118	13.455	Panthera pardus.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	H	6	92.461	5.226	7.713	15.127	Panthera pardus.cif#135.A	1
+A:136:_:ALA	A	136	ALA	RES	H	3	94.567	5.285	9.293	18.588	Panthera pardus.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	H	7	95.596	2.620	11.804	17.571	Panthera pardus.cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	H	17	96.181	0.273	9.185	16.157	Panthera pardus.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	H	7	96.232	0.634	7.057	19.297	Panthera pardus.cif#139.A	1
+A:140:_:GLN	A	140	GLN	RES	H	1	95.719	-1.505	9.704	21.002	Panthera pardus.cif#140.A	1
+A:141:_:ARG	A	141	ARG	RES	S	6	94.136	-4.454	9.403	18.616	Panthera pardus.cif#141.A	1
+A:142:_:PRO	A	142	PRO	RES	 	1	97.247	-7.729	7.669	19.405	Panthera pardus.cif#142.A	1
+A:143:_:PRO	A	143	PRO	RES	H	2	96.082	-7.845	4.187	17.832	Panthera pardus.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	H	1	96.189	-10.611	4.968	15.327	Panthera pardus.cif#144.A	1
+A:145:_:GLU	A	145	GLU	RES	H	2	96.832	-8.806	8.088	14.132	Panthera pardus.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	H	8	97.920	-5.511	6.221	13.822	Panthera pardus.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	H	3	97.809	-7.153	3.406	11.864	Panthera pardus.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	H	3	96.529	-8.432	5.931	9.319	Panthera pardus.cif#148.A	1
+A:149:_:THR	A	149	THR	RES	H	6	96.745	-5.036	7.612	9.125	Panthera pardus.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	H	2	97.588	-3.187	4.320	8.672	Panthera pardus.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	H	6	97.667	-5.576	3.233	5.920	Panthera pardus.cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	H	6	96.031	-5.005	6.595	4.259	Panthera pardus.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	H	8	94.160	-1.299	5.785	4.214	Panthera pardus.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	H	4	95.679	-2.046	2.404	2.633	Panthera pardus.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	H	9	95.404	-3.942	4.222	-0.114	Panthera pardus.cif#155.A	1
+A:156:_:LYS	A	156	LYS	RES	H	6	90.327	-1.031	6.610	-0.696	Panthera pardus.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	H	4	91.521	1.303	3.632	-1.046	Panthera pardus.cif#157.A	1
+A:158:_:GLY	A	158	GLY	RES	H	2	92.304	-1.113	1.903	-3.404	Panthera pardus.cif#158.A	1
+A:159:_:ARG	A	159	ARG	RES	H	3	89.732	-1.509	4.999	-5.540	Panthera pardus.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	6	85.300	2.257	5.303	-5.956	Panthera pardus.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	H	5	89.522	2.616	1.618	-6.797	Panthera pardus.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	H	3	90.578	-0.160	1.826	-9.392	Panthera pardus.cif#162.A	1
+A:163:_:ALA	A	163	ALA	RES	H	3	84.897	1.531	4.851	-10.930	Panthera pardus.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	H	5	83.965	4.787	2.911	-11.162	Panthera pardus.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	1	89.103	3.087	-0.036	-12.838	Panthera pardus.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	H	4	86.154	0.987	1.950	-15.285	Panthera pardus.cif#166.A	1
+A:167:_:GLY	A	167	GLY	RES	H	1	76.443	3.508	4.672	-16.088	Panthera pardus.cif#167.A	1
+A:168:_:ALA	A	168	ALA	RES	G	3	45.677	5.713	2.283	-18.059	Panthera pardus.cif#168.A	1
+A:169:_:ALA	A	169	ALA	RES	B	2	45.525	3.007	1.635	-20.671	Panthera pardus.cif#169.A	1
+A:170:_:GLY	A	170	GLY	RES	G	0	41.249	4.565	1.195	-24.092	Panthera pardus.cif#170.A	1
+A:171:_:LEU	A	171	LEU	RES	T	2	45.196	8.113	1.137	-22.721	Panthera pardus.cif#171.A	1
+A:172:_:ALA	A	172	ALA	RES	B	0	44.454	8.245	-2.359	-21.236	Panthera pardus.cif#172.A	1
+A:173:_:GLY	A	173	GLY	RES	 	0	39.831	6.009	-5.379	-20.960	Panthera pardus.cif#173.A	1
+A:174:_:PRO	A	174	PRO	RES	 	2	38.968	4.015	-6.190	-17.825	Panthera pardus.cif#174.A	1

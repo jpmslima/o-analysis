@@ -1,0 +1,174 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	1	77.951	-9.216	17.232	-7.792	Molossus molossus.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	2	82.846	-12.524	16.338	-9.412	Molossus molossus.cif#2.A	1
+A:3:_:MET	A	3	MET	RES	H	2	90.575	-13.336	13.440	-11.694	Molossus molossus.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	2	92.063	-13.544	15.646	-14.780	Molossus molossus.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	2	91.700	-9.892	16.535	-14.236	Molossus molossus.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	2	94.757	-8.977	12.889	-13.723	Molossus molossus.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	3	97.023	-10.765	11.876	-16.921	Molossus molossus.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	3	96.601	-9.036	14.638	-18.897	Molossus molossus.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	2	96.663	-5.510	13.521	-17.990	Molossus molossus.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	4	97.483	-3.309	12.114	-20.711	Molossus molossus.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	4	98.135	-1.438	8.864	-20.135	Molossus molossus.cif#11.A	1
+A:12:_:ARG	A	12	ARG	RES	H	0	98.039	1.679	10.469	-18.647	Molossus molossus.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	5	96.394	-0.292	12.747	-16.351	Molossus molossus.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	7	98.124	-2.441	9.899	-15.101	Molossus molossus.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	97.983	0.507	7.632	-14.357	Molossus molossus.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	1	95.953	2.405	10.502	-12.728	Molossus molossus.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	1	94.928	-0.509	11.156	-10.385	Molossus molossus.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	5	97.216	-1.722	7.614	-9.740	Molossus molossus.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	2	97.809	1.308	5.464	-10.505	Molossus molossus.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	7	96.832	2.110	4.910	-6.841	Molossus molossus.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	3	97.223	-1.434	4.201	-5.697	Molossus molossus.cif#21.A	1
+A:22:_:ILE	A	22	ILE	RES	H	3	98.276	-0.119	0.639	-5.615	Molossus molossus.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	9	97.517	3.395	0.862	-4.206	Molossus molossus.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	2	95.955	6.001	1.265	-6.959	Molossus molossus.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	3	95.918	3.685	-0.401	-9.446	Molossus molossus.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	2	96.787	2.834	2.150	-12.158	Molossus molossus.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	1	95.120	1.759	-0.596	-14.556	Molossus molossus.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	4	97.938	-1.507	-0.917	-12.667	Molossus molossus.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	3	98.216	-2.268	2.775	-13.114	Molossus molossus.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	1	97.974	-1.330	2.437	-16.783	Molossus molossus.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	1	97.288	-3.833	-0.391	-17.185	Molossus molossus.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	8	98.259	-6.559	1.490	-15.328	Molossus molossus.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	9	98.033	-6.077	4.598	-17.483	Molossus molossus.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	0	95.228	-7.591	2.818	-20.489	Molossus molossus.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	4	95.391	-10.862	2.279	-18.607	Molossus molossus.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	8	93.621	-11.878	5.945	-18.484	Molossus molossus.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	95.601	-14.238	7.657	-18.025	Molossus molossus.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	5	96.470	-14.617	7.062	-14.306	Molossus molossus.cif#38.A	1
+A:39:_:SER	A	39	SER	RES	 	1	94.534	-17.863	8.148	-12.697	Molossus molossus.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	5	90.486	-16.542	8.825	-9.194	Molossus molossus.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	H	2	89.059	-13.796	7.976	-6.743	Molossus molossus.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	0	91.620	-15.320	4.598	-5.895	Molossus molossus.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	7	95.528	-15.463	3.688	-9.577	Molossus molossus.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	8	95.964	-11.789	4.564	-9.979	Molossus molossus.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	H	3	95.154	-10.874	2.597	-6.860	Molossus molossus.cif#45.A	1
+A:46:_:GLN	A	46	GLN	RES	H	1	97.109	-12.839	-0.406	-8.090	Molossus molossus.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	8	98.108	-10.836	-0.486	-11.320	Molossus molossus.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	4	98.323	-7.610	-0.723	-9.331	Molossus molossus.cif#48.A	1
+A:49:_:SER	A	49	SER	RES	H	5	97.619	-9.049	-3.480	-7.152	Molossus molossus.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	2	98.002	-10.515	-5.410	-10.070	Molossus molossus.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	3	97.857	-7.180	-5.383	-11.879	Molossus molossus.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	4	98.118	-5.467	-6.840	-8.820	Molossus molossus.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	6	97.511	-8.172	-9.469	-8.404	Molossus molossus.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	2	97.554	-7.923	-10.534	-12.042	Molossus molossus.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	2	97.959	-4.203	-11.319	-11.862	Molossus molossus.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	I	4	98.000	-3.013	-14.884	-11.423	Molossus molossus.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	5	96.408	-1.540	-15.741	-8.044	Molossus molossus.cif#57.A	1
+A:58:_:ALA	A	58	ALA	RES	H	1	97.227	2.022	-15.101	-9.232	Molossus molossus.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	4	97.904	1.014	-11.616	-10.344	Molossus molossus.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	7	98.416	-0.731	-10.915	-7.060	Molossus molossus.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	5	98.169	2.369	-12.008	-5.170	Molossus molossus.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	2	98.167	4.408	-9.768	-7.453	Molossus molossus.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	3	97.564	2.346	-6.789	-6.330	Molossus molossus.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	4	98.613	3.091	-7.647	-2.716	Molossus molossus.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	4	97.928	6.812	-7.817	-3.477	Molossus molossus.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	1	96.519	6.718	-4.135	-4.432	Molossus molossus.cif#66.A	1
+A:67:_:TYR	A	67	TYR	RES	S	2	97.967	6.126	-3.215	-0.796	Molossus molossus.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	0	96.314	8.986	-2.715	1.647	Molossus molossus.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	1	95.705	9.292	-4.459	4.988	Molossus molossus.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	1	95.580	7.780	-2.285	7.687	Molossus molossus.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	2	93.227	10.629	-0.680	9.647	Molossus molossus.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	3	94.366	13.089	-2.545	7.411	Molossus molossus.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	H	3	90.695	16.207	-1.608	5.503	Molossus molossus.cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	H	2	94.807	14.433	0.758	3.124	Molossus molossus.cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	H	4	94.615	13.386	2.923	6.059	Molossus molossus.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	3	90.645	16.899	2.849	7.507	Molossus molossus.cif#76.A	1
+A:77:_:ARG	A	77	ARG	RES	H	2	94.128	18.432	3.762	4.139	Molossus molossus.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	H	1	94.939	15.901	6.502	3.390	Molossus molossus.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	0	95.862	14.816	4.797	0.164	Molossus molossus.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	S	2	97.076	11.089	4.457	0.848	Molossus molossus.cif#80.A	1
+A:81:_:SER	A	81	SER	RES	 	8	96.744	8.626	6.124	-1.468	Molossus molossus.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	2	94.008	7.203	9.379	-0.136	Molossus molossus.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	7	95.078	3.900	7.638	0.547	Molossus molossus.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	7	97.429	5.462	4.757	2.470	Molossus molossus.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	H	4	96.007	7.617	7.164	4.465	Molossus molossus.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	3	93.334	4.506	9.015	5.619	Molossus molossus.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	8	96.345	2.750	5.749	6.415	Molossus molossus.cif#87.A	1
+A:88:_:HIS	A	88	HIS	RES	H	4	96.867	5.707	4.496	8.459	Molossus molossus.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	H	3	95.098	5.784	7.797	10.339	Molossus molossus.cif#89.A	1
+A:90:_:ALA	A	90	ALA	RES	H	0	92.906	2.054	7.690	11.035	Molossus molossus.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	1	95.290	2.451	4.226	12.560	Molossus molossus.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	1	96.189	5.371	5.321	14.739	Molossus molossus.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	G	5	96.412	7.825	3.070	12.901	Molossus molossus.cif#93.A	1
+A:94:_:THR	A	94	THR	RES	G	0	93.637	10.453	5.775	12.378	Molossus molossus.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	G	0	91.083	11.272	6.028	16.106	Molossus molossus.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	1	94.729	11.427	2.439	17.316	Molossus molossus.cif#96.A	1
+A:97:_:ARG	A	97	ARG	RES	 	3	94.316	13.541	1.375	20.250	Molossus molossus.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	H	1	93.951	16.311	-1.064	19.420	Molossus molossus.cif#98.A	1
+A:99:_:GLU	A	99	GLU	RES	H	1	95.263	14.441	-4.049	20.863	Molossus molossus.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	H	5	94.392	11.324	-3.187	18.857	Molossus molossus.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	H	1	92.982	13.360	-2.898	15.668	Molossus molossus.cif#101.A	1
+A:102:_:LEU	A	102	LEU	RES	H	1	95.349	15.047	-6.249	16.283	Molossus molossus.cif#102.A	1
+A:103:_:ARG	A	103	ARG	RES	H	3	94.758	11.719	-7.939	16.948	Molossus molossus.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	3	95.892	10.220	-6.608	13.722	Molossus molossus.cif#104.A	1
+A:105:_:ALA	A	105	ALA	RES	H	2	95.703	13.320	-7.586	11.747	Molossus molossus.cif#105.A	1
+A:106:_:GLU	A	106	GLU	RES	H	3	96.990	12.997	-11.147	13.017	Molossus molossus.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	5	97.294	9.275	-11.299	12.264	Molossus molossus.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	2	97.388	9.795	-9.822	8.791	Molossus molossus.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	3	97.529	12.436	-12.444	8.022	Molossus molossus.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	2	98.191	10.157	-15.252	9.172	Molossus molossus.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	10	98.402	7.266	-13.851	7.141	Molossus molossus.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	2	96.825	9.303	-13.597	3.946	Molossus molossus.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	1	98.311	10.686	-17.090	4.454	Molossus molossus.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	3	98.163	7.202	-18.523	4.789	Molossus molossus.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	5	98.344	5.219	-16.569	2.201	Molossus molossus.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	4	97.891	7.802	-15.282	-0.284	Molossus molossus.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	3	98.078	6.654	-11.676	-0.121	Molossus molossus.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	1	96.876	6.760	-8.857	2.443	Molossus molossus.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	7	98.164	4.227	-8.403	5.192	Molossus molossus.cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	1	98.090	1.762	-5.756	4.031	Molossus molossus.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	3	97.234	-0.402	-3.752	6.410	Molossus molossus.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	2	96.281	-2.163	-0.430	6.011	Molossus molossus.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	G	1	93.169	0.155	1.059	8.618	Molossus molossus.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	G	1	89.278	-1.513	4.461	8.348	Molossus molossus.cif#124.A	1
+A:125:_:LEU	A	125	LEU	RES	G	1	91.863	-4.491	2.897	10.139	Molossus molossus.cif#125.A	1
+A:126:_:SER	A	126	SER	RES	S	1	90.044	-2.325	1.236	12.793	Molossus molossus.cif#126.A	1
+A:127:_:ASP	A	127	ASP	RES	 	5	89.683	0.436	1.928	15.285	Molossus molossus.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	H	3	88.363	3.772	0.359	16.115	Molossus molossus.cif#128.A	1
+A:129:_:GLU	A	129	GLU	RES	H	1	91.512	2.283	-2.125	18.576	Molossus molossus.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	H	4	91.606	-0.479	-3.137	16.182	Molossus molossus.cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	H	5	95.974	2.085	-3.720	13.432	Molossus molossus.cif#131.A	1
+A:132:_:ALA	A	132	ALA	RES	H	1	94.525	4.033	-6.230	15.516	Molossus molossus.cif#132.A	1
+A:133:_:ARG	A	133	ARG	RES	H	2	95.731	0.846	-7.864	16.779	Molossus molossus.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	H	8	97.014	-0.579	-8.340	13.296	Molossus molossus.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	H	6	97.574	2.692	-9.594	11.861	Molossus molossus.cif#135.A	1
+A:136:_:ALA	A	136	ALA	RES	H	2	97.040	2.980	-12.211	14.599	Molossus molossus.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	H	10	97.781	-0.659	-13.212	14.173	Molossus molossus.cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	H	7	98.201	-0.487	-13.546	10.411	Molossus molossus.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	H	2	97.709	2.579	-15.779	10.582	Molossus molossus.cif#139.A	1
+A:140:_:ARG	A	140	ARG	RES	H	4	96.619	0.163	-18.444	11.822	Molossus molossus.cif#140.A	1
+A:141:_:CYS	A	141	CYS	RES	S	3	96.809	-2.294	-18.070	8.925	Molossus molossus.cif#141.A	1
+A:142:_:PRO	A	142	PRO	RES	 	2	98.014	-2.553	-20.532	6.057	Molossus molossus.cif#142.A	1
+A:143:_:PRO	A	143	PRO	RES	H	1	96.836	-0.927	-19.245	2.850	Molossus molossus.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	H	1	96.346	-4.094	-18.845	0.778	Molossus molossus.cif#144.A	1
+A:145:_:LEU	A	145	LEU	RES	H	2	97.493	-5.814	-16.888	3.528	Molossus molossus.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	H	6	98.563	-2.743	-14.734	4.118	Molossus molossus.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	H	2	98.305	-2.479	-13.896	0.421	Molossus molossus.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	H	2	97.245	-6.079	-12.674	0.430	Molossus molossus.cif#148.A	1
+A:149:_:THR	A	149	THR	RES	H	1	98.243	-5.514	-10.710	3.618	Molossus molossus.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	H	4	98.674	-2.348	-9.079	2.275	Molossus molossus.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	H	6	98.543	-4.105	-8.110	-0.955	Molossus molossus.cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	H	4	98.434	-6.897	-6.631	1.135	Molossus molossus.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	H	10	98.400	-4.295	-4.449	2.815	Molossus molossus.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	H	5	98.668	-2.952	-3.394	-0.583	Molossus molossus.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	H	8	97.904	-6.468	-2.274	-1.481	Molossus molossus.cif#155.A	1
+A:156:_:LYS	A	156	LYS	RES	H	5	96.465	-6.813	-0.327	1.772	Molossus molossus.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	H	4	97.671	-3.516	1.428	1.073	Molossus molossus.cif#157.A	1
+A:158:_:GLY	A	158	GLY	RES	H	2	96.893	-4.638	2.187	-2.474	Molossus molossus.cif#158.A	1
+A:159:_:ARG	A	159	ARG	RES	H	3	93.553	-7.930	3.581	-1.239	Molossus molossus.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	3	93.451	-6.161	5.943	1.151	Molossus molossus.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	H	15	95.901	-3.679	7.068	-1.494	Molossus molossus.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	H	2	94.717	-6.454	7.729	-4.013	Molossus molossus.cif#162.A	1
+A:163:_:ALA	A	163	ALA	RES	H	3	89.811	-8.251	9.844	-1.429	Molossus molossus.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	H	1	91.356	-5.055	11.809	-0.812	Molossus molossus.cif#164.A	1
+A:165:_:ARG	A	165	ARG	RES	H	6	92.100	-4.607	12.544	-4.507	Molossus molossus.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	H	4	90.522	-8.226	13.524	-5.013	Molossus molossus.cif#166.A	1
+A:167:_:GLY	A	167	GLY	RES	T	1	83.297	-8.395	15.622	-1.845	Molossus molossus.cif#167.A	1
+A:168:_:ALA	A	168	ALA	RES	 	2	63.303	-11.255	13.466	-0.610	Molossus molossus.cif#168.A	1
+A:169:_:ASP	A	169	ASP	RES	 	1	55.449	-12.289	12.460	2.879	Molossus molossus.cif#169.A	1
+A:170:_:SER	A	170	SER	RES	G	4	50.171	-11.128	8.859	3.041	Molossus molossus.cif#170.A	1
+A:171:_:ALA	A	171	ALA	RES	G	0	50.217	-13.913	8.082	5.526	Molossus molossus.cif#171.A	1
+A:172:_:ARG	A	172	ARG	RES	G	1	51.043	-16.455	8.815	2.781	Molossus molossus.cif#172.A	1
+A:173:_:MET	A	173	MET	RES	 	3	47.486	-14.909	6.841	-0.076	Molossus molossus.cif#173.A	1

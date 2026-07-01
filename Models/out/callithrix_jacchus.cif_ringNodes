@@ -1,0 +1,174 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	0	79.295	-0.728	-0.285	20.683	callithrix_jacchus.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	2	83.274	-3.670	1.846	21.782	callithrix_jacchus.cif#2.A	1
+A:3:_:ILE	A	3	ILE	RES	T	2	91.989	-4.567	5.246	20.442	callithrix_jacchus.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	T	2	93.094	-3.675	6.953	23.734	callithrix_jacchus.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	T	5	91.999	-0.085	5.767	23.331	callithrix_jacchus.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	T	2	95.946	-0.053	7.024	19.746	callithrix_jacchus.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	T	1	97.280	-1.293	10.438	20.892	callithrix_jacchus.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	T	3	96.117	1.389	10.596	23.608	callithrix_jacchus.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	3	96.262	4.301	10.108	21.202	callithrix_jacchus.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	1	97.044	6.648	12.960	20.446	callithrix_jacchus.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	T	3	97.763	7.573	13.723	16.847	callithrix_jacchus.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	T	1	97.913	10.630	11.475	16.715	callithrix_jacchus.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	T	5	96.203	8.901	8.521	18.319	callithrix_jacchus.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	T	7	97.998	5.849	8.858	16.066	callithrix_jacchus.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	T	2	97.598	7.936	8.961	12.891	callithrix_jacchus.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	T	1	94.893	10.087	6.056	14.112	callithrix_jacchus.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	T	1	94.064	6.960	3.933	14.568	callithrix_jacchus.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	T	5	96.938	4.819	5.080	11.643	callithrix_jacchus.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	T	2	96.463	7.402	6.362	9.160	callithrix_jacchus.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	T	4	91.632	7.121	3.274	6.962	callithrix_jacchus.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	T	3	96.432	3.330	3.005	6.979	callithrix_jacchus.cif#21.A	1
+A:22:_:ILE	A	22	ILE	RES	S	2	96.963	3.802	4.498	3.511	callithrix_jacchus.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	T	7	91.454	6.809	2.710	2.035	callithrix_jacchus.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	T	2	89.828	10.067	4.643	2.545	callithrix_jacchus.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	T	2	94.517	8.134	7.892	2.980	callithrix_jacchus.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	T	2	95.632	8.514	9.190	6.551	callithrix_jacchus.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	T	1	93.335	7.406	12.679	5.505	callithrix_jacchus.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	T	1	97.250	3.838	11.371	5.268	callithrix_jacchus.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	T	4	97.858	3.977	10.272	8.905	callithrix_jacchus.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	T	2	97.560	5.571	13.601	9.840	callithrix_jacchus.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	T	1	97.254	2.628	15.437	8.271	callithrix_jacchus.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	T	5	98.205	0.102	13.174	10.005	callithrix_jacchus.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	T	9	97.758	1.734	13.744	13.406	callithrix_jacchus.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	T	0	93.353	0.541	17.365	13.407	callithrix_jacchus.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	T	2	94.256	-3.095	16.205	13.184	callithrix_jacchus.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	3	93.371	-3.201	14.692	16.698	callithrix_jacchus.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	96.345	-5.164	13.883	18.737	callithrix_jacchus.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	5	97.518	-6.491	10.849	16.867	callithrix_jacchus.cif#38.A	1
+A:39:_:LEU	A	39	LEU	RES	 	1	96.574	-9.779	9.295	17.916	callithrix_jacchus.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	2	92.499	-9.176	5.684	16.865	callithrix_jacchus.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	T	4	91.624	-7.467	3.580	14.213	callithrix_jacchus.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	T	4	92.801	-9.991	4.640	11.577	callithrix_jacchus.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	T	5	96.580	-9.336	8.325	12.300	callithrix_jacchus.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	T	5	96.788	-5.564	7.802	12.132	callithrix_jacchus.cif#44.A	1
+A:45:_:GLN	A	45	GLN	RES	T	5	95.685	-5.932	5.936	8.842	callithrix_jacchus.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	T	6	97.465	-8.102	8.709	7.397	callithrix_jacchus.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	T	6	98.124	-5.383	11.246	8.205	callithrix_jacchus.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	T	7	98.356	-2.764	9.170	6.376	callithrix_jacchus.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	T	3	98.014	-5.035	8.821	3.354	callithrix_jacchus.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	T	2	98.049	-5.928	12.516	3.397	callithrix_jacchus.cif#50.A	1
+A:51:_:VAL	A	51	VAL	RES	T	4	97.654	-2.252	13.505	3.276	callithrix_jacchus.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	T	6	97.470	-1.759	11.251	0.251	callithrix_jacchus.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	T	0	97.013	-4.868	12.621	-1.446	callithrix_jacchus.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	T	2	97.106	-3.833	16.239	-0.835	callithrix_jacchus.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	2	97.319	-0.504	15.871	-2.643	callithrix_jacchus.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	T	5	97.572	-0.151	17.110	-6.203	callithrix_jacchus.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	T	3	94.920	0.240	14.425	-8.860	callithrix_jacchus.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	T	1	95.985	4.040	14.727	-8.753	callithrix_jacchus.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	T	3	97.026	3.992	14.012	-5.018	callithrix_jacchus.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	T	5	97.434	1.624	11.080	-5.433	callithrix_jacchus.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	T	5	96.535	3.861	9.603	-8.126	callithrix_jacchus.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	T	2	97.066	6.829	10.152	-5.815	callithrix_jacchus.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	T	1	95.859	5.144	7.962	-3.207	callithrix_jacchus.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	T	6	97.669	4.654	5.230	-5.801	callithrix_jacchus.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	T	3	96.506	8.303	5.418	-6.871	callithrix_jacchus.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	T	2	92.179	9.369	4.575	-3.302	callithrix_jacchus.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	4	92.409	7.781	1.118	-3.560	callithrix_jacchus.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	2	85.497	9.851	-1.885	-4.664	callithrix_jacchus.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	7	83.231	9.046	-4.091	-7.639	callithrix_jacchus.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	2	79.674	7.196	-7.256	-6.675	callithrix_jacchus.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	2	70.806	9.725	-10.123	-6.710	callithrix_jacchus.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	4	74.700	12.345	-7.648	-7.936	callithrix_jacchus.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	T	0	71.522	16.020	-7.220	-7.158	callithrix_jacchus.cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	T	6	71.385	15.394	-5.835	-3.666	callithrix_jacchus.cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	T	4	70.760	13.627	-9.062	-2.692	callithrix_jacchus.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	T	1	70.300	16.313	-11.269	-4.262	callithrix_jacchus.cif#76.A	1
+A:77:_:GLN	A	77	GLN	RES	T	0	68.565	19.102	-9.303	-2.550	callithrix_jacchus.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	T	2	68.837	17.359	-9.057	0.830	callithrix_jacchus.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	2	66.314	17.274	-5.245	0.854	callithrix_jacchus.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	S	8	70.113	13.519	-4.687	1.257	callithrix_jacchus.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	5	75.696	12.104	-2.920	4.284	callithrix_jacchus.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	T	2	69.997	10.972	-5.297	7.014	callithrix_jacchus.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	T	4	69.837	7.331	-4.691	6.115	callithrix_jacchus.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	T	4	72.044	7.773	-5.347	2.390	callithrix_jacchus.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	T	4	68.024	9.933	-8.406	3.080	callithrix_jacchus.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	T	4	73.381	7.201	-9.976	5.212	callithrix_jacchus.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	T	3	75.586	4.476	-9.022	2.740	callithrix_jacchus.cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	T	5	70.250	6.240	-10.388	-0.338	callithrix_jacchus.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	T	4	69.500	7.515	-13.520	1.414	callithrix_jacchus.cif#89.A	1
+A:90:_:GLY	A	90	GLY	RES	T	1	67.193	4.064	-14.236	2.810	callithrix_jacchus.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	T	2	66.132	2.596	-13.883	-0.688	callithrix_jacchus.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	T	4	70.292	4.938	-16.601	-2.002	callithrix_jacchus.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	T	2	68.970	7.125	-14.346	-4.152	callithrix_jacchus.cif#93.A	1
+A:94:_:THR	A	94	THR	RES	T	1	67.493	10.286	-16.024	-2.813	callithrix_jacchus.cif#94.A	1
+A:95:_:CYS	A	95	CYS	RES	T	3	68.454	9.111	-19.355	-4.300	callithrix_jacchus.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	1	72.241	8.583	-18.411	-7.953	callithrix_jacchus.cif#96.A	1
+A:97:_:GLY	A	97	GLY	RES	 	4	79.730	9.865	-20.727	-10.655	callithrix_jacchus.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	T	1	82.101	12.391	-19.491	-13.189	callithrix_jacchus.cif#98.A	1
+A:99:_:ASP	A	99	ASP	RES	T	0	86.317	9.830	-18.909	-15.950	callithrix_jacchus.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	T	4	82.618	7.496	-17.062	-13.573	callithrix_jacchus.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	T	2	82.310	10.328	-14.821	-12.379	callithrix_jacchus.cif#101.A	1
+A:102:_:LEU	A	102	LEU	RES	T	1	88.411	11.406	-13.956	-15.913	callithrix_jacchus.cif#102.A	1
+A:103:_:ARG	A	103	ARG	RES	T	3	87.677	7.839	-13.174	-16.967	callithrix_jacchus.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	T	3	87.130	7.222	-11.010	-13.918	callithrix_jacchus.cif#104.A	1
+A:105:_:ALA	A	105	ALA	RES	T	1	89.061	10.498	-9.133	-14.495	callithrix_jacchus.cif#105.A	1
+A:106:_:GLU	A	106	GLU	RES	T	3	93.203	9.456	-8.494	-18.100	callithrix_jacchus.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	T	1	93.079	6.042	-7.195	-17.035	callithrix_jacchus.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	T	2	91.979	7.584	-5.030	-14.294	callithrix_jacchus.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	T	3	94.497	9.935	-3.430	-16.824	callithrix_jacchus.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	T	1	96.454	7.089	-2.746	-19.259	callithrix_jacchus.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	T	11	96.801	4.986	-1.262	-16.461	callithrix_jacchus.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	T	7	94.293	7.747	1.084	-15.280	callithrix_jacchus.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	T	1	97.412	8.456	2.154	-18.852	callithrix_jacchus.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	T	2	97.366	4.816	3.048	-19.416	callithrix_jacchus.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	T	3	97.409	3.774	4.609	-16.114	callithrix_jacchus.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	1	96.519	7.026	5.869	-14.553	callithrix_jacchus.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	3	96.620	6.490	4.044	-11.257	callithrix_jacchus.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	3	94.024	6.499	0.392	-10.184	callithrix_jacchus.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	6	95.311	3.463	-1.867	-10.183	callithrix_jacchus.cif#119.A	1
+A:120:_:ILE	A	120	ILE	RES	 	2	94.945	1.808	-1.550	-6.773	callithrix_jacchus.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	0	91.540	-0.368	-4.302	-5.322	callithrix_jacchus.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	4	89.709	-1.139	-5.267	-1.740	callithrix_jacchus.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	T	2	79.538	0.911	-8.452	-1.959	callithrix_jacchus.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	T	0	74.239	-0.470	-10.206	1.100	callithrix_jacchus.cif#124.A	1
+A:125:_:LEU	A	125	LEU	RES	T	2	74.454	-3.968	-9.960	-0.385	callithrix_jacchus.cif#125.A	1
+A:126:_:SER	A	126	SER	RES	S	2	72.626	-2.918	-11.799	-3.563	callithrix_jacchus.cif#126.A	1
+A:127:_:ASP	A	127	ASP	RES	 	3	72.425	-0.817	-14.668	-4.903	callithrix_jacchus.cif#127.A	1
+A:128:_:PRO	A	128	PRO	RES	T	3	78.128	1.813	-14.907	-7.651	callithrix_jacchus.cif#128.A	1
+A:129:_:ALA	A	129	ALA	RES	T	1	80.732	-0.507	-16.078	-10.439	callithrix_jacchus.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	T	3	84.816	-3.086	-13.399	-9.624	callithrix_jacchus.cif#130.A	1
+A:131:_:MET	A	131	MET	RES	T	4	84.072	-0.350	-10.759	-9.422	callithrix_jacchus.cif#131.A	1
+A:132:_:GLN	A	132	GLN	RES	T	3	86.962	0.908	-11.530	-12.923	callithrix_jacchus.cif#132.A	1
+A:133:_:ARG	A	133	ARG	RES	T	1	91.573	-2.624	-11.483	-14.345	callithrix_jacchus.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	T	10	94.149	-3.347	-8.161	-12.657	callithrix_jacchus.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	T	4	93.773	-0.047	-6.638	-13.802	callithrix_jacchus.cif#135.A	1
+A:136:_:ALA	A	136	ALA	RES	T	2	94.558	-0.758	-7.653	-17.396	callithrix_jacchus.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	T	6	96.900	-4.285	-6.259	-17.132	callithrix_jacchus.cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	T	9	97.180	-3.189	-2.954	-15.650	callithrix_jacchus.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	T	4	96.680	-0.707	-2.408	-18.476	callithrix_jacchus.cif#139.A	1
+A:140:_:LEU	A	140	LEU	RES	T	1	96.664	-3.810	-1.805	-20.602	callithrix_jacchus.cif#140.A	1
+A:141:_:CYS	A	141	CYS	RES	S	3	96.071	-5.238	0.947	-18.366	callithrix_jacchus.cif#141.A	1
+A:142:_:PRO	A	142	PRO	RES	 	2	97.719	-5.065	4.663	-19.128	callithrix_jacchus.cif#142.A	1
+A:143:_:PRO	A	143	PRO	RES	T	1	96.183	-2.350	6.425	-17.088	callithrix_jacchus.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	T	1	95.863	-4.745	8.578	-15.052	callithrix_jacchus.cif#144.A	1
+A:145:_:GLN	A	145	GLN	RES	T	3	97.246	-6.845	5.536	-14.150	callithrix_jacchus.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	T	6	98.100	-3.741	3.525	-13.229	callithrix_jacchus.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	T	1	97.519	-2.460	6.329	-10.983	callithrix_jacchus.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	T	2	96.950	-5.728	6.197	-9.032	callithrix_jacchus.cif#148.A	1
+A:149:_:THR	A	149	THR	RES	T	3	97.870	-5.585	2.408	-8.837	callithrix_jacchus.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	T	3	98.056	-1.961	2.394	-7.655	callithrix_jacchus.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	T	2	97.957	-2.714	4.988	-4.974	callithrix_jacchus.cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	T	3	97.824	-5.614	2.809	-3.851	callithrix_jacchus.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	T	9	96.643	-3.165	-0.061	-3.408	callithrix_jacchus.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	T	3	97.129	-0.845	2.183	-1.369	callithrix_jacchus.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	T	2	97.502	-3.804	2.947	0.897	callithrix_jacchus.cif#155.A	1
+A:156:_:LYS	A	156	LYS	RES	T	6	94.160	-4.606	-0.769	1.259	callithrix_jacchus.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	T	4	94.305	-0.992	-1.488	2.207	callithrix_jacchus.cif#157.A	1
+A:158:_:GLY	A	158	GLY	RES	T	2	95.913	-0.889	1.427	4.638	callithrix_jacchus.cif#158.A	1
+A:159:_:GLY	A	159	GLY	RES	T	1	94.575	-4.164	0.409	6.238	callithrix_jacchus.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	T	3	90.371	-2.898	-3.128	6.782	callithrix_jacchus.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	T	7	93.094	0.348	-1.827	8.282	callithrix_jacchus.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	T	6	94.700	-1.519	0.531	10.626	callithrix_jacchus.cif#162.A	1
+A:163:_:ALA	A	163	ALA	RES	T	2	89.207	-3.760	-2.315	11.765	callithrix_jacchus.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	T	2	87.996	-0.677	-4.442	12.443	callithrix_jacchus.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	T	1	91.287	0.971	-1.673	14.470	callithrix_jacchus.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	T	1	89.574	-2.149	-1.044	16.560	callithrix_jacchus.cif#166.A	1
+A:167:_:CYS	A	167	CYS	RES	T	0	59.281	-2.993	-4.767	16.929	callithrix_jacchus.cif#167.A	1
+A:168:_:ALA	A	168	ALA	RES	 	2	51.110	-6.472	-4.133	15.556	callithrix_jacchus.cif#168.A	1
+A:169:_:ASP	A	169	ASP	RES	 	1	52.874	-8.861	-7.002	14.908	callithrix_jacchus.cif#169.A	1
+A:170:_:PRO	A	170	PRO	RES	T	1	55.407	-9.211	-7.267	11.121	callithrix_jacchus.cif#170.A	1
+A:171:_:ALA	A	171	ALA	RES	T	0	58.635	-12.780	-8.561	11.530	callithrix_jacchus.cif#171.A	1
+A:172:_:LYS	A	172	LYS	RES	T	1	52.092	-13.727	-5.235	13.163	callithrix_jacchus.cif#172.A	1
+A:173:_:LEU	A	173	LEU	RES	 	2	47.549	-12.235	-2.984	10.468	callithrix_jacchus.cif#173.A	1

@@ -1,0 +1,174 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	6	75.413	13.602	-4.805	-13.225	Chrysochloris asiatica.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	2	82.194	15.929	-1.893	-13.929	Chrysochloris asiatica.cif#2.A	1
+A:3:_:MET	A	3	MET	RES	T	4	89.925	14.862	1.709	-14.298	Chrysochloris asiatica.cif#3.A	1
+A:4:_:ASP	A	4	ASP	RES	T	2	90.052	15.586	1.821	-18.046	Chrysochloris asiatica.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	T	3	90.711	12.924	-0.838	-18.562	Chrysochloris asiatica.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	T	5	94.757	10.516	0.957	-16.228	Chrysochloris asiatica.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	T	5	96.160	10.977	4.184	-18.193	Chrysochloris asiatica.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	T	2	95.249	10.457	2.389	-21.523	Chrysochloris asiatica.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	5	96.196	7.098	0.866	-20.558	Chrysochloris asiatica.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	2	96.748	4.003	2.037	-22.372	Chrysochloris asiatica.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	T	4	97.420	0.929	3.058	-20.396	Chrysochloris asiatica.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	T	0	97.603	-0.689	-0.373	-20.387	Chrysochloris asiatica.cif#12.A	1
+A:13:_:ASP	A	13	ASP	RES	T	1	95.721	2.428	-2.258	-19.343	Chrysochloris asiatica.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	T	9	97.865	3.263	0.267	-16.617	Chrysochloris asiatica.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	T	2	97.753	-0.213	0.135	-15.083	Chrysochloris asiatica.cif#15.A	1
+A:16:_:GLU	A	16	GLU	RES	T	0	95.872	-0.268	-3.660	-15.308	Chrysochloris asiatica.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	T	1	94.573	2.996	-3.870	-13.346	Chrysochloris asiatica.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	T	5	97.101	2.584	-0.974	-10.911	Chrysochloris asiatica.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	T	1	97.416	-1.193	-0.563	-10.725	Chrysochloris asiatica.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	T	4	95.354	-1.421	-2.308	-7.357	Chrysochloris asiatica.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	T	4	96.574	1.505	-0.545	-5.693	Chrysochloris asiatica.cif#21.A	1
+A:22:_:ILE	A	22	ILE	RES	S	3	97.501	-1.323	1.293	-3.937	Chrysochloris asiatica.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	T	6	94.832	-3.976	-1.333	-3.234	Chrysochloris asiatica.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	T	1	93.822	-6.601	-1.446	-6.002	Chrysochloris asiatica.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	T	3	95.333	-5.761	2.118	-7.118	Chrysochloris asiatica.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	T	3	96.221	-4.378	1.810	-10.664	Chrysochloris asiatica.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	T	1	93.106	-5.246	5.452	-11.318	Chrysochloris asiatica.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	T	3	96.990	-2.304	6.452	-9.123	Chrysochloris asiatica.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	T	3	97.755	0.085	4.406	-11.252	Chrysochloris asiatica.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	T	1	97.128	-1.501	5.952	-14.348	Chrysochloris asiatica.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	T	3	96.201	-0.825	9.440	-12.991	Chrysochloris asiatica.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	T	5	97.661	2.745	8.572	-11.997	Chrysochloris asiatica.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	T	11	97.843	3.430	7.108	-15.462	Chrysochloris asiatica.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	T	0	94.834	3.179	10.606	-16.939	Chrysochloris asiatica.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	T	5	95.372	6.037	11.804	-14.695	Chrysochloris asiatica.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	6	94.416	8.775	9.736	-16.371	Chrysochloris asiatica.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	94.069	11.713	9.535	-16.508	Chrysochloris asiatica.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	5	95.809	12.398	8.176	-13.035	Chrysochloris asiatica.cif#38.A	1
+A:39:_:SER	A	39	SER	RES	 	1	92.853	16.030	8.305	-11.975	Chrysochloris asiatica.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	5	89.479	15.958	5.445	-9.449	Chrysochloris asiatica.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	T	1	89.437	13.727	3.491	-7.076	Chrysochloris asiatica.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	T	1	89.277	13.677	6.346	-4.570	Chrysochloris asiatica.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	T	11	94.064	12.507	8.776	-7.255	Chrysochloris asiatica.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	T	3	95.333	9.706	6.441	-8.360	Chrysochloris asiatica.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	T	5	93.155	8.646	5.920	-4.743	Chrysochloris asiatica.cif#45.A	1
+A:46:_:ALA	A	46	ALA	RES	T	3	95.602	8.695	9.675	-4.124	Chrysochloris asiatica.cif#46.A	1
+A:47:_:ARG	A	47	ARG	RES	T	10	97.235	6.400	10.272	-7.106	Chrysochloris asiatica.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	T	2	97.737	3.813	7.835	-5.708	Chrysochloris asiatica.cif#48.A	1
+A:49:_:CYS	A	49	CYS	RES	T	3	96.876	4.027	9.473	-2.279	Chrysochloris asiatica.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	T	2	97.139	3.850	13.006	-3.671	Chrysochloris asiatica.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	T	4	96.804	0.697	12.183	-5.631	Chrysochloris asiatica.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	T	6	97.295	-0.951	10.877	-2.465	Chrysochloris asiatica.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	T	2	95.910	0.174	13.938	-0.516	Chrysochloris asiatica.cif#53.A	1
+A:54:_:VAL	A	54	VAL	RES	T	2	94.925	-1.385	16.476	-2.891	Chrysochloris asiatica.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	3	96.825	-4.811	14.826	-2.902	Chrysochloris asiatica.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	T	3	97.221	-7.567	16.481	-0.900	Chrysochloris asiatica.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	T	1	95.538	-8.565	14.723	2.309	Chrysochloris asiatica.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	T	1	96.272	-11.508	13.035	0.563	Chrysochloris asiatica.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	T	3	96.985	-9.117	11.571	-2.002	Chrysochloris asiatica.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	T	1	97.757	-6.717	10.390	0.686	Chrysochloris asiatica.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	T	2	97.229	-9.573	8.693	2.536	Chrysochloris asiatica.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	T	1	97.480	-10.643	7.149	-0.767	Chrysochloris asiatica.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	T	4	96.965	-7.226	5.505	-1.049	Chrysochloris asiatica.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	T	6	97.953	-7.701	3.972	2.392	Chrysochloris asiatica.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	T	2	97.028	-11.136	2.655	1.423	Chrysochloris asiatica.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	T	1	94.829	-9.526	0.569	-1.338	Chrysochloris asiatica.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	4	95.391	-7.785	-1.630	1.254	Chrysochloris asiatica.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	2	90.633	-9.333	-4.854	2.555	Chrysochloris asiatica.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	6	87.304	-9.932	-5.573	6.225	Chrysochloris asiatica.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	1	86.409	-7.114	-7.616	7.722	Chrysochloris asiatica.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	2	79.047	-8.279	-11.237	8.133	Chrysochloris asiatica.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	2	80.619	-11.640	-10.150	6.710	Chrysochloris asiatica.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	T	1	75.790	-14.090	-11.734	4.298	Chrysochloris asiatica.cif#73.A	1
+A:74:_:GLN	A	74	GLN	RES	T	2	76.948	-11.816	-11.320	1.273	Chrysochloris asiatica.cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	T	3	79.308	-9.116	-13.405	2.952	Chrysochloris asiatica.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	T	1	73.577	-11.650	-16.086	3.895	Chrysochloris asiatica.cif#76.A	1
+A:77:_:ARG	A	77	ARG	RES	T	1	74.322	-13.049	-16.231	0.344	Chrysochloris asiatica.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	T	2	76.627	-9.636	-16.088	-1.363	Chrysochloris asiatica.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	1	76.149	-10.433	-12.868	-3.237	Chrysochloris asiatica.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	S	1	82.514	-7.515	-10.718	-2.030	Chrysochloris asiatica.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	5	84.844	-5.019	-9.292	-4.492	Chrysochloris asiatica.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	T	4	83.166	-1.868	-11.369	-4.819	Chrysochloris asiatica.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	T	2	82.431	0.095	-8.729	-2.913	Chrysochloris asiatica.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	T	5	86.149	-2.356	-8.517	-0.018	Chrysochloris asiatica.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	T	4	79.171	-2.608	-12.321	0.114	Chrysochloris asiatica.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	T	3	83.999	1.158	-12.615	0.569	Chrysochloris asiatica.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	T	5	84.286	1.246	-9.787	3.105	Chrysochloris asiatica.cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	T	6	83.072	-1.534	-11.201	5.280	Chrysochloris asiatica.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	T	2	78.900	-0.052	-14.688	5.032	Chrysochloris asiatica.cif#89.A	1
+A:90:_:ALA	A	90	ALA	RES	T	0	80.190	3.315	-13.322	6.187	Chrysochloris asiatica.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	T	2	80.403	1.570	-11.822	9.226	Chrysochloris asiatica.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	T	2	81.034	0.012	-15.197	10.080	Chrysochloris asiatica.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	T	2	82.150	-3.543	-13.940	9.584	Chrysochloris asiatica.cif#93.A	1
+A:94:_:GLN	A	94	GLN	RES	T	3	78.449	-4.589	-16.991	7.555	Chrysochloris asiatica.cif#94.A	1
+A:95:_:GLY	A	95	GLY	RES	T	1	80.981	-3.977	-19.225	10.576	Chrysochloris asiatica.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	1	82.646	-6.133	-17.357	13.088	Chrysochloris asiatica.cif#96.A	1
+A:97:_:GLY	A	97	GLY	RES	 	2	84.309	-8.511	-19.383	15.241	Chrysochloris asiatica.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	T	1	84.142	-12.234	-18.757	15.316	Chrysochloris asiatica.cif#98.A	1
+A:99:_:GLU	A	99	GLU	RES	T	1	88.213	-12.158	-16.622	18.473	Chrysochloris asiatica.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	T	2	85.797	-9.277	-14.518	17.143	Chrysochloris asiatica.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	T	0	86.651	-11.158	-13.996	13.868	Chrysochloris asiatica.cif#101.A	1
+A:102:_:ARG	A	102	ARG	RES	T	2	90.216	-14.294	-12.893	15.724	Chrysochloris asiatica.cif#102.A	1
+A:103:_:ARG	A	103	ARG	RES	T	3	90.294	-12.338	-10.457	17.899	Chrysochloris asiatica.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	T	1	90.542	-10.501	-8.996	14.915	Chrysochloris asiatica.cif#104.A	1
+A:105:_:ALA	A	105	ALA	RES	T	1	90.838	-13.768	-8.662	12.968	Chrysochloris asiatica.cif#105.A	1
+A:106:_:GLU	A	106	GLU	RES	T	5	93.538	-15.266	-6.793	15.924	Chrysochloris asiatica.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	T	3	94.617	-12.280	-4.436	16.077	Chrysochloris asiatica.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	T	2	94.029	-12.394	-3.901	12.297	Chrysochloris asiatica.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	T	3	94.918	-16.081	-2.975	12.515	Chrysochloris asiatica.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	T	2	96.476	-15.481	-0.541	15.380	Chrysochloris asiatica.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	T	10	97.027	-12.567	1.041	13.507	Chrysochloris asiatica.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	T	6	94.888	-14.537	1.482	10.294	Chrysochloris asiatica.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	T	1	97.131	-17.489	2.943	12.205	Chrysochloris asiatica.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	T	5	97.038	-15.229	5.465	13.925	Chrysochloris asiatica.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	T	3	97.517	-13.014	6.557	11.029	Chrysochloris asiatica.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	1	96.605	-15.013	5.768	7.868	Chrysochloris asiatica.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	2	96.705	-12.268	3.660	6.278	Chrysochloris asiatica.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	3	95.033	-10.693	0.274	6.992	Chrysochloris asiatica.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	4	96.406	-7.745	-0.192	9.314	Chrysochloris asiatica.cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	5	96.511	-4.563	-0.030	7.239	Chrysochloris asiatica.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	1	93.982	-1.285	-1.479	8.505	Chrysochloris asiatica.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	4	91.687	1.857	-2.779	6.843	Chrysochloris asiatica.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	T	1	83.465	0.901	-6.229	8.099	Chrysochloris asiatica.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	T	2	80.116	3.931	-8.046	6.683	Chrysochloris asiatica.cif#124.A	1
+A:125:_:LEU	A	125	LEU	RES	T	2	82.169	6.023	-6.200	9.278	Chrysochloris asiatica.cif#125.A	1
+A:126:_:ARG	A	126	ARG	RES	S	2	80.363	3.902	-7.526	12.178	Chrysochloris asiatica.cif#126.A	1
+A:127:_:ASP	A	127	ASP	RES	 	2	82.235	2.583	-10.812	13.510	Chrysochloris asiatica.cif#127.A	1
+A:128:_:SER	A	128	SER	RES	T	1	84.787	-1.112	-11.441	14.119	Chrysochloris asiatica.cif#128.A	1
+A:129:_:ALA	A	129	ALA	RES	T	1	88.563	-0.966	-10.483	17.800	Chrysochloris asiatica.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	T	2	89.712	0.716	-7.181	16.953	Chrysochloris asiatica.cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	T	2	92.453	-1.929	-6.500	14.296	Chrysochloris asiatica.cif#131.A	1
+A:132:_:MET	A	132	MET	RES	T	1	90.868	-4.739	-6.866	16.823	Chrysochloris asiatica.cif#132.A	1
+A:133:_:SER	A	133	SER	RES	T	2	93.530	-2.881	-4.848	19.467	Chrysochloris asiatica.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	T	8	94.916	-2.188	-1.997	17.048	Chrysochloris asiatica.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	T	7	95.208	-5.780	-1.962	15.812	Chrysochloris asiatica.cif#135.A	1
+A:136:_:ALA	A	136	ALA	RES	T	1	95.212	-7.054	-1.730	19.396	Chrysochloris asiatica.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	T	7	96.490	-4.587	1.079	20.157	Chrysochloris asiatica.cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	T	9	97.363	-5.373	3.130	17.073	Chrysochloris asiatica.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	T	5	96.676	-9.114	3.033	17.816	Chrysochloris asiatica.cif#139.A	1
+A:140:_:HIS	A	140	HIS	RES	T	1	96.792	-8.317	5.682	20.444	Chrysochloris asiatica.cif#140.A	1
+A:141:_:CYS	A	141	CYS	RES	S	2	96.539	-6.400	8.054	18.154	Chrysochloris asiatica.cif#141.A	1
+A:142:_:PRO	A	142	PRO	RES	 	0	97.507	-7.788	11.437	17.092	Chrysochloris asiatica.cif#142.A	1
+A:143:_:PRO	A	143	PRO	RES	T	0	96.303	-9.197	11.225	13.537	Chrysochloris asiatica.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	T	1	95.869	-6.709	13.657	11.970	Chrysochloris asiatica.cif#144.A	1
+A:145:_:GLN	A	145	GLN	RES	T	1	96.982	-3.776	11.838	13.564	Chrysochloris asiatica.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	T	5	98.104	-5.161	8.459	12.485	Chrysochloris asiatica.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	T	1	97.731	-5.555	9.644	8.884	Chrysochloris asiatica.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	T	2	96.711	-1.880	10.655	8.823	Chrysochloris asiatica.cif#148.A	1
+A:149:_:THR	A	149	THR	RES	T	3	97.604	-0.844	7.357	10.399	Chrysochloris asiatica.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	T	5	98.091	-2.939	5.289	7.979	Chrysochloris asiatica.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	T	3	97.999	-1.553	7.145	4.957	Chrysochloris asiatica.cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	T	3	97.639	1.936	6.521	6.305	Chrysochloris asiatica.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	T	9	97.100	1.115	2.816	6.336	Chrysochloris asiatica.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	T	5	97.896	-0.098	3.039	2.726	Chrysochloris asiatica.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	T	2	97.061	3.248	4.579	1.768	Chrysochloris asiatica.cif#155.A	1
+A:156:_:THR	A	156	THR	RES	T	5	94.143	5.130	1.859	3.658	Chrysochloris asiatica.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	T	3	95.724	3.117	-0.837	1.862	Chrysochloris asiatica.cif#157.A	1
+A:158:_:GLY	A	158	GLY	RES	T	3	95.684	3.822	0.859	-1.465	Chrysochloris asiatica.cif#158.A	1
+A:159:_:ARG	A	159	ARG	RES	T	6	92.460	7.540	1.082	-0.721	Chrysochloris asiatica.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	T	5	91.331	7.702	-2.621	0.115	Chrysochloris asiatica.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	T	11	94.497	5.779	-3.545	-3.038	Chrysochloris asiatica.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	T	3	93.529	7.993	-1.364	-5.242	Chrysochloris asiatica.cif#162.A	1
+A:163:_:ARG	A	163	ARG	RES	T	2	87.344	11.114	-2.937	-3.786	Chrysochloris asiatica.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	T	2	89.151	9.653	-6.396	-4.381	Chrysochloris asiatica.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	T	2	91.169	8.819	-5.520	-7.991	Chrysochloris asiatica.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	T	3	89.488	12.110	-3.869	-8.889	Chrysochloris asiatica.cif#166.A	1
+A:167:_:GLY	A	167	GLY	RES	T	1	78.907	14.158	-6.531	-7.119	Chrysochloris asiatica.cif#167.A	1
+A:168:_:ALA	A	168	ALA	RES	S	2	54.073	12.451	-9.359	-9.030	Chrysochloris asiatica.cif#168.A	1
+A:169:_:ASP	A	169	ASP	RES	 	1	52.781	13.695	-10.968	-12.232	Chrysochloris asiatica.cif#169.A	1
+A:170:_:PRO	A	170	PRO	RES	T	1	48.430	11.884	-9.188	-15.078	Chrysochloris asiatica.cif#170.A	1
+A:171:_:ALA	A	171	ALA	RES	T	0	51.441	11.004	-12.598	-16.566	Chrysochloris asiatica.cif#171.A	1
+A:172:_:ARG	A	172	ARG	RES	T	1	47.422	8.825	-13.277	-13.509	Chrysochloris asiatica.cif#172.A	1
+A:173:_:LEU	A	173	LEU	RES	 	1	41.625	6.647	-10.210	-14.141	Chrysochloris asiatica.cif#173.A	1

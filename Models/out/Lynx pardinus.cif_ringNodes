@@ -1,0 +1,175 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	5	67.830	9.030	-17.773	3.117	Lynx pardinus.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	3	77.923	8.990	-21.363	1.968	Lynx pardinus.cif#2.A	1
+A:3:_:MET	A	3	MET	RES	T	5	87.635	6.824	-21.375	-1.139	Lynx pardinus.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	T	2	89.080	5.534	-24.802	-0.165	Lynx pardinus.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	T	5	87.237	3.957	-23.148	2.854	Lynx pardinus.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	T	4	92.917	2.486	-20.358	0.747	Lynx pardinus.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	T	10	94.676	1.189	-22.820	-1.824	Lynx pardinus.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	T	3	94.763	-0.353	-25.029	0.857	Lynx pardinus.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	5	95.481	-2.445	-22.227	2.336	Lynx pardinus.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	2	97.008	-6.161	-22.549	1.907	Lynx pardinus.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	T	4	97.659	-8.109	-19.616	0.515	Lynx pardinus.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	T	1	97.501	-8.936	-18.087	3.872	Lynx pardinus.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	T	4	95.583	-5.431	-18.366	5.251	Lynx pardinus.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	T	8	97.771	-3.886	-16.943	2.085	Lynx pardinus.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	T	2	97.638	-6.200	-13.937	2.096	Lynx pardinus.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	T	1	94.570	-5.656	-13.431	5.824	Lynx pardinus.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	T	1	93.451	-1.901	-13.335	5.286	Lynx pardinus.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	T	3	96.302	-1.665	-11.469	1.995	Lynx pardinus.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	T	2	96.028	-4.933	-9.550	1.838	Lynx pardinus.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	T	6	90.588	-3.344	-6.236	2.770	Lynx pardinus.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	T	1	94.960	-0.338	-6.474	0.471	Lynx pardinus.cif#21.A	1
+A:22:_:VAL	A	22	VAL	RES	S	4	95.053	-2.331	-3.873	-1.430	Lynx pardinus.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	T	7	89.495	-3.936	-1.556	1.100	Lynx pardinus.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	T	1	88.017	-7.481	-2.633	1.980	Lynx pardinus.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	T	3	92.730	-7.728	-4.739	-1.187	Lynx pardinus.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	T	1	95.218	-8.113	-8.367	-0.122	Lynx pardinus.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	T	2	93.349	-9.799	-9.098	-3.440	Lynx pardinus.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	T	6	96.623	-6.404	-8.907	-5.125	Lynx pardinus.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	T	3	97.624	-5.003	-11.577	-2.829	Lynx pardinus.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	T	2	97.453	-8.116	-13.645	-3.460	Lynx pardinus.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	T	3	96.470	-7.503	-13.437	-7.200	Lynx pardinus.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	T	5	97.629	-3.793	-14.174	-6.862	Lynx pardinus.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	T	11	97.672	-4.543	-17.275	-4.796	Lynx pardinus.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	T	1	94.767	-5.842	-18.946	-7.952	Lynx pardinus.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	T	2	95.046	-2.425	-18.580	-9.600	Lynx pardinus.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	6	94.147	-0.713	-21.113	-7.326	Lynx pardinus.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	1	94.604	1.737	-22.723	-7.302	Lynx pardinus.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	11	94.136	4.243	-19.898	-6.985	Lynx pardinus.cif#38.A	1
+A:39:_:SER	A	39	SER	RES	S	1	92.104	7.849	-20.785	-7.668	Lynx pardinus.cif#39.A	1
+A:40:_:ASN	A	40	ASN	RES	S	2	87.064	9.405	-18.052	-5.519	Lynx pardinus.cif#40.A	1
+A:41:_:SER	A	41	SER	RES	T	2	86.131	8.686	-14.692	-3.950	Lynx pardinus.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	T	0	87.617	9.278	-12.870	-7.238	Lynx pardinus.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	T	6	91.985	6.667	-15.050	-8.888	Lynx pardinus.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	T	6	94.123	4.174	-14.252	-6.148	Lynx pardinus.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	T	5	92.843	4.930	-10.535	-6.439	Lynx pardinus.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	T	1	94.115	4.566	-10.684	-10.212	Lynx pardinus.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	T	7	97.088	1.041	-12.004	-9.887	Lynx pardinus.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	T	5	97.322	0.020	-9.234	-7.512	Lynx pardinus.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	T	4	96.357	1.396	-6.569	-9.811	Lynx pardinus.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	T	2	97.075	0.107	-8.176	-12.996	Lynx pardinus.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	T	3	96.634	-3.375	-8.179	-11.508	Lynx pardinus.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	T	6	96.898	-3.103	-4.466	-10.771	Lynx pardinus.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	T	3	96.450	-1.837	-3.790	-14.273	Lynx pardinus.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	T	1	96.487	-4.655	-5.780	-15.851	Lynx pardinus.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	3	96.801	-7.413	-3.799	-14.158	Lynx pardinus.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	T	5	97.247	-9.257	-1.144	-16.104	Lynx pardinus.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	T	3	95.247	-8.466	2.427	-15.131	Lynx pardinus.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	T	1	96.088	-11.491	2.582	-12.841	Lynx pardinus.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	T	4	96.713	-10.210	-0.444	-10.951	Lynx pardinus.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	T	5	97.518	-6.716	0.982	-10.708	Lynx pardinus.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	T	3	96.788	-8.109	4.235	-9.353	Lynx pardinus.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	T	2	96.869	-10.181	2.201	-6.924	Lynx pardinus.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	T	5	95.222	-7.003	0.643	-5.565	Lynx pardinus.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	T	2	97.102	-5.577	4.105	-5.000	Lynx pardinus.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	T	4	95.996	-8.741	5.203	-3.219	Lynx pardinus.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	T	2	91.088	-8.138	2.467	-0.650	Lynx pardinus.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	1	91.346	-4.968	4.206	0.527	Lynx pardinus.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	0	84.536	-4.985	6.801	3.294	Lynx pardinus.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	2	81.537	-3.636	10.311	2.950	Lynx pardinus.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	0	79.899	-0.165	10.607	4.405	Lynx pardinus.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	3	69.332	-0.469	12.256	7.824	Lynx pardinus.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	3	72.917	-4.165	12.692	7.086	Lynx pardinus.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	T	1	70.415	-7.441	12.208	8.894	Lynx pardinus.cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	T	3	69.973	-7.028	8.441	9.155	Lynx pardinus.cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	T	3	71.498	-3.800	8.896	11.087	Lynx pardinus.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	T	1	67.723	-5.289	11.514	13.400	Lynx pardinus.cif#76.A	1
+A:77:_:GLN	A	77	GLN	RES	T	1	65.870	-8.362	9.366	14.016	Lynx pardinus.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	T	1	68.766	-6.383	6.180	14.607	Lynx pardinus.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	2	65.678	-8.030	4.332	11.729	Lynx pardinus.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	 	3	70.554	-4.952	3.408	9.685	Lynx pardinus.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	3	76.602	-4.249	-0.219	8.945	Lynx pardinus.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	T	3	67.528	-1.438	-1.682	10.997	Lynx pardinus.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	T	8	71.429	0.784	-1.633	7.925	Lynx pardinus.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	T	7	71.486	0.128	2.016	7.088	Lynx pardinus.cif#84.A	1
+A:85:_:ARG	A	85	ARG	RES	T	6	69.452	0.509	3.030	10.713	Lynx pardinus.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	T	2	70.486	3.933	1.427	10.857	Lynx pardinus.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	T	3	74.621	4.966	2.838	7.482	Lynx pardinus.cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	T	4	71.364	3.885	6.387	8.245	Lynx pardinus.cif#88.A	1
+A:89:_:GLY	A	89	GLY	RES	T	3	66.589	5.339	6.217	11.725	Lynx pardinus.cif#89.A	1
+A:90:_:GLY	A	90	GLY	RES	T	0	68.869	8.649	5.006	10.367	Lynx pardinus.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	T	2	69.548	8.727	7.927	7.945	Lynx pardinus.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	T	3	70.522	8.179	10.416	10.767	Lynx pardinus.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	T	1	73.995	4.761	11.501	9.539	Lynx pardinus.cif#93.A	1
+A:94:_:MET	A	94	MET	RES	T	1	73.418	3.179	11.029	12.957	Lynx pardinus.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	T	1	77.063	5.435	13.733	14.418	Lynx pardinus.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	3	78.235	4.295	16.642	12.265	Lynx pardinus.cif#96.A	1
+A:97:_:ASP	A	97	ASP	RES	 	5	82.886	3.276	19.789	14.074	Lynx pardinus.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	T	1	86.245	-0.057	21.469	13.429	Lynx pardinus.cif#98.A	1
+A:99:_:ALA	A	99	ALA	RES	T	0	89.747	1.301	23.780	10.743	Lynx pardinus.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	T	5	84.262	2.936	20.885	8.909	Lynx pardinus.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	T	3	84.085	-0.256	18.848	9.090	Lynx pardinus.cif#101.A	1
+A:102:_:LEU	A	102	LEU	RES	T	5	89.776	-2.279	21.771	7.781	Lynx pardinus.cif#102.A	1
+A:103:_:ARG	A	103	ARG	RES	T	2	89.908	0.076	22.209	4.842	Lynx pardinus.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	T	5	88.061	-0.146	18.538	3.968	Lynx pardinus.cif#104.A	1
+A:105:_:ALA	A	105	ALA	RES	T	4	89.215	-3.920	18.590	4.381	Lynx pardinus.cif#105.A	1
+A:106:_:GLU	A	106	GLU	RES	T	4	93.939	-4.159	21.460	1.912	Lynx pardinus.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	T	3	93.738	-1.972	19.651	-0.595	Lynx pardinus.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	T	6	91.586	-3.860	16.390	-0.099	Lynx pardinus.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	T	2	93.921	-7.162	18.159	-0.720	Lynx pardinus.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	T	1	96.411	-5.853	19.730	-3.915	Lynx pardinus.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	T	8	95.887	-4.489	16.382	-5.056	Lynx pardinus.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	T	2	93.617	-7.753	14.570	-4.426	Lynx pardinus.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	T	1	97.055	-9.686	17.301	-6.197	Lynx pardinus.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	T	3	96.937	-7.446	17.030	-9.231	Lynx pardinus.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	T	3	96.956	-7.020	13.268	-9.543	Lynx pardinus.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	3	96.259	-9.924	11.728	-7.641	Lynx pardinus.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	2	96.013	-7.724	9.540	-5.462	Lynx pardinus.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	3	92.269	-5.308	10.154	-2.601	Lynx pardinus.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	7	93.740	-1.637	10.902	-3.010	Lynx pardinus.cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	1	93.192	0.246	7.636	-2.669	Lynx pardinus.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	1	89.806	3.918	7.503	-1.762	Lynx pardinus.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	4	88.459	5.942	4.619	-0.405	Lynx pardinus.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	T	2	79.613	6.519	6.349	2.903	Lynx pardinus.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	T	2	75.349	9.132	3.856	4.072	Lynx pardinus.cif#124.A	1
+A:125:_:LEU	A	125	LEU	RES	T	1	74.534	11.301	4.918	1.142	Lynx pardinus.cif#125.A	1
+A:126:_:SER	A	126	SER	RES	S	2	71.927	10.957	8.636	1.814	Lynx pardinus.cif#126.A	1
+A:127:_:ASP	A	127	ASP	RES	 	3	73.951	11.117	11.050	4.702	Lynx pardinus.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	T	5	73.428	8.630	13.537	6.022	Lynx pardinus.cif#128.A	1
+A:129:_:ALA	A	129	ALA	RES	T	0	79.113	10.542	16.543	4.714	Lynx pardinus.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	T	3	81.182	10.268	15.285	1.138	Lynx pardinus.cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	T	4	85.910	6.543	14.574	1.177	Lynx pardinus.cif#131.A	1
+A:132:_:PRO	A	132	PRO	RES	T	1	88.831	5.091	18.078	0.642	Lynx pardinus.cif#132.A	1
+A:133:_:GLY	A	133	GLY	RES	T	0	92.092	7.467	18.841	-2.217	Lynx pardinus.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	T	8	91.590	6.741	15.574	-3.963	Lynx pardinus.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	T	10	92.535	3.009	16.059	-3.509	Lynx pardinus.cif#135.A	1
+A:136:_:ALA	A	136	ALA	RES	T	2	94.470	3.197	19.576	-4.935	Lynx pardinus.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	T	7	95.303	5.309	18.354	-7.833	Lynx pardinus.cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	T	11	95.329	2.888	15.582	-8.694	Lynx pardinus.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	T	4	95.504	-0.020	18.014	-8.740	Lynx pardinus.cif#139.A	1
+A:140:_:GLN	A	140	GLN	RES	T	2	95.233	1.465	19.315	-11.983	Lynx pardinus.cif#140.A	1
+A:141:_:ARG	A	141	ARG	RES	S	5	93.793	1.553	15.949	-13.741	Lynx pardinus.cif#141.A	1
+A:142:_:PRO	A	142	PRO	RES	 	3	97.055	-0.884	14.907	-16.437	Lynx pardinus.cif#142.A	1
+A:143:_:PRO	A	143	PRO	RES	G	1	95.707	-3.535	12.579	-15.006	Lynx pardinus.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	G	1	95.877	-2.425	9.510	-16.976	Lynx pardinus.cif#144.A	1
+A:145:_:GLU	A	145	GLU	RES	G	3	96.599	1.181	10.013	-15.919	Lynx pardinus.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	G	7	97.735	0.193	10.491	-12.289	Lynx pardinus.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	G	3	97.636	-1.971	7.375	-12.344	Lynx pardinus.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	G	1	96.365	1.029	5.354	-13.511	Lynx pardinus.cif#148.A	1
+A:149:_:THR	A	149	THR	RES	G	3	96.451	3.259	6.958	-10.902	Lynx pardinus.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	G	4	97.522	0.770	6.361	-8.099	Lynx pardinus.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	G	4	97.530	0.346	2.730	-9.117	Lynx pardinus.cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	G	5	96.188	4.120	2.433	-9.115	Lynx pardinus.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	G	9	94.484	4.076	3.610	-5.515	Lynx pardinus.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	G	2	95.775	1.424	1.017	-4.690	Lynx pardinus.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	G	7	95.602	3.733	-1.621	-6.135	Lynx pardinus.cif#155.A	1
+A:156:_:LYS	A	156	LYS	RES	G	4	91.330	6.660	-0.349	-4.065	Lynx pardinus.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	G	4	92.190	4.494	-0.566	-0.960	Lynx pardinus.cif#157.A	1
+A:158:_:GLY	A	158	GLY	RES	G	2	93.136	3.316	-4.030	-1.938	Lynx pardinus.cif#158.A	1
+A:159:_:ARG	A	159	ARG	RES	G	1	90.929	6.856	-5.201	-2.564	Lynx pardinus.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	G	5	87.142	7.919	-4.030	0.883	Lynx pardinus.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	G	8	91.189	4.905	-5.638	2.523	Lynx pardinus.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	G	4	91.630	5.526	-8.916	0.715	Lynx pardinus.cif#162.A	1
+A:163:_:ALA	A	163	ALA	RES	G	2	86.221	9.153	-8.806	1.798	Lynx pardinus.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	G	4	86.047	8.045	-8.258	5.380	Lynx pardinus.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	G	2	89.689	5.569	-11.117	5.265	Lynx pardinus.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	G	5	87.216	7.854	-13.564	3.525	Lynx pardinus.cif#166.A	1
+A:167:_:GLY	A	167	GLY	RES	G	3	78.330	10.853	-12.629	5.635	Lynx pardinus.cif#167.A	1
+A:168:_:ALA	A	168	ALA	RES	G	4	56.745	8.902	-12.972	8.863	Lynx pardinus.cif#168.A	1
+A:169:_:ALA	A	169	ALA	RES	G	2	50.517	7.552	-16.317	7.714	Lynx pardinus.cif#169.A	1
+A:170:_:GLY	A	170	GLY	RES	G	2	50.236	11.095	-17.445	6.963	Lynx pardinus.cif#170.A	1
+A:171:_:LEU	A	171	LEU	RES	G	2	52.539	12.198	-16.465	10.448	Lynx pardinus.cif#171.A	1
+A:172:_:ALA	A	172	ALA	RES	G	1	50.211	9.252	-18.395	11.875	Lynx pardinus.cif#172.A	1
+A:173:_:GLY	A	173	GLY	RES	 	1	43.228	10.759	-21.552	10.403	Lynx pardinus.cif#173.A	1
+A:174:_:PRO	A	174	PRO	RES	 	0	38.960	8.328	-23.284	8.038	Lynx pardinus.cif#174.A	1

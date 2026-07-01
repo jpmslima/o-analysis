@@ -1,0 +1,121 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	1	73.792	7.866	-1.836	-16.421	saimiri_boliviensis_boliviensis.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	2	86.108	7.028	-0.693	-19.950	saimiri_boliviensis_boliviensis.cif#2.A	1
+A:3:_:ILE	A	3	ILE	RES	H	4	89.502	4.308	1.962	-19.977	saimiri_boliviensis_boliviensis.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	2	93.474	2.839	0.669	-23.251	saimiri_boliviensis_boliviensis.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	2	90.342	2.349	-2.692	-21.540	saimiri_boliviensis_boliviensis.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	9	90.977	0.674	-0.975	-18.594	saimiri_boliviensis_boliviensis.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	5	95.189	-1.655	0.953	-20.916	saimiri_boliviensis_boliviensis.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	3	95.090	-2.611	-2.254	-22.746	saimiri_boliviensis_boliviensis.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	5	92.376	-3.547	-4.170	-19.593	saimiri_boliviensis_boliviensis.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	2	92.879	-7.177	-5.109	-19.157	saimiri_boliviensis_boliviensis.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	4	92.073	-8.982	-4.266	-15.932	saimiri_boliviensis_boliviensis.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	2	90.644	-8.256	-7.572	-14.206	saimiri_boliviensis_boliviensis.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	2	90.620	-4.578	-7.605	-15.098	saimiri_boliviensis_boliviensis.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	7	92.381	-4.096	-3.965	-14.070	saimiri_boliviensis_boliviensis.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	89.404	-5.718	-4.517	-10.678	saimiri_boliviensis_boliviensis.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	2	84.779	-3.735	-7.732	-10.195	saimiri_boliviensis_boliviensis.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	1	85.240	-0.474	-5.875	-10.825	saimiri_boliviensis_boliviensis.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	3	85.035	-1.233	-2.541	-9.123	saimiri_boliviensis_boliviensis.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	1	81.971	-3.939	-3.415	-6.603	saimiri_boliviensis_boliviensis.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	1	70.750	-1.376	-3.352	-3.797	saimiri_boliviensis_boliviensis.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	0	70.754	0.255	-0.033	-4.701	saimiri_boliviensis_boliviensis.cif#21.A	1
+A:22:_:VAL	A	22	VAL	RES	T	1	69.077	-1.855	1.038	-1.757	saimiri_boliviensis_boliviensis.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	6	61.997	-1.868	-2.085	0.393	saimiri_boliviensis_boliviensis.cif#23.A	1
+A:24:_:LYS	A	24	LYS	RES	H	2	62.687	-5.147	-3.995	0.540	saimiri_boliviensis_boliviensis.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	2	70.414	-6.928	-1.229	-1.396	saimiri_boliviensis_boliviensis.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	1	79.587	-7.394	-2.675	-4.903	saimiri_boliviensis_boliviensis.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	2	76.459	-10.324	-0.350	-5.575	saimiri_boliviensis_boliviensis.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	3	82.607	-7.878	2.562	-5.765	saimiri_boliviensis_boliviensis.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	1	88.012	-6.094	0.790	-8.617	saimiri_boliviensis_boliviensis.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	2	88.064	-9.490	0.134	-10.198	saimiri_boliviensis_boliviensis.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	2	88.021	-10.258	3.862	-10.105	saimiri_boliviensis_boliviensis.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	3	90.998	-6.856	4.818	-11.527	saimiri_boliviensis_boliviensis.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	13	93.196	-7.215	2.282	-14.362	saimiri_boliviensis_boliviensis.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	0	90.797	-9.932	4.431	-15.939	saimiri_boliviensis_boliviensis.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	2	91.030	-7.474	7.340	-16.319	saimiri_boliviensis_boliviensis.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	7	90.848	-5.404	5.592	-19.019	saimiri_boliviensis_boliviensis.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	95.185	-3.442	6.192	-21.138	saimiri_boliviensis_boliviensis.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	8	93.259	-0.585	7.157	-18.843	saimiri_boliviensis_boliviensis.cif#38.A	1
+A:39:_:LEU	A	39	LEU	RES	S	1	95.297	2.376	9.131	-20.165	saimiri_boliviensis_boliviensis.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	2	89.063	4.976	7.209	-18.163	saimiri_boliviensis_boliviensis.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	H	1	82.129	5.314	5.397	-14.850	saimiri_boliviensis_boliviensis.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	2	84.548	5.801	8.687	-13.021	saimiri_boliviensis_boliviensis.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	5	92.056	2.491	9.875	-14.476	saimiri_boliviensis_boliviensis.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	5	89.053	0.851	6.647	-13.301	saimiri_boliviensis_boliviensis.cif#44.A	1
+A:45:_:GLN	A	45	GLN	RES	H	5	80.227	2.191	7.250	-9.797	saimiri_boliviensis_boliviensis.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	3	89.367	0.887	10.830	-9.873	saimiri_boliviensis_boliviensis.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	5	90.908	-2.596	9.508	-10.674	saimiri_boliviensis_boliviensis.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	3	84.906	-2.460	7.371	-7.527	saimiri_boliviensis_boliviensis.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	H	3	80.060	-1.348	10.386	-5.492	saimiri_boliviensis_boliviensis.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	2	88.165	-4.038	12.594	-7.011	saimiri_boliviensis_boliviensis.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	2	86.145	-6.767	10.068	-6.233	saimiri_boliviensis_boliviensis.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	4	77.522	-5.677	9.791	-2.604	saimiri_boliviensis_boliviensis.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	1	80.469	-5.333	13.566	-2.252	saimiri_boliviensis_boliviensis.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	1	86.941	-8.851	14.054	-3.609	saimiri_boliviensis_boliviensis.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	1	80.583	-10.417	11.821	-0.955	saimiri_boliviensis_boliviensis.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	 	4	83.979	-12.069	13.376	2.085	saimiri_boliviensis_boliviensis.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	4	74.682	-10.410	12.848	5.449	saimiri_boliviensis_boliviensis.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	1	77.856	-12.583	9.812	6.230	saimiri_boliviensis_boliviensis.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	5	76.117	-11.510	8.205	2.949	saimiri_boliviensis_boliviensis.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	5	72.366	-7.835	8.834	3.620	saimiri_boliviensis_boliviensis.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	4	70.186	-8.205	7.368	7.109	saimiri_boliviensis_boliviensis.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	4	72.079	-9.963	4.379	5.558	saimiri_boliviensis_boliviensis.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	4	69.005	-6.903	3.780	3.392	saimiri_boliviensis_boliviensis.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	6	63.895	-4.682	3.894	6.468	saimiri_boliviensis_boliviensis.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	4	66.561	-6.886	1.257	8.112	saimiri_boliviensis_boliviensis.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	2	62.453	-6.047	-1.096	5.226	saimiri_boliviensis_boliviensis.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	3	60.789	-2.346	-1.187	6.158	saimiri_boliviensis_boliviensis.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	1	56.126	-1.099	-4.131	8.215	saimiri_boliviensis_boliviensis.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	6	57.526	-0.286	-3.616	11.875	saimiri_boliviensis_boliviensis.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	0	52.650	3.357	-3.412	12.880	saimiri_boliviensis_boliviensis.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	1	52.297	4.563	-6.873	13.976	saimiri_boliviensis_boliviensis.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	3	56.752	1.219	-8.332	12.872	saimiri_boliviensis_boliviensis.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	H	3	55.791	0.495	-11.617	11.138	saimiri_boliviensis_boliviensis.cif#73.A	1
+A:74:_:ASP	A	74	ASP	RES	H	1	57.425	1.499	-10.334	7.690	saimiri_boliviensis_boliviensis.cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	H	2	57.499	4.985	-9.554	9.004	saimiri_boliviensis_boliviensis.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	4	57.059	5.234	-12.861	10.872	saimiri_boliviensis_boliviensis.cif#76.A	1
+A:77:_:GLN	A	77	GLN	RES	H	1	58.064	4.126	-14.798	7.776	saimiri_boliviensis_boliviensis.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	H	1	61.438	6.364	-12.844	5.388	saimiri_boliviensis_boliviensis.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	1	63.629	3.461	-11.714	3.209	saimiri_boliviensis_boliviensis.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	 	2	59.326	3.978	-7.930	3.313	saimiri_boliviensis_boliviensis.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	4	62.656	4.335	-5.922	0.124	saimiri_boliviensis_boliviensis.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	3	64.016	7.724	-4.449	-0.713	saimiri_boliviensis_boliviensis.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	1	61.072	6.578	-1.003	0.440	saimiri_boliviensis_boliviensis.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	8	61.795	5.414	-2.308	3.805	saimiri_boliviensis_boliviensis.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	H	6	63.321	8.589	-4.407	4.153	saimiri_boliviensis_boliviensis.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	2	64.440	10.561	-1.152	4.177	saimiri_boliviensis_boliviensis.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	3	57.638	8.330	0.261	6.910	saimiri_boliviensis_boliviensis.cif#87.A	1
+A:88:_:HIS	A	88	HIS	RES	H	8	58.601	8.676	-2.942	8.950	saimiri_boliviensis_boliviensis.cif#88.A	1
+A:89:_:ARG	A	89	ARG	RES	H	0	61.162	12.428	-3.366	8.411	saimiri_boliviensis_boliviensis.cif#89.A	1
+A:90:_:GLY	A	90	GLY	RES	H	2	55.852	14.172	-4.437	11.586	saimiri_boliviensis_boliviensis.cif#90.A	1
+A:91:_:LEU	A	91	LEU	RES	H	8	54.819	11.049	-5.707	13.316	saimiri_boliviensis_boliviensis.cif#91.A	1
+A:92:_:THR	A	92	THR	RES	H	0	55.331	11.854	-9.357	12.542	saimiri_boliviensis_boliviensis.cif#92.A	1
+A:93:_:SER	A	93	SER	RES	H	2	59.116	14.965	-8.997	14.734	saimiri_boliviensis_boliviensis.cif#93.A	1
+A:94:_:LEU	A	94	LEU	RES	 	2	57.261	13.019	-7.862	17.795	saimiri_boliviensis_boliviensis.cif#94.A	1
+A:95:_:GLY	A	95	GLY	RES	 	2	60.491	12.726	-10.153	20.781	saimiri_boliviensis_boliviensis.cif#95.A	1
+A:96:_:ALA	A	96	ALA	RES	H	1	60.207	9.432	-11.501	22.073	saimiri_boliviensis_boliviensis.cif#96.A	1
+A:97:_:ASP	A	97	ASP	RES	H	1	67.357	9.036	-8.833	24.749	saimiri_boliviensis_boliviensis.cif#97.A	1
+A:98:_:GLU	A	98	GLU	RES	H	2	62.610	9.765	-6.069	22.235	saimiri_boliviensis_boliviensis.cif#98.A	1
+A:99:_:LEU	A	99	LEU	RES	H	4	57.887	7.218	-7.507	19.794	saimiri_boliviensis_boliviensis.cif#99.A	1
+A:100:_:LEU	A	100	LEU	RES	H	1	64.624	4.582	-7.646	22.540	saimiri_boliviensis_boliviensis.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	H	3	68.003	5.307	-4.040	23.496	saimiri_boliviensis_boliviensis.cif#101.A	1
+A:102:_:LEU	A	102	LEU	RES	H	3	59.404	5.090	-2.958	19.858	saimiri_boliviensis_boliviensis.cif#102.A	1
+A:103:_:ALA	A	103	ALA	RES	H	2	62.519	1.736	-4.731	19.489	saimiri_boliviensis_boliviensis.cif#103.A	1
+A:104:_:GLU	A	104	GLU	RES	H	5	70.326	0.476	-2.984	22.625	saimiri_boliviensis_boliviensis.cif#104.A	1
+A:105:_:LEU	A	105	LEU	RES	H	1	64.928	1.580	0.427	21.341	saimiri_boliviensis_boliviensis.cif#105.A	1
+A:106:_:ASN	A	106	ASN	RES	H	6	63.813	-0.046	-0.244	17.966	saimiri_boliviensis_boliviensis.cif#106.A	1
+A:107:_:ALA	A	107	ALA	RES	H	4	70.341	-3.311	-1.200	19.678	saimiri_boliviensis_boliviensis.cif#107.A	1
+A:108:_:GLN	A	108	GLN	RES	H	4	71.220	-3.226	2.032	21.694	saimiri_boliviensis_boliviensis.cif#108.A	1
+A:109:_:TYR	A	109	TYR	RES	H	7	63.195	-2.531	4.000	18.503	saimiri_boliviensis_boliviensis.cif#109.A	1
+A:110:_:ARG	A	110	ARG	RES	H	8	67.188	-5.478	2.345	16.751	saimiri_boliviensis_boliviensis.cif#110.A	1
+A:111:_:ALA	A	111	ALA	RES	H	1	73.839	-7.723	3.045	19.726	saimiri_boliviensis_boliviensis.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	3	66.295	-6.788	6.724	19.642	saimiri_boliviensis_boliviensis.cif#112.A	1
+A:113:_:PHE	A	113	PHE	RES	H	3	64.919	-6.647	7.410	15.900	saimiri_boliviensis_boliviensis.cif#113.A	1
+A:114:_:GLY	A	114	GLY	RES	T	3	62.813	-8.668	4.613	14.275	saimiri_boliviensis_boliviensis.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	S	4	62.073	-5.892	3.361	11.989	saimiri_boliviensis_boliviensis.cif#115.A	1
+A:116:_:PRO	A	116	PRO	RES	 	1	58.688	-2.532	1.608	12.352	saimiri_boliviensis_boliviensis.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	 	3	57.271	0.745	3.381	13.041	saimiri_boliviensis_boliviensis.cif#117.A	1
+A:118:_:ILE	A	118	ILE	RES	 	1	53.960	2.485	4.226	9.771	saimiri_boliviensis_boliviensis.cif#118.A	1
+A:119:_:LEU	A	119	LEU	RES	 	1	50.616	6.209	4.984	9.541	saimiri_boliviensis_boliviensis.cif#119.A	1
+A:120:_:ALA	A	120	ALA	RES	 	0	41.442	6.292	7.590	6.786	saimiri_boliviensis_boliviensis.cif#120.A	1

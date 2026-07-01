@@ -1,0 +1,174 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	4	68.534	-1.058	20.819	-2.538	Gorilla gorilla gorilla.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	1	78.136	-2.422	22.211	0.701	Gorilla gorilla gorilla.cif#2.A	1
+A:3:_:THR	A	3	THR	RES	H	2	85.846	-5.145	20.805	2.890	Gorilla gorilla gorilla.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	2	86.928	-7.672	23.401	1.753	Gorilla gorilla gorilla.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	2	86.936	-7.313	22.167	-1.812	Gorilla gorilla gorilla.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	3	92.693	-7.725	18.580	-0.639	Gorilla gorilla gorilla.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	7	94.410	-10.866	19.533	1.258	Gorilla gorilla gorilla.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	4	93.456	-12.274	21.290	-1.811	Gorilla gorilla gorilla.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	5	93.935	-11.961	18.275	-4.110	Gorilla gorilla gorilla.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	3	95.742	-15.080	16.586	-5.362	Gorilla gorilla gorilla.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	3	97.315	-15.405	12.839	-4.931	Gorilla gorilla gorilla.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	1	97.016	-14.055	11.936	-8.352	Gorilla gorilla gorilla.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	5	93.682	-11.059	14.217	-8.113	Gorilla gorilla gorilla.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	7	97.021	-10.238	13.031	-4.601	Gorilla gorilla gorilla.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	97.190	-10.311	9.375	-5.612	Gorilla gorilla gorilla.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	2	93.400	-8.316	10.107	-8.765	Gorilla gorilla gorilla.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	1	92.524	-5.612	11.810	-6.733	Gorilla gorilla gorilla.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	7	95.842	-5.541	9.639	-3.617	Gorilla gorilla gorilla.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	2	95.674	-6.854	6.330	-4.914	Gorilla gorilla gorilla.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	3	91.015	-3.361	4.876	-5.118	Gorilla gorilla gorilla.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	4	94.439	-2.135	6.016	-1.718	Gorilla gorilla gorilla.cif#21.A	1
+A:22:_:THR	A	22	THR	RES	H	5	94.041	-2.628	2.337	-1.000	Gorilla gorilla gorilla.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	4	87.722	-1.518	0.373	-4.045	Gorilla gorilla gorilla.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	3	86.381	-4.393	-0.182	-6.474	Gorilla gorilla gorilla.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	3	92.076	-6.915	0.290	-3.686	Gorilla gorilla gorilla.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	3	94.942	-9.123	3.292	-4.457	Gorilla gorilla gorilla.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	0	93.602	-11.842	2.072	-2.114	Gorilla gorilla gorilla.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	5	96.367	-9.859	3.448	0.813	Gorilla gorilla gorilla.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	3	97.068	-9.750	6.918	-0.700	Gorilla gorilla gorilla.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	1	97.068	-13.459	6.639	-1.435	Gorilla gorilla gorilla.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	1	96.145	-14.122	5.888	2.227	Gorilla gorilla gorilla.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	4	97.109	-11.786	8.592	3.517	Gorilla gorilla gorilla.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	9	96.912	-13.475	11.181	1.302	Gorilla gorilla gorilla.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	0	94.422	-16.347	11.417	3.779	Gorilla gorilla gorilla.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	2	93.063	-14.009	12.284	6.667	Gorilla gorilla gorilla.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	6	92.861	-13.343	15.829	5.463	Gorilla gorilla gorilla.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	93.578	-12.439	18.404	6.525	Gorilla gorilla gorilla.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	4	94.482	-8.846	17.385	7.174	Gorilla gorilla gorilla.cif#38.A	1
+A:39:_:SER	A	39	SER	RES	 	3	92.032	-6.706	19.707	9.256	Gorilla gorilla gorilla.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	2	86.011	-3.298	18.701	7.871	Gorilla gorilla gorilla.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	H	2	84.148	-1.330	15.890	6.265	Gorilla gorilla gorilla.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	1	87.458	-1.159	14.013	9.551	Gorilla gorilla gorilla.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	8	92.960	-4.933	14.132	9.887	Gorilla gorilla gorilla.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	0	93.724	-5.350	12.809	6.357	Gorilla gorilla gorilla.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	H	5	92.508	-2.902	9.986	7.077	Gorilla gorilla gorilla.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	2	94.844	-4.726	9.201	10.293	Gorilla gorilla gorilla.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	5	96.854	-7.966	8.641	8.423	Gorilla gorilla gorilla.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	4	97.233	-6.356	6.434	5.785	Gorilla gorilla gorilla.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	H	4	96.585	-4.604	4.303	8.364	Gorilla gorilla gorilla.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	2	96.999	-7.567	4.145	10.727	Gorilla gorilla gorilla.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	1	96.956	-9.658	2.781	7.880	Gorilla gorilla gorilla.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	6	96.756	-7.057	0.114	7.168	Gorilla gorilla gorilla.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	4	96.038	-6.854	-0.823	10.827	Gorilla gorilla gorilla.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	1	96.517	-10.629	-1.047	11.153	Gorilla gorilla gorilla.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	3	96.503	-10.996	-3.583	8.352	Gorilla gorilla gorilla.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	I	4	96.719	-11.492	-7.218	9.239	Gorilla gorilla gorilla.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	2	92.764	-8.508	-9.466	8.633	Gorilla gorilla gorilla.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	1	94.889	-9.868	-10.534	5.247	Gorilla gorilla gorilla.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	3	96.281	-10.027	-6.903	4.173	Gorilla gorilla gorilla.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	5	95.624	-6.529	-6.193	5.434	Gorilla gorilla gorilla.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	3	94.528	-5.208	-9.190	3.526	Gorilla gorilla gorilla.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	3	96.169	-7.086	-7.949	0.483	Gorilla gorilla gorilla.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	5	94.970	-5.174	-4.685	0.675	Gorilla gorilla gorilla.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	3	94.932	-1.913	-6.609	0.668	Gorilla gorilla gorilla.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	3	94.747	-3.003	-8.670	-2.321	Gorilla gorilla gorilla.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	2	90.450	-3.253	-5.470	-4.359	Gorilla gorilla gorilla.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	3	89.075	0.518	-4.999	-4.144	Gorilla gorilla gorilla.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	2	82.408	2.871	-6.394	-6.775	Gorilla gorilla gorilla.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	4	82.274	5.838	-8.600	-5.976	Gorilla gorilla gorilla.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	1	76.848	8.977	-6.576	-5.421	Gorilla gorilla gorilla.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	3	72.391	11.313	-6.916	-8.405	Gorilla gorilla gorilla.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	4	74.981	8.664	-9.043	-10.096	Gorilla gorilla gorilla.cif#72.A	1
+A:73:_:SER	A	73	SER	RES	H	3	71.176	7.538	-9.233	-13.683	Gorilla gorilla gorilla.cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	H	7	70.177	5.588	-5.967	-13.485	Gorilla gorilla gorilla.cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	H	4	70.834	8.795	-4.087	-12.728	Gorilla gorilla gorilla.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	3	65.937	10.613	-5.786	-15.593	Gorilla gorilla gorilla.cif#76.A	1
+A:77:_:ARG	A	77	ARG	RES	H	2	66.871	7.748	-5.056	-18.002	Gorilla gorilla gorilla.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	H	2	64.802	7.377	-1.466	-16.823	Gorilla gorilla gorilla.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	3	64.611	3.710	-2.011	-15.989	Gorilla gorilla gorilla.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	S	4	65.338	3.798	-1.008	-12.324	Gorilla gorilla gorilla.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	3	70.879	1.903	2.012	-11.143	Gorilla gorilla gorilla.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	2	66.692	3.965	5.168	-11.413	Gorilla gorilla gorilla.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	3	60.576	4.392	5.173	-7.646	Gorilla gorilla gorilla.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	2	69.502	5.600	1.575	-7.399	Gorilla gorilla gorilla.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	H	5	64.125	7.889	2.029	-10.387	Gorilla gorilla gorilla.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	3	68.717	9.544	4.993	-8.725	Gorilla gorilla gorilla.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	8	69.474	9.767	3.263	-5.350	Gorilla gorilla gorilla.cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	H	5	69.387	11.225	-0.001	-6.613	Gorilla gorilla gorilla.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	H	4	66.916	13.615	1.712	-9.003	Gorilla gorilla gorilla.cif#89.A	1
+A:90:_:GLY	A	90	GLY	RES	H	1	64.758	14.788	3.937	-6.180	Gorilla gorilla gorilla.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	3	64.562	15.600	0.859	-4.114	Gorilla gorilla gorilla.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	3	69.379	17.733	-0.526	-6.938	Gorilla gorilla gorilla.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	H	6	71.726	15.441	-3.471	-7.635	Gorilla gorilla gorilla.cif#93.A	1
+A:94:_:ARG	A	94	ARG	RES	H	2	69.704	15.370	-2.587	-11.325	Gorilla gorilla gorilla.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	H	4	73.059	19.108	-3.309	-11.463	Gorilla gorilla gorilla.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	3	73.778	19.089	-6.749	-9.855	Gorilla gorilla gorilla.cif#96.A	1
+A:97:_:GLY	A	97	GLY	RES	 	1	78.763	21.161	-9.284	-11.730	Gorilla gorilla gorilla.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	H	1	82.061	19.746	-12.506	-13.088	Gorilla gorilla gorilla.cif#98.A	1
+A:99:_:ASP	A	99	ASP	RES	H	1	83.162	20.665	-14.541	-10.016	Gorilla gorilla gorilla.cif#99.A	1
+A:100:_:GLY	A	100	GLY	RES	H	1	82.569	19.211	-11.910	-7.727	Gorilla gorilla gorilla.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	H	2	82.250	15.939	-11.857	-9.642	Gorilla gorilla gorilla.cif#101.A	1
+A:102:_:LEU	A	102	LEU	RES	H	1	87.158	15.696	-15.646	-9.555	Gorilla gorilla gorilla.cif#102.A	1
+A:103:_:ARG	A	103	ARG	RES	H	6	87.192	16.375	-15.766	-5.838	Gorilla gorilla gorilla.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	3	84.996	13.847	-13.063	-5.086	Gorilla gorilla gorilla.cif#104.A	1
+A:105:_:ALA	A	105	ALA	RES	H	1	87.708	11.238	-14.754	-7.274	Gorilla gorilla gorilla.cif#105.A	1
+A:106:_:GLU	A	106	GLU	RES	H	5	90.874	11.770	-17.940	-5.284	Gorilla gorilla gorilla.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	4	89.919	11.397	-16.093	-1.992	Gorilla gorilla gorilla.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	5	90.212	8.304	-14.263	-3.239	Gorilla gorilla gorilla.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	3	91.907	6.691	-17.574	-4.153	Gorilla gorilla gorilla.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	2	92.518	7.492	-19.050	-0.747	Gorilla gorilla gorilla.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	11	91.678	6.117	-15.951	0.951	Gorilla gorilla gorilla.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	5	91.912	2.837	-16.113	-0.954	Gorilla gorilla gorilla.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	1	93.285	2.512	-19.808	-0.194	Gorilla gorilla gorilla.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	2	91.653	3.029	-19.178	3.498	Gorilla gorilla gorilla.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	7	91.951	1.031	-16.015	4.092	Gorilla gorilla gorilla.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	1	93.007	-1.465	-15.806	1.226	Gorilla gorilla gorilla.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	2	92.746	-0.450	-12.322	0.128	Gorilla gorilla gorilla.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	0	89.390	2.600	-10.757	-1.489	Gorilla gorilla gorilla.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	5	88.503	5.577	-9.442	0.423	Gorilla gorilla gorilla.cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	0	86.308	5.174	-5.738	1.026	Gorilla gorilla gorilla.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	1	77.807	8.119	-3.512	1.941	Gorilla gorilla gorilla.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	4	72.768	8.536	0.231	1.879	Gorilla gorilla gorilla.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	G	4	65.590	11.195	-0.034	-0.798	Gorilla gorilla gorilla.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	G	2	63.618	12.148	3.637	-0.584	Gorilla gorilla gorilla.cif#124.A	1
+A:125:_:PHE	A	125	PHE	RES	G	3	62.726	13.607	2.868	2.846	Gorilla gorilla gorilla.cif#125.A	1
+A:126:_:SER	A	126	SER	RES	 	2	60.836	15.507	-0.194	1.611	Gorilla gorilla gorilla.cif#126.A	1
+A:127:_:ASP	A	127	ASP	RES	 	3	62.795	17.967	-1.338	-1.008	Gorilla gorilla gorilla.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	H	4	67.511	18.220	-4.357	-3.258	Gorilla gorilla gorilla.cif#128.A	1
+A:129:_:THR	A	129	THR	RES	H	1	70.963	20.434	-6.270	-0.838	Gorilla gorilla gorilla.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	H	4	72.892	18.074	-5.760	2.101	Gorilla gorilla gorilla.cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	H	3	72.538	14.940	-7.018	0.361	Gorilla gorilla gorilla.cif#131.A	1
+A:132:_:PRO	A	132	PRO	RES	H	1	80.372	15.805	-10.733	0.152	Gorilla gorilla gorilla.cif#132.A	1
+A:133:_:ARG	A	133	ARG	RES	H	3	80.664	17.200	-10.669	3.702	Gorilla gorilla gorilla.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	H	6	80.372	13.966	-9.231	5.055	Gorilla gorilla gorilla.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	H	7	84.109	11.864	-11.607	2.999	Gorilla gorilla gorilla.cif#135.A	1
+A:136:_:ALA	A	136	ALA	RES	H	1	84.996	13.802	-14.639	4.220	Gorilla gorilla gorilla.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	H	9	83.254	13.557	-13.431	7.812	Gorilla gorilla gorilla.cif#137.A	1
+A:138:_:LEU	A	138	LEU	RES	H	4	81.678	9.827	-12.801	7.617	Gorilla gorilla gorilla.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	H	3	83.076	9.171	-16.304	6.311	Gorilla gorilla gorilla.cif#139.A	1
+A:140:_:LEU	A	140	LEU	RES	H	4	81.801	9.987	-17.436	9.847	Gorilla gorilla gorilla.cif#140.A	1
+A:141:_:CYS	A	141	CYS	RES	S	2	76.927	7.492	-15.115	11.571	Gorilla gorilla gorilla.cif#141.A	1
+A:142:_:PRO	A	142	PRO	RES	 	2	80.777	4.071	-16.128	12.855	Gorilla gorilla gorilla.cif#142.A	1
+A:143:_:SER	A	143	SER	RES	H	0	77.312	1.255	-15.307	10.448	Gorilla gorilla gorilla.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	H	1	78.637	-0.491	-12.876	12.783	Gorilla gorilla gorilla.cif#144.A	1
+A:145:_:GLN	A	145	GLN	RES	H	4	85.894	2.748	-10.999	13.379	Gorilla gorilla gorilla.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	H	4	89.293	3.507	-10.846	9.665	Gorilla gorilla gorilla.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	H	1	93.107	0.093	-9.386	8.854	Gorilla gorilla gorilla.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	H	3	91.393	0.778	-6.553	11.294	Gorilla gorilla gorilla.cif#148.A	1
+A:149:_:THR	A	149	THR	RES	H	4	89.334	4.250	-6.064	9.875	Gorilla gorilla gorilla.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	H	3	92.997	2.994	-5.976	6.292	Gorilla gorilla gorilla.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	H	5	95.143	0.270	-3.482	7.150	Gorilla gorilla gorilla.cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	H	4	93.528	2.893	-1.325	8.823	Gorilla gorilla gorilla.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	H	10	90.641	4.807	-1.308	5.557	Gorilla gorilla gorilla.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	H	4	93.871	1.640	-0.357	3.692	Gorilla gorilla gorilla.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	H	8	95.009	1.295	2.620	6.016	Gorilla gorilla gorilla.cif#155.A	1
+A:156:_:LYS	A	156	LYS	RES	H	7	89.240	4.905	3.661	5.453	Gorilla gorilla gorilla.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	H	3	90.286	4.317	3.526	1.709	Gorilla gorilla gorilla.cif#157.A	1
+A:158:_:GLY	A	158	GLY	RES	H	3	93.197	1.104	5.486	2.113	Gorilla gorilla gorilla.cif#158.A	1
+A:159:_:SER	A	159	SER	RES	H	4	90.668	2.832	8.161	4.169	Gorilla gorilla gorilla.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	5	85.942	5.441	8.633	1.469	Gorilla gorilla gorilla.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	H	11	91.073	2.838	8.769	-1.278	Gorilla gorilla gorilla.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	H	6	91.809	0.711	11.271	0.626	Gorilla gorilla gorilla.cif#162.A	1
+A:163:_:ALA	A	163	ALA	RES	H	4	85.928	3.748	13.450	1.239	Gorilla gorilla gorilla.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	H	3	84.577	4.619	13.287	-2.450	Gorilla gorilla gorilla.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	5	88.279	1.089	14.232	-3.456	Gorilla gorilla gorilla.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	H	5	83.457	0.799	17.104	-1.011	Gorilla gorilla gorilla.cif#166.A	1
+A:167:_:ARG	A	167	ARG	RES	H	4	72.568	4.134	18.513	-2.195	Gorilla gorilla gorilla.cif#167.A	1
+A:168:_:ALA	A	168	ALA	RES	S	2	61.013	3.404	18.043	-5.894	Gorilla gorilla gorilla.cif#168.A	1
+A:169:_:ASP	A	169	ASP	RES	 	1	53.982	2.267	20.714	-8.312	Gorilla gorilla gorilla.cif#169.A	1
+A:170:_:PRO	A	170	PRO	RES	G	1	53.355	-1.536	20.578	-8.191	Gorilla gorilla gorilla.cif#170.A	1
+A:171:_:ALA	A	171	ALA	RES	G	0	56.829	-1.699	21.053	-11.958	Gorilla gorilla gorilla.cif#171.A	1
+A:172:_:LYS	A	172	LYS	RES	G	1	50.847	0.192	17.804	-12.452	Gorilla gorilla gorilla.cif#172.A	1
+A:173:_:LEU	A	173	LEU	RES	 	5	44.220	-2.248	15.884	-10.255	Gorilla gorilla gorilla.cif#173.A	1

@@ -1,0 +1,177 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	0	76.761	-3.152	-8.173	20.229	marmota_marmota_marmota.cif#1.A	1
+A:2:_:ASN	A	2	ASN	RES	 	2	79.502	-0.831	-11.117	20.867	marmota_marmota_marmota.cif#2.A	1
+A:3:_:MET	A	3	MET	RES	H	3	85.309	-0.120	-14.159	18.773	marmota_marmota_marmota.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	2	87.974	-2.051	-16.453	21.110	marmota_marmota_marmota.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	4	88.646	-5.181	-14.462	20.321	marmota_marmota_marmota.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	3	92.279	-4.402	-14.502	16.607	marmota_marmota_marmota.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	3	94.639	-4.043	-18.281	16.672	marmota_marmota_marmota.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	5	93.832	-7.307	-18.673	18.590	marmota_marmota_marmota.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	2	94.976	-9.385	-16.849	15.985	marmota_marmota_marmota.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	2	96.161	-11.876	-18.778	13.926	marmota_marmota_marmota.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	5	97.759	-12.018	-18.291	10.174	marmota_marmota_marmota.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	1	97.312	-14.550	-15.468	10.207	marmota_marmota_marmota.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	3	95.142	-12.844	-13.559	12.975	marmota_marmota_marmota.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	5	97.176	-9.432	-13.896	11.341	marmota_marmota_marmota.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	97.132	-10.681	-12.626	7.988	marmota_marmota_marmota.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	2	93.392	-12.552	-9.777	9.671	marmota_marmota_marmota.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	1	93.169	-9.355	-8.662	11.388	marmota_marmota_marmota.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	6	95.808	-6.762	-9.366	8.705	marmota_marmota_marmota.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	3	95.636	-8.806	-9.325	5.510	marmota_marmota_marmota.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	5	90.517	-7.576	-5.873	4.540	marmota_marmota_marmota.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	3	95.430	-3.899	-6.406	5.308	marmota_marmota_marmota.cif#21.A	1
+A:22:_:ILE	A	22	ILE	RES	S	2	96.669	-3.703	-6.550	1.522	marmota_marmota_marmota.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	4	90.524	-6.079	-3.904	0.217	marmota_marmota_marmota.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	0	87.253	-9.528	-5.314	-0.543	marmota_marmota_marmota.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	4	93.833	-8.135	-8.847	-0.825	marmota_marmota_marmota.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	2	94.857	-9.706	-10.882	1.986	marmota_marmota_marmota.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	1	94.001	-8.996	-13.975	-0.095	marmota_marmota_marmota.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	6	96.993	-5.358	-13.712	0.935	marmota_marmota_marmota.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	4	97.473	-6.204	-13.618	4.628	marmota_marmota_marmota.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	1	97.445	-8.516	-16.582	4.118	marmota_marmota_marmota.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	2	96.536	-5.666	-18.556	2.575	marmota_marmota_marmota.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	5	97.580	-3.187	-17.512	5.255	marmota_marmota_marmota.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	9	97.632	-5.570	-18.578	8.032	marmota_marmota_marmota.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	0	94.890	-4.895	-22.233	7.224	marmota_marmota_marmota.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	3	92.739	-1.180	-21.802	7.970	marmota_marmota_marmota.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	7	93.061	-1.645	-21.382	11.720	marmota_marmota_marmota.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	93.312	-0.160	-21.538	14.243	marmota_marmota_marmota.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	1	94.538	1.908	-18.413	13.710	marmota_marmota_marmota.cif#38.A	1
+A:39:_:PHE	A	39	PHE	RES	 	4	91.369	4.886	-17.774	15.939	marmota_marmota_marmota.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	3	85.069	5.287	-14.011	15.698	marmota_marmota_marmota.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	H	2	85.807	4.505	-11.040	13.493	marmota_marmota_marmota.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	0	86.852	7.339	-11.915	11.133	marmota_marmota_marmota.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	7	93.024	6.023	-15.442	10.640	marmota_marmota_marmota.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	4	94.356	2.506	-14.179	9.955	marmota_marmota_marmota.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	H	3	92.601	3.823	-11.571	7.529	marmota_marmota_marmota.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	2	94.607	5.911	-14.186	5.736	marmota_marmota_marmota.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	6	97.259	2.782	-16.161	4.922	marmota_marmota_marmota.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	5	97.850	1.006	-13.135	3.486	marmota_marmota_marmota.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	H	4	96.866	3.968	-12.236	1.310	marmota_marmota_marmota.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	3	97.217	4.672	-15.812	0.240	marmota_marmota_marmota.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	3	97.028	1.091	-16.082	-0.987	marmota_marmota_marmota.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	5	97.081	1.536	-12.968	-3.100	marmota_marmota_marmota.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	5	96.667	4.842	-14.200	-4.466	marmota_marmota_marmota.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	1	97.009	3.359	-17.565	-5.419	marmota_marmota_marmota.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	3	97.179	0.615	-16.070	-7.577	marmota_marmota_marmota.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	 	4	97.681	0.949	-15.989	-11.341	marmota_marmota_marmota.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	2	95.536	1.592	-12.573	-12.840	marmota_marmota_marmota.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	1	96.300	-2.094	-12.065	-13.593	marmota_marmota_marmota.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	3	97.209	-2.899	-12.647	-9.929	marmota_marmota_marmota.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	5	97.708	-0.192	-10.250	-8.819	marmota_marmota_marmota.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	3	97.090	-1.543	-7.596	-11.168	marmota_marmota_marmota.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	2	97.160	-5.001	-8.287	-9.775	marmota_marmota_marmota.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	3	96.364	-3.747	-7.477	-6.289	marmota_marmota_marmota.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	4	97.371	-2.455	-4.150	-7.559	marmota_marmota_marmota.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	2	95.903	-5.826	-3.393	-9.125	marmota_marmota_marmota.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	3	91.585	-7.428	-3.658	-5.688	marmota_marmota_marmota.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	3	91.027	-5.569	-0.535	-4.562	marmota_marmota_marmota.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	1	81.817	-6.976	2.955	-5.032	marmota_marmota_marmota.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	2	78.165	-5.233	5.695	-6.956	marmota_marmota_marmota.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	1	74.880	-3.389	7.949	-4.539	marmota_marmota_marmota.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	4	66.507	-5.385	11.169	-4.141	marmota_marmota_marmota.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	3	66.710	-7.769	9.790	-6.759	marmota_marmota_marmota.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	H	2	66.029	-11.492	9.447	-7.241	marmota_marmota_marmota.cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	H	2	63.499	-12.080	7.057	-4.343	marmota_marmota_marmota.cif#74.A	1
+A:75:_:GLN	A	75	GLN	RES	H	3	64.388	-10.526	9.568	-1.968	marmota_marmota_marmota.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	1	57.974	-12.607	12.426	-3.358	marmota_marmota_marmota.cif#76.A	1
+A:77:_:ARG	A	77	ARG	RES	H	2	57.818	-15.784	10.341	-3.214	marmota_marmota_marmota.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	H	2	54.505	-15.088	9.167	0.338	marmota_marmota_marmota.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	1	58.475	-15.060	5.492	-0.638	marmota_marmota_marmota.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	S	2	63.174	-11.557	4.546	0.526	marmota_marmota_marmota.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	4	68.461	-11.164	1.717	2.994	marmota_marmota_marmota.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	3	64.857	-10.539	2.857	6.544	marmota_marmota_marmota.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	6	65.997	-6.914	1.773	6.244	marmota_marmota_marmota.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	4	66.511	-6.281	3.629	2.989	marmota_marmota_marmota.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	H	3	61.298	-8.047	6.697	4.333	marmota_marmota_marmota.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	3	69.004	-5.713	6.798	7.323	marmota_marmota_marmota.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	7	71.914	-2.649	6.093	5.204	marmota_marmota_marmota.cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	H	5	68.339	-3.351	8.763	2.621	marmota_marmota_marmota.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	H	3	67.155	-4.415	11.217	5.295	marmota_marmota_marmota.cif#89.A	1
+A:90:_:SER	A	90	SER	RES	H	1	59.668	-1.216	10.716	7.283	marmota_marmota_marmota.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	3	63.234	0.779	11.363	4.107	marmota_marmota_marmota.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	2	63.873	-1.088	14.606	3.459	marmota_marmota_marmota.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	G	2	69.041	-2.791	13.339	0.307	marmota_marmota_marmota.cif#93.A	1
+A:94:_:THR	A	94	THR	RES	G	1	68.997	-6.324	14.135	1.480	marmota_marmota_marmota.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	G	0	71.803	-5.658	17.885	1.754	marmota_marmota_marmota.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	5	73.122	-4.198	18.632	-1.665	marmota_marmota_marmota.cif#96.A	1
+A:97:_:SER	A	97	SER	RES	 	5	80.644	-5.135	21.738	-3.591	marmota_marmota_marmota.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	H	1	80.974	-7.313	21.402	-6.672	marmota_marmota_marmota.cif#98.A	1
+A:99:_:GLU	A	99	GLU	RES	H	2	84.895	-4.288	22.031	-8.858	marmota_marmota_marmota.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	H	6	81.383	-2.276	19.325	-7.108	marmota_marmota_marmota.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	H	4	82.006	-5.152	16.873	-7.483	marmota_marmota_marmota.cif#101.A	1
+A:102:_:GLN	A	102	GLN	RES	H	4	86.697	-5.459	17.651	-11.180	marmota_marmota_marmota.cif#102.A	1
+A:103:_:GLN	A	103	GLN	RES	H	6	87.810	-1.785	16.942	-11.721	marmota_marmota_marmota.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	5	86.186	-2.000	13.645	-9.861	marmota_marmota_marmota.cif#104.A	1
+A:105:_:GLU	A	105	GLU	RES	H	3	86.946	-5.135	12.687	-11.776	marmota_marmota_marmota.cif#105.A	1
+A:106:_:LYS	A	106	LYS	RES	H	5	92.618	-3.273	13.199	-15.040	marmota_marmota_marmota.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	2	92.527	-0.278	11.183	-13.866	marmota_marmota_marmota.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	3	90.643	-2.499	8.412	-12.494	marmota_marmota_marmota.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	2	92.493	-4.291	8.144	-15.831	marmota_marmota_marmota.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	3	95.742	-1.005	7.932	-17.717	marmota_marmota_marmota.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	8	95.645	0.292	5.311	-15.291	marmota_marmota_marmota.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	2	93.213	-2.785	3.121	-15.591	marmota_marmota_marmota.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	1	96.778	-2.738	3.437	-19.368	marmota_marmota_marmota.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	7	96.927	0.820	2.167	-19.455	marmota_marmota_marmota.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	5	97.036	0.855	-0.505	-16.763	marmota_marmota_marmota.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	3	96.123	-2.766	-1.622	-16.458	marmota_marmota_marmota.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	2	96.104	-2.940	-1.127	-12.695	marmota_marmota_marmota.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	2	92.206	-2.895	1.831	-10.338	marmota_marmota_marmota.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	7	93.971	0.270	3.427	-9.038	marmota_marmota_marmota.cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	0	94.276	1.018	1.899	-5.653	marmota_marmota_marmota.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	4	91.338	3.258	3.585	-3.113	marmota_marmota_marmota.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	3	88.132	3.456	3.074	0.623	marmota_marmota_marmota.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	G	4	77.094	2.185	6.579	1.239	marmota_marmota_marmota.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	G	1	75.195	2.949	6.519	4.960	marmota_marmota_marmota.cif#124.A	1
+A:125:_:LEU	A	125	LEU	RES	G	1	73.958	6.635	6.178	4.078	marmota_marmota_marmota.cif#125.A	1
+A:126:_:SER	A	126	SER	RES	S	4	67.138	6.656	9.079	1.612	marmota_marmota_marmota.cif#126.A	1
+A:127:_:ASP	A	127	ASP	RES	 	1	71.197	6.297	12.822	1.765	marmota_marmota_marmota.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	H	4	73.296	3.295	14.331	0.022	marmota_marmota_marmota.cif#128.A	1
+A:129:_:ALA	A	129	ALA	RES	H	0	76.907	5.478	16.196	-2.451	marmota_marmota_marmota.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	H	2	78.938	7.351	13.008	-3.319	marmota_marmota_marmota.cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	H	4	84.343	4.268	11.207	-4.638	marmota_marmota_marmota.cif#131.A	1
+A:132:_:PRO	A	132	PRO	RES	H	0	87.586	3.977	12.932	-8.041	marmota_marmota_marmota.cif#132.A	1
+A:133:_:ARG	A	133	ARG	RES	H	1	90.207	7.750	12.874	-8.459	marmota_marmota_marmota.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	H	8	92.182	7.906	9.145	-7.823	marmota_marmota_marmota.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	H	6	92.570	4.907	8.488	-10.045	marmota_marmota_marmota.cif#135.A	1
+A:136:_:GLU	A	136	GLU	RES	H	2	93.750	6.516	10.440	-12.873	marmota_marmota_marmota.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	H	4	95.375	9.818	8.616	-12.391	marmota_marmota_marmota.cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	H	9	96.287	8.221	5.186	-12.386	marmota_marmota_marmota.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	H	3	95.773	6.253	5.970	-15.549	marmota_marmota_marmota.cif#139.A	1
+A:140:_:HIS	A	140	HIS	RES	H	1	95.563	9.587	5.528	-17.304	marmota_marmota_marmota.cif#140.A	1
+A:141:_:CYS	A	141	CYS	RES	S	3	94.384	10.429	2.136	-15.800	marmota_marmota_marmota.cif#141.A	1
+A:142:_:GLN	A	142	GLN	RES	 	0	96.147	10.108	-1.077	-17.757	marmota_marmota_marmota.cif#142.A	1
+A:143:_:PRO	A	143	PRO	RES	H	1	95.870	6.829	-2.904	-17.098	marmota_marmota_marmota.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	H	1	95.399	8.397	-6.002	-15.544	marmota_marmota_marmota.cif#144.A	1
+A:145:_:GLN	A	145	GLN	RES	H	2	96.567	10.511	-3.849	-13.250	marmota_marmota_marmota.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	H	7	97.726	7.518	-1.715	-12.305	marmota_marmota_marmota.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	H	2	97.647	5.442	-4.786	-11.448	marmota_marmota_marmota.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	H	2	96.441	8.114	-5.912	-9.003	marmota_marmota_marmota.cif#148.A	1
+A:149:_:THR	A	149	THR	RES	H	4	96.974	8.414	-2.440	-7.536	marmota_marmota_marmota.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	H	4	97.685	4.655	-2.078	-7.106	marmota_marmota_marmota.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	H	5	97.731	4.387	-5.466	-5.409	marmota_marmota_marmota.cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	H	4	96.875	7.164	-4.381	-3.075	marmota_marmota_marmota.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	H	10	95.986	5.053	-1.379	-2.144	marmota_marmota_marmota.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	H	3	96.856	2.072	-3.644	-1.468	marmota_marmota_marmota.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	H	6	96.464	4.254	-5.612	0.930	marmota_marmota_marmota.cif#155.A	1
+A:156:_:LYS	A	156	LYS	RES	H	4	93.006	5.381	-2.434	2.684	marmota_marmota_marmota.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	H	3	93.263	1.741	-1.448	3.143	marmota_marmota_marmota.cif#157.A	1
+A:158:_:GLY	A	158	GLY	RES	H	2	94.102	0.908	-4.914	4.431	marmota_marmota_marmota.cif#158.A	1
+A:159:_:HIS	A	159	HIS	RES	H	2	91.295	3.784	-4.775	6.878	marmota_marmota_marmota.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	2	88.240	2.619	-1.432	8.245	marmota_marmota_marmota.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	H	10	92.163	-0.936	-2.698	8.628	marmota_marmota_marmota.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	H	3	91.474	0.201	-5.819	10.470	marmota_marmota_marmota.cif#162.A	1
+A:163:_:VAL	A	163	VAL	RES	H	5	85.478	2.333	-3.695	12.773	marmota_marmota_marmota.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	H	1	85.445	-0.696	-1.517	13.492	marmota_marmota_marmota.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	0	88.996	-2.991	-4.480	14.100	marmota_marmota_marmota.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	H	1	86.618	-0.618	-6.352	16.380	marmota_marmota_marmota.cif#166.A	1
+A:167:_:GLY	A	167	GLY	RES	T	1	74.660	0.820	-3.363	18.218	marmota_marmota_marmota.cif#167.A	1
+A:168:_:ALA	A	168	ALA	RES	 	2	50.747	4.378	-4.223	17.250	marmota_marmota_marmota.cif#168.A	1
+A:169:_:ASP	A	169	ASP	RES	 	0	46.377	7.266	-1.843	17.838	marmota_marmota_marmota.cif#169.A	1
+A:170:_:SER	A	170	SER	RES	 	1	47.655	7.545	0.494	14.877	marmota_marmota_marmota.cif#170.A	1
+A:171:_:SER	A	171	SER	RES	T	0	44.523	9.822	3.102	16.473	marmota_marmota_marmota.cif#171.A	1
+A:172:_:ARG	A	172	ARG	RES	T	0	45.646	12.571	2.536	13.899	marmota_marmota_marmota.cif#172.A	1
+A:173:_:LEU	A	173	LEU	RES	 	1	49.983	10.205	2.931	10.979	marmota_marmota_marmota.cif#173.A	1
+A:174:_:LYS	A	174	LYS	RES	 	0	49.913	10.531	6.215	9.100	marmota_marmota_marmota.cif#174.A	1
+A:175:_:LEU	A	175	LEU	RES	 	1	48.356	7.141	7.547	8.082	marmota_marmota_marmota.cif#175.A	1
+A:176:_:ARG	A	176	ARG	RES	 	1	41.291	6.757	10.214	5.412	marmota_marmota_marmota.cif#176.A	1

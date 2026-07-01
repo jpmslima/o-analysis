@@ -1,0 +1,174 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	6	80.391	-9.647	16.215	0.337	Macaca nemestrina .cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	2	84.948	-8.006	18.394	2.964	Macaca nemestrina .cif#2.A	1
+A:3:_:ILE	A	3	ILE	RES	H	1	92.257	-6.860	17.319	6.382	Macaca nemestrina .cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	2	92.699	-9.676	19.226	8.076	Macaca nemestrina .cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	4	91.748	-12.190	17.014	6.295	Macaca nemestrina .cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	4	95.634	-10.262	13.940	7.393	Macaca nemestrina .cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	6	97.092	-10.341	15.171	10.984	Macaca nemestrina .cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	4	95.843	-14.100	15.735	10.796	Macaca nemestrina .cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	9	96.070	-14.954	12.195	9.700	Macaca nemestrina .cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	4	96.929	-16.766	9.884	12.055	Macaca nemestrina .cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	5	97.856	-15.509	6.348	12.563	Macaca nemestrina .cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	1	97.962	-17.525	4.799	9.751	Macaca nemestrina .cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	5	95.522	-16.609	7.483	7.248	Macaca nemestrina .cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	10	98.004	-12.934	7.258	8.117	Macaca nemestrina .cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	97.903	-12.770	3.478	7.837	Macaca nemestrina .cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	2	95.326	-14.748	3.529	4.589	Macaca nemestrina .cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	3	94.463	-12.271	5.964	3.071	Macaca nemestrina .cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	4	97.157	-9.000	4.767	4.570	Macaca nemestrina .cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	2	96.685	-9.689	1.115	5.317	Macaca nemestrina .cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	3	92.525	-7.699	-0.079	2.317	Macaca nemestrina .cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	2	96.313	-4.725	2.239	2.731	Macaca nemestrina .cif#21.A	1
+A:22:_:ILE	A	22	ILE	RES	H	4	96.798	-3.063	-0.959	3.919	Macaca nemestrina .cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	6	90.443	-4.337	-3.732	1.672	Macaca nemestrina .cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	3	89.862	-7.414	-5.438	3.133	Macaca nemestrina .cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	3	93.875	-6.525	-4.254	6.655	Macaca nemestrina .cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	2	95.403	-9.290	-1.924	7.846	Macaca nemestrina .cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	0	93.740	-8.256	-2.547	11.440	Macaca nemestrina .cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	2	97.163	-5.302	-0.236	10.900	Macaca nemestrina .cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	4	97.912	-7.530	2.614	9.771	Macaca nemestrina .cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	2	97.599	-9.797	1.915	12.732	Macaca nemestrina .cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	1	96.538	-6.857	2.238	15.110	Macaca nemestrina .cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	4	97.924	-5.489	5.350	13.419	Macaca nemestrina .cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	16	97.831	-8.872	7.083	13.594	Macaca nemestrina .cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	0	94.939	-8.427	7.514	17.343	Macaca nemestrina .cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	2	95.177	-5.223	9.505	16.817	Macaca nemestrina .cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	8	94.139	-6.954	12.567	15.349	Macaca nemestrina .cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	96.010	-6.478	15.433	14.910	Macaca nemestrina .cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	8	97.295	-3.841	15.085	12.208	Macaca nemestrina .cif#38.A	1
+A:39:_:SER	A	39	SER	RES	 	2	95.974	-1.844	18.130	11.212	Macaca nemestrina .cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	1	92.438	-1.155	17.132	7.599	Macaca nemestrina .cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	H	2	91.804	-0.684	14.190	5.255	Macaca nemestrina .cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	2	93.477	2.691	13.332	6.754	Macaca nemestrina .cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	4	96.482	1.225	13.210	10.250	Macaca nemestrina .cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	1	96.700	-1.581	10.932	9.074	Macaca nemestrina .cif#44.A	1
+A:45:_:LYS	A	45	LYS	RES	H	5	95.463	0.928	8.703	7.309	Macaca nemestrina .cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	3	96.662	3.099	8.580	10.413	Macaca nemestrina .cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	4	97.923	0.245	7.134	12.443	Macaca nemestrina .cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	5	98.169	-0.415	4.392	9.904	Macaca nemestrina .cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	H	2	97.722	3.240	3.437	9.795	Macaca nemestrina .cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	3	97.608	3.705	3.657	13.557	Macaca nemestrina .cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	3	97.105	0.864	1.183	13.994	Macaca nemestrina .cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	9	97.299	2.549	-1.246	11.616	Macaca nemestrina .cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	0	96.899	5.888	-0.817	13.347	Macaca nemestrina .cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	1	96.822	4.366	-1.444	16.772	Macaca nemestrina .cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	4	97.130	2.891	-4.815	15.818	Macaca nemestrina .cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	 	2	97.495	4.650	-8.006	16.814	Macaca nemestrina .cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	3	95.299	6.311	-9.899	13.988	Macaca nemestrina .cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	1	95.810	3.307	-12.186	13.556	Macaca nemestrina .cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	2	96.954	1.086	-9.153	13.063	Macaca nemestrina .cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	3	97.573	3.490	-7.628	10.574	Macaca nemestrina .cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	3	96.929	3.558	-10.877	8.620	Macaca nemestrina .cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	1	97.227	-0.225	-10.926	8.756	Macaca nemestrina .cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	5	96.267	-0.301	-7.546	7.050	Macaca nemestrina .cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	3	97.733	1.901	-8.911	4.285	Macaca nemestrina .cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	3	96.654	-0.402	-11.893	3.851	Macaca nemestrina .cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	2	92.259	-3.261	-9.526	3.030	Macaca nemestrina .cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	1	92.125	-1.522	-8.594	-0.225	Macaca nemestrina .cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	2	87.494	-2.112	-10.534	-3.419	Macaca nemestrina .cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	7	87.300	0.594	-12.136	-5.535	Macaca nemestrina .cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	1	84.091	1.643	-9.818	-8.324	Macaca nemestrina .cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	1	79.611	0.059	-11.047	-11.568	Macaca nemestrina .cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	4	82.653	-1.416	-13.932	-9.576	Macaca nemestrina .cif#72.A	1
+A:73:_:SER	A	73	SER	RES	H	3	78.808	-4.738	-15.708	-9.460	Macaca nemestrina .cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	H	5	76.248	-6.609	-12.851	-7.784	Macaca nemestrina .cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	H	2	76.143	-5.815	-10.611	-10.735	Macaca nemestrina .cif#75.A	1
+A:76:_:ARG	A	76	ARG	RES	H	3	74.430	-6.929	-13.254	-13.234	Macaca nemestrina .cif#76.A	1
+A:77:_:ARG	A	77	ARG	RES	H	2	76.233	-10.129	-13.937	-11.305	Macaca nemestrina .cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	H	2	71.755	-11.000	-10.261	-10.861	Macaca nemestrina .cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	4	70.125	-10.869	-10.402	-7.067	Macaca nemestrina .cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	S	3	71.479	-8.218	-7.724	-6.504	Macaca nemestrina .cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	3	76.091	-9.107	-4.544	-4.712	Macaca nemestrina .cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	2	71.557	-9.545	-1.559	-7.002	Macaca nemestrina .cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	7	65.646	-6.299	-0.124	-5.675	Macaca nemestrina .cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	6	73.304	-4.271	-3.258	-6.376	Macaca nemestrina .cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	H	2	72.014	-5.827	-3.583	-9.815	Macaca nemestrina .cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	3	75.628	-4.720	-0.066	-10.719	Macaca nemestrina .cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	5	76.846	-1.272	-0.579	-9.251	Macaca nemestrina .cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	H	4	77.311	-0.643	-3.830	-11.096	Macaca nemestrina .cif#88.A	1
+A:89:_:SER	A	89	SER	RES	H	2	78.160	-2.002	-2.344	-14.297	Macaca nemestrina .cif#89.A	1
+A:90:_:ALA	A	90	ALA	RES	H	2	74.852	0.384	0.601	-13.944	Macaca nemestrina .cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	2	76.419	3.275	-1.858	-13.725	Macaca nemestrina .cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	1	77.605	2.112	-3.700	-16.847	Macaca nemestrina .cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	G	3	80.027	1.142	-6.858	-14.959	Macaca nemestrina .cif#93.A	1
+A:94:_:THR	A	94	THR	RES	G	0	78.509	-2.439	-7.140	-16.221	Macaca nemestrina .cif#94.A	1
+A:95:_:SER	A	95	SER	RES	G	0	78.835	-1.420	-7.907	-19.824	Macaca nemestrina .cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	1	80.327	1.514	-10.298	-19.542	Macaca nemestrina .cif#96.A	1
+A:97:_:GLY	A	97	GLY	RES	 	2	85.119	2.387	-12.824	-22.198	Macaca nemestrina .cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	H	1	87.947	2.435	-16.514	-21.400	Macaca nemestrina .cif#98.A	1
+A:99:_:ASP	A	99	ASP	RES	H	0	89.329	6.189	-16.689	-20.822	Macaca nemestrina .cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	H	1	86.922	6.108	-13.662	-18.531	Macaca nemestrina .cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	H	1	87.064	3.241	-15.128	-16.513	Macaca nemestrina .cif#101.A	1
+A:102:_:LEU	A	102	LEU	RES	H	2	92.001	5.033	-18.440	-16.162	Macaca nemestrina .cif#102.A	1
+A:103:_:ARG	A	103	ARG	RES	H	3	90.588	8.190	-16.775	-14.895	Macaca nemestrina .cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	2	90.563	6.363	-14.606	-12.386	Macaca nemestrina .cif#104.A	1
+A:105:_:ALA	A	105	ALA	RES	H	1	92.135	4.280	-17.540	-11.167	Macaca nemestrina .cif#105.A	1
+A:106:_:GLU	A	106	GLU	RES	H	3	95.237	7.461	-19.515	-10.584	Macaca nemestrina .cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	6	95.072	9.089	-16.662	-8.686	Macaca nemestrina .cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	3	94.435	5.956	-16.009	-6.628	Macaca nemestrina .cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	2	95.974	5.761	-19.663	-5.634	Macaca nemestrina .cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	2	97.346	9.413	-19.719	-4.599	Macaca nemestrina .cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	9	97.173	8.967	-16.517	-2.610	Macaca nemestrina .cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	9	95.051	5.915	-17.793	-0.757	Macaca nemestrina .cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	1	97.635	7.632	-21.084	-0.017	Macaca nemestrina .cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	1	97.131	10.629	-19.319	1.451	Macaca nemestrina .cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	3	97.265	9.084	-16.447	3.391	Macaca nemestrina .cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	4	96.545	5.507	-17.519	4.123	Macaca nemestrina .cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	2	96.743	3.922	-14.384	2.693	Macaca nemestrina .cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	1	94.163	3.511	-12.958	-0.795	Macaca nemestrina .cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	5	95.360	6.063	-10.752	-2.475	Macaca nemestrina .cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	2	94.649	5.135	-7.118	-1.917	Macaca nemestrina .cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	1	89.926	6.402	-4.351	-4.154	Macaca nemestrina .cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	4	86.328	5.168	-0.824	-4.732	Macaca nemestrina .cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	G	1	72.700	4.419	-1.748	-8.323	Macaca nemestrina .cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	G	0	69.013	3.534	1.801	-9.333	Macaca nemestrina .cif#124.A	1
+A:125:_:PHE	A	125	PHE	RES	G	2	67.172	7.259	2.557	-9.117	Macaca nemestrina .cif#125.A	1
+A:126:_:SER	A	126	SER	RES	 	1	64.680	8.244	-0.262	-11.497	Macaca nemestrina .cif#126.A	1
+A:127:_:ASP	A	127	ASP	RES	 	3	72.691	7.705	-1.748	-14.915	Macaca nemestrina .cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	H	0	75.021	7.072	-5.442	-15.521	Macaca nemestrina .cif#128.A	1
+A:129:_:ALA	A	129	ALA	RES	H	2	80.291	10.731	-6.288	-16.099	Macaca nemestrina .cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	H	2	81.043	11.735	-4.588	-12.864	Macaca nemestrina .cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	H	4	86.397	9.094	-6.571	-10.975	Macaca nemestrina .cif#131.A	1
+A:132:_:SER	A	132	SER	RES	H	2	88.162	10.624	-9.899	-11.999	Macaca nemestrina .cif#132.A	1
+A:133:_:ARG	A	133	ARG	RES	H	2	91.121	14.131	-8.622	-11.383	Macaca nemestrina .cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	H	9	92.564	13.327	-7.406	-7.886	Macaca nemestrina .cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	H	6	93.919	11.439	-10.562	-6.963	Macaca nemestrina .cif#135.A	1
+A:136:_:ALA	A	136	ALA	RES	H	2	94.821	14.413	-12.687	-8.004	Macaca nemestrina .cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	H	6	95.670	16.803	-10.447	-6.101	Macaca nemestrina .cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	H	11	96.569	14.823	-10.464	-2.883	Macaca nemestrina .cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	H	3	96.409	14.642	-14.261	-2.905	Macaca nemestrina .cif#139.A	1
+A:140:_:LEU	A	140	LEU	RES	H	1	95.631	18.330	-14.063	-2.014	Macaca nemestrina .cif#140.A	1
+A:141:_:CYS	A	141	CYS	RES	S	1	94.114	17.855	-11.894	1.081	Macaca nemestrina .cif#141.A	1
+A:142:_:PRO	A	142	PRO	RES	 	2	96.806	17.884	-13.104	4.673	Macaca nemestrina .cif#142.A	1
+A:143:_:SER	A	143	SER	RES	H	1	94.752	14.397	-13.563	6.112	Macaca nemestrina .cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	H	1	94.691	14.677	-10.828	8.728	Macaca nemestrina .cif#144.A	1
+A:145:_:GLN	A	145	GLN	RES	H	4	96.578	15.922	-8.369	6.133	Macaca nemestrina .cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	H	8	97.688	13.165	-9.360	3.721	Macaca nemestrina .cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	H	1	97.546	10.497	-8.785	6.359	Macaca nemestrina .cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	H	4	96.715	11.792	-5.255	6.857	Macaca nemestrina .cif#148.A	1
+A:149:_:THR	A	149	THR	RES	H	4	97.087	11.985	-4.669	3.122	Macaca nemestrina .cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	H	3	97.871	8.485	-6.005	2.496	Macaca nemestrina .cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	H	2	97.824	7.044	-3.828	5.250	Macaca nemestrina .cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	H	6	97.362	8.839	-0.885	3.693	Macaca nemestrina .cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	H	9	95.664	7.040	-1.653	0.451	Macaca nemestrina .cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	H	1	96.703	3.716	-1.795	2.293	Macaca nemestrina .cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	H	4	97.058	4.468	1.666	3.643	Macaca nemestrina .cif#155.A	1
+A:156:_:LYS	A	156	LYS	RES	H	7	92.930	5.312	2.957	0.168	Macaca nemestrina .cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	H	3	93.780	2.023	1.587	-1.146	Macaca nemestrina .cif#157.A	1
+A:158:_:GLY	A	158	GLY	RES	H	2	95.491	0.158	3.114	1.775	Macaca nemestrina .cif#158.A	1
+A:159:_:SER	A	159	SER	RES	H	3	93.739	1.842	6.446	1.228	Macaca nemestrina .cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	2	88.924	0.776	6.451	-2.424	Macaca nemestrina .cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	H	5	93.607	-2.778	5.516	-1.523	Macaca nemestrina .cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	H	7	95.149	-3.007	8.211	1.142	Macaca nemestrina .cif#162.A	1
+A:163:_:ALA	A	163	ALA	RES	H	2	90.171	-1.712	10.807	-1.298	Macaca nemestrina .cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	H	4	88.674	-4.235	9.666	-3.894	Macaca nemestrina .cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	2	92.407	-7.084	9.870	-1.402	Macaca nemestrina .cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	H	2	90.501	-6.174	13.347	-0.227	Macaca nemestrina .cif#166.A	1
+A:167:_:ARG	A	167	ARG	RES	H	3	79.016	-5.869	14.545	-3.832	Macaca nemestrina .cif#167.A	1
+A:168:_:ALA	A	168	ALA	RES	S	3	64.856	-9.231	13.054	-4.804	Macaca nemestrina .cif#168.A	1
+A:169:_:ASP	A	169	ASP	RES	 	1	57.654	-12.509	14.921	-4.835	Macaca nemestrina .cif#169.A	1
+A:170:_:PRO	A	170	PRO	RES	G	1	55.338	-14.545	13.851	-1.805	Macaca nemestrina .cif#170.A	1
+A:171:_:ALA	A	171	ALA	RES	G	0	59.425	-17.509	12.945	-4.015	Macaca nemestrina .cif#171.A	1
+A:172:_:LYS	A	172	LYS	RES	G	1	53.697	-15.380	10.350	-5.805	Macaca nemestrina .cif#172.A	1
+A:173:_:LEU	A	173	LEU	RES	 	1	45.221	-13.904	8.583	-2.768	Macaca nemestrina .cif#173.A	1

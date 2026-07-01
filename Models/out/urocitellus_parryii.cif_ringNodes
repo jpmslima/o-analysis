@@ -1,0 +1,174 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	6	78.489	-8.839	-16.284	-9.088	urocitellus_parryii.cif#1.A	1
+A:2:_:ASN	A	2	ASN	RES	 	4	84.949	-10.171	-18.955	-6.760	urocitellus_parryii.cif#2.A	1
+A:3:_:MET	A	3	MET	RES	H	3	91.079	-8.664	-20.033	-3.466	urocitellus_parryii.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	2	92.419	-7.556	-23.426	-4.779	urocitellus_parryii.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	5	92.173	-5.356	-21.600	-7.261	urocitellus_parryii.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	3	95.538	-4.004	-19.339	-4.536	urocitellus_parryii.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	5	97.164	-3.187	-22.305	-2.308	urocitellus_parryii.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	3	96.549	-1.501	-24.155	-5.179	urocitellus_parryii.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	1	97.493	0.995	-21.379	-5.880	urocitellus_parryii.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	2	97.319	4.634	-21.978	-5.126	urocitellus_parryii.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	5	98.039	6.641	-19.330	-3.310	urocitellus_parryii.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	1	98.277	7.717	-17.444	-6.414	urocitellus_parryii.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	5	97.065	4.292	-17.392	-8.005	urocitellus_parryii.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	9	98.308	2.600	-16.312	-4.775	urocitellus_parryii.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	97.762	5.012	-13.427	-4.278	urocitellus_parryii.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	1	96.059	4.671	-12.427	-7.934	urocitellus_parryii.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	1	95.399	0.898	-12.227	-7.574	urocitellus_parryii.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	4	97.208	0.541	-10.867	-4.049	urocitellus_parryii.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	1	95.881	3.870	-9.138	-3.478	urocitellus_parryii.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	5	88.659	2.394	-5.689	-4.021	urocitellus_parryii.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	0	95.524	-0.737	-6.160	-1.929	urocitellus_parryii.cif#21.A	1
+A:22:_:ILE	A	22	ILE	RES	S	5	96.004	1.301	-4.028	0.463	urocitellus_parryii.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	5	85.798	3.056	-1.412	-1.641	urocitellus_parryii.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	1	83.368	6.603	-2.452	-2.568	urocitellus_parryii.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	3	92.194	6.759	-4.850	0.390	urocitellus_parryii.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	1	94.756	6.976	-8.352	-1.088	urocitellus_parryii.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	1	93.936	8.456	-9.550	2.189	urocitellus_parryii.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	5	96.623	4.955	-9.532	3.653	urocitellus_parryii.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	3	97.783	3.610	-11.773	0.909	urocitellus_parryii.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	1	97.500	6.639	-14.010	1.404	urocitellus_parryii.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	2	96.686	5.793	-14.350	5.090	urocitellus_parryii.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	6	97.860	2.079	-14.868	4.452	urocitellus_parryii.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	13	97.896	2.809	-17.658	1.974	urocitellus_parryii.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	1	94.960	3.782	-19.912	4.895	urocitellus_parryii.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	4	91.015	0.317	-19.523	6.452	urocitellus_parryii.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	5	93.811	-1.511	-21.560	3.794	urocitellus_parryii.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	93.106	-4.044	-22.984	3.338	urocitellus_parryii.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	5	96.275	-6.307	-19.958	3.049	urocitellus_parryii.cif#38.A	1
+A:39:_:PHE	A	39	PHE	RES	 	1	94.091	-10.052	-20.442	3.004	urocitellus_parryii.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	3	89.956	-11.368	-17.219	1.490	urocitellus_parryii.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	H	2	91.263	-10.435	-13.610	0.836	urocitellus_parryii.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	1	90.974	-11.138	-12.716	4.454	urocitellus_parryii.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	4	95.204	-8.760	-15.384	5.745	urocitellus_parryii.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	4	96.371	-5.990	-14.370	3.346	urocitellus_parryii.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	H	7	94.981	-6.459	-10.719	4.255	urocitellus_parryii.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	2	96.095	-6.328	-11.568	7.961	urocitellus_parryii.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	8	97.755	-2.847	-13.003	7.542	urocitellus_parryii.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	4	98.235	-1.551	-9.911	5.771	urocitellus_parryii.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	H	6	97.758	-2.981	-7.605	8.401	urocitellus_parryii.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	2	97.620	-1.921	-9.767	11.346	urocitellus_parryii.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	2	97.449	1.652	-9.717	10.071	urocitellus_parryii.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	5	97.597	1.592	-5.936	9.875	urocitellus_parryii.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	0	97.437	0.120	-5.665	13.352	urocitellus_parryii.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	1	97.308	2.733	-8.007	14.824	urocitellus_parryii.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	3	97.591	5.691	-5.959	13.610	urocitellus_parryii.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	I	5	97.722	7.534	-3.662	15.984	urocitellus_parryii.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	4	95.989	7.073	0.051	15.410	urocitellus_parryii.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	1	96.555	10.234	0.270	13.316	urocitellus_parryii.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	5	97.263	8.905	-2.426	11.004	urocitellus_parryii.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	4	97.837	5.515	-0.768	10.729	urocitellus_parryii.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	7	97.242	7.165	2.528	9.837	urocitellus_parryii.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	2	97.063	9.240	0.663	7.271	urocitellus_parryii.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	6	96.377	6.049	-0.517	5.587	urocitellus_parryii.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	6	96.807	4.833	3.067	5.379	urocitellus_parryii.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	3	95.235	8.127	4.187	3.856	urocitellus_parryii.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	3	89.778	7.449	1.869	0.911	urocitellus_parryii.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	3	87.790	4.439	3.961	-0.141	urocitellus_parryii.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	1	76.302	4.700	6.908	-2.526	urocitellus_parryii.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	5	73.999	3.501	10.387	-1.663	urocitellus_parryii.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	1	64.242	0.143	11.166	-3.233	urocitellus_parryii.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	3	56.726	0.804	13.360	-6.275	urocitellus_parryii.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	1	56.976	4.453	13.285	-5.226	urocitellus_parryii.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	H	1	57.187	7.837	12.870	-6.845	urocitellus_parryii.cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	H	2	53.936	7.333	9.259	-7.934	urocitellus_parryii.cif#74.A	1
+A:75:_:GLN	A	75	GLN	RES	H	5	54.537	4.189	10.258	-9.810	urocitellus_parryii.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	1	47.538	6.016	13.138	-11.506	urocitellus_parryii.cif#76.A	1
+A:77:_:ARG	A	77	ARG	RES	H	1	44.928	8.924	10.949	-12.600	urocitellus_parryii.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	H	2	44.539	6.701	8.040	-13.653	urocitellus_parryii.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	1	48.398	8.028	5.416	-11.237	urocitellus_parryii.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	 	0	51.574	4.793	4.472	-9.446	urocitellus_parryii.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	4	56.531	3.826	0.827	-9.282	urocitellus_parryii.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	1	55.063	0.993	-0.166	-11.583	urocitellus_parryii.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	7	56.135	-1.338	-0.412	-8.595	urocitellus_parryii.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	6	54.063	-0.487	3.042	-7.258	urocitellus_parryii.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	H	3	49.849	-0.766	4.542	-10.730	urocitellus_parryii.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	1	60.786	-4.285	3.137	-11.100	urocitellus_parryii.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	4	61.046	-5.267	4.276	-7.625	urocitellus_parryii.cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	H	9	56.388	-3.976	7.813	-8.004	urocitellus_parryii.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	H	5	56.666	-5.375	8.151	-11.520	urocitellus_parryii.cif#89.A	1
+A:90:_:GLY	A	90	GLY	RES	H	0	53.920	-8.743	6.880	-10.350	urocitellus_parryii.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	3	55.927	-8.767	9.468	-7.577	urocitellus_parryii.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	3	54.075	-7.943	12.251	-10.035	urocitellus_parryii.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	G	5	58.183	-4.522	12.898	-8.522	urocitellus_parryii.cif#93.A	1
+A:94:_:THR	A	94	THR	RES	G	3	59.724	-2.713	12.669	-11.865	urocitellus_parryii.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	G	1	62.544	-4.739	15.574	-13.307	urocitellus_parryii.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	1	64.876	-4.346	18.162	-10.554	urocitellus_parryii.cif#96.A	1
+A:97:_:SER	A	97	SER	RES	 	4	72.259	-4.074	21.837	-11.332	urocitellus_parryii.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	H	1	72.601	-0.704	23.448	-10.750	urocitellus_parryii.cif#98.A	1
+A:99:_:GLU	A	99	GLU	RES	H	2	77.086	-2.031	25.108	-7.606	urocitellus_parryii.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	H	5	75.945	-3.452	21.861	-6.221	urocitellus_parryii.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	H	5	77.890	-0.218	20.013	-6.909	urocitellus_parryii.cif#101.A	1
+A:102:_:GLN	A	102	GLN	RES	H	3	82.383	1.844	22.753	-5.284	urocitellus_parryii.cif#102.A	1
+A:103:_:GLN	A	103	GLN	RES	H	3	83.791	-0.240	22.563	-2.118	urocitellus_parryii.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	4	82.273	-0.010	18.780	-1.934	urocitellus_parryii.cif#104.A	1
+A:105:_:GLU	A	105	GLU	RES	H	2	84.013	3.752	18.864	-2.462	urocitellus_parryii.cif#105.A	1
+A:106:_:LYS	A	106	LYS	RES	H	5	89.921	4.120	21.342	0.388	urocitellus_parryii.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	3	90.121	1.923	19.303	2.711	urocitellus_parryii.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	4	87.674	3.667	16.051	1.776	urocitellus_parryii.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	2	90.130	7.032	17.576	2.632	urocitellus_parryii.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	4	94.924	5.754	18.828	5.986	urocitellus_parryii.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	9	94.372	4.181	15.450	6.753	urocitellus_parryii.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	7	91.672	7.337	13.503	5.976	urocitellus_parryii.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	1	96.486	9.417	15.923	8.036	urocitellus_parryii.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	4	96.796	7.131	15.436	11.022	urocitellus_parryii.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	4	96.880	6.534	11.684	10.934	urocitellus_parryii.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	0	95.740	9.455	10.203	8.997	urocitellus_parryii.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	2	95.267	7.239	8.374	6.511	urocitellus_parryii.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	2	89.584	4.981	9.423	3.659	urocitellus_parryii.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	4	91.546	1.318	10.302	4.041	urocitellus_parryii.cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	5	91.952	-0.760	7.226	3.289	urocitellus_parryii.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	4	88.595	-4.415	7.458	2.297	urocitellus_parryii.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	3	84.840	-6.549	4.969	0.420	urocitellus_parryii.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	G	3	70.357	-6.952	7.262	-2.565	urocitellus_parryii.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	G	1	68.462	-9.612	5.083	-4.207	urocitellus_parryii.cif#124.A	1
+A:125:_:LEU	A	125	LEU	RES	G	1	66.227	-11.885	5.785	-1.238	urocitellus_parryii.cif#125.A	1
+A:126:_:SER	A	126	SER	RES	S	3	58.304	-11.279	9.543	-1.018	urocitellus_parryii.cif#126.A	1
+A:127:_:ASP	A	127	ASP	RES	 	2	64.174	-12.506	12.533	-2.948	urocitellus_parryii.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	H	2	65.947	-9.750	14.530	-4.596	urocitellus_parryii.cif#128.A	1
+A:129:_:ALA	A	129	ALA	RES	H	0	71.515	-10.765	17.630	-2.666	urocitellus_parryii.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	H	3	75.271	-10.517	15.743	0.623	urocitellus_parryii.cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	H	3	80.693	-6.888	14.676	0.190	urocitellus_parryii.cif#131.A	1
+A:132:_:PRO	A	132	PRO	RES	H	0	84.967	-5.187	17.963	1.167	urocitellus_parryii.cif#132.A	1
+A:133:_:ARG	A	133	ARG	RES	H	0	88.523	-7.735	18.506	3.929	urocitellus_parryii.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	H	6	90.193	-6.991	15.118	5.467	urocitellus_parryii.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	H	7	90.835	-3.246	15.553	5.040	urocitellus_parryii.cif#135.A	1
+A:136:_:GLU	A	136	GLU	RES	H	3	92.324	-3.381	18.906	6.800	urocitellus_parryii.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	H	6	95.277	-5.533	17.489	9.603	urocitellus_parryii.cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	H	12	95.453	-3.250	14.541	10.207	urocitellus_parryii.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	H	5	95.564	-0.198	16.801	10.442	urocitellus_parryii.cif#139.A	1
+A:140:_:HIS	A	140	HIS	RES	H	5	95.203	-1.571	17.778	13.846	urocitellus_parryii.cif#140.A	1
+A:141:_:CYS	A	141	CYS	RES	S	1	94.235	-1.998	14.234	15.183	urocitellus_parryii.cif#141.A	1
+A:142:_:GLN	A	142	GLN	RES	 	2	96.034	0.306	12.699	17.741	urocitellus_parryii.cif#142.A	1
+A:143:_:PRO	A	143	PRO	RES	H	1	96.254	2.883	10.380	16.161	urocitellus_parryii.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	H	1	95.874	1.573	7.178	17.759	urocitellus_parryii.cif#144.A	1
+A:145:_:GLN	A	145	GLN	RES	H	4	96.681	-1.972	8.012	16.674	urocitellus_parryii.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	H	7	97.423	-0.834	8.856	13.150	urocitellus_parryii.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	H	3	97.774	1.096	5.593	12.874	urocitellus_parryii.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	H	3	96.843	-2.075	3.658	13.676	urocitellus_parryii.cif#148.A	1
+A:149:_:THR	A	149	THR	RES	H	5	96.622	-4.115	5.723	11.242	urocitellus_parryii.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	H	5	97.128	-1.577	5.319	8.443	urocitellus_parryii.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	H	4	97.911	-1.410	1.564	8.977	urocitellus_parryii.cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	H	6	97.293	-5.190	1.493	8.796	urocitellus_parryii.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	H	11	94.727	-4.933	3.123	5.383	urocitellus_parryii.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	H	6	96.168	-2.377	0.516	4.313	urocitellus_parryii.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	H	6	96.697	-4.908	-2.156	5.258	urocitellus_parryii.cif#155.A	1
+A:156:_:LYS	A	156	LYS	RES	H	6	92.013	-7.649	-0.447	3.239	urocitellus_parryii.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	H	3	91.912	-5.343	-0.341	0.221	urocitellus_parryii.cif#157.A	1
+A:158:_:GLY	A	158	GLY	RES	H	2	94.040	-4.387	-3.972	0.732	urocitellus_parryii.cif#158.A	1
+A:159:_:HIS	A	159	HIS	RES	H	6	92.353	-8.012	-5.011	0.980	urocitellus_parryii.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	4	87.508	-8.875	-3.268	-2.276	urocitellus_parryii.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	H	8	91.234	-5.912	-4.850	-4.037	urocitellus_parryii.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	H	4	93.677	-6.870	-8.314	-2.794	urocitellus_parryii.cif#162.A	1
+A:163:_:VAL	A	163	VAL	RES	H	4	89.514	-10.425	-7.770	-3.989	urocitellus_parryii.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	H	2	87.197	-9.085	-6.732	-7.390	urocitellus_parryii.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	2	91.930	-6.895	-9.824	-7.612	urocitellus_parryii.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	H	3	90.399	-9.371	-12.390	-6.347	urocitellus_parryii.cif#166.A	1
+A:167:_:GLY	A	167	GLY	RES	H	3	79.734	-12.571	-10.839	-7.648	urocitellus_parryii.cif#167.A	1
+A:168:_:ALA	A	168	ALA	RES	H	0	57.158	-11.380	-10.997	-11.248	urocitellus_parryii.cif#168.A	1
+A:169:_:ASP	A	169	ASP	RES	S	5	53.183	-12.188	-14.725	-11.268	urocitellus_parryii.cif#169.A	1
+A:170:_:SER	A	170	SER	RES	G	1	50.553	-15.784	-15.239	-12.368	urocitellus_parryii.cif#170.A	1
+A:171:_:SER	A	171	SER	RES	G	1	50.042	-16.075	-18.270	-10.077	urocitellus_parryii.cif#171.A	1
+A:172:_:ARG	A	172	ARG	RES	G	3	50.039	-15.884	-15.925	-7.097	urocitellus_parryii.cif#172.A	1
+A:173:_:LEU	A	173	LEU	RES	 	1	43.899	-18.873	-13.757	-8.065	urocitellus_parryii.cif#173.A	1

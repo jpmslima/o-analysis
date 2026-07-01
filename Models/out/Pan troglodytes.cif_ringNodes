@@ -1,0 +1,169 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	3	75.860	-6.866	17.386	10.845	Pan troglodytes.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	4	80.714	-7.545	20.353	8.612	Pan troglodytes.cif#2.A	1
+A:3:_:ILE	A	3	ILE	RES	H	2	88.907	-5.466	21.418	5.650	Pan troglodytes.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	1	90.368	-4.346	24.590	7.413	Pan troglodytes.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	6	89.776	-2.675	22.473	10.081	Pan troglodytes.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	4	94.161	-1.064	20.362	7.368	Pan troglodytes.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	5	95.739	0.294	23.490	5.688	Pan troglodytes.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	2	95.365	1.749	24.728	8.982	Pan troglodytes.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	2	95.280	3.804	21.597	9.647	Pan troglodytes.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	2	96.585	7.566	21.620	9.400	Pan troglodytes.cif#10.A	1
+A:11:_:LEU	A	11	LEU	RES	H	1	97.653	9.316	18.859	7.486	Pan troglodytes.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	1	97.561	9.799	16.608	10.494	Pan troglodytes.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	4	95.179	6.209	16.796	11.646	Pan troglodytes.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	9	97.416	4.861	16.366	8.111	Pan troglodytes.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	97.445	6.927	13.230	7.555	Pan troglodytes.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	1	94.366	5.957	11.884	10.980	Pan troglodytes.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	1	93.331	2.283	12.239	10.077	Pan troglodytes.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	7	96.362	2.260	11.397	6.374	Pan troglodytes.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	3	96.137	5.380	9.283	5.938	Pan troglodytes.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	4	92.005	3.377	6.062	5.804	Pan troglodytes.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	4	95.417	0.608	7.241	3.480	Pan troglodytes.cif#21.A	1
+A:22:_:THR	A	22	THR	RES	H	2	95.098	2.546	5.122	1.012	Pan troglodytes.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	5	89.894	3.740	2.072	2.925	Pan troglodytes.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	1	89.216	7.199	2.639	4.433	Pan troglodytes.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	3	93.602	7.937	5.453	1.957	Pan troglodytes.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	1	95.242	8.630	8.617	3.954	Pan troglodytes.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	1	93.453	10.631	9.947	0.999	Pan troglodytes.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	2	96.972	7.379	10.627	-0.844	Pan troglodytes.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	4	97.282	5.987	12.609	2.075	Pan troglodytes.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	0	97.444	9.170	14.676	2.189	Pan troglodytes.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	2	96.512	8.768	15.470	-1.505	Pan troglodytes.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	2	97.334	5.105	16.400	-1.085	Pan troglodytes.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	7	97.483	5.990	18.691	1.822	Pan troglodytes.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	1	95.053	7.753	20.993	-0.639	Pan troglodytes.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	2	92.961	4.534	21.367	-2.665	Pan troglodytes.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	6	91.694	2.704	23.320	0.056	Pan troglodytes.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	S	0	93.876	0.528	25.246	0.411	Pan troglodytes.cif#37.A	1
+A:38:_:LEU	A	38	LEU	RES	 	4	94.753	-2.061	22.553	-0.225	Pan troglodytes.cif#38.A	1
+A:39:_:SER	A	39	SER	RES	 	3	93.712	-5.676	23.456	-0.910	Pan troglodytes.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	5	90.405	-7.569	20.381	0.314	Pan troglodytes.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	H	2	88.562	-7.415	16.626	0.783	Pan troglodytes.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	3	90.927	-7.774	16.039	-2.958	Pan troglodytes.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	11	95.132	-4.798	18.297	-3.653	Pan troglodytes.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	3	95.161	-2.754	16.378	-1.093	Pan troglodytes.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	H	6	93.903	-3.710	13.077	-2.729	Pan troglodytes.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	4	96.292	-2.850	14.369	-6.173	Pan troglodytes.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	7	97.662	0.650	15.326	-5.081	Pan troglodytes.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	4	97.845	1.291	11.904	-3.559	Pan troglodytes.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	H	4	97.429	-0.042	10.053	-6.576	Pan troglodytes.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	3	97.506	1.602	12.335	-9.134	Pan troglodytes.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	5	97.409	4.939	11.656	-7.471	Pan troglodytes.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	3	97.329	4.345	7.911	-7.700	Pan troglodytes.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	7	96.930	3.267	8.175	-11.327	Pan troglodytes.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	2	96.985	6.330	10.236	-12.235	Pan troglodytes.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	2	97.061	8.752	7.602	-10.959	Pan troglodytes.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	 	4	97.256	10.437	5.267	-13.409	Pan troglodytes.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	3	94.458	9.121	1.714	-13.397	Pan troglodytes.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	1	95.805	11.896	0.560	-11.059	Pan troglodytes.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	4	96.833	10.843	3.199	-8.543	Pan troglodytes.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	6	97.256	7.195	2.218	-8.813	Pan troglodytes.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	5	95.911	8.100	-1.422	-8.249	Pan troglodytes.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	1	96.743	10.199	-0.352	-5.276	Pan troglodytes.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	3	95.785	7.119	1.230	-3.725	Pan troglodytes.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	7	96.247	5.236	-2.037	-4.140	Pan troglodytes.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	1	95.506	8.093	-3.975	-2.561	Pan troglodytes.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	1	91.833	7.586	-1.977	0.628	Pan troglodytes.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	0	89.816	4.235	-3.692	1.190	Pan troglodytes.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	1	82.633	4.057	-6.812	3.365	Pan troglodytes.cif#68.A	1
+A:69:_:TYR	A	69	TYR	RES	 	1	82.325	2.765	-10.228	2.363	Pan troglodytes.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	4	78.086	-0.897	-10.786	3.041	Pan troglodytes.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	1	72.379	-1.226	-12.888	6.216	Pan troglodytes.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	 	3	73.238	2.561	-13.179	6.347	Pan troglodytes.cif#72.A	1
+A:73:_:SER	A	73	SER	RES	H	4	71.866	4.834	-13.589	9.327	Pan troglodytes.cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	H	3	70.038	4.888	-9.836	9.970	Pan troglodytes.cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	H	4	70.218	1.162	-9.977	10.709	Pan troglodytes.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	2	68.159	1.597	-12.959	13.037	Pan troglodytes.cif#76.A	1
+A:77:_:ARG	A	77	ARG	RES	H	3	67.996	4.521	-11.343	14.873	Pan troglodytes.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	H	1	67.251	2.871	-7.927	15.123	Pan troglodytes.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	2	68.533	5.674	-6.173	13.252	Pan troglodytes.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	S	2	70.436	3.544	-4.561	10.530	Pan troglodytes.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	3	74.900	3.025	-0.831	10.438	Pan troglodytes.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	2	69.606	-0.038	0.192	12.406	Pan troglodytes.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	2	68.255	-1.863	0.958	9.169	Pan troglodytes.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	5	74.119	-1.114	-2.392	7.531	Pan troglodytes.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	H	5	68.427	-1.976	-4.254	10.729	Pan troglodytes.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	3	70.507	-5.422	-2.667	10.792	Pan troglodytes.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	6	71.894	-5.917	-3.157	7.062	Pan troglodytes.cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	H	4	71.233	-4.978	-6.834	7.034	Pan troglodytes.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	H	4	66.662	-6.975	-7.547	10.182	Pan troglodytes.cif#89.A	1
+A:90:_:GLY	A	90	GLY	RES	H	1	65.216	-9.949	-5.726	8.701	Pan troglodytes.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	2	63.719	-9.647	-7.809	5.536	Pan troglodytes.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	1	67.584	-10.058	-10.974	7.622	Pan troglodytes.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	H	5	69.888	-6.528	-12.275	7.111	Pan troglodytes.cif#93.A	1
+A:94:_:TRP	A	94	TRP	RES	H	0	66.435	-5.828	-12.778	10.824	Pan troglodytes.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	H	0	72.858	-8.505	-15.462	11.146	Pan troglodytes.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	5	72.741	-7.359	-17.733	8.301	Pan troglodytes.cif#96.A	1
+A:97:_:GLY	A	97	GLY	RES	 	3	78.205	-7.034	-21.425	9.092	Pan troglodytes.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	H	1	81.721	-3.979	-23.557	8.468	Pan troglodytes.cif#98.A	1
+A:99:_:ASP	A	99	ASP	RES	H	0	83.824	-4.988	-24.717	4.986	Pan troglodytes.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	H	3	77.288	-5.975	-21.192	3.942	Pan troglodytes.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	H	5	80.151	-2.648	-19.824	5.160	Pan troglodytes.cif#101.A	1
+A:102:_:LEU	A	102	LEU	RES	H	3	86.196	-0.759	-22.518	3.264	Pan troglodytes.cif#102.A	1
+A:103:_:ARG	A	103	ARG	RES	H	2	82.452	-2.561	-21.700	0.019	Pan troglodytes.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	4	82.165	-2.090	-17.975	0.505	Pan troglodytes.cif#104.A	1
+A:105:_:ALA	A	105	ALA	RES	H	2	85.823	1.624	-18.486	1.174	Pan troglodytes.cif#105.A	1
+A:106:_:GLU	A	106	GLU	RES	H	4	88.146	1.899	-20.415	-2.092	Pan troglodytes.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	3	84.283	0.093	-17.668	-4.001	Pan troglodytes.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	5	86.350	2.229	-14.982	-2.361	Pan troglodytes.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	4	89.749	5.377	-16.817	-3.423	Pan troglodytes.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	2	89.875	4.187	-17.358	-7.002	Pan troglodytes.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	6	89.229	3.099	-13.742	-7.348	Pan troglodytes.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	7	90.730	6.323	-12.302	-5.989	Pan troglodytes.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	3	93.556	8.395	-14.694	-8.081	Pan troglodytes.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	2	91.799	6.702	-13.462	-11.239	Pan troglodytes.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	2	92.703	6.350	-9.747	-10.564	Pan troglodytes.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	3	93.518	9.028	-9.011	-7.965	Pan troglodytes.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	2	92.392	6.637	-7.358	-5.510	Pan troglodytes.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	3	88.323	3.911	-8.516	-3.129	Pan troglodytes.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	4	85.634	0.278	-8.930	-4.082	Pan troglodytes.cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	0	85.700	-1.456	-5.678	-3.140	Pan troglodytes.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	0	79.270	-5.231	-5.424	-2.774	Pan troglodytes.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	S	2	74.301	-7.312	-2.736	-1.086	Pan troglodytes.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	S	0	59.651	-10.158	-5.173	-0.473	Pan troglodytes.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	 	1	57.762	-10.736	-8.613	1.020	Pan troglodytes.cif#124.A	1
+A:125:_:PHE	A	125	PHE	RES	 	6	60.007	-8.304	-11.136	-0.420	Pan troglodytes.cif#125.A	1
+A:126:_:SER	A	126	SER	RES	 	3	60.613	-9.592	-13.940	-2.646	Pan troglodytes.cif#126.A	1
+A:127:_:ASN	A	127	ASN	RES	H	1	65.574	-7.749	-16.812	-4.263	Pan troglodytes.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	H	1	68.328	-9.622	-16.118	-7.505	Pan troglodytes.cif#128.A	1
+A:129:_:THR	A	129	THR	RES	H	4	71.321	-8.328	-12.556	-7.678	Pan troglodytes.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	H	4	73.640	-4.751	-13.597	-6.946	Pan troglodytes.cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	H	2	73.469	-4.790	-16.312	-9.609	Pan troglodytes.cif#131.A	1
+A:132:_:ALA	A	132	ALA	RES	H	2	79.352	-6.347	-13.999	-12.193	Pan troglodytes.cif#132.A	1
+A:133:_:ARG	A	133	ARG	RES	H	8	82.655	-3.754	-11.310	-11.585	Pan troglodytes.cif#133.A	1
+A:134:_:LEU	A	134	LEU	RES	H	6	81.809	-0.932	-13.844	-11.889	Pan troglodytes.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	H	1	83.376	-2.012	-14.263	-15.516	Pan troglodytes.cif#135.A	1
+A:136:_:CYS	A	136	CYS	RES	S	2	83.794	-1.973	-10.552	-16.405	Pan troglodytes.cif#136.A	1
+A:137:_:PRO	A	137	PRO	RES	 	2	89.080	0.757	-8.948	-18.480	Pan troglodytes.cif#137.A	1
+A:138:_:SER	A	138	SER	RES	H	1	90.419	3.410	-7.383	-16.258	Pan troglodytes.cif#138.A	1
+A:139:_:ALA	A	139	ALA	RES	H	1	91.645	2.693	-3.813	-17.343	Pan troglodytes.cif#139.A	1
+A:140:_:GLN	A	140	GLN	RES	H	3	92.329	-1.012	-4.236	-16.675	Pan troglodytes.cif#140.A	1
+A:141:_:GLU	A	141	GLU	RES	H	6	93.220	-0.403	-5.827	-13.279	Pan troglodytes.cif#141.A	1
+A:142:_:LEU	A	142	LEU	RES	H	2	96.072	1.961	-3.004	-12.325	Pan troglodytes.cif#142.A	1
+A:143:_:ARG	A	143	ARG	RES	H	3	94.852	-0.782	-0.485	-13.104	Pan troglodytes.cif#143.A	1
+A:144:_:THR	A	144	THR	RES	H	2	92.689	-3.317	-2.534	-11.177	Pan troglodytes.cif#144.A	1
+A:145:_:ALA	A	145	ALA	RES	H	4	95.008	-1.058	-2.888	-8.135	Pan troglodytes.cif#145.A	1
+A:146:_:LEU	A	146	LEU	RES	H	3	97.013	-0.231	0.823	-8.134	Pan troglodytes.cif#146.A	1
+A:147:_:GLY	A	147	GLY	RES	H	2	95.326	-3.942	1.557	-8.351	Pan troglodytes.cif#147.A	1
+A:148:_:GLU	A	148	GLU	RES	H	8	91.637	-4.454	-0.516	-5.219	Pan troglodytes.cif#148.A	1
+A:149:_:VAL	A	149	VAL	RES	H	3	94.866	-1.629	1.358	-3.483	Pan troglodytes.cif#149.A	1
+A:150:_:LYS	A	150	LYS	RES	H	6	96.003	-3.361	4.627	-4.353	Pan troglodytes.cif#150.A	1
+A:151:_:LYS	A	151	LYS	RES	H	5	89.577	-6.674	3.346	-2.980	Pan troglodytes.cif#151.A	1
+A:152:_:ILE	A	152	ILE	RES	H	3	90.645	-4.897	2.449	0.257	Pan troglodytes.cif#152.A	1
+A:153:_:GLY	A	153	GLY	RES	H	3	93.756	-3.230	5.856	0.304	Pan troglodytes.cif#153.A	1
+A:154:_:SER	A	154	SER	RES	H	3	91.054	-6.563	7.603	-0.194	Pan troglodytes.cif#154.A	1
+A:155:_:LEU	A	155	LEU	RES	H	2	85.687	-8.026	5.724	2.753	Pan troglodytes.cif#155.A	1
+A:156:_:ARG	A	156	ARG	RES	H	8	91.507	-5.029	6.546	4.927	Pan troglodytes.cif#156.A	1
+A:157:_:LEU	A	157	LEU	RES	H	8	92.841	-5.184	10.238	4.018	Pan troglodytes.cif#157.A	1
+A:158:_:ALA	A	158	ALA	RES	H	4	85.509	-8.910	10.296	4.698	Pan troglodytes.cif#158.A	1
+A:159:_:ASP	A	159	ASP	RES	H	2	84.639	-8.284	8.740	8.107	Pan troglodytes.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	3	89.602	-5.559	11.262	8.920	Pan troglodytes.cif#160.A	1
+A:161:_:LEU	A	161	LEU	RES	H	3	87.056	-7.750	14.192	7.897	Pan troglodytes.cif#161.A	1
+A:162:_:ARG	A	162	ARG	RES	T	1	63.801	-10.881	12.600	9.396	Pan troglodytes.cif#162.A	1
+A:163:_:ALA	A	163	ALA	RES	 	2	52.640	-12.739	12.687	6.085	Pan troglodytes.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	 	1	50.107	-15.354	10.271	4.804	Pan troglodytes.cif#164.A	1
+A:165:_:PRO	A	165	PRO	RES	G	2	51.013	-13.729	8.071	2.137	Pan troglodytes.cif#165.A	1
+A:166:_:ALA	A	166	ALA	RES	G	0	56.743	-17.109	7.443	0.497	Pan troglodytes.cif#166.A	1
+A:167:_:LYS	A	167	LYS	RES	G	1	49.941	-17.385	11.157	-0.287	Pan troglodytes.cif#167.A	1
+A:168:_:LEU	A	168	LEU	RES	 	1	43.612	-13.928	11.733	-1.770	Pan troglodytes.cif#168.A	1

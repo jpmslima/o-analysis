@@ -1,0 +1,174 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	1	86.960	2.977	-20.071	-6.126	Hipposideros armiger.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	2	89.944	-0.077	-21.187	-8.084	Hipposideros armiger.cif#2.A	1
+A:3:_:ILE	A	3	ILE	RES	H	1	95.021	-3.685	-20.354	-7.389	Hipposideros armiger.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	0	96.220	-4.467	-23.893	-6.220	Hipposideros armiger.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	2	96.327	-1.939	-23.475	-3.414	Hipposideros armiger.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	3	97.950	-3.510	-20.140	-2.497	Hipposideros armiger.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	4	98.181	-6.952	-21.753	-2.357	Hipposideros armiger.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	1	97.780	-5.660	-24.562	-0.124	Hipposideros armiger.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	5	98.262	-4.254	-22.258	2.564	Hipposideros armiger.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	3	97.955	-5.818	-22.152	5.990	Hipposideros armiger.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	4	98.387	-6.612	-18.806	7.595	Hipposideros armiger.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	2	98.604	-3.302	-18.439	9.410	Hipposideros armiger.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	3	97.899	-1.178	-19.300	6.404	Hipposideros armiger.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	8	98.727	-3.185	-17.049	4.079	Hipposideros armiger.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	98.544	-2.877	-14.038	6.376	Hipposideros armiger.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	2	97.918	0.820	-14.743	6.912	Hipposideros armiger.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	2	97.663	1.443	-14.747	3.158	Hipposideros armiger.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	4	98.616	-0.953	-12.015	2.018	Hipposideros armiger.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	3	98.501	-1.321	-9.888	5.141	Hipposideros armiger.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	2	97.656	1.007	-7.181	3.848	Hipposideros armiger.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	2	97.877	-0.397	-6.969	0.324	Hipposideros armiger.cif#21.A	1
+A:22:_:ILE	A	22	ILE	RES	S	1	98.317	-1.872	-3.760	1.734	Hipposideros armiger.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	7	97.309	0.844	-2.160	3.848	Hipposideros armiger.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	3	96.452	0.536	-3.091	7.539	Hipposideros armiger.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	1	96.289	-3.123	-4.016	7.068	Hipposideros armiger.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	3	97.119	-3.571	-7.772	7.606	Hipposideros armiger.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	1	94.911	-7.279	-7.356	8.314	Hipposideros armiger.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	4	97.934	-7.884	-6.951	4.587	Hipposideros armiger.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	3	98.520	-6.251	-10.303	3.846	Hipposideros armiger.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	1	98.089	-8.291	-11.822	6.669	Hipposideros armiger.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	2	97.223	-11.481	-10.583	5.010	Hipposideros armiger.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	5	98.464	-10.406	-11.712	1.538	Hipposideros armiger.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	10	98.384	-9.655	-15.244	2.779	Hipposideros armiger.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	0	96.174	-13.378	-16.028	2.918	Hipposideros armiger.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	2	96.689	-13.796	-15.263	-0.803	Hipposideros armiger.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	5	96.090	-12.040	-18.454	-1.974	Hipposideros armiger.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	97.219	-11.825	-20.160	-4.361	Hipposideros armiger.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	4	98.216	-10.000	-17.653	-6.540	Hipposideros armiger.cif#38.A	1
+A:39:_:SER	A	39	SER	RES	 	1	97.155	-9.752	-18.373	-10.250	Hipposideros armiger.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	1	93.187	-6.540	-16.434	-10.960	Hipposideros armiger.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	H	2	92.018	-4.392	-13.543	-9.785	Hipposideros armiger.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	1	92.194	-6.823	-10.989	-11.207	Hipposideros armiger.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	6	97.328	-9.707	-12.510	-9.262	Hipposideros armiger.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	6	97.463	-7.697	-12.422	-6.036	Hipposideros armiger.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	H	4	95.772	-6.681	-8.829	-6.730	Hipposideros armiger.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	2	97.293	-10.286	-7.767	-7.302	Hipposideros armiger.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	5	98.369	-11.247	-8.937	-3.825	Hipposideros armiger.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	4	98.660	-8.566	-6.755	-2.253	Hipposideros armiger.cif#48.A	1
+A:49:_:TYR	A	49	TYR	RES	H	4	98.212	-9.723	-3.805	-4.341	Hipposideros armiger.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	1	98.096	-13.384	-4.410	-3.513	Hipposideros armiger.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	3	97.510	-12.652	-4.322	0.210	Hipposideros armiger.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	3	97.743	-10.834	-1.010	-0.136	Hipposideros armiger.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	6	97.213	-13.545	0.480	-2.322	Hipposideros armiger.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	2	97.318	-16.308	-0.535	0.082	Hipposideros armiger.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	5	97.641	-14.816	1.469	2.957	Hipposideros armiger.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	 	2	97.461	-16.044	4.962	3.770	Hipposideros armiger.cif#56.A	1
+A:57:_:PRO	A	57	PRO	RES	H	2	95.702	-13.554	7.759	3.084	Hipposideros armiger.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	1	96.175	-12.331	7.726	6.697	Hipposideros armiger.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	2	97.626	-11.541	4.023	6.384	Hipposideros armiger.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	5	98.386	-9.765	4.584	3.088	Hipposideros armiger.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	3	97.730	-7.681	7.321	4.703	Hipposideros armiger.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	2	98.078	-6.867	4.860	7.474	Hipposideros armiger.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	5	97.591	-5.338	2.523	4.904	Hipposideros armiger.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	4	98.591	-3.139	5.352	3.652	Hipposideros armiger.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	2	97.735	-1.991	6.154	7.184	Hipposideros armiger.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	2	96.185	-0.478	2.666	7.424	Hipposideros armiger.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	3	97.364	2.051	3.487	4.692	Hipposideros armiger.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	2	95.689	5.504	4.898	5.426	Hipposideros armiger.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	5	93.841	6.845	8.132	3.996	Hipposideros armiger.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	0	94.142	9.106	7.519	1.025	Hipposideros armiger.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	0	90.978	12.708	7.794	2.254	Hipposideros armiger.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	2	91.458	11.250	8.808	5.620	Hipposideros armiger.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	H	2	88.108	11.726	8.040	9.283	Hipposideros armiger.cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	H	5	90.747	10.941	4.321	9.101	Hipposideros armiger.cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	H	0	90.894	13.668	3.868	6.504	Hipposideros armiger.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	2	88.216	16.184	5.720	8.681	Hipposideros armiger.cif#76.A	1
+A:77:_:GLN	A	77	GLN	RES	H	1	90.355	15.260	3.648	11.731	Hipposideros armiger.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	H	0	91.777	15.225	0.326	9.878	Hipposideros armiger.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	4	92.797	11.575	-0.382	10.702	Hipposideros armiger.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	 	2	94.483	10.086	-0.676	7.204	Hipposideros armiger.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	3	95.901	8.240	-3.830	6.265	Hipposideros armiger.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	3	94.606	10.265	-6.196	4.112	Hipposideros armiger.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	3	94.964	8.150	-5.271	1.091	Hipposideros armiger.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	7	96.569	8.577	-1.514	1.514	Hipposideros armiger.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	H	4	94.777	12.294	-1.952	2.140	Hipposideros armiger.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	2	93.806	12.709	-3.798	-1.166	Hipposideros armiger.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	3	95.603	10.501	-1.342	-3.043	Hipposideros armiger.cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	H	5	94.784	12.264	1.779	-1.793	Hipposideros armiger.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	H	3	93.005	15.690	0.215	-2.264	Hipposideros armiger.cif#89.A	1
+A:90:_:GLY	A	90	GLY	RES	H	0	90.141	14.816	-0.823	-5.813	Hipposideros armiger.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	4	89.634	13.686	2.728	-6.587	Hipposideros armiger.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	1	92.305	16.960	4.171	-5.268	Hipposideros armiger.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	G	4	92.713	15.346	5.907	-2.291	Hipposideros armiger.cif#93.A	1
+A:94:_:THR	A	94	THR	RES	G	1	88.533	17.708	4.338	0.262	Hipposideros armiger.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	G	2	87.058	20.730	6.162	-1.196	Hipposideros armiger.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	0	88.111	19.548	9.767	-1.580	Hipposideros armiger.cif#96.A	1
+A:97:_:GLY	A	97	GLY	RES	 	2	88.626	21.981	12.628	-1.190	Hipposideros armiger.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	H	1	88.908	21.599	15.250	1.518	Hipposideros armiger.cif#98.A	1
+A:99:_:ASP	A	99	ASP	RES	H	2	90.373	19.843	17.814	-0.680	Hipposideros armiger.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	H	3	90.078	17.472	15.214	-2.122	Hipposideros armiger.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	H	1	89.289	16.519	13.954	1.326	Hipposideros armiger.cif#101.A	1
+A:102:_:LEU	A	102	LEU	RES	H	3	93.159	15.963	17.455	2.695	Hipposideros armiger.cif#102.A	1
+A:103:_:ARG	A	103	ARG	RES	H	5	92.261	13.665	18.360	-0.191	Hipposideros armiger.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	4	93.935	11.662	15.169	0.207	Hipposideros armiger.cif#104.A	1
+A:105:_:GLU	A	105	GLU	RES	H	3	93.410	11.318	15.720	3.966	Hipposideros armiger.cif#105.A	1
+A:106:_:GLU	A	106	GLU	RES	H	3	95.873	9.957	19.205	3.356	Hipposideros armiger.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	5	96.792	7.466	18.007	0.750	Hipposideros armiger.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	2	96.175	6.329	15.092	2.930	Hipposideros armiger.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	3	96.378	5.673	17.460	5.825	Hipposideros armiger.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	4	97.704	3.626	19.803	3.627	Hipposideros armiger.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	13	98.049	1.690	16.871	2.178	Hipposideros armiger.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	7	95.622	0.730	15.423	5.557	Hipposideros armiger.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	1	97.881	-0.237	18.856	6.851	Hipposideros armiger.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	7	97.697	-2.610	19.258	3.918	Hipposideros armiger.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	3	98.247	-4.123	15.780	3.552	Hipposideros armiger.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	2	97.497	-3.636	14.057	6.916	Hipposideros armiger.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	1	97.888	-1.969	10.946	5.515	Hipposideros armiger.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	1	96.578	1.396	10.081	3.970	Hipposideros armiger.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	7	97.709	2.171	10.550	0.298	Hipposideros armiger.cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	2	97.689	1.731	7.174	-1.388	Hipposideros armiger.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	0	96.308	3.400	6.312	-4.689	Hipposideros armiger.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	4	95.089	4.180	2.954	-6.259	Hipposideros armiger.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	G	1	91.245	7.920	3.501	-6.002	Hipposideros armiger.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	G	0	89.501	8.808	0.436	-8.085	Hipposideros armiger.cif#124.A	1
+A:125:_:LEU	A	125	LEU	RES	G	4	89.091	7.188	2.167	-11.068	Hipposideros armiger.cif#125.A	1
+A:126:_:SER	A	126	SER	RES	S	1	85.033	9.215	5.370	-10.649	Hipposideros armiger.cif#126.A	1
+A:127:_:HIS	A	127	HIS	RES	 	2	83.859	12.788	6.531	-10.467	Hipposideros armiger.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	H	4	85.449	14.054	8.614	-7.579	Hipposideros armiger.cif#128.A	1
+A:129:_:ALA	A	129	ALA	RES	H	0	86.232	14.133	11.900	-9.490	Hipposideros armiger.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	H	4	87.797	10.410	11.671	-10.273	Hipposideros armiger.cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	H	4	93.584	9.296	11.321	-6.641	Hipposideros armiger.cif#131.A	1
+A:132:_:PRO	A	132	PRO	RES	H	1	93.188	9.608	14.957	-5.464	Hipposideros armiger.cif#132.A	1
+A:133:_:ARG	A	133	ARG	RES	H	1	94.037	8.093	16.190	-8.734	Hipposideros armiger.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	H	9	96.087	5.008	14.023	-8.280	Hipposideros armiger.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	H	7	96.557	4.720	14.916	-4.599	Hipposideros armiger.cif#135.A	1
+A:136:_:ALA	A	136	ALA	RES	H	2	96.257	4.837	18.630	-5.410	Hipposideros armiger.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	H	6	96.964	2.248	18.209	-8.168	Hipposideros armiger.cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	H	11	97.868	-0.208	16.338	-5.980	Hipposideros armiger.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	H	5	97.684	-0.015	18.992	-3.265	Hipposideros armiger.cif#139.A	1
+A:140:_:HIS	A	140	HIS	RES	H	1	97.210	-2.224	21.028	-5.609	Hipposideros armiger.cif#140.A	1
+A:141:_:CYS	A	141	CYS	RES	S	2	96.942	-4.994	18.412	-5.848	Hipposideros armiger.cif#141.A	1
+A:142:_:SER	A	142	SER	RES	 	2	97.631	-8.293	18.716	-4.056	Hipposideros armiger.cif#142.A	1
+A:143:_:PRO	A	143	PRO	RES	H	1	96.564	-8.655	16.411	-1.038	Hipposideros armiger.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	H	1	96.109	-11.216	14.213	-2.797	Hipposideros armiger.cif#144.A	1
+A:145:_:GLN	A	145	GLN	RES	H	4	97.433	-9.064	13.958	-5.909	Hipposideros armiger.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	H	7	98.459	-5.926	13.184	-3.898	Hipposideros armiger.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	H	1	98.198	-7.684	10.450	-1.918	Hipposideros armiger.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	H	4	96.778	-8.695	8.803	-5.187	Hipposideros armiger.cif#148.A	1
+A:149:_:ILE	A	149	ILE	RES	H	6	98.050	-5.194	9.097	-6.634	Hipposideros armiger.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	H	3	98.569	-3.505	7.812	-3.465	Hipposideros armiger.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	H	3	98.440	-5.802	4.786	-3.299	Hipposideros armiger.cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	H	5	98.108	-4.933	4.101	-6.921	Hipposideros armiger.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	H	11	97.863	-1.290	3.968	-5.865	Hipposideros armiger.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	H	2	98.576	-2.150	1.529	-3.070	Hipposideros armiger.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	H	4	97.607	-3.774	-0.706	-5.684	Hipposideros armiger.cif#155.A	1
+A:156:_:LYS	A	156	LYS	RES	H	9	95.473	-0.694	-0.524	-7.919	Hipposideros armiger.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	H	3	97.410	1.460	-1.570	-4.962	Hipposideros armiger.cif#157.A	1
+A:158:_:ALA	A	158	ALA	RES	H	2	97.635	-0.937	-4.424	-4.184	Hipposideros armiger.cif#158.A	1
+A:159:_:ARG	A	159	ARG	RES	H	2	94.476	-0.788	-5.601	-7.786	Hipposideros armiger.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	5	94.029	3.003	-5.714	-7.727	Hipposideros armiger.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	H	3	97.070	3.109	-7.520	-4.384	Hipposideros armiger.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	H	7	96.245	0.546	-10.103	-5.499	Hipposideros armiger.cif#162.A	1
+A:163:_:ALA	A	163	ALA	RES	H	3	92.911	2.508	-10.684	-8.696	Hipposideros armiger.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	H	2	94.274	5.669	-11.225	-6.652	Hipposideros armiger.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	2	96.521	3.924	-13.703	-4.357	Hipposideros armiger.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	H	4	93.906	2.418	-15.676	-7.230	Hipposideros armiger.cif#166.A	1
+A:167:_:GLY	A	167	GLY	RES	T	2	91.701	5.578	-15.593	-9.344	Hipposideros armiger.cif#167.A	1
+A:168:_:VAL	A	168	VAL	RES	 	2	82.851	4.132	-13.791	-12.371	Hipposideros armiger.cif#168.A	1
+A:169:_:ASP	A	169	ASP	RES	 	0	76.946	5.324	-10.783	-14.333	Hipposideros armiger.cif#169.A	1
+A:170:_:PRO	A	170	PRO	RES	 	1	65.011	2.911	-7.887	-13.793	Hipposideros armiger.cif#170.A	1
+A:171:_:SER	A	171	SER	RES	 	0	61.951	1.887	-5.259	-16.284	Hipposideros armiger.cif#171.A	1
+A:172:_:ARG	A	172	ARG	RES	 	1	50.312	3.335	-2.181	-14.602	Hipposideros armiger.cif#172.A	1
+A:173:_:LEU	A	173	LEU	RES	 	1	44.368	0.485	0.244	-14.054	Hipposideros armiger.cif#173.A	1

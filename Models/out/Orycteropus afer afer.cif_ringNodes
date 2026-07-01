@@ -1,0 +1,174 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	7	70.381	-1.378	12.008	15.845	Orycteropus afer afer.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	8	78.434	-2.750	15.372	14.781	Orycteropus afer afer.cif#2.A	1
+A:3:_:VAL	A	3	VAL	RES	H	2	87.281	-1.815	17.192	11.606	Orycteropus afer afer.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	2	88.637	0.236	19.793	13.477	Orycteropus afer afer.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	6	88.196	2.553	17.053	14.739	Orycteropus afer afer.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	6	93.273	2.836	15.657	11.223	Orycteropus afer afer.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	4	95.417	3.664	19.104	9.844	Orycteropus afer afer.cif#7.A	1
+A:8:_:ALA	A	8	ALA	RES	H	2	94.925	6.334	19.589	12.521	Orycteropus afer afer.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	6	95.182	8.268	16.444	11.586	Orycteropus afer afer.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	2	95.929	11.641	16.839	9.935	Orycteropus afer afer.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	6	96.774	12.530	14.808	6.859	Orycteropus afer afer.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	1	97.014	14.002	11.879	8.762	Orycteropus afer afer.cif#12.A	1
+A:13:_:ASP	A	13	ASP	RES	H	3	94.535	11.149	11.564	11.226	Orycteropus afer afer.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	10	97.321	8.496	11.916	8.522	Orycteropus afer afer.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	97.249	10.030	9.221	6.329	Orycteropus afer afer.cif#15.A	1
+A:16:_:ALA	A	16	ALA	RES	H	2	95.041	10.554	6.957	9.342	Orycteropus afer afer.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	1	93.779	6.841	7.177	10.155	Orycteropus afer afer.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	6	96.427	5.262	7.369	6.704	Orycteropus afer afer.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	2	96.018	7.881	5.766	4.459	Orycteropus afer afer.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	4	91.901	5.900	2.545	4.153	Orycteropus afer afer.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	1	94.970	2.447	4.053	3.711	Orycteropus afer afer.cif#21.A	1
+A:22:_:ILE	A	22	ILE	RES	S	1	96.367	3.108	2.909	0.146	Orycteropus afer afer.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	6	89.146	4.822	-0.475	0.354	Orycteropus afer afer.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	2	87.063	8.626	-0.196	0.192	Orycteropus afer afer.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	2	92.026	8.379	3.267	-1.389	Orycteropus afer afer.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	1	94.924	9.988	5.749	1.015	Orycteropus afer afer.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	1	91.193	10.688	8.105	-1.880	Orycteropus afer afer.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	1	96.549	6.966	8.779	-2.190	Orycteropus afer afer.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	5	97.382	6.844	9.819	1.462	Orycteropus afer afer.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	0	97.065	9.930	11.964	0.872	Orycteropus afer afer.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	1	96.125	8.187	13.713	-2.015	Orycteropus afer afer.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	2	97.475	5.012	14.250	-0.001	Orycteropus afer afer.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	15	97.520	7.038	15.661	2.904	Orycteropus afer afer.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	0	94.325	8.066	18.581	0.701	Orycteropus afer afer.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	4	94.754	4.393	19.508	0.202	Orycteropus afer afer.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	5	94.111	3.793	20.599	3.803	Orycteropus afer afer.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	94.603	1.824	22.074	5.416	Orycteropus afer afer.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	3	95.171	-1.085	19.658	5.272	Orycteropus afer afer.cif#38.A	1
+A:39:_:SER	A	39	SER	RES	S	1	93.861	-4.506	20.977	6.220	Orycteropus afer afer.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	2	88.958	-5.774	17.675	7.645	Orycteropus afer afer.cif#40.A	1
+A:41:_:VAL	A	41	VAL	RES	H	3	84.425	-5.230	13.938	7.432	Orycteropus afer afer.cif#41.A	1
+A:42:_:ASP	A	42	ASP	RES	H	2	90.263	-7.436	13.702	4.340	Orycteropus afer afer.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	9	94.080	-5.184	16.262	2.673	Orycteropus afer afer.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	4	94.576	-2.155	14.131	3.539	Orycteropus afer afer.cif#44.A	1
+A:45:_:ASP	A	45	ASP	RES	H	3	94.032	-3.784	11.078	1.966	Orycteropus afer afer.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	4	96.316	-4.706	13.080	-1.125	Orycteropus afer afer.cif#46.A	1
+A:47:_:ARG	A	47	ARG	RES	H	12	97.252	-1.095	14.226	-1.524	Orycteropus afer afer.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	2	97.786	0.080	10.587	-1.588	Orycteropus afer afer.cif#48.A	1
+A:49:_:CYS	A	49	CYS	RES	H	2	97.760	-2.575	9.722	-4.164	Orycteropus afer afer.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	2	97.634	-1.912	12.781	-6.306	Orycteropus afer afer.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	2	97.153	1.804	12.047	-6.430	Orycteropus afer afer.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	3	97.450	1.154	8.498	-7.627	Orycteropus afer afer.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	5	97.125	-1.368	9.736	-10.182	Orycteropus afer afer.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	1	97.149	1.127	12.259	-11.551	Orycteropus afer afer.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	3	97.185	3.748	9.605	-12.295	Orycteropus afer afer.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	I	4	97.273	4.131	8.311	-15.836	Orycteropus afer afer.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	3	94.940	2.958	4.757	-16.440	Orycteropus afer afer.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	1	95.832	6.464	3.372	-15.890	Orycteropus afer afer.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	4	96.913	6.601	5.057	-12.493	Orycteropus afer afer.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	7	97.701	3.151	3.806	-11.548	Orycteropus afer afer.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	5	96.970	4.163	0.267	-12.482	Orycteropus afer afer.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	1	96.965	7.295	0.741	-10.394	Orycteropus afer afer.cif#62.A	1
+A:63:_:VAL	A	63	VAL	RES	H	3	97.146	5.112	1.523	-7.393	Orycteropus afer afer.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	3	97.319	3.222	-1.718	-7.978	Orycteropus afer afer.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	4	96.009	6.461	-3.692	-8.253	Orycteropus afer afer.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	1	91.046	7.327	-2.727	-4.671	Orycteropus afer afer.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	0	90.743	4.511	-4.930	-3.360	Orycteropus afer afer.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	1	81.604	5.081	-8.582	-2.443	Orycteropus afer afer.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	2	76.493	3.060	-11.463	-3.832	Orycteropus afer afer.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	1	71.063	0.188	-12.423	-1.559	Orycteropus afer afer.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	1	64.139	1.136	-15.625	0.296	Orycteropus afer afer.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	3	68.126	4.369	-15.617	-1.709	Orycteropus afer afer.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	H	1	65.591	8.048	-16.206	-1.054	Orycteropus afer afer.cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	H	2	64.500	8.509	-13.277	1.314	Orycteropus afer afer.cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	H	1	65.868	5.751	-14.597	3.569	Orycteropus afer afer.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	1	61.835	7.385	-18.042	3.634	Orycteropus afer afer.cif#76.A	1
+A:77:_:GLN	A	77	GLN	RES	H	1	61.980	10.803	-16.528	4.359	Orycteropus afer afer.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	H	1	63.460	9.491	-14.138	7.010	Orycteropus afer afer.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	3	60.220	10.873	-11.112	5.158	Orycteropus afer afer.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	S	1	65.125	7.675	-9.102	4.662	Orycteropus afer afer.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	4	69.691	7.445	-5.578	5.992	Orycteropus afer afer.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	1	63.777	5.641	-5.314	9.313	Orycteropus afer afer.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	5	65.859	2.648	-3.781	7.549	Orycteropus afer afer.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	5	66.842	2.365	-6.538	4.938	Orycteropus afer afer.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	H	3	57.433	2.884	-9.191	7.599	Orycteropus afer afer.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	2	65.924	-0.052	-7.839	9.603	Orycteropus afer afer.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	8	66.587	-2.228	-7.444	6.516	Orycteropus afer afer.cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	H	4	63.430	-1.615	-10.941	5.169	Orycteropus afer afer.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	H	3	61.422	-2.084	-12.405	8.634	Orycteropus afer afer.cif#89.A	1
+A:90:_:ALA	A	90	ALA	RES	H	1	59.774	-5.399	-10.561	8.984	Orycteropus afer afer.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	4	59.018	-6.434	-11.999	5.614	Orycteropus afer afer.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	2	60.239	-5.591	-15.521	6.790	Orycteropus afer afer.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	G	1	65.251	-3.016	-16.021	4.045	Orycteropus afer afer.cif#93.A	1
+A:94:_:GLN	A	94	GLN	RES	G	1	63.280	-0.289	-17.476	6.249	Orycteropus afer afer.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	G	1	67.201	-2.569	-20.379	7.226	Orycteropus afer afer.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	3	67.070	-2.959	-21.671	3.671	Orycteropus afer afer.cif#96.A	1
+A:97:_:SER	A	97	SER	RES	 	5	72.540	-2.137	-25.290	2.924	Orycteropus afer afer.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	H	3	76.138	0.864	-26.116	0.758	Orycteropus afer afer.cif#98.A	1
+A:99:_:ASP	A	99	ASP	RES	H	0	79.662	-1.485	-26.990	-2.084	Orycteropus afer afer.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	H	6	76.086	-3.308	-23.668	-1.760	Orycteropus afer afer.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	H	6	78.614	0.014	-21.810	-1.720	Orycteropus afer afer.cif#101.A	1
+A:102:_:ARG	A	102	ARG	RES	H	2	84.551	1.124	-23.602	-4.880	Orycteropus afer afer.cif#102.A	1
+A:103:_:ARG	A	103	ARG	RES	H	3	83.029	-2.090	-22.651	-6.657	Orycteropus afer afer.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	2	82.834	-1.760	-19.028	-5.627	Orycteropus afer afer.cif#104.A	1
+A:105:_:ALA	A	105	ALA	RES	H	2	85.425	1.886	-19.041	-6.743	Orycteropus afer afer.cif#105.A	1
+A:106:_:GLN	A	106	GLN	RES	H	3	89.856	0.776	-20.256	-10.172	Orycteropus afer afer.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	5	90.010	-1.808	-17.487	-10.386	Orycteropus afer afer.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	2	88.565	0.748	-14.894	-9.258	Orycteropus afer afer.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	2	92.082	3.163	-16.052	-11.958	Orycteropus afer afer.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	1	94.988	0.472	-15.805	-14.631	Orycteropus afer afer.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	6	95.134	-0.475	-12.335	-13.411	Orycteropus afer afer.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	2	92.977	3.116	-11.089	-13.495	Orycteropus afer afer.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	1	96.643	3.612	-12.538	-16.968	Orycteropus afer afer.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	2	96.876	0.550	-10.707	-18.233	Orycteropus afer afer.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	3	97.052	0.890	-7.328	-16.524	Orycteropus afer afer.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	2	95.864	4.555	-6.957	-15.534	Orycteropus afer afer.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	0	95.865	3.821	-6.249	-11.882	Orycteropus afer afer.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	1	91.825	2.554	-8.291	-8.938	Orycteropus afer afer.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	4	92.485	-1.107	-8.690	-8.057	Orycteropus afer afer.cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	0	92.467	-2.045	-6.004	-5.547	Orycteropus afer afer.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	1	85.977	-5.132	-6.224	-3.350	Orycteropus afer afer.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	4	80.390	-6.188	-4.710	-0.051	Orycteropus afer afer.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	G	1	65.420	-6.290	-8.254	1.252	Orycteropus afer afer.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	G	0	62.448	-7.391	-7.508	4.798	Orycteropus afer afer.cif#124.A	1
+A:125:_:LEU	A	125	LEU	RES	G	3	62.928	-10.688	-6.246	3.383	Orycteropus afer afer.cif#125.A	1
+A:126:_:ARG	A	126	ARG	RES	S	1	62.035	-11.347	-9.587	1.658	Orycteropus afer afer.cif#126.A	1
+A:127:_:ASP	A	127	ASP	RES	 	1	64.899	-12.275	-13.088	2.690	Orycteropus afer afer.cif#127.A	1
+A:128:_:PRO	A	128	PRO	RES	H	2	64.718	-9.413	-15.556	2.088	Orycteropus afer afer.cif#128.A	1
+A:129:_:ALA	A	129	ALA	RES	H	1	68.500	-11.292	-17.398	-0.657	Orycteropus afer afer.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	H	3	73.758	-12.067	-14.095	-2.348	Orycteropus afer afer.cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	H	1	79.184	-8.354	-13.326	-2.730	Orycteropus afer afer.cif#131.A	1
+A:132:_:ALA	A	132	ALA	RES	H	2	82.750	-7.790	-16.215	-5.128	Orycteropus afer afer.cif#132.A	1
+A:133:_:SER	A	133	SER	RES	H	2	85.228	-11.023	-15.650	-7.030	Orycteropus afer afer.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	H	8	88.555	-10.255	-11.952	-7.447	Orycteropus afer afer.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	H	3	89.310	-6.798	-12.787	-8.797	Orycteropus afer afer.cif#135.A	1
+A:136:_:GLU	A	136	GLU	RES	H	1	90.804	-8.348	-15.211	-11.277	Orycteropus afer afer.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	H	6	93.096	-10.909	-12.627	-12.343	Orycteropus afer afer.cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	H	7	95.563	-8.423	-9.799	-12.771	Orycteropus afer afer.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	H	1	95.334	-6.133	-11.981	-14.891	Orycteropus afer afer.cif#139.A	1
+A:140:_:HIS	A	140	HIS	RES	H	1	95.748	-8.654	-11.359	-17.671	Orycteropus afer afer.cif#140.A	1
+A:141:_:SER	A	141	SER	RES	S	3	96.781	-8.906	-7.584	-17.255	Orycteropus afer afer.cif#141.A	1
+A:142:_:PRO	A	142	PRO	RES	 	1	97.611	-7.730	-5.261	-20.017	Orycteropus afer afer.cif#142.A	1
+A:143:_:PRO	A	143	PRO	RES	H	3	96.087	-4.215	-3.999	-19.196	Orycteropus afer afer.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	H	1	95.940	-5.158	-0.319	-18.921	Orycteropus afer afer.cif#144.A	1
+A:145:_:GLN	A	145	GLN	RES	H	2	97.034	-8.106	-1.125	-16.664	Orycteropus afer afer.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	H	7	97.929	-5.999	-3.466	-14.522	Orycteropus afer afer.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	H	3	97.712	-3.347	-0.784	-14.016	Orycteropus afer afer.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	H	3	96.709	-6.027	1.588	-12.738	Orycteropus afer afer.cif#148.A	1
+A:149:_:THR	A	149	THR	RES	H	0	97.010	-7.510	-1.121	-10.537	Orycteropus afer afer.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	H	2	97.568	-4.133	-2.073	-9.055	Orycteropus afer afer.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	H	4	97.768	-3.249	1.555	-8.344	Orycteropus afer afer.cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	H	0	97.015	-6.628	1.958	-6.675	Orycteropus afer afer.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	H	5	94.414	-5.735	-0.944	-4.402	Orycteropus afer afer.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	H	2	96.595	-2.402	0.701	-3.574	Orycteropus afer afer.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	H	4	96.533	-4.257	3.866	-2.590	Orycteropus afer afer.cif#155.A	1
+A:156:_:THR	A	156	THR	RES	H	5	91.234	-6.697	1.879	-0.454	Orycteropus afer afer.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	H	4	92.150	-3.805	0.140	1.314	Orycteropus afer afer.cif#157.A	1
+A:158:_:GLY	A	158	GLY	RES	H	1	93.936	-2.099	3.484	1.865	Orycteropus afer afer.cif#158.A	1
+A:159:_:ARG	A	159	ARG	RES	H	2	91.817	-5.272	4.978	3.286	Orycteropus afer afer.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	3	87.352	-5.635	2.067	5.702	Orycteropus afer afer.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	H	9	91.157	-1.995	2.304	6.795	Orycteropus afer afer.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	H	5	92.549	-2.274	6.051	7.293	Orycteropus afer afer.cif#162.A	1
+A:163:_:ALA	A	163	ALA	RES	H	3	87.226	-5.368	5.532	9.430	Orycteropus afer afer.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	H	4	85.635	-3.495	2.927	11.471	Orycteropus afer afer.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	1	89.772	-0.567	5.278	12.042	Orycteropus afer afer.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	H	5	84.256	-2.784	8.138	13.148	Orycteropus afer afer.cif#166.A	1
+A:167:_:ARG	A	167	ARG	RES	H	4	73.869	-5.003	5.958	15.336	Orycteropus afer afer.cif#167.A	1
+A:168:_:ALA	A	168	ALA	RES	H	2	66.839	-2.070	4.253	17.068	Orycteropus afer afer.cif#168.A	1
+A:169:_:ASP	A	169	ASP	RES	 	2	59.433	-0.454	7.494	18.236	Orycteropus afer afer.cif#169.A	1
+A:170:_:PRO	A	170	PRO	RES	T	0	61.599	-1.566	8.302	21.810	Orycteropus afer afer.cif#170.A	1
+A:171:_:ALA	A	171	ALA	RES	T	0	58.939	-0.918	12.037	21.308	Orycteropus afer afer.cif#171.A	1
+A:172:_:ARG	A	172	ARG	RES	 	4	51.375	-3.329	12.470	18.390	Orycteropus afer afer.cif#172.A	1
+A:173:_:LEU	A	173	LEU	RES	 	1	41.111	-5.879	15.291	17.974	Orycteropus afer afer.cif#173.A	1

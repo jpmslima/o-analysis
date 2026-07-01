@@ -1,0 +1,174 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	5	77.398	-8.746	6.410	17.182	Marmota monax.cif#1.A	1
+A:2:_:ASN	A	2	ASN	RES	 	4	83.907	-6.080	6.826	19.839	Marmota monax.cif#2.A	1
+A:3:_:MET	A	3	MET	RES	H	3	90.200	-3.206	4.455	20.426	Marmota monax.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	2	91.224	-4.640	3.187	23.708	Marmota monax.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	4	91.462	-7.650	1.881	21.789	Marmota monax.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	3	95.227	-5.422	0.376	19.118	Marmota monax.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	4	96.858	-3.335	-1.426	21.728	Marmota monax.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	4	96.162	-6.440	-2.747	23.496	Marmota monax.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	3	97.330	-7.903	-4.423	20.413	Marmota monax.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	2	97.291	-8.063	-8.189	20.313	Marmota monax.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	5	97.949	-6.804	-10.047	17.259	Marmota monax.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	1	98.240	-10.125	-10.109	15.427	Marmota monax.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	2	97.024	-10.893	-6.463	16.019	Marmota monax.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	11	98.325	-7.391	-5.374	15.028	Marmota monax.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	97.844	-7.544	-7.293	11.756	Marmota monax.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	1	95.976	-11.056	-5.988	11.083	Marmota monax.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	1	95.382	-9.826	-2.421	11.451	Marmota monax.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	6	97.211	-6.334	-2.625	9.953	Marmota monax.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	1	96.265	-6.568	-5.657	7.676	Marmota monax.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	2	89.724	-6.887	-3.533	4.555	Marmota monax.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	2	95.866	-4.186	-0.998	5.388	Marmota monax.cif#21.A	1
+A:22:_:ILE	A	22	ILE	RES	S	3	96.309	-2.308	-2.998	2.761	Marmota monax.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	4	86.995	-4.838	-3.837	0.064	Marmota monax.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	1	84.764	-6.395	-7.277	0.598	Marmota monax.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	3	93.278	-3.461	-8.409	2.758	Marmota monax.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	1	95.094	-4.915	-8.988	6.233	Marmota monax.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	0	94.186	-2.037	-11.329	7.008	Marmota monax.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	1	97.153	0.187	-8.279	7.407	Marmota monax.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	4	97.880	-2.124	-6.785	10.014	Marmota monax.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	0	97.573	-2.231	-10.173	11.726	Marmota monax.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	2	96.748	1.562	-10.201	11.931	Marmota monax.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	2	97.936	1.751	-6.594	13.111	Marmota monax.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	12	97.933	-0.774	-7.252	15.890	Marmota monax.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	1	94.790	1.861	-9.246	17.776	Marmota monax.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	1	91.328	4.206	-6.233	17.844	Marmota monax.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	5	93.811	2.115	-4.262	20.359	Marmota monax.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	92.916	2.308	-1.975	22.203	Marmota monax.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	5	95.988	2.577	0.766	19.602	Marmota monax.cif#38.A	1
+A:39:_:PHE	A	39	PHE	RES	 	4	93.102	3.654	4.257	20.595	Marmota monax.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	4	89.281	2.096	6.350	17.842	Marmota monax.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	H	3	90.430	1.046	6.271	14.201	Marmota monax.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	1	90.511	4.663	6.353	13.053	Marmota monax.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	6	94.869	5.535	3.318	15.164	Marmota monax.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	8	96.097	2.517	1.352	13.944	Marmota monax.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	H	8	94.543	3.301	2.270	10.345	Marmota monax.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	3	96.282	6.933	1.238	10.780	Marmota monax.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	3	97.727	5.843	-2.273	11.732	Marmota monax.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	4	98.213	3.665	-2.590	8.631	Marmota monax.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	H	9	97.720	6.416	-1.368	6.336	Marmota monax.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	2	97.692	9.184	-3.371	8.007	Marmota monax.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	2	97.486	7.152	-6.535	7.476	Marmota monax.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	7	97.540	6.814	-5.749	3.782	Marmota monax.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	7	97.471	10.505	-4.957	3.463	Marmota monax.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	2	97.424	11.502	-8.216	5.154	Marmota monax.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	3	97.540	9.633	-10.388	2.658	Marmota monax.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	I	4	97.691	11.489	-12.104	-0.157	Marmota monax.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	1	96.042	10.915	-10.725	-3.639	Marmota monax.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	1	96.452	8.185	-13.273	-4.344	Marmota monax.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	5	97.326	6.304	-12.137	-1.250	Marmota monax.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	4	97.978	6.697	-8.487	-2.166	Marmota monax.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	3	97.253	5.361	-9.196	-5.642	Marmota monax.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	2	97.202	2.498	-11.081	-4.022	Marmota monax.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	5	96.425	1.538	-7.944	-2.116	Marmota monax.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	4	96.870	1.444	-6.013	-5.374	Marmota monax.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	3	95.430	-0.744	-8.680	-6.958	Marmota monax.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	3	90.181	-3.364	-8.021	-4.272	Marmota monax.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	2	88.146	-3.904	-4.509	-5.629	Marmota monax.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	0	76.589	-6.440	-3.773	-8.356	Marmota monax.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	2	73.205	-5.525	-2.088	-11.614	Marmota monax.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	1	63.792	-6.391	1.588	-11.617	Marmota monax.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	5	57.500	-9.683	1.955	-13.514	Marmota monax.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	3	58.564	-9.431	-1.777	-14.158	Marmota monax.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	H	2	59.396	-11.651	-4.820	-14.165	Marmota monax.cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	H	3	56.373	-12.473	-4.812	-10.451	Marmota monax.cif#74.A	1
+A:75:_:GLN	A	75	GLN	RES	H	4	57.160	-13.763	-1.266	-10.768	Marmota monax.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	3	49.245	-15.840	-2.194	-13.817	Marmota monax.cif#76.A	1
+A:77:_:ARG	A	77	ARG	RES	H	2	49.270	-17.277	-5.180	-11.946	Marmota monax.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	H	3	46.624	-17.938	-3.161	-8.787	Marmota monax.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	3	50.258	-15.764	-5.439	-6.649	Marmota monax.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	 	2	54.833	-13.179	-2.949	-5.367	Marmota monax.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	5	58.942	-12.581	-2.740	-1.638	Marmota monax.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	1	58.477	-14.242	0.218	0.042	Marmota monax.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	4	58.068	-10.850	1.869	0.477	Marmota monax.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	4	57.250	-9.756	1.407	-3.127	Marmota monax.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	H	3	52.839	-13.153	2.510	-4.417	Marmota monax.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	3	61.217	-12.953	5.726	-2.409	Marmota monax.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	6	63.295	-9.357	6.397	-3.436	Marmota monax.cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	H	8	59.339	-9.951	5.834	-7.134	Marmota monax.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	H	2	56.523	-13.179	7.811	-7.005	Marmota monax.cif#89.A	1
+A:90:_:SER	A	90	SER	RES	H	1	52.658	-11.500	10.796	-5.351	Marmota monax.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	1	55.041	-8.852	10.688	-8.089	Marmota monax.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	1	54.424	-11.541	10.763	-10.780	Marmota monax.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	G	3	59.033	-10.814	7.243	-12.011	Marmota monax.cif#93.A	1
+A:94:_:THR	A	94	THR	RES	G	0	60.929	-14.342	5.868	-11.569	Marmota monax.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	G	1	63.911	-15.894	8.223	-14.153	Marmota monax.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	2	64.483	-13.608	7.946	-17.164	Marmota monax.cif#96.A	1
+A:97:_:SER	A	97	SER	RES	 	4	71.711	-14.614	8.401	-20.769	Marmota monax.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	H	1	72.440	-14.567	5.360	-23.026	Marmota monax.cif#98.A	1
+A:99:_:GLU	A	99	GLU	RES	H	1	76.875	-11.347	6.581	-24.626	Marmota monax.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	H	11	75.656	-9.642	7.176	-21.283	Marmota monax.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	H	3	78.124	-10.670	3.751	-20.027	Marmota monax.cif#101.A	1
+A:102:_:GLN	A	102	GLN	RES	H	2	82.629	-9.412	2.037	-23.171	Marmota monax.cif#102.A	1
+A:103:_:GLN	A	103	GLN	RES	H	4	84.399	-6.087	3.846	-22.880	Marmota monax.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	5	82.193	-5.619	2.746	-19.283	Marmota monax.cif#104.A	1
+A:105:_:GLU	A	105	GLU	RES	H	4	83.765	-6.684	-0.827	-20.062	Marmota monax.cif#105.A	1
+A:106:_:LYS	A	106	LYS	RES	H	2	89.948	-4.030	-0.976	-22.769	Marmota monax.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	4	90.218	-1.327	0.448	-20.516	Marmota monax.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	5	88.351	-2.318	-1.805	-17.610	Marmota monax.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	2	90.478	-2.072	-4.861	-19.858	Marmota monax.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	3	94.752	1.369	-3.812	-21.085	Marmota monax.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	10	94.439	2.508	-3.191	-17.511	Marmota monax.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	5	92.071	1.319	-6.572	-16.260	Marmota monax.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	1	96.429	2.910	-8.307	-19.228	Marmota monax.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	4	96.620	6.265	-6.764	-18.404	Marmota monax.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	2	96.987	6.361	-6.837	-14.606	Marmota monax.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	3	95.625	3.960	-9.610	-13.595	Marmota monax.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	0	95.512	1.990	-7.453	-11.162	Marmota monax.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	2	90.072	-0.436	-4.547	-11.462	Marmota monax.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	4	91.807	0.601	-0.925	-11.674	Marmota monax.cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	0	91.957	0.351	0.642	-8.233	Marmota monax.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	1	88.289	0.099	4.391	-7.655	Marmota monax.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	3	83.598	-1.195	6.364	-4.697	Marmota monax.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	G	1	67.487	-4.062	7.612	-6.824	Marmota monax.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	G	2	66.568	-5.488	10.081	-4.315	Marmota monax.cif#124.A	1
+A:125:_:LEU	A	125	LEU	RES	G	2	63.956	-2.178	11.970	-4.476	Marmota monax.cif#125.A	1
+A:126:_:SER	A	126	SER	RES	S	1	56.993	-2.193	12.070	-8.285	Marmota monax.cif#126.A	1
+A:127:_:ASP	A	127	ASP	RES	 	1	62.945	-3.973	14.100	-10.898	Marmota monax.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	H	8	64.954	-6.300	12.007	-13.040	Marmota monax.cif#128.A	1
+A:129:_:ALA	A	129	ALA	RES	H	0	69.250	-4.628	13.131	-16.258	Marmota monax.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	H	4	73.591	-1.198	12.232	-14.877	Marmota monax.cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	H	3	80.001	-2.026	8.571	-14.199	Marmota monax.cif#131.A	1
+A:132:_:PRO	A	132	PRO	RES	H	1	84.316	-1.525	7.289	-17.764	Marmota monax.cif#132.A	1
+A:133:_:ARG	A	133	ARG	RES	H	3	87.264	1.614	9.403	-18.112	Marmota monax.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	H	8	89.475	3.136	7.876	-14.995	Marmota monax.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	H	5	90.653	2.132	4.384	-16.083	Marmota monax.cif#135.A	1
+A:136:_:GLU	A	136	GLU	RES	H	3	92.782	3.761	4.942	-19.470	Marmota monax.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	H	6	94.572	6.915	6.319	-17.846	Marmota monax.cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	H	6	95.553	7.288	3.411	-15.457	Marmota monax.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	H	3	95.316	6.912	0.877	-18.271	Marmota monax.cif#139.A	1
+A:140:_:HIS	A	140	HIS	RES	H	2	94.799	10.465	1.870	-19.195	Marmota monax.cif#140.A	1
+A:141:_:CYS	A	141	CYS	RES	S	1	93.970	11.977	1.243	-15.752	Marmota monax.cif#141.A	1
+A:142:_:GLN	A	142	GLN	RES	 	2	95.990	14.150	-1.720	-14.866	Marmota monax.cif#142.A	1
+A:143:_:PRO	A	143	PRO	RES	H	1	96.359	12.198	-4.479	-13.089	Marmota monax.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	H	1	95.993	14.121	-4.232	-9.810	Marmota monax.cif#144.A	1
+A:145:_:GLN	A	145	GLN	RES	H	2	96.743	13.695	-0.462	-9.786	Marmota monax.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	H	7	97.498	9.993	-0.772	-10.574	Marmota monax.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	H	2	97.832	9.466	-3.272	-7.758	Marmota monax.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	H	2	96.834	10.943	-0.777	-5.300	Marmota monax.cif#148.A	1
+A:149:_:THR	A	149	THR	RES	H	4	96.625	8.879	2.049	-6.739	Marmota monax.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	H	3	97.133	5.650	0.043	-6.632	Marmota monax.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	H	3	97.902	6.269	-0.997	-3.031	Marmota monax.cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	H	7	97.214	6.885	2.651	-2.216	Marmota monax.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	H	8	94.882	3.443	3.425	-3.602	Marmota monax.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	H	4	96.221	1.943	0.657	-1.466	Marmota monax.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	H	10	96.543	3.503	2.337	1.563	Marmota monax.cif#155.A	1
+A:156:_:LYS	A	156	LYS	RES	H	7	91.931	2.095	5.731	0.567	Marmota monax.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	H	3	91.834	-1.362	4.171	0.300	Marmota monax.cif#157.A	1
+A:158:_:GLY	A	158	GLY	RES	H	2	94.170	-0.908	2.432	3.641	Marmota monax.cif#158.A	1
+A:159:_:HIS	A	159	HIS	RES	H	4	92.176	0.176	5.653	5.292	Marmota monax.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	5	87.979	-2.881	7.497	4.004	Marmota monax.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	H	8	91.909	-5.183	4.727	5.206	Marmota monax.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	H	5	93.481	-3.592	4.734	8.666	Marmota monax.cif#162.A	1
+A:163:_:VAL	A	163	VAL	RES	H	4	89.049	-3.965	8.501	8.859	Marmota monax.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	H	2	87.128	-7.625	8.148	7.906	Marmota monax.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	1	91.848	-8.188	5.500	10.571	Marmota monax.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	H	5	89.879	-6.305	7.195	13.393	Marmota monax.cif#166.A	1
+A:167:_:GLY	A	167	GLY	RES	H	5	79.820	-6.706	10.878	12.601	Marmota monax.cif#167.A	1
+A:168:_:ALA	A	168	ALA	RES	H	0	58.601	-10.503	10.895	12.770	Marmota monax.cif#168.A	1
+A:169:_:ASP	A	169	ASP	RES	 	5	53.761	-10.665	9.820	16.423	Marmota monax.cif#169.A	1
+A:170:_:SER	A	170	SER	RES	G	1	51.879	-11.821	12.703	18.596	Marmota monax.cif#170.A	1
+A:171:_:SER	A	171	SER	RES	G	0	50.180	-11.320	10.641	21.771	Marmota monax.cif#171.A	1
+A:172:_:ARG	A	172	ARG	RES	G	6	52.207	-7.641	11.629	21.716	Marmota monax.cif#172.A	1
+A:173:_:LEU	A	173	LEU	RES	 	1	46.720	-8.810	14.858	23.345	Marmota monax.cif#173.A	1

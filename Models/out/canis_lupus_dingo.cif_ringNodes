@@ -1,0 +1,174 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	3	85.583	0.363	12.268	-19.132	canis_lupus_dingo.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	2	88.034	2.139	10.104	-21.703	canis_lupus_dingo.cif#2.A	1
+A:3:_:ILE	A	3	ILE	RES	H	2	94.356	5.242	8.037	-21.239	canis_lupus_dingo.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	1	95.488	7.316	10.322	-23.468	canis_lupus_dingo.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	3	95.296	6.674	13.194	-21.059	canis_lupus_dingo.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	6	97.404	7.641	10.957	-18.143	canis_lupus_dingo.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	5	98.141	10.903	10.066	-19.884	canis_lupus_dingo.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	2	97.610	11.671	13.751	-20.506	canis_lupus_dingo.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	1	97.804	11.359	14.802	-16.860	canis_lupus_dingo.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	1	97.924	14.409	15.906	-14.946	canis_lupus_dingo.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	5	98.416	15.111	14.501	-11.497	canis_lupus_dingo.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	1	98.473	13.221	17.144	-9.536	canis_lupus_dingo.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	3	97.350	10.138	17.038	-11.717	canis_lupus_dingo.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	7	98.635	10.042	13.232	-11.693	canis_lupus_dingo.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	98.369	10.229	13.062	-7.902	canis_lupus_dingo.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	1	97.263	7.609	15.807	-7.571	canis_lupus_dingo.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	1	96.745	5.196	13.839	-9.751	canis_lupus_dingo.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	7	98.337	5.935	10.264	-8.679	canis_lupus_dingo.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	3	98.228	7.263	10.697	-5.146	canis_lupus_dingo.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	4	97.211	4.024	9.472	-3.580	canis_lupus_dingo.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	3	97.804	3.404	6.505	-5.869	canis_lupus_dingo.cif#21.A	1
+A:22:_:ILE	A	22	ILE	RES	H	2	98.156	4.602	4.601	-2.803	canis_lupus_dingo.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	6	96.697	3.063	6.375	0.173	canis_lupus_dingo.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	2	95.750	5.417	9.022	1.597	canis_lupus_dingo.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	3	95.836	8.460	7.304	0.054	canis_lupus_dingo.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	4	97.119	9.941	9.750	-2.468	canis_lupus_dingo.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	1	94.260	13.303	7.994	-2.241	canis_lupus_dingo.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	3	97.758	11.861	5.115	-4.254	canis_lupus_dingo.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	4	98.370	10.855	7.476	-7.059	canis_lupus_dingo.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	2	98.124	14.331	9.003	-6.903	canis_lupus_dingo.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	1	97.296	15.863	5.559	-7.414	canis_lupus_dingo.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	5	98.422	13.468	4.641	-10.228	canis_lupus_dingo.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	9	98.379	14.282	7.840	-12.132	canis_lupus_dingo.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	0	96.347	17.611	6.350	-13.228	canis_lupus_dingo.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	2	96.821	15.869	3.403	-14.932	canis_lupus_dingo.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	4	96.198	14.494	5.457	-17.848	canis_lupus_dingo.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	97.178	13.487	5.187	-20.599	canis_lupus_dingo.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	6	97.950	10.195	3.495	-19.760	canis_lupus_dingo.cif#38.A	1
+A:39:_:SER	A	39	SER	RES	 	3	96.721	8.154	1.992	-22.576	canis_lupus_dingo.cif#39.A	1
+A:40:_:ASN	A	40	ASN	RES	S	2	92.925	4.702	2.140	-20.942	canis_lupus_dingo.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	H	3	90.345	2.868	2.170	-17.621	canis_lupus_dingo.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	1	92.697	3.619	-1.495	-16.982	canis_lupus_dingo.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	7	96.922	7.337	-0.977	-17.531	canis_lupus_dingo.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	4	97.166	7.353	2.025	-15.202	canis_lupus_dingo.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	H	9	92.756	5.553	0.201	-12.406	canis_lupus_dingo.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	9	97.271	7.821	-2.826	-12.796	canis_lupus_dingo.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	3	98.370	10.773	-0.661	-11.800	canis_lupus_dingo.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	5	98.489	8.945	0.594	-8.705	canis_lupus_dingo.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	H	4	97.744	7.996	-2.923	-7.669	canis_lupus_dingo.cif#49.A	1
+A:50:_:ASP	A	50	ASP	RES	H	8	97.894	11.400	-4.427	-8.466	canis_lupus_dingo.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	2	97.617	12.988	-1.827	-6.200	canis_lupus_dingo.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	4	97.350	10.632	-2.766	-3.369	canis_lupus_dingo.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	8	96.735	11.301	-6.462	-3.907	canis_lupus_dingo.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	0	97.199	15.067	-5.909	-3.763	canis_lupus_dingo.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	3	97.420	14.965	-4.265	-0.333	canis_lupus_dingo.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	 	3	97.546	15.907	-6.209	2.775	canis_lupus_dingo.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	3	94.358	13.069	-7.081	5.137	canis_lupus_dingo.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	1	95.766	13.716	-4.019	7.309	canis_lupus_dingo.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	4	97.145	13.373	-1.799	4.251	canis_lupus_dingo.cif#59.A	1
+A:60:_:ARG	A	60	ARG	RES	H	6	97.158	10.145	-3.469	3.180	canis_lupus_dingo.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	3	97.070	8.732	-3.033	6.686	canis_lupus_dingo.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	2	97.626	9.821	0.603	6.568	canis_lupus_dingo.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	5	96.965	7.702	1.103	3.457	canis_lupus_dingo.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	3	98.295	4.687	-0.271	5.311	canis_lupus_dingo.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	3	97.319	5.328	2.062	8.240	canis_lupus_dingo.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	3	95.575	4.929	5.029	5.887	canis_lupus_dingo.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	2	96.448	1.250	4.168	5.395	canis_lupus_dingo.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	3	94.916	-1.492	5.537	7.641	canis_lupus_dingo.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	5	93.352	-4.065	3.437	9.433	canis_lupus_dingo.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	0	93.016	-7.313	3.220	7.476	canis_lupus_dingo.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	1	90.256	-9.797	5.600	9.125	canis_lupus_dingo.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	4	91.093	-7.116	6.295	11.737	canis_lupus_dingo.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	H	2	88.517	-5.657	9.347	13.411	canis_lupus_dingo.cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	H	5	91.386	-4.188	10.917	10.276	canis_lupus_dingo.cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	H	5	90.440	-7.584	10.884	8.579	canis_lupus_dingo.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	3	87.466	-9.233	12.415	11.645	canis_lupus_dingo.cif#76.A	1
+A:77:_:GLN	A	77	GLN	RES	H	1	91.250	-6.499	15.046	11.981	canis_lupus_dingo.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	H	1	92.291	-6.551	15.932	8.275	canis_lupus_dingo.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	2	93.474	-2.874	15.063	7.784	canis_lupus_dingo.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	S	6	94.394	-3.143	12.344	5.124	canis_lupus_dingo.cif#80.A	1
+A:81:_:SER	A	81	SER	RES	 	7	95.514	-1.432	12.730	1.788	canis_lupus_dingo.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	2	93.413	-3.748	13.933	-0.950	canis_lupus_dingo.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	3	94.895	-3.762	10.471	-2.526	canis_lupus_dingo.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	3	95.728	-4.626	8.638	0.698	canis_lupus_dingo.cif#84.A	1
+A:85:_:ARG	A	85	ARG	RES	H	4	93.240	-7.298	11.194	1.534	canis_lupus_dingo.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	3	91.687	-9.014	10.621	-1.812	canis_lupus_dingo.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	3	94.112	-8.676	6.848	-1.538	canis_lupus_dingo.cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	H	4	93.336	-10.051	6.628	1.992	canis_lupus_dingo.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	H	3	89.946	-12.823	9.146	1.350	canis_lupus_dingo.cif#89.A	1
+A:90:_:GLY	A	90	GLY	RES	H	1	88.686	-13.785	7.364	-1.848	canis_lupus_dingo.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	2	88.313	-14.034	4.087	0.062	canis_lupus_dingo.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	2	89.213	-16.401	5.704	2.578	canis_lupus_dingo.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	G	2	91.347	-13.950	5.534	5.477	canis_lupus_dingo.cif#93.A	1
+A:94:_:ALA	A	94	ALA	RES	G	1	85.349	-14.252	9.254	6.241	canis_lupus_dingo.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	G	1	85.321	-17.947	8.877	7.114	canis_lupus_dingo.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	1	88.167	-17.931	5.954	9.558	canis_lupus_dingo.cif#96.A	1
+A:97:_:ASP	A	97	ASP	RES	 	4	88.552	-20.106	6.400	12.627	canis_lupus_dingo.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	H	1	90.440	-18.659	6.380	16.134	canis_lupus_dingo.cif#98.A	1
+A:99:_:ASP	A	99	ASP	RES	H	0	92.303	-19.175	2.655	16.720	canis_lupus_dingo.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	H	4	90.306	-17.633	1.781	13.349	canis_lupus_dingo.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	H	3	89.554	-14.623	3.999	14.051	canis_lupus_dingo.cif#101.A	1
+A:102:_:LEU	A	102	LEU	RES	H	2	94.025	-14.105	2.436	17.473	canis_lupus_dingo.cif#102.A	1
+A:103:_:ARG	A	103	ARG	RES	H	4	92.511	-14.250	-1.073	16.042	canis_lupus_dingo.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	2	93.442	-11.761	-0.256	13.311	canis_lupus_dingo.cif#104.A	1
+A:105:_:ALA	A	105	ALA	RES	H	2	94.342	-9.458	1.510	15.784	canis_lupus_dingo.cif#105.A	1
+A:106:_:GLU	A	106	GLU	RES	H	4	96.367	-9.502	-1.602	17.959	canis_lupus_dingo.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	6	96.644	-8.550	-3.779	14.995	canis_lupus_dingo.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	3	96.156	-5.844	-1.331	13.886	canis_lupus_dingo.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	2	96.985	-4.314	-1.334	17.373	canis_lupus_dingo.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	3	97.989	-4.272	-5.128	17.515	canis_lupus_dingo.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	11	98.059	-2.706	-5.277	14.055	canis_lupus_dingo.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	5	95.737	0.058	-2.819	14.925	canis_lupus_dingo.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	1	98.089	0.748	-4.603	18.202	canis_lupus_dingo.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	1	98.046	1.183	-7.902	16.394	canis_lupus_dingo.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	3	97.986	3.001	-6.918	13.206	canis_lupus_dingo.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	3	97.256	4.738	-3.617	13.998	canis_lupus_dingo.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	3	97.352	3.325	-1.786	10.978	canis_lupus_dingo.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	2	96.306	-0.094	-0.526	9.935	canis_lupus_dingo.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	6	97.217	-2.663	-2.574	8.063	canis_lupus_dingo.cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	0	97.198	-2.424	-1.824	4.346	canis_lupus_dingo.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	0	94.865	-5.269	-2.516	1.944	canis_lupus_dingo.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	2	93.083	-5.964	-1.147	-1.523	canis_lupus_dingo.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	G	1	81.388	-9.330	0.214	-0.436	canis_lupus_dingo.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	G	3	81.026	-10.200	1.342	-3.973	canis_lupus_dingo.cif#124.A	1
+A:125:_:ARG	A	125	ARG	RES	G	4	75.861	-10.487	-2.344	-4.892	canis_lupus_dingo.cif#125.A	1
+A:126:_:SER	A	126	SER	RES	S	1	74.869	-12.846	-3.105	-1.978	canis_lupus_dingo.cif#126.A	1
+A:127:_:HIS	A	127	HIS	RES	 	1	77.465	-15.973	-1.673	-0.451	canis_lupus_dingo.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	H	1	79.192	-16.094	-0.157	3.016	canis_lupus_dingo.cif#128.A	1
+A:129:_:ALA	A	129	ALA	RES	H	0	81.146	-17.694	-3.188	4.657	canis_lupus_dingo.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	H	3	83.762	-14.816	-5.386	3.479	canis_lupus_dingo.cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	H	2	91.265	-12.161	-3.383	5.342	canis_lupus_dingo.cif#131.A	1
+A:132:_:PRO	A	132	PRO	RES	H	1	91.949	-12.815	-4.599	8.915	canis_lupus_dingo.cif#132.A	1
+A:133:_:ARG	A	133	ARG	RES	H	2	92.623	-13.478	-8.133	7.648	canis_lupus_dingo.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	H	7	95.196	-10.135	-8.284	5.873	canis_lupus_dingo.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	H	9	96.126	-8.297	-6.683	8.792	canis_lupus_dingo.cif#135.A	1
+A:136:_:ALA	A	136	ALA	RES	H	1	96.384	-9.749	-9.231	11.217	canis_lupus_dingo.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	H	6	96.965	-8.856	-12.089	8.875	canis_lupus_dingo.cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	H	8	97.937	-5.286	-10.959	8.327	canis_lupus_dingo.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	H	5	97.760	-4.718	-10.543	12.075	canis_lupus_dingo.cif#139.A	1
+A:140:_:ARG	A	140	ARG	RES	H	0	97.231	-4.667	-14.350	12.133	canis_lupus_dingo.cif#140.A	1
+A:141:_:CYS	A	141	CYS	RES	S	1	97.171	-2.053	-14.755	9.382	canis_lupus_dingo.cif#141.A	1
+A:142:_:PRO	A	142	PRO	RES	 	1	98.236	1.533	-15.798	10.056	canis_lupus_dingo.cif#142.A	1
+A:143:_:PRO	A	143	PRO	RES	H	3	96.654	3.838	-12.749	10.158	canis_lupus_dingo.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	H	1	96.279	5.945	-13.707	7.135	canis_lupus_dingo.cif#144.A	1
+A:145:_:GLN	A	145	GLN	RES	H	7	97.575	2.840	-14.296	5.022	canis_lupus_dingo.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	H	9	98.516	1.280	-11.045	6.241	canis_lupus_dingo.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	H	3	97.944	4.395	-9.088	5.255	canis_lupus_dingo.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	H	4	97.170	4.114	-10.467	1.724	canis_lupus_dingo.cif#148.A	1
+A:149:_:THR	A	149	THR	RES	H	6	98.096	0.399	-9.735	1.615	canis_lupus_dingo.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	H	2	98.433	0.812	-6.165	2.887	canis_lupus_dingo.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	H	5	98.127	3.536	-5.442	0.329	canis_lupus_dingo.cif#151.A	1
+A:152:_:ALA	A	152	ALA	RES	H	3	97.415	1.293	-6.817	-2.411	canis_lupus_dingo.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	H	9	97.391	-1.308	-4.273	-1.288	canis_lupus_dingo.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	H	4	98.147	1.304	-1.502	-1.494	canis_lupus_dingo.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	H	9	97.180	1.931	-2.563	-5.088	canis_lupus_dingo.cif#155.A	1
+A:156:_:LYS	A	156	LYS	RES	H	5	95.480	-1.797	-2.517	-5.870	canis_lupus_dingo.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	H	4	97.063	-2.002	1.029	-4.498	canis_lupus_dingo.cif#157.A	1
+A:158:_:GLY	A	158	GLY	RES	H	3	97.137	1.042	2.046	-6.536	canis_lupus_dingo.cif#158.A	1
+A:159:_:HIS	A	159	HIS	RES	H	5	94.868	-0.461	0.494	-9.653	canis_lupus_dingo.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	3	94.088	-3.653	2.506	-9.231	canis_lupus_dingo.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	H	5	96.868	-1.777	5.734	-8.489	canis_lupus_dingo.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	H	6	96.232	0.421	5.323	-11.565	canis_lupus_dingo.cif#162.A	1
+A:163:_:ALA	A	163	ALA	RES	H	4	93.048	-2.660	4.705	-13.684	canis_lupus_dingo.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	H	4	93.489	-4.195	7.902	-12.300	canis_lupus_dingo.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	4	95.620	-1.059	9.921	-13.036	canis_lupus_dingo.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	H	3	93.499	-0.737	8.648	-16.601	canis_lupus_dingo.cif#166.A	1
+A:167:_:GLY	A	167	GLY	RES	T	2	88.535	-4.460	8.658	-17.390	canis_lupus_dingo.cif#167.A	1
+A:168:_:THR	A	168	THR	RES	 	1	80.594	-4.293	4.950	-18.227	canis_lupus_dingo.cif#168.A	1
+A:169:_:PRO	A	169	PRO	RES	 	0	79.091	-6.879	2.414	-17.090	canis_lupus_dingo.cif#169.A	1
+A:170:_:PRO	A	170	PRO	RES	 	2	72.851	-5.326	-0.217	-14.798	canis_lupus_dingo.cif#170.A	1
+A:171:_:ALA	A	171	ALA	RES	T	0	66.537	-4.973	-3.567	-16.528	canis_lupus_dingo.cif#171.A	1
+A:172:_:ARG	A	172	ARG	RES	T	6	62.441	-5.433	-5.620	-13.341	canis_lupus_dingo.cif#172.A	1
+A:173:_:LEU	A	173	LEU	RES	 	2	48.359	-8.468	-3.841	-11.869	canis_lupus_dingo.cif#173.A	1

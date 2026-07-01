@@ -1,0 +1,174 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	2	78.057	2.016	-16.041	-13.846	sciurus_vulgaris.cif#1.A	1
+A:2:_:ASN	A	2	ASN	RES	 	2	82.760	3.049	-14.579	-17.199	sciurus_vulgaris.cif#2.A	1
+A:3:_:MET	A	3	MET	RES	H	5	90.535	1.729	-11.514	-18.993	sciurus_vulgaris.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	1	91.794	-0.159	-13.596	-21.546	sciurus_vulgaris.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	2	91.408	-2.293	-14.965	-18.724	sciurus_vulgaris.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	5	95.622	-2.699	-11.514	-17.166	sciurus_vulgaris.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	4	97.124	-3.830	-10.051	-20.490	sciurus_vulgaris.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	2	96.255	-6.352	-12.860	-21.016	sciurus_vulgaris.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	3	96.766	-8.147	-12.354	-17.691	sciurus_vulgaris.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	3	97.284	-11.711	-11.115	-17.705	sciurus_vulgaris.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	5	98.113	-12.735	-8.233	-15.446	sciurus_vulgaris.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	1	98.160	-13.795	-10.344	-12.481	sciurus_vulgaris.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	3	96.701	-10.710	-12.538	-12.525	sciurus_vulgaris.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	7	98.118	-8.372	-9.553	-12.895	sciurus_vulgaris.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	97.805	-9.907	-7.721	-9.936	sciurus_vulgaris.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	2	95.554	-9.899	-10.906	-7.848	sciurus_vulgaris.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	1	94.664	-6.173	-11.351	-8.484	sciurus_vulgaris.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	9	96.769	-4.944	-7.752	-8.408	sciurus_vulgaris.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	1	96.605	-7.572	-5.985	-6.302	sciurus_vulgaris.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	4	92.514	-5.364	-5.817	-3.208	sciurus_vulgaris.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	9	96.400	-2.152	-4.709	-4.920	sciurus_vulgaris.cif#21.A	1
+A:22:_:ILE	A	22	ILE	RES	S	3	97.124	-3.042	-1.386	-3.291	sciurus_vulgaris.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	6	92.231	-4.409	-2.182	0.159	sciurus_vulgaris.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	1	89.626	-8.212	-2.516	0.096	sciurus_vulgaris.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	5	93.702	-8.482	-0.446	-3.105	sciurus_vulgaris.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	1	95.060	-9.897	-2.776	-5.773	sciurus_vulgaris.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	1	93.913	-11.135	0.222	-7.751	sciurus_vulgaris.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	5	97.101	-7.566	0.796	-8.909	sciurus_vulgaris.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	2	97.883	-7.316	-2.714	-10.346	sciurus_vulgaris.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	1	97.518	-10.722	-2.225	-11.967	sciurus_vulgaris.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	4	96.423	-9.458	0.917	-13.698	sciurus_vulgaris.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	7	97.930	-6.160	-0.685	-14.727	sciurus_vulgaris.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	12	97.968	-7.954	-3.633	-16.354	sciurus_vulgaris.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	1	95.555	-9.019	-1.376	-19.241	sciurus_vulgaris.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	3	94.485	-5.379	-0.496	-20.053	sciurus_vulgaris.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	5	94.458	-4.451	-3.928	-21.456	sciurus_vulgaris.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	94.501	-2.375	-5.271	-23.050	sciurus_vulgaris.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	9	97.147	0.543	-5.022	-20.619	sciurus_vulgaris.cif#38.A	1
+A:39:_:SER	A	39	SER	RES	 	3	95.201	4.035	-5.889	-21.811	sciurus_vulgaris.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	4	91.742	5.714	-6.736	-18.492	sciurus_vulgaris.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	H	2	90.084	5.566	-6.203	-14.734	sciurus_vulgaris.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	1	92.572	6.899	-2.664	-15.065	sciurus_vulgaris.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	8	96.412	4.186	-1.729	-17.567	sciurus_vulgaris.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	4	96.381	1.440	-3.124	-15.329	sciurus_vulgaris.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	H	11	95.358	2.928	-1.402	-12.283	sciurus_vulgaris.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	3	96.791	3.139	1.904	-14.154	sciurus_vulgaris.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	5	97.997	-0.630	1.913	-14.619	sciurus_vulgaris.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	5	98.370	-1.297	1.279	-10.931	sciurus_vulgaris.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	H	4	98.214	1.067	4.028	-9.844	sciurus_vulgaris.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	3	97.863	-0.100	6.493	-12.503	sciurus_vulgaris.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	4	97.377	-3.644	6.131	-11.172	sciurus_vulgaris.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	6	97.554	-2.442	6.999	-7.672	sciurus_vulgaris.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	0	97.395	-0.401	9.934	-8.942	sciurus_vulgaris.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	2	97.344	-3.368	11.334	-10.877	sciurus_vulgaris.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	3	97.287	-5.572	11.562	-7.785	sciurus_vulgaris.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	I	5	97.536	-5.990	14.895	-6.028	sciurus_vulgaris.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	2	96.074	-4.370	15.210	-2.604	sciurus_vulgaris.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	1	96.246	-7.578	14.182	-0.829	sciurus_vulgaris.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	4	97.102	-7.709	11.024	-2.941	sciurus_vulgaris.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	3	98.097	-4.063	10.235	-2.251	sciurus_vulgaris.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	4	97.440	-4.708	10.632	1.473	sciurus_vulgaris.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	1	97.281	-7.689	8.318	1.034	sciurus_vulgaris.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	5	96.566	-5.367	5.650	-0.370	sciurus_vulgaris.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	4	97.723	-3.222	5.990	2.746	sciurus_vulgaris.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	2	96.225	-6.280	5.662	4.981	sciurus_vulgaris.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	1	92.135	-6.924	2.223	3.458	sciurus_vulgaris.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	2	92.398	-3.746	0.961	5.138	sciurus_vulgaris.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	1	87.179	-3.689	-0.408	8.688	sciurus_vulgaris.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	1	83.426	-1.501	0.971	11.453	sciurus_vulgaris.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	3	83.135	1.569	-1.191	11.953	sciurus_vulgaris.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	1	74.050	0.924	-3.359	15.026	sciurus_vulgaris.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	2	75.292	-2.370	-1.497	15.403	sciurus_vulgaris.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	H	2	75.955	-6.017	-2.260	16.072	sciurus_vulgaris.cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	H	3	74.922	-6.637	-4.309	12.928	sciurus_vulgaris.cif#74.A	1
+A:75:_:GLN	A	75	GLN	RES	H	2	75.446	-3.686	-6.567	13.753	sciurus_vulgaris.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	1	67.947	-4.921	-7.116	17.334	sciurus_vulgaris.cif#76.A	1
+A:77:_:ARG	A	77	ARG	RES	H	2	71.825	-8.404	-7.953	16.024	sciurus_vulgaris.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	H	2	69.440	-7.080	-10.272	13.306	sciurus_vulgaris.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	1	73.831	-8.775	-8.280	10.536	sciurus_vulgaris.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	S	0	76.899	-5.721	-7.483	8.393	sciurus_vulgaris.cif#80.A	1
+A:81:_:SER	A	81	SER	RES	 	4	80.675	-5.705	-8.529	4.768	sciurus_vulgaris.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	2	77.666	-3.721	-11.690	4.099	sciurus_vulgaris.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	3	77.001	-0.992	-9.598	2.483	sciurus_vulgaris.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	2	80.789	-0.670	-7.140	5.374	sciurus_vulgaris.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	H	4	76.063	-0.737	-9.982	7.908	sciurus_vulgaris.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	2	80.965	2.157	-11.707	6.159	sciurus_vulgaris.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	3	83.869	4.096	-8.458	5.809	sciurus_vulgaris.cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	H	4	79.240	3.724	-7.464	9.459	sciurus_vulgaris.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	H	5	77.971	4.441	-11.000	10.675	sciurus_vulgaris.cif#89.A	1
+A:90:_:GLY	A	90	GLY	RES	H	0	74.152	7.595	-11.114	8.577	sciurus_vulgaris.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	3	74.938	8.758	-7.854	10.155	sciurus_vulgaris.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	2	76.201	8.175	-9.209	13.669	sciurus_vulgaris.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	G	4	78.004	5.361	-6.762	14.415	sciurus_vulgaris.cif#93.A	1
+A:94:_:THR	A	94	THR	RES	G	1	75.358	2.975	-9.520	15.534	sciurus_vulgaris.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	G	1	78.159	5.393	-10.534	18.334	sciurus_vulgaris.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	1	80.283	5.942	-7.255	20.184	sciurus_vulgaris.cif#96.A	1
+A:97:_:GLY	A	97	GLY	RES	 	2	83.085	6.285	-7.108	23.940	sciurus_vulgaris.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	H	2	82.505	3.944	-4.983	26.022	sciurus_vulgaris.cif#98.A	1
+A:99:_:ASP	A	99	ASP	RES	H	1	87.025	6.308	-2.005	26.268	sciurus_vulgaris.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	H	2	85.952	7.044	-2.073	22.535	sciurus_vulgaris.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	H	1	85.173	3.346	-2.296	21.684	sciurus_vulgaris.cif#101.A	1
+A:102:_:GLN	A	102	GLN	RES	H	4	88.814	2.491	0.625	23.969	sciurus_vulgaris.cif#102.A	1
+A:103:_:GLN	A	103	GLN	RES	H	4	89.816	5.276	2.773	22.526	sciurus_vulgaris.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	2	90.076	4.164	2.084	18.973	sciurus_vulgaris.cif#104.A	1
+A:105:_:ALA	A	105	ALA	RES	H	1	89.306	0.485	2.718	19.776	sciurus_vulgaris.cif#105.A	1
+A:106:_:LYS	A	106	LYS	RES	H	5	93.959	1.409	6.105	21.227	sciurus_vulgaris.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	6	94.759	3.478	7.031	18.180	sciurus_vulgaris.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	3	92.696	0.718	5.853	15.817	sciurus_vulgaris.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	3	93.757	-1.801	8.083	17.597	sciurus_vulgaris.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	4	96.653	0.522	11.090	17.435	sciurus_vulgaris.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	10	96.851	1.160	10.441	13.737	sciurus_vulgaris.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	1	93.953	-2.533	10.212	12.866	sciurus_vulgaris.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	1	97.338	-3.257	13.376	14.839	sciurus_vulgaris.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	6	97.553	-0.609	15.256	12.872	sciurus_vulgaris.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	6	97.732	-1.136	13.954	9.332	sciurus_vulgaris.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	0	96.788	-4.691	12.588	9.215	sciurus_vulgaris.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	1	96.781	-3.700	9.162	7.900	sciurus_vulgaris.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	2	93.546	-1.884	6.124	9.300	sciurus_vulgaris.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	6	95.187	1.862	5.644	9.199	sciurus_vulgaris.cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	2	95.678	2.700	3.560	6.129	sciurus_vulgaris.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	3	93.017	5.968	1.644	5.820	sciurus_vulgaris.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	2	92.533	6.939	-1.231	3.553	sciurus_vulgaris.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	G	4	82.418	7.400	-3.643	6.448	sciurus_vulgaris.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	G	5	79.127	8.994	-6.332	4.258	sciurus_vulgaris.cif#124.A	1
+A:125:_:LEU	A	125	LEU	RES	G	2	81.504	11.868	-3.920	3.586	sciurus_vulgaris.cif#125.A	1
+A:126:_:SER	A	126	SER	RES	S	3	76.550	12.347	-2.954	7.236	sciurus_vulgaris.cif#126.A	1
+A:127:_:ASP	A	127	ASP	RES	 	1	76.584	13.006	-4.627	10.548	sciurus_vulgaris.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	H	1	79.357	11.093	-4.504	13.810	sciurus_vulgaris.cif#128.A	1
+A:129:_:ALA	A	129	ALA	RES	H	0	82.486	13.668	-2.416	15.663	sciurus_vulgaris.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	H	2	84.747	13.648	0.290	12.982	sciurus_vulgaris.cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	H	2	89.559	9.891	0.908	12.977	sciurus_vulgaris.cif#131.A	1
+A:132:_:PRO	A	132	PRO	RES	H	0	90.153	9.517	3.121	16.091	sciurus_vulgaris.cif#132.A	1
+A:133:_:GLY	A	133	GLY	RES	H	0	93.592	12.527	5.230	15.114	sciurus_vulgaris.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	H	10	93.894	11.249	5.740	11.589	sciurus_vulgaris.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	H	9	94.671	7.793	6.677	12.874	sciurus_vulgaris.cif#135.A	1
+A:136:_:GLU	A	136	GLU	RES	H	2	95.371	9.320	9.149	15.325	sciurus_vulgaris.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	H	7	96.564	11.507	10.636	12.593	sciurus_vulgaris.cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	H	8	97.493	8.563	11.109	10.249	sciurus_vulgaris.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	H	8	97.099	6.526	12.849	12.965	sciurus_vulgaris.cif#139.A	1
+A:140:_:HIS	A	140	HIS	RES	H	2	97.095	8.879	15.785	12.445	sciurus_vulgaris.cif#140.A	1
+A:141:_:SER	A	141	SER	RES	S	1	97.327	8.460	15.939	8.654	sciurus_vulgaris.cif#141.A	1
+A:142:_:GLN	A	142	GLN	RES	 	0	97.716	6.549	18.676	6.878	sciurus_vulgaris.cif#142.A	1
+A:143:_:PRO	A	143	PRO	RES	H	2	96.785	3.089	17.473	5.783	sciurus_vulgaris.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	H	0	96.434	3.721	17.737	2.038	sciurus_vulgaris.cif#144.A	1
+A:145:_:GLN	A	145	GLN	RES	H	6	97.695	6.994	15.810	2.350	sciurus_vulgaris.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	H	5	98.375	5.362	13.141	4.519	sciurus_vulgaris.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	H	2	98.147	2.558	12.649	1.982	sciurus_vulgaris.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	H	2	97.141	5.161	12.023	-0.725	sciurus_vulgaris.cif#148.A	1
+A:149:_:THR	A	149	THR	RES	H	5	98.153	7.110	9.674	1.524	sciurus_vulgaris.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	H	5	98.184	4.019	7.687	2.523	sciurus_vulgaris.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	H	3	98.224	2.870	7.345	-1.090	sciurus_vulgaris.cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	H	2	98.217	6.350	6.103	-1.934	sciurus_vulgaris.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	H	9	97.101	5.881	3.378	0.670	sciurus_vulgaris.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	H	5	97.651	2.518	2.450	-0.876	sciurus_vulgaris.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	H	4	97.944	4.282	2.030	-4.217	sciurus_vulgaris.cif#155.A	1
+A:156:_:LYS	A	156	LYS	RES	H	6	95.506	6.995	-0.149	-2.658	sciurus_vulgaris.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	H	3	95.134	4.283	-2.358	-1.155	sciurus_vulgaris.cif#157.A	1
+A:158:_:GLY	A	158	GLY	RES	H	3	96.263	2.440	-2.480	-4.477	sciurus_vulgaris.cif#158.A	1
+A:159:_:HIS	A	159	HIS	RES	H	8	93.948	5.583	-3.464	-6.348	sciurus_vulgaris.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	5	91.160	6.324	-6.288	-3.917	sciurus_vulgaris.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	H	6	94.456	2.763	-7.586	-4.137	sciurus_vulgaris.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	H	6	94.180	2.808	-7.499	-7.949	sciurus_vulgaris.cif#162.A	1
+A:163:_:ALA	A	163	ALA	RES	H	3	88.732	6.171	-9.267	-8.001	sciurus_vulgaris.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	H	7	89.024	4.791	-11.954	-5.689	sciurus_vulgaris.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	2	91.791	1.773	-12.481	-7.934	sciurus_vulgaris.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	H	4	88.920	3.928	-12.693	-11.061	sciurus_vulgaris.cif#166.A	1
+A:167:_:ASP	A	167	ASP	RES	T	1	61.684	6.778	-14.653	-9.436	sciurus_vulgaris.cif#167.A	1
+A:168:_:ALA	A	168	ALA	RES	 	1	47.870	9.183	-11.919	-10.540	sciurus_vulgaris.cif#168.A	1
+A:169:_:ASP	A	169	ASP	RES	 	0	47.234	12.438	-10.716	-9.023	sciurus_vulgaris.cif#169.A	1
+A:170:_:SER	A	170	SER	RES	G	2	44.435	11.789	-8.026	-6.397	sciurus_vulgaris.cif#170.A	1
+A:171:_:SER	A	171	SER	RES	G	0	43.966	15.458	-7.174	-5.777	sciurus_vulgaris.cif#171.A	1
+A:172:_:ARG	A	172	ARG	RES	G	5	44.684	15.227	-3.818	-7.545	sciurus_vulgaris.cif#172.A	1
+A:173:_:LEU	A	173	LEU	RES	 	2	44.475	13.696	-2.331	-4.377	sciurus_vulgaris.cif#173.A	1

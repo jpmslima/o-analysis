@@ -1,0 +1,121 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	0	80.331	21.227	0.197	-7.976	cebus_imitator.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	3	90.441	24.467	1.159	-6.249	cebus_imitator.cif#2.A	1
+A:3:_:ILE	A	3	ILE	RES	H	4	94.392	23.980	2.063	-2.590	cebus_imitator.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	2	95.714	26.231	5.130	-2.832	cebus_imitator.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	4	94.260	23.978	6.445	-5.598	cebus_imitator.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	7	94.882	20.983	5.894	-3.327	cebus_imitator.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	3	97.472	22.751	7.658	-0.445	cebus_imitator.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	3	96.924	23.619	10.611	-2.702	cebus_imitator.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	7	95.649	20.042	11.213	-3.862	cebus_imitator.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	3	95.309	18.363	14.417	-2.806	cebus_imitator.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	4	94.433	14.857	14.316	-1.357	cebus_imitator.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	2	93.427	13.099	14.636	-4.708	cebus_imitator.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	4	94.025	15.181	11.946	-6.389	cebus_imitator.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	8	95.679	14.805	9.521	-3.481	cebus_imitator.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	92.893	11.036	9.921	-3.251	cebus_imitator.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	2	89.767	10.710	9.657	-7.036	cebus_imitator.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	3	90.178	12.548	6.320	-7.001	cebus_imitator.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	5	90.805	11.218	4.839	-3.744	cebus_imitator.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	2	86.996	7.990	6.737	-3.092	cebus_imitator.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	1	78.064	5.884	3.921	-4.522	cebus_imitator.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	2	80.108	7.552	1.112	-2.550	cebus_imitator.cif#21.A	1
+A:22:_:ILE	A	22	ILE	RES	B	5	78.023	4.365	1.285	-0.510	cebus_imitator.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	2	70.777	1.759	1.955	-3.173	cebus_imitator.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	3	72.670	0.534	5.574	-3.096	cebus_imitator.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	6	79.168	2.244	6.231	0.254	cebus_imitator.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	4	85.118	5.300	8.361	-0.639	cebus_imitator.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	2	83.552	5.508	9.739	2.897	cebus_imitator.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	6	88.682	7.081	6.465	4.049	cebus_imitator.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	2	92.740	9.942	6.943	1.586	cebus_imitator.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	3	91.947	10.213	10.549	2.770	cebus_imitator.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	1	91.760	10.614	9.342	6.358	cebus_imitator.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	2	94.397	13.193	6.689	5.433	cebus_imitator.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	10	95.389	15.203	9.227	3.395	cebus_imitator.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	0	92.855	16.323	10.945	6.603	cebus_imitator.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	2	94.075	17.823	7.691	7.933	cebus_imitator.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	5	94.581	20.718	7.628	5.437	cebus_imitator.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	96.993	23.393	6.462	4.965	cebus_imitator.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	8	96.784	22.292	2.903	4.238	cebus_imitator.cif#38.A	1
+A:39:_:LEU	A	39	LEU	RES	S	1	97.375	24.718	-0.018	4.366	cebus_imitator.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	3	94.321	23.250	-1.814	1.341	cebus_imitator.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	H	1	88.552	19.914	-2.320	-0.378	cebus_imitator.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	2	92.058	18.844	-4.941	2.164	cebus_imitator.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	6	96.470	19.546	-2.406	4.910	cebus_imitator.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	4	93.766	17.398	0.112	3.032	cebus_imitator.cif#44.A	1
+A:45:_:GLN	A	45	GLN	RES	H	4	88.837	14.598	-2.454	2.805	cebus_imitator.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	2	94.656	14.874	-3.147	6.541	cebus_imitator.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	6	95.066	14.484	0.574	7.241	cebus_imitator.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	4	90.660	11.198	0.536	5.308	cebus_imitator.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	H	2	87.991	9.965	-2.519	7.206	cebus_imitator.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	1	93.432	11.091	-1.149	10.571	cebus_imitator.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	3	91.613	9.258	2.125	9.947	cebus_imitator.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	4	85.530	6.050	0.296	9.026	cebus_imitator.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	0	88.248	6.332	-2.099	11.972	cebus_imitator.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	2	91.953	6.838	0.810	14.378	cebus_imitator.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	1	87.960	3.614	2.548	13.337	cebus_imitator.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	 	4	90.936	0.610	2.395	15.638	cebus_imitator.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	3	83.530	-2.489	0.602	14.382	cebus_imitator.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	0	84.726	-3.926	3.877	13.071	cebus_imitator.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	1	84.697	-0.778	4.414	10.992	cebus_imitator.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	7	81.281	-0.920	0.916	9.554	cebus_imitator.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	4	80.220	-4.582	1.476	8.689	cebus_imitator.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	1	80.980	-3.492	4.692	6.975	cebus_imitator.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	5	79.654	-1.187	2.641	4.762	cebus_imitator.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	6	76.117	-4.085	0.355	3.861	cebus_imitator.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	4	77.014	-6.149	3.419	2.917	cebus_imitator.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	2	73.135	-3.543	4.224	0.238	cebus_imitator.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	4	72.524	-4.431	1.078	-1.720	cebus_imitator.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	1	69.714	-7.012	1.202	-4.510	cebus_imitator.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	3	72.405	-10.310	-0.647	-4.244	cebus_imitator.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	3	71.661	-10.513	-4.079	-5.845	cebus_imitator.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	1	69.771	-11.767	-3.872	-9.455	cebus_imitator.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	0	73.181	-12.274	-0.117	-9.073	cebus_imitator.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	H	2	71.757	-11.713	2.820	-11.400	cebus_imitator.cif#73.A	1
+A:74:_:ASP	A	74	ASP	RES	H	5	73.993	-7.927	2.430	-11.343	cebus_imitator.cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	H	2	74.971	-8.189	-1.122	-12.695	cebus_imitator.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	0	74.457	-10.781	-0.202	-15.310	cebus_imitator.cif#76.A	1
+A:77:_:GLN	A	77	GLN	RES	H	2	75.085	-8.715	2.785	-16.493	cebus_imitator.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	H	1	78.355	-5.363	0.952	-16.395	cebus_imitator.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	2	77.598	-3.750	3.234	-13.821	cebus_imitator.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	S	2	77.043	-2.636	0.569	-11.313	cebus_imitator.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	5	74.924	1.028	-0.061	-10.594	cebus_imitator.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	2	77.503	2.575	-3.154	-12.153	cebus_imitator.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	2	75.197	2.554	-4.957	-8.797	cebus_imitator.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	7	78.027	-1.096	-4.150	-8.122	cebus_imitator.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	H	4	80.144	-2.031	-5.126	-11.689	cebus_imitator.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	3	84.030	-0.419	-8.541	-11.158	cebus_imitator.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	5	78.533	-2.351	-9.027	-7.915	cebus_imitator.cif#87.A	1
+A:88:_:HIS	A	88	HIS	RES	H	2	80.169	-5.652	-8.077	-9.545	cebus_imitator.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	H	3	82.142	-4.942	-10.324	-12.546	cebus_imitator.cif#89.A	1
+A:90:_:GLY	A	90	GLY	RES	H	1	80.736	-3.989	-13.224	-10.292	cebus_imitator.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	2	78.100	-7.284	-12.871	-8.441	cebus_imitator.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	2	80.589	-9.230	-12.812	-11.726	cebus_imitator.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	G	3	78.952	-10.427	-9.241	-11.168	cebus_imitator.cif#93.A	1
+A:94:_:THR	A	94	THR	RES	G	0	76.903	-9.347	-8.037	-14.623	cebus_imitator.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	G	1	79.855	-11.935	-10.306	-16.301	cebus_imitator.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	3	78.400	-15.015	-9.497	-14.208	cebus_imitator.cif#96.A	1
+A:97:_:GLY	A	97	GLY	RES	 	2	79.425	-18.185	-8.657	-16.076	cebus_imitator.cif#97.A	1
+A:98:_:PRO	A	98	PRO	RES	H	0	82.542	-20.191	-5.517	-15.342	cebus_imitator.cif#98.A	1
+A:99:_:ASP	A	99	ASP	RES	H	0	87.227	-22.606	-7.243	-12.936	cebus_imitator.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	H	1	82.037	-19.737	-8.723	-10.911	cebus_imitator.cif#100.A	1
+A:101:_:GLN	A	101	GLN	RES	H	3	78.681	-17.924	-5.362	-10.907	cebus_imitator.cif#101.A	1
+A:102:_:LEU	A	102	LEU	RES	H	2	84.101	-21.032	-3.647	-9.539	cebus_imitator.cif#102.A	1
+A:103:_:ARG	A	103	ARG	RES	H	1	84.859	-21.449	-6.302	-6.837	cebus_imitator.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	2	80.973	-17.802	-6.002	-5.807	cebus_imitator.cif#104.A	1
+A:105:_:ALA	A	105	ALA	RES	H	1	80.802	-18.107	-2.200	-5.684	cebus_imitator.cif#105.A	1
+A:106:_:GLU	A	106	GLU	RES	H	2	86.175	-21.028	-2.572	-3.275	cebus_imitator.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	2	82.640	-19.061	-4.998	-1.096	cebus_imitator.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	3	81.614	-16.032	-2.676	-1.107	cebus_imitator.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	2	84.263	-18.225	0.237	-0.025	cebus_imitator.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	1	85.916	-19.640	-1.810	2.863	cebus_imitator.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	9	78.775	-16.141	-2.910	3.895	cebus_imitator.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	5	79.931	-14.821	0.663	3.836	cebus_imitator.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	1	86.121	-17.820	1.864	5.821	cebus_imitator.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	2	80.661	-17.076	-0.679	8.546	cebus_imitator.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	2	77.004	-13.267	-0.719	8.630	cebus_imitator.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	2	74.549	-12.132	2.532	6.965	cebus_imitator.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	3	72.280	-9.884	0.896	4.363	cebus_imitator.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	2	71.685	-10.338	-1.285	1.274	cebus_imitator.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	4	70.073	-10.617	-5.054	1.222	cebus_imitator.cif#119.A	1
+A:120:_:ILE	A	120	ILE	RES	 	0	62.383	-7.301	-6.281	-0.200	cebus_imitator.cif#120.A	1

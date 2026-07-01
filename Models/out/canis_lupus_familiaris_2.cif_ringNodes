@@ -1,0 +1,177 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	1	48.211	3.888	2.408	-15.194	canis_lupus_familiaris_2.cif#1.A	1
+A:2:_:GLN	A	2	GLN	RES	 	0	56.960	1.277	2.565	-17.933	canis_lupus_familiaris_2.cif#2.A	1
+A:3:_:ALA	A	3	ALA	RES	 	0	63.949	-1.290	5.254	-17.151	canis_lupus_familiaris_2.cif#3.A	1
+A:4:_:MET	A	4	MET	RES	 	2	77.794	-5.018	4.597	-17.540	canis_lupus_familiaris_2.cif#4.A	1
+A:5:_:ASP	A	5	ASP	RES	 	1	83.118	-8.164	6.662	-17.652	canis_lupus_familiaris_2.cif#5.A	1
+A:6:_:ILE	A	6	ILE	RES	H	2	90.992	-11.173	5.927	-15.508	canis_lupus_familiaris_2.cif#6.A	1
+A:7:_:GLU	A	7	GLU	RES	H	0	91.155	-13.202	4.573	-18.428	canis_lupus_familiaris_2.cif#7.A	1
+A:8:_:LYS	A	8	LYS	RES	H	5	91.112	-10.637	1.821	-18.900	canis_lupus_familiaris_2.cif#8.A	1
+A:9:_:VAL	A	9	VAL	RES	H	3	95.534	-10.706	1.067	-15.184	canis_lupus_familiaris_2.cif#9.A	1
+A:10:_:ASN	A	10	ASN	RES	H	3	96.519	-14.493	0.748	-15.268	canis_lupus_familiaris_2.cif#10.A	1
+A:11:_:SER	A	11	SER	RES	H	2	94.962	-14.299	-1.643	-18.233	canis_lupus_familiaris_2.cif#11.A	1
+A:12:_:MET	A	12	MET	RES	 	6	96.287	-11.981	-4.122	-16.514	canis_lupus_familiaris_2.cif#12.A	1
+A:13:_:ASP	A	13	ASP	RES	 	3	97.664	-13.154	-7.582	-15.588	canis_lupus_familiaris_2.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	4	98.388	-12.432	-8.958	-12.132	canis_lupus_familiaris_2.cif#14.A	1
+A:15:_:GLY	A	15	GLY	RES	H	1	98.368	-9.145	-10.628	-13.019	canis_lupus_familiaris_2.cif#15.A	1
+A:16:_:GLU	A	16	GLU	RES	H	6	96.035	-7.758	-7.636	-14.864	canis_lupus_familiaris_2.cif#16.A	1
+A:17:_:PHE	A	17	PHE	RES	H	8	98.156	-8.773	-5.224	-12.100	canis_lupus_familiaris_2.cif#17.A	1
+A:18:_:VAL	A	18	VAL	RES	H	2	98.271	-7.111	-7.296	-9.384	canis_lupus_familiaris_2.cif#18.A	1
+A:19:_:ASP	A	19	ASP	RES	H	2	95.965	-4.012	-7.743	-11.531	canis_lupus_familiaris_2.cif#19.A	1
+A:20:_:VAL	A	20	VAL	RES	H	2	94.372	-3.687	-3.981	-11.979	canis_lupus_familiaris_2.cif#20.A	1
+A:21:_:PHE	A	21	PHE	RES	H	7	97.422	-4.790	-2.723	-8.559	canis_lupus_familiaris_2.cif#21.A	1
+A:22:_:GLY	A	22	GLY	RES	H	2	97.995	-3.978	-5.667	-6.306	canis_lupus_familiaris_2.cif#22.A	1
+A:23:_:ASN	A	23	ASN	RES	H	4	96.910	-0.815	-4.000	-5.026	canis_lupus_familiaris_2.cif#23.A	1
+A:24:_:VAL	A	24	VAL	RES	H	4	97.416	-2.226	-0.517	-4.458	canis_lupus_familiaris_2.cif#24.A	1
+A:25:_:ILE	A	25	ILE	RES	H	1	98.120	-2.139	-1.658	-0.833	canis_lupus_familiaris_2.cif#25.A	1
+A:26:_:GLU	A	26	GLU	RES	H	4	96.713	1.082	-3.620	-0.480	canis_lupus_familiaris_2.cif#26.A	1
+A:27:_:ARG	A	27	ARG	RES	H	3	95.524	0.485	-7.322	-1.180	canis_lupus_familiaris_2.cif#27.A	1
+A:28:_:CYS	A	28	CYS	RES	H	2	95.545	-3.194	-7.086	-0.212	canis_lupus_familiaris_2.cif#28.A	1
+A:29:_:PRO	A	29	PRO	RES	H	2	96.918	-5.059	-8.107	-3.375	canis_lupus_familiaris_2.cif#29.A	1
+A:30:_:LEU	A	30	LEU	RES	H	0	93.463	-8.232	-8.914	-1.450	canis_lupus_familiaris_2.cif#30.A	1
+A:31:_:ILE	A	31	ILE	RES	H	3	97.795	-8.787	-5.195	-0.943	canis_lupus_familiaris_2.cif#31.A	1
+A:32:_:ALA	A	32	ALA	RES	H	3	98.326	-8.773	-4.650	-4.704	canis_lupus_familiaris_2.cif#32.A	1
+A:33:_:ALA	A	33	ALA	RES	H	1	98.118	-11.098	-7.630	-5.092	canis_lupus_familiaris_2.cif#33.A	1
+A:34:_:ALA	A	34	ALA	RES	H	0	97.421	-13.582	-6.003	-2.716	canis_lupus_familiaris_2.cif#34.A	1
+A:35:_:VAL	A	35	VAL	RES	H	3	98.404	-13.292	-2.581	-4.352	canis_lupus_familiaris_2.cif#35.A	1
+A:36:_:TRP	A	36	TRP	RES	H	12	98.368	-13.987	-4.030	-7.809	canis_lupus_familiaris_2.cif#36.A	1
+A:37:_:SER	A	37	SER	RES	H	0	96.431	-17.676	-4.398	-6.951	canis_lupus_familiaris_2.cif#37.A	1
+A:38:_:GLN	A	38	GLN	RES	H	4	97.028	-18.005	-0.641	-6.321	canis_lupus_familiaris_2.cif#38.A	1
+A:39:_:ARG	A	39	ARG	RES	 	5	95.318	-17.701	0.342	-9.994	canis_lupus_familiaris_2.cif#39.A	1
+A:40:_:PRO	A	40	PRO	RES	 	0	96.555	-18.365	2.565	-11.823	canis_lupus_familiaris_2.cif#40.A	1
+A:41:_:PHE	A	41	PHE	RES	 	4	96.837	-15.837	5.028	-10.433	canis_lupus_familiaris_2.cif#41.A	1
+A:42:_:SER	A	42	SER	RES	 	3	94.774	-16.084	8.710	-11.305	canis_lupus_familiaris_2.cif#42.A	1
+A:43:_:ASN	A	43	ASN	RES	S	1	89.763	-12.398	9.597	-11.030	canis_lupus_familiaris_2.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	1	88.561	-9.200	8.743	-9.202	canis_lupus_familiaris_2.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	H	1	91.300	-10.492	10.275	-5.961	canis_lupus_familiaris_2.cif#45.A	1
+A:46:_:ASP	A	46	ASP	RES	H	6	95.768	-13.624	8.123	-6.071	canis_lupus_familiaris_2.cif#46.A	1
+A:47:_:LEU	A	47	LEU	RES	H	4	96.498	-11.577	4.971	-6.637	canis_lupus_familiaris_2.cif#47.A	1
+A:48:_:GLU	A	48	GLU	RES	H	5	95.741	-9.185	5.947	-3.846	canis_lupus_familiaris_2.cif#48.A	1
+A:49:_:LYS	A	49	LYS	RES	H	5	97.339	-12.058	6.600	-1.461	canis_lupus_familiaris_2.cif#49.A	1
+A:50:_:HIS	A	50	HIS	RES	H	6	98.407	-13.238	3.020	-1.865	canis_lupus_familiaris_2.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	2	98.419	-9.788	1.639	-1.059	canis_lupus_familiaris_2.cif#51.A	1
+A:52:_:PHE	A	52	PHE	RES	H	2	97.879	-9.390	3.820	2.015	canis_lupus_familiaris_2.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	5	98.062	-12.958	3.316	3.232	canis_lupus_familiaris_2.cif#53.A	1
+A:54:_:PHE	A	54	PHE	RES	H	1	97.699	-12.368	-0.430	3.095	canis_lupus_familiaris_2.cif#54.A	1
+A:55:_:ILE	A	55	ILE	RES	H	3	97.278	-9.263	-0.053	5.252	canis_lupus_familiaris_2.cif#55.A	1
+A:56:_:ASP	A	56	ASP	RES	H	2	96.676	-11.102	2.176	7.709	canis_lupus_familiaris_2.cif#56.A	1
+A:57:_:ALA	A	57	ALA	RES	H	1	97.309	-13.939	-0.343	8.034	canis_lupus_familiaris_2.cif#57.A	1
+A:58:_:LEU	A	58	LEU	RES	S	6	97.336	-11.661	-3.242	8.969	canis_lupus_familiaris_2.cif#58.A	1
+A:59:_:PRO	A	59	PRO	RES	 	4	97.413	-11.368	-4.370	12.563	canis_lupus_familiaris_2.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	5	94.214	-8.088	-3.501	14.247	canis_lupus_familiaris_2.cif#60.A	1
+A:61:_:SER	A	61	SER	RES	H	1	95.758	-6.704	-6.984	13.581	canis_lupus_familiaris_2.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	3	96.975	-7.329	-6.475	9.873	canis_lupus_familiaris_2.cif#62.A	1
+A:63:_:ARG	A	63	ARG	RES	H	8	96.333	-5.647	-3.087	9.868	canis_lupus_familiaris_2.cif#63.A	1
+A:64:_:GLU	A	64	GLU	RES	H	3	96.853	-2.642	-4.569	11.658	canis_lupus_familiaris_2.cif#64.A	1
+A:65:_:GLY	A	65	GLY	RES	H	2	97.474	-2.634	-7.313	9.034	canis_lupus_familiaris_2.cif#65.A	1
+A:66:_:ILE	A	66	ILE	RES	H	8	96.941	-2.320	-4.679	6.315	canis_lupus_familiaris_2.cif#66.A	1
+A:67:_:LEU	A	67	LEU	RES	H	6	98.277	0.760	-3.304	8.051	canis_lupus_familiaris_2.cif#67.A	1
+A:68:_:ARG	A	68	ARG	RES	H	2	97.238	2.276	-6.777	8.303	canis_lupus_familiaris_2.cif#68.A	1
+A:69:_:CYS	A	69	CYS	RES	H	2	95.628	2.151	-7.046	4.505	canis_lupus_familiaris_2.cif#69.A	1
+A:70:_:HIS	A	70	HIS	RES	S	2	96.394	4.776	-4.299	4.219	canis_lupus_familiaris_2.cif#70.A	1
+A:71:_:PRO	A	71	PRO	RES	 	0	94.938	8.498	-5.033	4.152	canis_lupus_familiaris_2.cif#71.A	1
+A:72:_:ASP	A	72	ASP	RES	 	4	93.263	11.019	-3.446	6.483	canis_lupus_familiaris_2.cif#72.A	1
+A:73:_:LEU	A	73	LEU	RES	T	1	92.950	12.666	-0.470	4.808	canis_lupus_familiaris_2.cif#73.A	1
+A:74:_:ALA	A	74	ALA	RES	T	2	90.298	16.076	-1.531	3.463	canis_lupus_familiaris_2.cif#74.A	1
+A:75:_:GLY	A	75	GLY	RES	S	2	91.171	15.449	-4.889	5.140	canis_lupus_familiaris_2.cif#75.A	1
+A:76:_:ARG	A	76	ARG	RES	H	1	88.602	15.677	-8.556	4.301	canis_lupus_familiaris_2.cif#76.A	1
+A:77:_:GLU	A	77	GLU	RES	H	3	91.521	13.323	-8.502	1.324	canis_lupus_familiaris_2.cif#77.A	1
+A:78:_:LEU	A	78	LEU	RES	H	1	90.001	15.416	-5.832	-0.368	canis_lupus_familiaris_2.cif#78.A	1
+A:79:_:GLN	A	79	GLN	RES	H	1	87.398	18.586	-7.861	0.174	canis_lupus_familiaris_2.cif#79.A	1
+A:80:_:GLN	A	80	GLN	RES	H	1	91.945	16.929	-11.019	-1.115	canis_lupus_familiaris_2.cif#80.A	1
+A:81:_:GLY	A	81	GLY	RES	H	4	92.430	15.417	-9.282	-4.146	canis_lupus_familiaris_2.cif#81.A	1
+A:82:_:THR	A	82	THR	RES	 	2	93.645	11.856	-10.211	-3.162	canis_lupus_familiaris_2.cif#82.A	1
+A:83:_:LEU	A	83	LEU	RES	S	0	93.767	10.289	-6.748	-2.903	canis_lupus_familiaris_2.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	 	5	95.197	7.286	-5.930	-5.024	canis_lupus_familiaris_2.cif#84.A	1
+A:85:_:ALA	A	85	ALA	RES	H	2	92.620	8.085	-3.791	-8.040	canis_lupus_familiaris_2.cif#85.A	1
+A:86:_:GLU	A	86	GLU	RES	H	4	94.296	6.362	-0.834	-6.395	canis_lupus_familiaris_2.cif#86.A	1
+A:87:_:SER	A	87	SER	RES	H	4	95.630	8.257	-1.119	-3.105	canis_lupus_familiaris_2.cif#87.A	1
+A:88:_:ARG	A	88	ARG	RES	H	3	92.817	11.574	-1.548	-4.889	canis_lupus_familiaris_2.cif#88.A	1
+A:89:_:ARG	A	89	ARG	RES	H	4	91.509	10.951	1.582	-6.931	canis_lupus_familiaris_2.cif#89.A	1
+A:90:_:GLU	A	90	GLU	RES	H	8	93.984	9.872	3.552	-3.860	canis_lupus_familiaris_2.cif#90.A	1
+A:91:_:GLN	A	91	GLN	RES	H	3	93.282	12.806	2.482	-1.702	canis_lupus_familiaris_2.cif#91.A	1
+A:92:_:SER	A	92	SER	RES	H	2	90.645	15.239	3.112	-4.536	canis_lupus_familiaris_2.cif#92.A	1
+A:93:_:GLY	A	93	GLY	RES	H	1	88.190	13.838	6.615	-4.987	canis_lupus_familiaris_2.cif#93.A	1
+A:94:_:ALA	A	94	ALA	RES	H	2	86.760	14.423	7.321	-1.298	canis_lupus_familiaris_2.cif#94.A	1
+A:95:_:GLY	A	95	GLY	RES	H	2	89.485	18.025	6.095	-1.511	canis_lupus_familiaris_2.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	G	1	88.005	17.410	3.050	0.679	canis_lupus_familiaris_2.cif#96.A	1
+A:97:_:THR	A	97	THR	RES	G	1	83.930	18.857	0.625	-1.880	canis_lupus_familiaris_2.cif#97.A	1
+A:98:_:SER	A	98	SER	RES	G	1	85.210	22.271	2.344	-1.642	canis_lupus_familiaris_2.cif#98.A	1
+A:99:_:LEU	A	99	LEU	RES	 	6	86.294	22.927	2.387	2.098	canis_lupus_familiaris_2.cif#99.A	1
+A:100:_:ASP	A	100	ASP	RES	 	3	86.984	26.427	1.559	3.272	canis_lupus_familiaris_2.cif#100.A	1
+A:101:_:ALA	A	101	ALA	RES	H	1	90.232	27.061	-1.237	5.755	canis_lupus_familiaris_2.cif#101.A	1
+A:102:_:ASP	A	102	ASP	RES	H	2	91.683	26.925	0.988	8.841	canis_lupus_familiaris_2.cif#102.A	1
+A:103:_:GLU	A	103	GLU	RES	H	8	89.623	23.687	2.624	7.694	canis_lupus_familiaris_2.cif#103.A	1
+A:104:_:ARG	A	104	ARG	RES	H	3	89.176	22.093	-0.763	7.008	canis_lupus_familiaris_2.cif#104.A	1
+A:105:_:LEU	A	105	LEU	RES	H	2	93.905	23.151	-2.062	10.413	canis_lupus_familiaris_2.cif#105.A	1
+A:106:_:ARG	A	106	ARG	RES	H	5	92.388	21.663	0.938	12.203	canis_lupus_familiaris_2.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	3	93.387	18.398	0.711	10.315	canis_lupus_familiaris_2.cif#107.A	1
+A:108:_:ALA	A	108	ALA	RES	H	1	94.477	18.174	-3.038	10.952	canis_lupus_familiaris_2.cif#108.A	1
+A:109:_:GLU	A	109	GLU	RES	H	4	96.639	18.557	-2.392	14.675	canis_lupus_familiaris_2.cif#109.A	1
+A:110:_:LEU	A	110	LEU	RES	H	5	96.813	15.805	0.224	14.619	canis_lupus_familiaris_2.cif#110.A	1
+A:111:_:ASN	A	111	ASN	RES	H	3	96.367	13.520	-2.033	12.568	canis_lupus_familiaris_2.cif#111.A	1
+A:112:_:ALA	A	112	ALA	RES	H	3	97.136	13.991	-4.860	15.073	canis_lupus_familiaris_2.cif#112.A	1
+A:113:_:GLN	A	113	GLN	RES	H	2	98.093	13.169	-2.577	17.995	canis_lupus_familiaris_2.cif#113.A	1
+A:114:_:TYR	A	114	TYR	RES	H	12	98.144	10.092	-1.284	16.179	canis_lupus_familiaris_2.cif#114.A	1
+A:115:_:ARG	A	115	ARG	RES	H	5	96.025	8.770	-4.763	15.422	canis_lupus_familiaris_2.cif#115.A	1
+A:116:_:ALA	A	116	ALA	RES	H	1	98.130	9.398	-5.858	19.003	canis_lupus_familiaris_2.cif#116.A	1
+A:117:_:ARG	A	117	ARG	RES	H	3	98.062	7.413	-2.911	20.318	canis_lupus_familiaris_2.cif#117.A	1
+A:118:_:PHE	A	118	PHE	RES	H	3	97.906	4.478	-2.746	17.897	canis_lupus_familiaris_2.cif#118.A	1
+A:119:_:GLY	A	119	GLY	RES	T	2	97.240	4.201	-6.180	16.272	canis_lupus_familiaris_2.cif#119.A	1
+A:120:_:PHE	A	120	PHE	RES	S	3	97.506	4.266	-4.864	12.707	canis_lupus_familiaris_2.cif#120.A	1
+A:121:_:PRO	A	121	PRO	RES	 	3	96.557	6.905	-3.281	10.490	canis_lupus_familiaris_2.cif#121.A	1
+A:122:_:PHE	A	122	PHE	RES	 	8	97.315	7.651	0.427	10.326	canis_lupus_familiaris_2.cif#122.A	1
+A:123:_:VAL	A	123	VAL	RES	 	2	97.166	5.751	1.958	7.414	canis_lupus_familiaris_2.cif#123.A	1
+A:124:_:LEU	A	124	LEU	RES	 	0	94.354	6.756	5.248	5.835	canis_lupus_familiaris_2.cif#124.A	1
+A:125:_:ALA	A	125	ALA	RES	 	3	93.320	5.866	6.688	2.435	canis_lupus_familiaris_2.cif#125.A	1
+A:126:_:ALA	A	126	ALA	RES	G	3	83.064	9.439	6.521	1.187	canis_lupus_familiaris_2.cif#126.A	1
+A:127:_:ARG	A	127	ARG	RES	G	3	78.557	8.709	8.436	-2.023	canis_lupus_familiaris_2.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	G	3	70.968	7.923	11.484	0.108	canis_lupus_familiaris_2.cif#128.A	1
+A:129:_:SER	A	129	SER	RES	S	3	74.599	10.990	11.171	2.336	canis_lupus_familiaris_2.cif#129.A	1
+A:130:_:HIS	A	130	HIS	RES	 	0	78.649	14.774	11.292	2.134	canis_lupus_familiaris_2.cif#130.A	1
+A:131:_:ARG	A	131	ARG	RES	H	6	77.886	17.207	8.605	3.192	canis_lupus_familiaris_2.cif#131.A	1
+A:132:_:ALA	A	132	ALA	RES	H	0	81.669	18.490	10.643	6.131	canis_lupus_familiaris_2.cif#132.A	1
+A:133:_:ALA	A	133	ALA	RES	H	1	85.000	14.973	11.224	7.467	canis_lupus_familiaris_2.cif#133.A	1
+A:134:_:VAL	A	134	VAL	RES	H	2	91.479	14.101	7.529	7.755	canis_lupus_familiaris_2.cif#134.A	1
+A:135:_:PRO	A	135	PRO	RES	H	0	92.201	16.086	6.606	10.890	canis_lupus_familiaris_2.cif#135.A	1
+A:136:_:ARG	A	136	ARG	RES	H	1	92.618	15.041	9.840	12.618	canis_lupus_familiaris_2.cif#136.A	1
+A:137:_:GLU	A	137	GLU	RES	H	7	95.375	11.365	9.174	11.982	canis_lupus_familiaris_2.cif#137.A	1
+A:138:_:LEU	A	138	LEU	RES	H	7	96.045	11.702	5.526	12.991	canis_lupus_familiaris_2.cif#138.A	1
+A:139:_:ALA	A	139	ALA	RES	H	2	96.118	13.409	6.502	16.250	canis_lupus_familiaris_2.cif#139.A	1
+A:140:_:ARG	A	140	ARG	RES	H	5	96.963	10.748	9.126	16.954	canis_lupus_familiaris_2.cif#140.A	1
+A:141:_:ARG	A	141	ARG	RES	H	12	97.921	7.846	6.785	16.314	canis_lupus_familiaris_2.cif#141.A	1
+A:142:_:LEU	A	142	LEU	RES	H	3	97.846	9.368	4.100	18.539	canis_lupus_familiaris_2.cif#142.A	1
+A:143:_:ARG	A	143	ARG	RES	H	2	97.354	8.390	6.412	21.400	canis_lupus_familiaris_2.cif#143.A	1
+A:144:_:CYS	A	144	CYS	RES	S	0	97.392	4.755	6.861	20.362	canis_lupus_familiaris_2.cif#144.A	1
+A:145:_:PRO	A	145	PRO	RES	 	1	98.275	1.857	5.189	22.151	canis_lupus_familiaris_2.cif#145.A	1
+A:146:_:PRO	A	146	PRO	RES	H	3	96.502	0.684	2.035	20.340	canis_lupus_familiaris_2.cif#146.A	1
+A:147:_:ALA	A	147	ALA	RES	H	0	96.151	-2.758	3.356	19.382	canis_lupus_familiaris_2.cif#147.A	1
+A:148:_:GLN	A	148	GLN	RES	H	1	97.619	-1.240	6.549	18.003	canis_lupus_familiaris_2.cif#148.A	1
+A:149:_:GLU	A	149	GLU	RES	H	7	98.479	1.384	4.585	16.077	canis_lupus_familiaris_2.cif#149.A	1
+A:150:_:LEU	A	150	LEU	RES	H	3	97.817	-1.256	2.327	14.527	canis_lupus_familiaris_2.cif#150.A	1
+A:151:_:ARG	A	151	ARG	RES	H	1	97.124	-3.096	5.383	13.219	canis_lupus_familiaris_2.cif#151.A	1
+A:152:_:THR	A	152	THR	RES	H	0	98.129	0.128	6.942	11.969	canis_lupus_familiaris_2.cif#152.A	1
+A:153:_:ALA	A	153	ALA	RES	H	2	98.434	1.244	3.764	10.202	canis_lupus_familiaris_2.cif#153.A	1
+A:154:_:LEU	A	154	LEU	RES	H	5	98.092	-2.132	3.377	8.494	canis_lupus_familiaris_2.cif#154.A	1
+A:155:_:ALA	A	155	ALA	RES	H	3	97.653	-1.942	6.996	7.368	canis_lupus_familiaris_2.cif#155.A	1
+A:156:_:GLU	A	156	GLU	RES	H	5	97.442	1.382	6.115	5.732	canis_lupus_familiaris_2.cif#156.A	1
+A:157:_:VAL	A	157	VAL	RES	H	6	98.208	-0.259	3.141	4.003	canis_lupus_familiaris_2.cif#157.A	1
+A:158:_:LYS	A	158	LYS	RES	H	6	97.434	-2.841	5.549	2.596	canis_lupus_familiaris_2.cif#158.A	1
+A:159:_:LYS	A	159	LYS	RES	H	5	95.808	-0.118	7.919	1.392	canis_lupus_familiaris_2.cif#159.A	1
+A:160:_:ILE	A	160	ILE	RES	H	4	97.162	1.546	5.015	-0.411	canis_lupus_familiaris_2.cif#160.A	1
+A:161:_:GLY	A	161	GLY	RES	H	3	97.271	-1.756	3.919	-1.935	canis_lupus_familiaris_2.cif#161.A	1
+A:162:_:HIS	A	162	HIS	RES	H	6	94.985	-2.495	7.475	-3.022	canis_lupus_familiaris_2.cif#162.A	1
+A:163:_:LEU	A	163	LEU	RES	H	3	93.549	0.823	7.721	-4.850	canis_lupus_familiaris_2.cif#163.A	1
+A:164:_:ARG	A	164	ARG	RES	H	9	96.083	0.409	4.312	-6.482	canis_lupus_familiaris_2.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	4	95.103	-3.086	5.161	-7.712	canis_lupus_familiaris_2.cif#165.A	1
+A:166:_:ALA	A	166	ALA	RES	H	3	91.029	-1.825	8.469	-9.089	canis_lupus_familiaris_2.cif#166.A	1
+A:167:_:ASP	A	167	ASP	RES	H	3	90.149	0.857	6.558	-10.991	canis_lupus_familiaris_2.cif#167.A	1
+A:168:_:LEU	A	168	LEU	RES	H	4	91.764	-1.670	4.121	-12.437	canis_lupus_familiaris_2.cif#168.A	1
+A:169:_:LEU	A	169	LEU	RES	H	1	88.216	-4.157	6.812	-13.443	canis_lupus_familiaris_2.cif#169.A	1
+A:170:_:GLY	A	170	GLY	RES	T	2	80.136	-1.535	9.258	-14.711	canis_lupus_familiaris_2.cif#170.A	1
+A:171:_:ALA	A	171	ALA	RES	 	2	67.393	-2.633	12.053	-12.379	canis_lupus_familiaris_2.cif#171.A	1
+A:172:_:PRO	A	172	PRO	RES	 	0	70.679	-0.511	14.417	-10.308	canis_lupus_familiaris_2.cif#172.A	1
+A:173:_:PRO	A	173	PRO	RES	 	2	65.632	-0.685	13.308	-6.677	canis_lupus_familiaris_2.cif#173.A	1
+A:174:_:ALA	A	174	ALA	RES	 	0	64.307	-2.430	15.675	-4.266	canis_lupus_familiaris_2.cif#174.A	1
+A:175:_:ARG	A	175	ARG	RES	 	0	68.134	-1.284	16.380	-0.725	canis_lupus_familiaris_2.cif#175.A	1
+A:176:_:LEU	A	176	LEU	RES	 	2	60.696	-2.915	14.174	1.879	canis_lupus_familiaris_2.cif#176.A	1

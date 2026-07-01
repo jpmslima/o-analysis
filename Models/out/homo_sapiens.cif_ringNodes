@@ -1,0 +1,174 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	5	79.234	4.609	-20.737	-2.644	homo_sapiens.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	3	82.633	2.653	-23.048	-0.370	homo_sapiens.cif#2.A	1
+A:3:_:ILE	A	3	ILE	RES	H	1	90.795	1.740	-22.238	3.198	homo_sapiens.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	2	91.009	4.059	-24.960	4.506	homo_sapiens.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	5	90.128	7.039	-23.106	3.029	homo_sapiens.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	2	94.722	5.822	-19.877	4.629	homo_sapiens.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	4	96.267	5.541	-21.626	7.992	homo_sapiens.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	3	94.710	9.091	-23.011	7.683	homo_sapiens.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	3	95.245	10.742	-19.615	7.174	homo_sapiens.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	3	96.525	12.958	-18.132	9.849	homo_sapiens.cif#10.A	1
+A:11:_:LEU	A	11	LEU	RES	H	1	97.746	12.457	-14.494	10.828	homo_sapiens.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	1	97.655	14.998	-13.117	8.366	homo_sapiens.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	4	94.699	13.607	-14.995	5.396	homo_sapiens.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	12	97.460	10.008	-14.165	6.331	homo_sapiens.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	97.642	10.769	-10.442	6.558	homo_sapiens.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	1	94.225	12.749	-10.551	3.298	homo_sapiens.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	1	93.647	9.722	-12.021	1.525	homo_sapiens.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	4	96.471	6.816	-10.285	3.269	homo_sapiens.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	2	96.320	8.387	-7.103	4.637	homo_sapiens.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	5	93.270	6.845	-4.947	1.914	homo_sapiens.cif#20.A	1
+A:21:_:ALA	A	21	ALA	RES	H	0	94.853	3.409	-6.561	1.968	homo_sapiens.cif#21.A	1
+A:22:_:THR	A	22	THR	RES	S	3	95.336	2.568	-3.295	3.709	homo_sapiens.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	3	92.402	4.509	-0.495	2.023	homo_sapiens.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	2	89.716	7.889	0.084	3.699	homo_sapiens.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	3	93.758	6.698	-1.573	6.945	homo_sapiens.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	3	95.157	8.860	-4.642	7.630	homo_sapiens.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	1	93.644	8.004	-4.375	11.324	homo_sapiens.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	5	96.648	4.526	-5.694	10.540	homo_sapiens.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	3	97.340	5.935	-8.812	8.900	homo_sapiens.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	1	97.362	8.276	-9.311	11.864	homo_sapiens.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	2	96.129	5.329	-9.155	14.267	homo_sapiens.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	4	97.521	3.167	-11.475	12.161	homo_sapiens.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	11	97.733	5.971	-14.053	11.929	homo_sapiens.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	0	94.413	5.378	-14.949	15.587	homo_sapiens.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	4	93.536	1.761	-15.937	14.833	homo_sapiens.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	6	93.322	2.686	-19.035	12.784	homo_sapiens.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	94.995	1.595	-21.580	11.818	homo_sapiens.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	8	96.648	-0.798	-20.125	9.252	homo_sapiens.cif#38.A	1
+A:39:_:SER	A	39	SER	RES	 	2	94.949	-3.456	-22.368	7.746	homo_sapiens.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	3	91.433	-3.832	-20.560	4.404	homo_sapiens.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	H	2	91.298	-3.508	-17.198	2.660	homo_sapiens.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	1	91.746	-6.661	-15.899	4.350	homo_sapiens.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	7	95.553	-5.215	-16.712	7.772	homo_sapiens.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	7	95.915	-1.947	-14.958	6.905	homo_sapiens.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	H	5	94.443	-3.855	-11.865	5.744	homo_sapiens.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	1	95.837	-5.954	-11.900	8.905	homo_sapiens.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	7	97.515	-2.832	-11.603	11.045	homo_sapiens.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	1	97.848	-1.390	-8.746	8.979	homo_sapiens.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	H	5	97.089	-4.655	-6.819	9.128	homo_sapiens.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	1	97.253	-5.264	-7.549	12.814	homo_sapiens.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	2	97.045	-1.860	-6.066	13.631	homo_sapiens.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	2	97.354	-2.692	-2.911	11.681	homo_sapiens.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	0	96.753	-6.089	-2.616	13.357	homo_sapiens.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	1	96.584	-4.591	-3.046	16.835	homo_sapiens.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	2	97.009	-2.220	-0.086	16.485	homo_sapiens.cif#55.A	1
+A:56:_:ALA	A	56	ALA	RES	I	2	97.181	-2.950	3.217	18.151	homo_sapiens.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	2	95.430	-4.158	5.919	15.781	homo_sapiens.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	1	95.985	-0.670	7.446	15.608	homo_sapiens.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	2	97.011	0.709	4.085	14.498	homo_sapiens.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	3	97.410	-2.009	3.686	11.884	homo_sapiens.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	3	97.044	-1.236	7.157	10.532	homo_sapiens.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	2	97.371	2.443	6.201	10.483	homo_sapiens.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	2	96.712	1.624	3.280	8.201	homo_sapiens.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	3	97.822	-0.162	5.657	5.835	homo_sapiens.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	2	96.788	2.823	8.014	5.806	homo_sapiens.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	2	94.371	4.982	5.176	4.465	homo_sapiens.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	1	93.273	3.037	5.318	1.189	homo_sapiens.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	1	88.663	4.057	7.648	-1.645	homo_sapiens.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	4	88.780	1.730	10.170	-3.261	homo_sapiens.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	1	84.405	0.033	8.670	-6.290	homo_sapiens.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	0	81.499	1.745	10.102	-9.389	homo_sapiens.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	4	83.122	4.080	12.012	-7.059	homo_sapiens.cif#72.A	1
+A:73:_:SER	A	73	SER	RES	H	1	79.818	7.765	12.821	-7.230	homo_sapiens.cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	H	4	78.049	8.910	9.292	-6.364	homo_sapiens.cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	H	3	78.203	7.197	7.932	-9.474	homo_sapiens.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	1	75.145	8.922	10.549	-11.638	homo_sapiens.cif#76.A	1
+A:77:_:ARG	A	77	ARG	RES	H	1	77.949	12.334	9.853	-10.059	homo_sapiens.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	T	2	74.248	11.931	6.073	-10.223	homo_sapiens.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	2	73.054	12.547	5.749	-6.476	homo_sapiens.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	S	4	73.399	9.334	3.906	-5.560	homo_sapiens.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	5	77.125	9.478	0.408	-4.166	homo_sapiens.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	3	74.080	9.335	-2.205	-6.916	homo_sapiens.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	5	68.257	5.759	-3.053	-5.951	homo_sapiens.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	5	76.642	4.503	0.546	-6.023	homo_sapiens.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	H	5	71.819	6.358	1.219	-9.275	homo_sapiens.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	3	74.821	4.527	-1.630	-11.001	homo_sapiens.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	3	76.424	1.185	-0.759	-9.409	homo_sapiens.cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	H	2	73.709	1.251	2.938	-10.298	homo_sapiens.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	H	4	73.001	2.652	2.362	-13.788	homo_sapiens.cif#89.A	1
+A:90:_:GLY	A	90	GLY	RES	H	1	68.681	-0.031	-0.237	-14.429	homo_sapiens.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	1	68.065	-2.707	2.292	-13.457	homo_sapiens.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	3	74.415	-1.379	4.714	-16.095	homo_sapiens.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	G	2	75.423	-0.162	7.322	-13.610	homo_sapiens.cif#93.A	1
+A:94:_:ARG	A	94	ARG	RES	G	2	73.772	3.227	7.655	-15.331	homo_sapiens.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	G	2	77.659	1.448	8.771	-18.524	homo_sapiens.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	2	79.595	-0.563	11.693	-17.126	homo_sapiens.cif#96.A	1
+A:97:_:GLY	A	97	GLY	RES	 	4	84.931	-0.650	14.852	-19.222	homo_sapiens.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	H	1	87.633	0.425	18.246	-17.922	homo_sapiens.cif#98.A	1
+A:99:_:ASP	A	99	ASP	RES	H	0	89.001	-3.057	19.378	-16.874	homo_sapiens.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	H	9	86.990	-3.763	16.024	-15.225	homo_sapiens.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	H	2	86.830	-0.499	16.185	-13.272	homo_sapiens.cif#101.A	1
+A:102:_:LEU	A	102	LEU	RES	H	2	91.540	-1.208	19.720	-12.093	homo_sapiens.cif#102.A	1
+A:103:_:ARG	A	103	ARG	RES	H	4	90.364	-4.718	18.875	-10.924	homo_sapiens.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	1	90.447	-3.618	15.724	-9.132	homo_sapiens.cif#104.A	1
+A:105:_:ALA	A	105	ALA	RES	H	1	91.857	-0.727	17.551	-7.444	homo_sapiens.cif#105.A	1
+A:106:_:GLU	A	106	GLU	RES	H	3	95.153	-3.155	20.193	-6.194	homo_sapiens.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	3	94.923	-5.541	17.539	-4.880	homo_sapiens.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	3	94.246	-2.674	15.665	-3.192	homo_sapiens.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	3	95.490	-1.544	18.868	-1.462	homo_sapiens.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	1	97.115	-5.079	19.611	-0.261	homo_sapiens.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	10	96.930	-5.433	16.038	0.991	homo_sapiens.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	5	95.008	-2.164	16.137	2.949	homo_sapiens.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	1	97.405	-3.130	19.497	4.460	homo_sapiens.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	1	95.968	-6.536	18.136	5.431	homo_sapiens.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	6	97.073	-5.600	14.722	6.829	homo_sapiens.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	0	96.371	-1.852	14.738	7.565	homo_sapiens.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	1	96.889	-0.981	11.688	5.455	homo_sapiens.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	1	94.363	-0.854	10.823	1.757	homo_sapiens.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	4	95.187	-3.903	9.760	-0.222	homo_sapiens.cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	2	94.373	-3.819	5.967	-0.411	homo_sapiens.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	3	88.997	-5.719	4.036	-3.073	homo_sapiens.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	4	85.047	-5.157	0.510	-4.333	homo_sapiens.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	G	1	73.532	-3.920	1.548	-7.773	homo_sapiens.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	G	3	70.070	-4.337	-1.946	-9.227	homo_sapiens.cif#124.A	1
+A:125:_:PHE	A	125	PHE	RES	G	2	68.092	-8.103	-1.453	-8.907	homo_sapiens.cif#125.A	1
+A:126:_:SER	A	126	SER	RES	 	1	64.186	-8.066	2.021	-10.473	homo_sapiens.cif#126.A	1
+A:127:_:ASP	A	127	ASP	RES	 	3	69.372	-6.924	4.088	-13.450	homo_sapiens.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	H	6	74.327	-5.758	7.586	-14.333	homo_sapiens.cif#128.A	1
+A:129:_:THR	A	129	THR	RES	H	2	77.709	-9.285	9.033	-14.509	homo_sapiens.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	H	2	79.902	-10.643	7.359	-11.367	homo_sapiens.cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	H	4	84.473	-7.813	8.505	-9.075	homo_sapiens.cif#131.A	1
+A:132:_:PRO	A	132	PRO	RES	H	3	89.109	-8.585	12.264	-8.999	homo_sapiens.cif#132.A	1
+A:133:_:ARG	A	133	ARG	RES	H	0	89.920	-12.320	11.590	-8.746	homo_sapiens.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	H	10	91.792	-11.832	9.424	-5.667	homo_sapiens.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	H	4	93.678	-9.332	11.874	-4.167	homo_sapiens.cif#135.A	1
+A:136:_:ALA	A	136	ALA	RES	H	2	95.027	-11.793	14.755	-4.575	homo_sapiens.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	H	4	95.355	-14.574	12.677	-3.041	homo_sapiens.cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	H	14	96.139	-12.516	11.695	-0.021	homo_sapiens.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	H	3	96.265	-11.525	15.310	0.659	homo_sapiens.cif#139.A	1
+A:140:_:LEU	A	140	LEU	RES	H	0	95.668	-15.141	15.789	1.753	homo_sapiens.cif#140.A	1
+A:141:_:CYS	A	141	CYS	RES	S	4	94.798	-15.061	13.044	4.407	homo_sapiens.cif#141.A	1
+A:142:_:PRO	A	142	PRO	RES	 	2	96.825	-14.640	13.454	8.161	homo_sapiens.cif#142.A	1
+A:143:_:SER	A	143	SER	RES	H	3	94.918	-11.125	12.648	9.382	homo_sapiens.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	H	1	94.957	-12.046	9.534	11.357	homo_sapiens.cif#144.A	1
+A:145:_:GLN	A	145	GLN	RES	H	3	96.437	-13.985	8.122	8.410	homo_sapiens.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	H	6	97.516	-11.124	8.873	6.009	homo_sapiens.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	H	3	97.563	-8.581	7.188	8.292	homo_sapiens.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	H	3	96.675	-10.664	4.009	8.217	homo_sapiens.cif#148.A	1
+A:149:_:THR	A	149	THR	RES	H	4	96.967	-11.063	4.243	4.449	homo_sapiens.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	H	4	97.903	-7.333	4.797	3.878	homo_sapiens.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	H	3	97.771	-6.427	1.848	6.099	homo_sapiens.cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	H	7	96.930	-8.897	-0.244	4.119	homo_sapiens.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	H	9	95.191	-6.961	0.661	0.979	homo_sapiens.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	H	4	96.622	-3.707	-0.364	2.680	homo_sapiens.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	H	7	96.429	-5.300	-3.748	3.370	homo_sapiens.cif#155.A	1
+A:156:_:LYS	A	156	LYS	RES	H	7	92.264	-6.413	-4.102	-0.263	homo_sapiens.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	H	4	93.622	-2.846	-3.391	-1.391	homo_sapiens.cif#157.A	1
+A:158:_:GLY	A	158	GLY	RES	H	3	94.998	-1.486	-5.858	1.152	homo_sapiens.cif#158.A	1
+A:159:_:SER	A	159	SER	RES	H	3	92.841	-3.944	-8.547	0.106	homo_sapiens.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	6	88.908	-2.865	-8.225	-3.534	homo_sapiens.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	H	3	93.295	0.821	-8.307	-2.630	homo_sapiens.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	H	4	94.524	0.434	-11.319	-0.331	homo_sapiens.cif#162.A	1
+A:163:_:ALA	A	163	ALA	RES	H	6	89.654	-1.476	-13.188	-3.024	homo_sapiens.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	H	5	88.201	1.232	-12.345	-5.571	homo_sapiens.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	3	91.219	3.936	-13.635	-3.235	homo_sapiens.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	H	3	88.782	2.193	-16.897	-2.412	homo_sapiens.cif#166.A	1
+A:167:_:ARG	A	167	ARG	RES	H	5	77.241	1.453	-17.587	-6.088	homo_sapiens.cif#167.A	1
+A:168:_:ALA	A	168	ALA	RES	S	3	65.285	5.021	-16.845	-7.229	homo_sapiens.cif#168.A	1
+A:169:_:ASP	A	169	ASP	RES	 	1	58.128	7.712	-19.422	-7.970	homo_sapiens.cif#169.A	1
+A:170:_:PRO	A	170	PRO	RES	G	2	57.797	9.221	-20.300	-4.567	homo_sapiens.cif#170.A	1
+A:171:_:ALA	A	171	ALA	RES	G	0	61.618	12.690	-20.685	-6.116	homo_sapiens.cif#171.A	1
+A:172:_:LYS	A	172	LYS	RES	G	1	53.874	12.573	-17.022	-7.169	homo_sapiens.cif#172.A	1
+A:173:_:LEU	A	173	LEU	RES	 	2	47.459	11.492	-15.656	-3.770	homo_sapiens.cif#173.A	1

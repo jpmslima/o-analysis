@@ -1,0 +1,174 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	4	78.583	4.930	-20.329	3.324	Sapajus apella.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	0	83.915	8.682	-20.499	3.900	Sapajus apella.cif#2.A	1
+A:3:_:ILE	A	3	ILE	RES	H	2	92.106	11.372	-18.693	1.951	Sapajus apella.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	1	92.529	12.407	-21.890	0.154	Sapajus apella.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	2	90.719	8.912	-22.119	-1.359	Sapajus apella.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	3	95.663	9.101	-18.475	-2.438	Sapajus apella.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	5	97.040	12.467	-19.103	-4.118	Sapajus apella.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	2	95.867	11.067	-22.117	-6.011	Sapajus apella.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	4	96.132	8.183	-20.213	-7.635	Sapajus apella.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	4	97.060	8.190	-19.548	-11.358	Sapajus apella.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	4	97.784	7.379	-16.089	-12.717	Sapajus apella.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	1	97.899	3.628	-16.670	-12.983	Sapajus apella.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	4	95.715	3.330	-18.154	-9.501	Sapajus apella.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	8	97.989	5.373	-15.353	-7.948	Sapajus apella.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	97.721	3.387	-12.542	-9.581	Sapajus apella.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	1	95.539	0.066	-14.242	-8.770	Sapajus apella.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	1	94.359	1.026	-14.433	-5.088	Sapajus apella.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	3	96.961	2.965	-11.188	-4.615	Sapajus apella.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	3	96.737	1.545	-8.962	-7.371	Sapajus apella.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	5	92.957	-0.639	-6.986	-4.961	Sapajus apella.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	1	95.905	1.959	-6.550	-2.207	Sapajus apella.cif#21.A	1
+A:22:_:VAL	A	22	VAL	RES	S	1	96.701	2.025	-2.974	-3.510	Sapajus apella.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	3	91.488	-1.588	-2.050	-4.277	Sapajus apella.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	2	90.692	-2.457	-2.727	-7.938	Sapajus apella.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	2	93.669	1.249	-2.596	-8.930	Sapajus apella.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	3	95.496	2.193	-6.108	-10.113	Sapajus apella.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	2	93.824	5.140	-4.687	-12.064	Sapajus apella.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	3	96.897	7.027	-4.350	-8.778	Sapajus apella.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	3	97.776	6.632	-8.052	-7.966	Sapajus apella.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	2	97.452	7.688	-8.876	-11.533	Sapajus apella.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	1	96.380	10.896	-6.879	-11.051	Sapajus apella.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	5	97.805	11.628	-8.363	-7.614	Sapajus apella.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	10	97.673	11.215	-11.932	-8.942	Sapajus apella.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	0	94.682	14.545	-11.696	-10.791	Sapajus apella.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	3	94.095	16.452	-10.934	-7.565	Sapajus apella.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	4	93.108	16.087	-14.406	-6.027	Sapajus apella.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	95.962	17.245	-16.237	-4.012	Sapajus apella.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	6	97.002	15.924	-14.395	-0.966	Sapajus apella.cif#38.A	1
+A:39:_:LEU	A	39	LEU	RES	 	2	96.006	17.373	-15.133	2.463	Sapajus apella.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	3	91.698	14.304	-14.429	4.609	Sapajus apella.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	H	3	91.127	11.255	-12.169	4.909	Sapajus apella.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	1	92.058	13.425	-9.151	5.730	Sapajus apella.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	6	95.927	15.528	-9.683	2.597	Sapajus apella.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	4	96.561	12.402	-10.014	0.435	Sapajus apella.cif#44.A	1
+A:45:_:GLN	A	45	GLN	RES	H	4	95.206	11.000	-6.797	1.939	Sapajus apella.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	4	96.917	14.251	-4.960	1.213	Sapajus apella.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	2	97.674	13.968	-5.778	-2.495	Sapajus apella.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	1	98.056	10.415	-4.407	-2.686	Sapajus apella.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	H	6	97.775	11.402	-1.266	-0.786	Sapajus apella.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	3	97.482	14.546	-0.734	-2.872	Sapajus apella.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	1	96.934	12.532	-0.862	-6.101	Sapajus apella.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	3	97.195	10.083	1.735	-4.764	Sapajus apella.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	4	96.728	12.941	3.990	-3.671	Sapajus apella.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	1	96.695	14.740	3.677	-7.025	Sapajus apella.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	2	96.919	11.782	4.927	-9.083	Sapajus apella.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	I	4	97.429	11.764	8.520	-10.304	Sapajus apella.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	3	95.497	9.365	10.860	-8.504	Sapajus apella.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	1	95.988	6.703	10.426	-11.207	Sapajus apella.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	3	96.808	6.843	6.652	-10.724	Sapajus apella.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	4	97.558	6.621	6.980	-6.950	Sapajus apella.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	5	96.777	3.576	9.239	-7.309	Sapajus apella.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	2	96.986	2.100	6.676	-9.704	Sapajus apella.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	5	95.738	2.371	4.022	-6.990	Sapajus apella.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	6	97.488	0.546	6.305	-4.556	Sapajus apella.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	2	96.355	-2.260	6.874	-7.075	Sapajus apella.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	3	92.773	-2.888	3.104	-7.223	Sapajus apella.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	2	91.834	-4.044	3.139	-3.585	Sapajus apella.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	1	85.773	-7.691	3.795	-2.720	Sapajus apella.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	4	82.069	-8.892	6.654	-0.528	Sapajus apella.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	2	81.571	-9.495	5.414	3.012	Sapajus apella.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	2	70.473	-13.264	4.903	3.416	Sapajus apella.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	2	74.627	-13.671	6.502	-0.022	Sapajus apella.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	H	2	72.497	-15.349	5.740	-3.335	Sapajus apella.cif#73.A	1
+A:74:_:ASP	A	74	ASP	RES	H	3	74.350	-13.869	2.260	-3.813	Sapajus apella.cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	H	2	73.381	-15.207	1.125	-0.436	Sapajus apella.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	2	73.250	-18.667	2.555	-1.141	Sapajus apella.cif#76.A	1
+A:77:_:GLN	A	77	GLN	RES	H	1	74.337	-18.720	1.063	-4.659	Sapajus apella.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	H	2	73.969	-17.462	-2.348	-3.486	Sapajus apella.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	2	71.590	-14.397	-2.249	-5.749	Sapajus apella.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	 	2	73.238	-11.568	-2.583	-3.201	Sapajus apella.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	3	79.976	-8.976	-5.315	-3.648	Sapajus apella.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	2	74.686	-9.257	-8.217	-1.212	Sapajus apella.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	5	74.074	-6.223	-6.919	0.680	Sapajus apella.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	7	76.234	-7.599	-3.376	1.018	Sapajus apella.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	H	3	71.646	-11.022	-4.704	2.032	Sapajus apella.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	2	75.683	-9.436	-6.653	4.903	Sapajus apella.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	9	77.423	-7.399	-3.605	5.941	Sapajus apella.cif#87.A	1
+A:88:_:HIS	A	88	HIS	RES	H	3	75.052	-10.424	-1.273	5.886	Sapajus apella.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	H	4	71.224	-12.527	-3.781	7.828	Sapajus apella.cif#89.A	1
+A:90:_:GLY	A	90	GLY	RES	H	0	67.589	-9.803	-4.477	10.391	Sapajus apella.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	1	67.650	-9.349	-0.747	11.011	Sapajus apella.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	4	68.224	-13.096	-0.185	11.478	Sapajus apella.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	G	4	73.070	-13.433	1.917	8.315	Sapajus apella.cif#93.A	1
+A:94:_:THR	A	94	THR	RES	G	3	67.173	-16.328	-0.214	7.010	Sapajus apella.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	G	2	70.296	-18.408	0.733	10.083	Sapajus apella.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	3	69.578	-18.380	4.540	9.733	Sapajus apella.cif#96.A	1
+A:97:_:GLY	A	97	GLY	RES	 	2	74.651	-21.667	6.390	10.109	Sapajus apella.cif#97.A	1
+A:98:_:PRO	A	98	PRO	RES	H	2	81.688	-22.944	8.912	7.543	Sapajus apella.cif#98.A	1
+A:99:_:ASP	A	99	ASP	RES	H	1	83.524	-21.463	11.961	9.296	Sapajus apella.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	H	7	80.444	-18.069	10.248	9.667	Sapajus apella.cif#100.A	1
+A:101:_:GLN	A	101	GLN	RES	H	2	80.689	-18.137	9.302	5.974	Sapajus apella.cif#101.A	1
+A:102:_:LEU	A	102	LEU	RES	H	3	86.419	-18.906	12.890	4.958	Sapajus apella.cif#102.A	1
+A:103:_:ARG	A	103	ARG	RES	H	4	86.117	-16.085	14.288	7.116	Sapajus apella.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	2	86.038	-13.543	11.862	5.709	Sapajus apella.cif#104.A	1
+A:105:_:ALA	A	105	ALA	RES	H	1	87.192	-14.731	12.472	2.127	Sapajus apella.cif#105.A	1
+A:106:_:GLU	A	106	GLU	RES	H	5	92.001	-14.151	16.212	2.593	Sapajus apella.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	3	92.236	-10.668	15.643	4.019	Sapajus apella.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	3	91.351	-9.797	13.164	1.250	Sapajus apella.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	2	93.554	-10.887	15.671	-1.414	Sapajus apella.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	5	96.170	-8.783	18.447	0.134	Sapajus apella.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	8	96.101	-5.766	16.140	0.418	Sapajus apella.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	4	93.739	-5.967	14.903	-3.174	Sapajus apella.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	1	97.239	-6.457	18.457	-4.455	Sapajus apella.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	2	97.400	-3.291	19.591	-2.687	Sapajus apella.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	3	97.353	-0.952	16.642	-3.273	Sapajus apella.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	2	96.591	-2.311	14.895	-6.383	Sapajus apella.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	1	96.302	-2.485	11.460	-4.745	Sapajus apella.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	0	93.339	-4.628	9.869	-2.032	Sapajus apella.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	3	93.995	-3.926	9.988	1.684	Sapajus apella.cif#119.A	1
+A:120:_:ILE	A	120	ILE	RES	 	0	94.200	-2.156	6.761	2.622	Sapajus apella.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	0	90.710	-1.897	5.398	6.159	Sapajus apella.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	3	89.443	-1.076	1.904	7.396	Sapajus apella.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	G	1	77.829	-4.534	1.656	8.942	Sapajus apella.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	G	4	75.437	-3.884	-1.810	10.407	Sapajus apella.cif#124.A	1
+A:125:_:LEU	A	125	LEU	RES	G	2	77.137	-1.437	-0.088	12.780	Sapajus apella.cif#125.A	1
+A:126:_:SER	A	126	SER	RES	S	1	72.718	-3.951	2.584	13.896	Sapajus apella.cif#126.A	1
+A:127:_:ASP	A	127	ASP	RES	 	4	73.192	-7.458	2.889	15.243	Sapajus apella.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	H	8	73.878	-10.201	4.454	13.139	Sapajus apella.cif#128.A	1
+A:129:_:ALA	A	129	ALA	RES	H	0	79.508	-10.153	7.712	15.104	Sapajus apella.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	H	5	80.060	-6.532	8.273	14.051	Sapajus apella.cif#130.A	1
+A:131:_:VAL	A	131	VAL	RES	H	2	84.469	-7.411	8.404	10.338	Sapajus apella.cif#131.A	1
+A:132:_:PRO	A	132	PRO	RES	H	1	87.016	-9.056	11.871	10.141	Sapajus apella.cif#132.A	1
+A:133:_:ARG	A	133	ARG	RES	H	2	89.478	-6.578	13.200	12.723	Sapajus apella.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	H	5	91.419	-3.548	12.172	10.664	Sapajus apella.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	H	3	91.921	-5.142	13.268	7.388	Sapajus apella.cif#135.A	1
+A:136:_:ALA	A	136	ALA	RES	H	2	93.558	-5.803	16.750	8.788	Sapajus apella.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	H	5	95.710	-2.256	16.943	10.181	Sapajus apella.cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	H	4	96.422	-0.622	15.917	6.918	Sapajus apella.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	H	5	96.182	-2.621	18.489	4.932	Sapajus apella.cif#139.A	1
+A:140:_:LEU	A	140	LEU	RES	H	0	96.650	-0.303	21.036	6.572	Sapajus apella.cif#140.A	1
+A:141:_:CYS	A	141	CYS	RES	S	0	95.588	2.950	19.367	5.433	Sapajus apella.cif#141.A	1
+A:142:_:PRO	A	142	PRO	RES	 	1	97.781	5.127	20.538	2.538	Sapajus apella.cif#142.A	1
+A:143:_:PRO	A	143	PRO	RES	H	2	96.163	4.694	18.430	-0.636	Sapajus apella.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	H	0	95.790	8.201	16.912	-0.611	Sapajus apella.cif#144.A	1
+A:145:_:GLN	A	145	GLN	RES	H	2	97.312	7.865	15.907	3.045	Sapajus apella.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	H	5	97.999	4.408	14.401	2.452	Sapajus apella.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	H	2	97.661	5.651	12.386	-0.545	Sapajus apella.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	H	1	96.706	8.305	10.780	1.674	Sapajus apella.cif#148.A	1
+A:149:_:THR	A	149	THR	RES	H	3	97.676	5.759	10.104	4.415	Sapajus apella.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	H	1	97.843	3.247	8.541	2.003	Sapajus apella.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	H	4	97.831	5.912	6.260	0.516	Sapajus apella.cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	H	5	97.657	6.849	5.201	4.047	Sapajus apella.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	H	7	95.877	3.231	4.202	4.640	Sapajus apella.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	H	2	96.925	3.229	2.162	1.407	Sapajus apella.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	H	8	97.150	6.269	0.285	2.735	Sapajus apella.cif#155.A	1
+A:156:_:LYS	A	156	LYS	RES	H	6	93.399	4.521	-0.397	6.058	Sapajus apella.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	H	1	93.601	1.451	-1.745	4.236	Sapajus apella.cif#157.A	1
+A:158:_:SER	A	158	SER	RES	H	5	96.099	3.628	-3.846	1.916	Sapajus apella.cif#158.A	1
+A:159:_:GLY	A	159	GLY	RES	H	3	93.479	5.560	-5.284	4.851	Sapajus apella.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	2	89.239	2.344	-6.320	6.584	Sapajus apella.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	H	4	93.251	1.068	-7.965	3.395	Sapajus apella.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	H	7	94.546	4.351	-9.857	2.907	Sapajus apella.cif#162.A	1
+A:163:_:ALA	A	163	ALA	RES	H	3	89.458	4.234	-11.094	6.503	Sapajus apella.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	H	4	87.779	0.648	-12.274	5.972	Sapajus apella.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	2	91.262	1.611	-14.164	2.812	Sapajus apella.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	H	3	88.797	4.645	-15.885	4.314	Sapajus apella.cif#166.A	1
+A:167:_:CYS	A	167	CYS	RES	H	3	73.068	2.592	-17.023	7.316	Sapajus apella.cif#167.A	1
+A:168:_:ALA	A	168	ALA	RES	S	2	58.543	-0.258	-18.376	5.145	Sapajus apella.cif#168.A	1
+A:169:_:ASP	A	169	ASP	RES	 	1	55.310	-0.866	-21.941	4.007	Sapajus apella.cif#169.A	1
+A:170:_:PRO	A	170	PRO	RES	G	2	50.170	0.207	-22.112	0.343	Sapajus apella.cif#170.A	1
+A:171:_:ALA	A	171	ALA	RES	G	0	57.086	-2.814	-24.340	-0.392	Sapajus apella.cif#171.A	1
+A:172:_:LYS	A	172	LYS	RES	G	1	52.244	-5.105	-21.413	0.483	Sapajus apella.cif#172.A	1
+A:173:_:LEU	A	173	LEU	RES	 	3	44.830	-3.471	-18.839	-1.817	Sapajus apella.cif#173.A	1

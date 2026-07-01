@@ -1,0 +1,177 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	2	46.862	13.122	8.674	-3.955	Canis lupus familiaris.cif#1.A	1
+A:2:_:GLN	A	2	GLN	RES	 	0	56.879	14.546	12.153	-3.594	Canis lupus familiaris.cif#2.A	1
+A:3:_:ALA	A	3	ALA	RES	 	1	61.680	11.972	14.682	-2.426	Canis lupus familiaris.cif#3.A	1
+A:4:_:MET	A	4	MET	RES	 	2	73.859	10.706	17.062	-5.090	Canis lupus familiaris.cif#4.A	1
+A:5:_:ASP	A	5	ASP	RES	 	2	80.241	8.485	20.106	-5.353	Canis lupus familiaris.cif#5.A	1
+A:6:_:ILE	A	6	ILE	RES	H	2	88.806	5.274	20.441	-7.290	Canis lupus familiaris.cif#6.A	1
+A:7:_:GLU	A	7	GLU	RES	H	1	89.015	6.897	22.516	-10.029	Canis lupus familiaris.cif#7.A	1
+A:8:_:LYS	A	8	LYS	RES	H	3	88.597	9.177	19.621	-10.884	Canis lupus familiaris.cif#8.A	1
+A:9:_:VAL	A	9	VAL	RES	H	3	93.902	6.230	17.234	-10.831	Canis lupus familiaris.cif#9.A	1
+A:10:_:ASN	A	10	ASN	RES	H	4	95.517	4.373	19.454	-13.289	Canis lupus familiaris.cif#10.A	1
+A:11:_:SER	A	11	SER	RES	H	3	94.250	7.395	19.533	-15.600	Canis lupus familiaris.cif#11.A	1
+A:12:_:MET	A	12	MET	RES	 	5	95.479	7.676	15.756	-15.911	Canis lupus familiaris.cif#12.A	1
+A:13:_:ASP	A	13	ASP	RES	 	2	97.548	6.969	14.004	-19.161	Canis lupus familiaris.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	3	98.360	4.701	10.978	-19.198	Canis lupus familiaris.cif#14.A	1
+A:15:_:GLY	A	15	GLY	RES	H	2	98.202	7.428	8.385	-18.790	Canis lupus familiaris.cif#15.A	1
+A:16:_:GLU	A	16	GLU	RES	H	2	95.358	9.134	10.175	-15.944	Canis lupus familiaris.cif#16.A	1
+A:17:_:PHE	A	17	PHE	RES	H	9	97.884	5.852	10.810	-14.136	Canis lupus familiaris.cif#17.A	1
+A:18:_:VAL	A	18	VAL	RES	H	2	98.120	4.806	7.169	-14.315	Canis lupus familiaris.cif#18.A	1
+A:19:_:ASP	A	19	ASP	RES	H	2	94.987	8.269	6.067	-13.250	Canis lupus familiaris.cif#19.A	1
+A:20:_:VAL	A	20	VAL	RES	H	1	93.059	8.073	8.262	-10.155	Canis lupus familiaris.cif#20.A	1
+A:21:_:PHE	A	21	PHE	RES	H	6	96.655	4.403	7.905	-9.234	Canis lupus familiaris.cif#21.A	1
+A:22:_:GLY	A	22	GLY	RES	H	1	97.708	3.447	4.570	-10.762	Canis lupus familiaris.cif#22.A	1
+A:23:_:ASN	A	23	ASN	RES	H	3	96.084	3.623	2.795	-7.414	Canis lupus familiaris.cif#23.A	1
+A:24:_:VAL	A	24	VAL	RES	H	2	96.880	1.812	5.405	-5.337	Canis lupus familiaris.cif#24.A	1
+A:25:_:ILE	A	25	ILE	RES	H	1	97.819	-1.002	2.868	-5.557	Canis lupus familiaris.cif#25.A	1
+A:26:_:GLU	A	26	GLU	RES	H	8	95.960	0.657	-0.516	-5.254	Canis lupus familiaris.cif#26.A	1
+A:27:_:ARG	A	27	ARG	RES	H	1	95.187	1.466	-1.977	-8.672	Canis lupus familiaris.cif#27.A	1
+A:28:_:CYS	A	28	CYS	RES	H	3	95.070	-1.142	0.193	-10.404	Canis lupus familiaris.cif#28.A	1
+A:29:_:PRO	A	29	PRO	RES	H	0	96.806	0.817	2.387	-12.820	Canis lupus familiaris.cif#29.A	1
+A:30:_:LEU	A	30	LEU	RES	H	0	94.569	-2.346	2.830	-14.869	Canis lupus familiaris.cif#30.A	1
+A:31:_:ILE	A	31	ILE	RES	H	4	97.628	-3.646	5.167	-12.178	Canis lupus familiaris.cif#31.A	1
+A:32:_:ALA	A	32	ALA	RES	H	1	98.154	-0.550	7.346	-12.361	Canis lupus familiaris.cif#32.A	1
+A:33:_:ALA	A	33	ALA	RES	H	0	98.020	-0.846	7.366	-16.147	Canis lupus familiaris.cif#33.A	1
+A:34:_:ALA	A	34	ALA	RES	H	1	97.162	-4.412	8.645	-15.874	Canis lupus familiaris.cif#34.A	1
+A:35:_:VAL	A	35	VAL	RES	H	4	98.248	-3.517	11.232	-13.241	Canis lupus familiaris.cif#35.A	1
+A:36:_:TRP	A	36	TRP	RES	H	9	98.224	-0.729	12.614	-15.429	Canis lupus familiaris.cif#36.A	1
+A:37:_:SER	A	37	SER	RES	H	1	96.220	-3.344	14.146	-17.727	Canis lupus familiaris.cif#37.A	1
+A:38:_:GLN	A	38	GLN	RES	H	1	96.812	-4.745	16.214	-14.840	Canis lupus familiaris.cif#38.A	1
+A:39:_:ARG	A	39	ARG	RES	 	5	95.205	-1.708	18.498	-14.581	Canis lupus familiaris.cif#39.A	1
+A:40:_:PRO	A	40	PRO	RES	 	0	96.142	-0.896	21.114	-13.524	Canis lupus familiaris.cif#40.A	1
+A:41:_:PHE	A	41	PHE	RES	 	8	95.812	-1.214	20.250	-9.851	Canis lupus familiaris.cif#41.A	1
+A:42:_:SER	A	42	SER	RES	 	1	94.022	-1.327	23.085	-7.353	Canis lupus familiaris.cif#42.A	1
+A:43:_:ASN	A	43	ASN	RES	S	2	88.300	0.136	21.201	-4.379	Canis lupus familiaris.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	3	85.551	0.535	17.776	-2.825	Canis lupus familiaris.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	H	1	89.343	-3.107	17.689	-1.760	Canis lupus familiaris.cif#45.A	1
+A:46:_:ASP	A	46	ASP	RES	H	4	94.643	-4.289	18.428	-5.287	Canis lupus familiaris.cif#46.A	1
+A:47:_:LEU	A	47	LEU	RES	H	2	95.327	-2.137	15.644	-6.704	Canis lupus familiaris.cif#47.A	1
+A:48:_:GLU	A	48	GLU	RES	H	6	94.423	-3.386	13.255	-4.034	Canis lupus familiaris.cif#48.A	1
+A:49:_:LYS	A	49	LYS	RES	H	8	96.997	-6.995	14.192	-4.738	Canis lupus familiaris.cif#49.A	1
+A:50:_:HIS	A	50	HIS	RES	H	3	98.174	-6.643	13.078	-8.341	Canis lupus familiaris.cif#50.A	1
+A:51:_:PHE	A	51	PHE	RES	H	6	98.196	-5.280	9.692	-7.303	Canis lupus familiaris.cif#51.A	1
+A:52:_:PHE	A	52	PHE	RES	H	2	97.747	-8.047	9.135	-4.786	Canis lupus familiaris.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	7	97.917	-10.813	10.450	-7.025	Canis lupus familiaris.cif#53.A	1
+A:54:_:PHE	A	54	PHE	RES	H	2	97.324	-9.746	7.984	-9.695	Canis lupus familiaris.cif#54.A	1
+A:55:_:ILE	A	55	ILE	RES	H	4	97.060	-10.041	5.132	-7.218	Canis lupus familiaris.cif#55.A	1
+A:56:_:ASP	A	56	ASP	RES	H	4	96.625	-13.427	6.340	-6.026	Canis lupus familiaris.cif#56.A	1
+A:57:_:ALA	A	57	ALA	RES	H	1	97.089	-14.741	6.563	-9.588	Canis lupus familiaris.cif#57.A	1
+A:58:_:LEU	A	58	LEU	RES	S	3	97.149	-14.008	2.920	-10.357	Canis lupus familiaris.cif#58.A	1
+A:59:_:PRO	A	59	PRO	RES	 	4	97.285	-16.740	0.314	-10.260	Canis lupus familiaris.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	3	93.849	-16.581	-2.176	-7.416	Canis lupus familiaris.cif#60.A	1
+A:61:_:SER	A	61	SER	RES	H	1	95.793	-14.732	-4.711	-9.560	Canis lupus familiaris.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	4	96.837	-12.071	-2.122	-10.308	Canis lupus familiaris.cif#62.A	1
+A:63:_:ARG	A	63	ARG	RES	H	4	96.795	-11.704	-1.176	-6.666	Canis lupus familiaris.cif#63.A	1
+A:64:_:GLU	A	64	GLU	RES	H	4	97.099	-11.350	-4.836	-5.756	Canis lupus familiaris.cif#64.A	1
+A:65:_:GLY	A	65	GLY	RES	H	1	97.452	-8.765	-5.133	-8.513	Canis lupus familiaris.cif#65.A	1
+A:66:_:ILE	A	66	ILE	RES	H	4	96.737	-6.708	-2.423	-6.844	Canis lupus familiaris.cif#66.A	1
+A:67:_:LEU	A	67	LEU	RES	H	5	98.221	-6.779	-4.413	-3.624	Canis lupus familiaris.cif#67.A	1
+A:68:_:ARG	A	68	ARG	RES	H	5	97.215	-5.678	-7.543	-5.461	Canis lupus familiaris.cif#68.A	1
+A:69:_:CYS	A	69	CYS	RES	H	2	95.373	-2.524	-5.721	-6.543	Canis lupus familiaris.cif#69.A	1
+A:70:_:HIS	A	70	HIS	RES	S	2	95.939	-1.372	-5.577	-2.923	Canis lupus familiaris.cif#70.A	1
+A:71:_:PRO	A	71	PRO	RES	 	0	94.606	0.711	-8.354	-1.415	Canis lupus familiaris.cif#71.A	1
+A:72:_:ASP	A	72	ASP	RES	 	4	92.629	-0.283	-10.278	1.680	Canis lupus familiaris.cif#72.A	1
+A:73:_:LEU	A	73	LEU	RES	T	3	91.674	1.430	-8.802	4.709	Canis lupus familiaris.cif#73.A	1
+A:74:_:ALA	A	74	ALA	RES	T	2	89.491	4.326	-11.111	5.586	Canis lupus familiaris.cif#74.A	1
+A:75:_:GLY	A	75	GLY	RES	S	2	90.783	3.098	-13.431	2.835	Canis lupus familiaris.cif#75.A	1
+A:76:_:ARG	A	76	ARG	RES	H	2	88.101	4.575	-15.305	-0.088	Canis lupus familiaris.cif#76.A	1
+A:77:_:GLU	A	77	GLU	RES	H	3	90.823	5.860	-12.199	-1.853	Canis lupus familiaris.cif#77.A	1
+A:78:_:LEU	A	78	LEU	RES	H	1	89.722	7.953	-11.259	1.160	Canis lupus familiaris.cif#78.A	1
+A:79:_:GLN	A	79	GLN	RES	H	2	86.971	9.352	-14.772	1.507	Canis lupus familiaris.cif#79.A	1
+A:80:_:GLN	A	80	GLN	RES	H	1	91.085	10.117	-15.029	-2.201	Canis lupus familiaris.cif#80.A	1
+A:81:_:GLY	A	81	GLY	RES	H	2	91.743	11.629	-11.554	-2.538	Canis lupus familiaris.cif#81.A	1
+A:82:_:THR	A	82	THR	RES	 	3	92.592	9.085	-10.231	-5.034	Canis lupus familiaris.cif#82.A	1
+A:83:_:LEU	A	83	LEU	RES	 	0	92.535	7.725	-7.236	-3.111	Canis lupus familiaris.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	 	4	93.730	7.978	-3.766	-4.531	Canis lupus familiaris.cif#84.A	1
+A:85:_:ALA	A	85	ALA	RES	H	3	90.655	10.647	-1.627	-2.914	Canis lupus familiaris.cif#85.A	1
+A:86:_:GLU	A	86	GLU	RES	H	1	92.310	7.983	0.440	-1.180	Canis lupus familiaris.cif#86.A	1
+A:87:_:SER	A	87	SER	RES	H	3	94.611	6.144	-2.554	0.267	Canis lupus familiaris.cif#87.A	1
+A:88:_:ARG	A	88	ARG	RES	H	1	91.503	9.412	-4.108	1.371	Canis lupus familiaris.cif#88.A	1
+A:89:_:ARG	A	89	ARG	RES	H	3	89.043	10.360	-0.989	3.319	Canis lupus familiaris.cif#89.A	1
+A:90:_:GLU	A	90	GLU	RES	H	3	92.352	6.883	-0.657	4.791	Canis lupus familiaris.cif#90.A	1
+A:91:_:GLN	A	91	GLN	RES	H	5	92.233	6.702	-4.255	5.957	Canis lupus familiaris.cif#91.A	1
+A:92:_:SER	A	92	SER	RES	H	1	89.574	10.245	-4.128	7.270	Canis lupus familiaris.cif#92.A	1
+A:93:_:GLY	A	93	GLY	RES	H	0	86.947	9.434	-0.975	9.219	Canis lupus familiaris.cif#93.A	1
+A:94:_:ALA	A	94	ALA	RES	H	0	86.266	6.452	-2.725	10.783	Canis lupus familiaris.cif#94.A	1
+A:95:_:GLY	A	95	GLY	RES	H	2	89.383	8.608	-5.672	11.844	Canis lupus familiaris.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	G	3	88.358	6.951	-8.115	9.456	Canis lupus familiaris.cif#96.A	1
+A:97:_:THR	A	97	THR	RES	G	0	84.927	10.279	-9.255	8.000	Canis lupus familiaris.cif#97.A	1
+A:98:_:SER	A	98	SER	RES	G	3	84.729	11.383	-10.675	11.370	Canis lupus familiaris.cif#98.A	1
+A:99:_:LEU	A	99	LEU	RES	 	7	86.503	8.419	-12.783	12.456	Canis lupus familiaris.cif#99.A	1
+A:100:_:ASP	A	100	ASP	RES	 	4	87.550	9.183	-16.079	14.134	Canis lupus familiaris.cif#100.A	1
+A:101:_:ALA	A	101	ALA	RES	H	3	91.028	7.907	-19.340	12.689	Canis lupus familiaris.cif#101.A	1
+A:102:_:ASP	A	102	ASP	RES	H	1	92.004	4.756	-19.466	14.813	Canis lupus familiaris.cif#102.A	1
+A:103:_:GLU	A	103	GLU	RES	H	6	89.592	3.898	-15.863	13.951	Canis lupus familiaris.cif#103.A	1
+A:104:_:ARG	A	104	ARG	RES	H	7	89.698	4.377	-16.539	10.246	Canis lupus familiaris.cif#104.A	1
+A:105:_:LEU	A	105	LEU	RES	H	2	94.035	2.150	-19.609	10.333	Canis lupus familiaris.cif#105.A	1
+A:106:_:ARG	A	106	ARG	RES	H	5	92.463	-0.592	-17.806	12.219	Canis lupus familiaris.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	2	93.103	-0.550	-14.833	9.897	Canis lupus familiaris.cif#107.A	1
+A:108:_:ALA	A	108	ALA	RES	H	2	94.339	-0.577	-17.106	6.845	Canis lupus familiaris.cif#108.A	1
+A:109:_:GLU	A	109	GLU	RES	H	5	96.684	-3.652	-18.837	8.232	Canis lupus familiaris.cif#109.A	1
+A:110:_:LEU	A	110	LEU	RES	H	5	96.750	-5.408	-15.521	8.817	Canis lupus familiaris.cif#110.A	1
+A:111:_:ASN	A	111	ASN	RES	H	3	96.115	-4.431	-14.261	5.361	Canis lupus familiaris.cif#111.A	1
+A:112:_:ALA	A	112	ALA	RES	H	3	97.005	-5.921	-17.377	3.780	Canis lupus familiaris.cif#112.A	1
+A:113:_:GLN	A	113	GLN	RES	H	2	98.058	-9.165	-17.004	5.713	Canis lupus familiaris.cif#113.A	1
+A:114:_:TYR	A	114	TYR	RES	H	11	98.085	-9.376	-13.342	4.766	Canis lupus familiaris.cif#114.A	1
+A:115:_:ARG	A	115	ARG	RES	H	4	95.926	-8.815	-13.946	1.070	Canis lupus familiaris.cif#115.A	1
+A:116:_:ALA	A	116	ALA	RES	H	1	98.117	-11.321	-16.799	1.083	Canis lupus familiaris.cif#116.A	1
+A:117:_:ARG	A	117	ARG	RES	H	5	98.043	-13.970	-14.548	2.571	Canis lupus familiaris.cif#117.A	1
+A:118:_:PHE	A	118	PHE	RES	H	4	97.928	-13.391	-11.277	0.734	Canis lupus familiaris.cif#118.A	1
+A:119:_:GLY	A	119	GLY	RES	T	3	97.244	-11.625	-12.238	-2.492	Canis lupus familiaris.cif#119.A	1
+A:120:_:PHE	A	120	PHE	RES	S	1	97.471	-8.709	-9.847	-2.029	Canis lupus familiaris.cif#120.A	1
+A:121:_:PRO	A	121	PRO	RES	 	2	96.071	-5.726	-9.568	0.291	Canis lupus familiaris.cif#121.A	1
+A:122:_:PHE	A	122	PHE	RES	 	7	97.067	-5.858	-7.919	3.682	Canis lupus familiaris.cif#122.A	1
+A:123:_:VAL	A	123	VAL	RES	 	3	96.839	-4.618	-4.360	3.258	Canis lupus familiaris.cif#123.A	1
+A:124:_:LEU	A	124	LEU	RES	 	1	93.681	-3.272	-2.317	6.149	Canis lupus familiaris.cif#124.A	1
+A:125:_:ALA	A	125	ALA	RES	 	4	91.107	-1.042	0.735	6.201	Canis lupus familiaris.cif#125.A	1
+A:126:_:ALA	A	126	ALA	RES	G	1	79.186	1.809	-1.160	7.804	Canis lupus familiaris.cif#126.A	1
+A:127:_:ARG	A	127	ARG	RES	G	3	75.346	3.916	1.964	8.330	Canis lupus familiaris.cif#127.A	1
+A:128:_:ARG	A	128	ARG	RES	G	2	67.661	1.358	3.077	10.899	Canis lupus familiaris.cif#128.A	1
+A:129:_:SER	A	129	SER	RES	S	1	72.216	1.226	-0.265	12.693	Canis lupus familiaris.cif#129.A	1
+A:130:_:HIS	A	130	HIS	RES	 	4	77.262	3.555	-2.769	14.284	Canis lupus familiaris.cif#130.A	1
+A:131:_:ARG	A	131	ARG	RES	H	6	76.891	3.956	-6.487	13.926	Canis lupus familiaris.cif#131.A	1
+A:132:_:ALA	A	132	ALA	RES	H	0	81.293	2.015	-7.478	17.036	Canis lupus familiaris.cif#132.A	1
+A:133:_:ALA	A	133	ALA	RES	H	5	84.409	-1.013	-5.437	15.958	Canis lupus familiaris.cif#133.A	1
+A:134:_:VAL	A	134	VAL	RES	H	3	90.562	-1.306	-6.890	12.462	Canis lupus familiaris.cif#134.A	1
+A:135:_:PRO	A	135	PRO	RES	H	2	91.467	-2.841	-10.296	13.285	Canis lupus familiaris.cif#135.A	1
+A:136:_:ARG	A	136	ARG	RES	H	2	92.536	-5.259	-8.721	15.758	Canis lupus familiaris.cif#136.A	1
+A:137:_:GLU	A	137	GLU	RES	H	8	94.826	-6.504	-6.261	13.164	Canis lupus familiaris.cif#137.A	1
+A:138:_:LEU	A	138	LEU	RES	H	10	95.650	-6.719	-8.978	10.528	Canis lupus familiaris.cif#138.A	1
+A:139:_:ALA	A	139	ALA	RES	H	1	96.361	-8.752	-11.187	12.853	Canis lupus familiaris.cif#139.A	1
+A:140:_:ARG	A	140	ARG	RES	H	10	96.880	-11.033	-8.291	13.738	Canis lupus familiaris.cif#140.A	1
+A:141:_:ARG	A	141	ARG	RES	H	12	97.739	-11.688	-7.346	10.137	Canis lupus familiaris.cif#141.A	1
+A:142:_:LEU	A	142	LEU	RES	H	6	97.759	-12.523	-10.942	9.244	Canis lupus familiaris.cif#142.A	1
+A:143:_:ARG	A	143	ARG	RES	H	4	97.135	-15.731	-10.278	11.184	Canis lupus familiaris.cif#143.A	1
+A:144:_:CYS	A	144	CYS	RES	S	1	97.186	-16.719	-7.187	9.192	Canis lupus familiaris.cif#144.A	1
+A:145:_:PRO	A	145	PRO	RES	 	1	98.230	-19.502	-7.145	6.625	Canis lupus familiaris.cif#145.A	1
+A:146:_:PRO	A	146	PRO	RES	H	3	96.557	-18.108	-7.305	3.079	Canis lupus familiaris.cif#146.A	1
+A:147:_:ALA	A	147	ALA	RES	H	1	96.217	-19.250	-3.852	1.999	Canis lupus familiaris.cif#147.A	1
+A:148:_:GLN	A	148	GLN	RES	H	5	97.536	-17.766	-2.257	5.108	Canis lupus familiaris.cif#148.A	1
+A:149:_:GLU	A	149	GLU	RES	H	10	98.438	-14.529	-4.199	4.689	Canis lupus familiaris.cif#149.A	1
+A:150:_:LEU	A	150	LEU	RES	H	4	97.823	-14.189	-3.040	1.087	Canis lupus familiaris.cif#150.A	1
+A:151:_:ARG	A	151	ARG	RES	H	4	97.126	-14.495	0.557	2.252	Canis lupus familiaris.cif#151.A	1
+A:152:_:THR	A	152	THR	RES	H	4	98.093	-12.011	-0.020	5.039	Canis lupus familiaris.cif#152.A	1
+A:153:_:ALA	A	153	ALA	RES	H	3	98.306	-9.473	-1.717	2.771	Canis lupus familiaris.cif#153.A	1
+A:154:_:LEU	A	154	LEU	RES	H	5	98.040	-9.698	1.079	0.209	Canis lupus familiaris.cif#154.A	1
+A:155:_:ALA	A	155	ALA	RES	H	5	97.604	-9.213	3.624	2.982	Canis lupus familiaris.cif#155.A	1
+A:156:_:GLU	A	156	GLU	RES	H	8	97.061	-6.017	1.773	3.865	Canis lupus familiaris.cif#156.A	1
+A:157:_:VAL	A	157	VAL	RES	H	6	97.936	-4.907	1.967	0.229	Canis lupus familiaris.cif#157.A	1
+A:158:_:LYS	A	158	LYS	RES	H	8	97.021	-5.410	5.722	0.429	Canis lupus familiaris.cif#158.A	1
+A:159:_:LYS	A	159	LYS	RES	H	6	94.496	-3.396	5.920	3.648	Canis lupus familiaris.cif#159.A	1
+A:160:_:ILE	A	160	ILE	RES	H	4	96.058	-0.566	4.093	1.906	Canis lupus familiaris.cif#160.A	1
+A:161:_:GLY	A	161	GLY	RES	H	2	95.908	-0.823	6.376	-1.110	Canis lupus familiaris.cif#161.A	1
+A:162:_:HIS	A	162	HIS	RES	H	5	92.571	-0.806	9.458	1.083	Canis lupus familiaris.cif#162.A	1
+A:163:_:LEU	A	163	LEU	RES	H	3	91.144	2.346	8.319	2.853	Canis lupus familiaris.cif#163.A	1
+A:164:_:ARG	A	164	ARG	RES	H	9	94.184	4.089	7.458	-0.404	Canis lupus familiaris.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	5	93.044	3.207	10.823	-1.931	Canis lupus familiaris.cif#165.A	1
+A:166:_:ALA	A	166	ALA	RES	H	3	87.221	4.468	12.576	1.182	Canis lupus familiaris.cif#166.A	1
+A:167:_:ASP	A	167	ASP	RES	H	4	87.471	7.750	10.703	0.834	Canis lupus familiaris.cif#167.A	1
+A:168:_:LEU	A	168	LEU	RES	H	4	89.397	8.104	11.844	-2.763	Canis lupus familiaris.cif#168.A	1
+A:169:_:LEU	A	169	LEU	RES	H	5	85.497	7.129	15.477	-2.219	Canis lupus familiaris.cif#169.A	1
+A:170:_:GLY	A	170	GLY	RES	 	2	72.667	8.986	16.088	1.038	Canis lupus familiaris.cif#170.A	1
+A:171:_:ALA	A	171	ALA	RES	 	0	42.828	8.403	15.678	4.739	Canis lupus familiaris.cif#171.A	1
+A:172:_:HIS	A	172	HIS	RES	 	1	47.682	4.700	16.050	5.519	Canis lupus familiaris.cif#172.A	1
+A:173:_:PRO	A	173	PRO	RES	 	0	45.163	2.837	14.833	8.575	Canis lupus familiaris.cif#173.A	1
+A:174:_:ALA	A	174	ALA	RES	 	0	47.820	0.481	11.951	7.848	Canis lupus familiaris.cif#174.A	1
+A:175:_:ARG	A	175	ARG	RES	 	4	50.103	-3.146	13.000	8.139	Canis lupus familiaris.cif#175.A	1
+A:176:_:LEU	A	176	LEU	RES	 	1	46.039	-4.698	9.556	7.696	Canis lupus familiaris.cif#176.A	1

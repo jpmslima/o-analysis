@@ -1,0 +1,174 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:MET	A	1	MET	RES	 	2	78.805	3.085	19.038	-10.072	Diceros bicornis.cif#1.A	1
+A:2:_:ASP	A	2	ASP	RES	 	1	83.901	6.123	21.284	-9.763	Diceros bicornis.cif#2.A	1
+A:3:_:MET	A	3	MET	RES	H	4	90.931	8.436	20.633	-6.834	Diceros bicornis.cif#3.A	1
+A:4:_:GLU	A	4	GLU	RES	H	0	92.515	8.284	24.316	-5.880	Diceros bicornis.cif#4.A	1
+A:5:_:LYS	A	5	LYS	RES	H	1	92.673	4.532	23.872	-5.420	Diceros bicornis.cif#5.A	1
+A:6:_:VAL	A	6	VAL	RES	H	3	95.742	5.165	20.850	-3.208	Diceros bicornis.cif#6.A	1
+A:7:_:ASN	A	7	ASN	RES	H	5	96.955	7.622	22.839	-1.096	Diceros bicornis.cif#7.A	1
+A:8:_:SER	A	8	SER	RES	H	0	96.131	5.193	25.757	-0.742	Diceros bicornis.cif#8.A	1
+A:9:_:MET	A	9	MET	RES	 	3	96.551	2.361	23.653	0.690	Diceros bicornis.cif#9.A	1
+A:10:_:ASP	A	10	ASP	RES	 	2	96.893	1.361	24.177	4.295	Diceros bicornis.cif#10.A	1
+A:11:_:PHE	A	11	PHE	RES	H	5	97.846	0.894	21.189	6.590	Diceros bicornis.cif#11.A	1
+A:12:_:GLY	A	12	GLY	RES	H	1	97.848	-2.782	20.633	5.830	Diceros bicornis.cif#12.A	1
+A:13:_:GLU	A	13	GLU	RES	H	3	96.157	-2.377	20.979	2.091	Diceros bicornis.cif#13.A	1
+A:14:_:PHE	A	14	PHE	RES	H	7	98.091	0.638	18.654	2.013	Diceros bicornis.cif#14.A	1
+A:15:_:VAL	A	15	VAL	RES	H	2	97.664	-1.192	15.946	3.954	Diceros bicornis.cif#15.A	1
+A:16:_:ASP	A	16	ASP	RES	H	1	95.023	-4.283	16.394	1.767	Diceros bicornis.cif#16.A	1
+A:17:_:VAL	A	17	VAL	RES	H	1	94.936	-2.183	15.765	-1.341	Diceros bicornis.cif#17.A	1
+A:18:_:PHE	A	18	PHE	RES	H	4	97.618	0.309	13.164	-0.110	Diceros bicornis.cif#18.A	1
+A:19:_:GLY	A	19	GLY	RES	H	1	97.067	-1.468	11.604	2.864	Diceros bicornis.cif#19.A	1
+A:20:_:ASN	A	20	ASN	RES	H	7	93.816	-2.380	8.449	0.958	Diceros bicornis.cif#20.A	1
+A:21:_:VAL	A	21	VAL	RES	H	2	96.787	0.986	7.861	-0.705	Diceros bicornis.cif#21.A	1
+A:22:_:ILE	A	22	ILE	RES	S	5	97.301	1.154	5.146	1.955	Diceros bicornis.cif#22.A	1
+A:23:_:GLU	A	23	GLU	RES	H	4	93.473	-2.299	3.572	2.083	Diceros bicornis.cif#23.A	1
+A:24:_:ARG	A	24	ARG	RES	H	2	91.861	-4.504	5.073	4.811	Diceros bicornis.cif#24.A	1
+A:25:_:CYS	A	25	CYS	RES	H	3	94.992	-1.407	6.292	6.649	Diceros bicornis.cif#25.A	1
+A:26:_:PRO	A	26	PRO	RES	H	2	95.996	-1.352	10.108	6.609	Diceros bicornis.cif#26.A	1
+A:27:_:LEU	A	27	LEU	RES	H	1	94.607	1.027	10.169	9.565	Diceros bicornis.cif#27.A	1
+A:28:_:ILE	A	28	ILE	RES	H	5	96.984	3.850	9.233	7.193	Diceros bicornis.cif#28.A	1
+A:29:_:ALA	A	29	ALA	RES	H	3	97.848	3.156	12.265	5.010	Diceros bicornis.cif#29.A	1
+A:30:_:ALA	A	30	ALA	RES	H	1	97.645	2.791	14.427	8.114	Diceros bicornis.cif#30.A	1
+A:31:_:ALA	A	31	ALA	RES	H	2	96.933	6.276	13.404	9.239	Diceros bicornis.cif#31.A	1
+A:32:_:VAL	A	32	VAL	RES	H	5	97.774	7.765	13.858	5.758	Diceros bicornis.cif#32.A	1
+A:33:_:TRP	A	33	TRP	RES	H	14	97.811	6.384	17.419	5.627	Diceros bicornis.cif#33.A	1
+A:34:_:SER	A	34	SER	RES	H	1	95.150	9.057	18.516	8.111	Diceros bicornis.cif#34.A	1
+A:35:_:GLN	A	35	GLN	RES	H	3	94.914	11.851	17.386	5.759	Diceros bicornis.cif#35.A	1
+A:36:_:ARG	A	36	ARG	RES	 	8	93.881	11.269	20.160	3.192	Diceros bicornis.cif#36.A	1
+A:37:_:PRO	A	37	PRO	RES	 	0	95.679	12.588	21.485	0.938	Diceros bicornis.cif#37.A	1
+A:38:_:PHE	A	38	PHE	RES	 	8	96.752	12.662	18.577	-1.499	Diceros bicornis.cif#38.A	1
+A:39:_:SER	A	39	SER	RES	 	3	94.956	14.885	18.881	-4.556	Diceros bicornis.cif#39.A	1
+A:40:_:ASP	A	40	ASP	RES	S	4	90.125	13.078	16.452	-6.883	Diceros bicornis.cif#40.A	1
+A:41:_:LEU	A	41	LEU	RES	H	2	89.401	10.822	13.408	-7.007	Diceros bicornis.cif#41.A	1
+A:42:_:GLU	A	42	GLU	RES	H	1	90.778	13.676	11.111	-5.982	Diceros bicornis.cif#42.A	1
+A:43:_:ASP	A	43	ASP	RES	H	8	95.564	14.370	13.201	-2.891	Diceros bicornis.cif#43.A	1
+A:44:_:LEU	A	44	LEU	RES	H	5	96.043	10.701	13.222	-1.880	Diceros bicornis.cif#44.A	1
+A:45:_:GLU	A	45	GLU	RES	H	2	94.820	10.416	9.465	-2.419	Diceros bicornis.cif#45.A	1
+A:46:_:LYS	A	46	LYS	RES	H	2	96.785	13.612	8.862	-0.447	Diceros bicornis.cif#46.A	1
+A:47:_:HIS	A	47	HIS	RES	H	6	97.439	12.140	10.624	2.580	Diceros bicornis.cif#47.A	1
+A:48:_:PHE	A	48	PHE	RES	H	4	98.110	8.924	8.598	2.454	Diceros bicornis.cif#48.A	1
+A:49:_:PHE	A	49	PHE	RES	H	1	97.691	10.759	5.293	2.195	Diceros bicornis.cif#49.A	1
+A:50:_:ALA	A	50	ALA	RES	H	3	97.562	13.424	6.182	4.763	Diceros bicornis.cif#50.A	1
+A:51:_:LEU	A	51	LEU	RES	H	2	96.425	10.705	6.929	7.289	Diceros bicornis.cif#51.A	1
+A:52:_:ILE	A	52	ILE	RES	H	3	96.849	9.120	3.531	6.693	Diceros bicornis.cif#52.A	1
+A:53:_:ASP	A	53	ASP	RES	H	0	96.948	12.504	1.863	7.085	Diceros bicornis.cif#53.A	1
+A:54:_:ALA	A	54	ALA	RES	H	1	96.258	13.163	3.715	10.346	Diceros bicornis.cif#54.A	1
+A:55:_:LEU	A	55	LEU	RES	S	2	97.115	10.025	2.398	12.048	Diceros bicornis.cif#55.A	1
+A:56:_:PRO	A	56	PRO	RES	I	3	97.610	10.284	-0.507	14.462	Diceros bicornis.cif#56.A	1
+A:57:_:GLN	A	57	GLN	RES	H	2	96.220	8.851	-3.814	13.272	Diceros bicornis.cif#57.A	1
+A:58:_:SER	A	58	SER	RES	H	1	96.456	5.539	-3.150	15.026	Diceros bicornis.cif#58.A	1
+A:59:_:GLY	A	59	GLY	RES	H	4	97.339	5.201	0.130	13.140	Diceros bicornis.cif#59.A	1
+A:60:_:GLN	A	60	GLN	RES	H	3	98.009	6.076	-1.496	9.832	Diceros bicornis.cif#60.A	1
+A:61:_:GLU	A	61	GLU	RES	H	3	97.419	3.443	-4.170	10.436	Diceros bicornis.cif#61.A	1
+A:62:_:GLY	A	62	GLY	RES	H	2	97.567	0.997	-1.393	11.282	Diceros bicornis.cif#62.A	1
+A:63:_:ILE	A	63	ILE	RES	H	7	96.887	1.578	0.141	7.858	Diceros bicornis.cif#63.A	1
+A:64:_:LEU	A	64	LEU	RES	H	8	97.895	0.748	-3.193	6.246	Diceros bicornis.cif#64.A	1
+A:65:_:ARG	A	65	ARG	RES	H	3	97.073	-2.454	-3.484	8.280	Diceros bicornis.cif#65.A	1
+A:66:_:CYS	A	66	CYS	RES	H	2	93.841	-3.715	-0.278	6.657	Diceros bicornis.cif#66.A	1
+A:67:_:HIS	A	67	HIS	RES	S	4	93.978	-3.863	-1.945	3.222	Diceros bicornis.cif#67.A	1
+A:68:_:PRO	A	68	PRO	RES	 	0	88.431	-6.982	-3.640	1.867	Diceros bicornis.cif#68.A	1
+A:69:_:ASP	A	69	ASP	RES	 	3	85.153	-7.127	-7.235	0.671	Diceros bicornis.cif#69.A	1
+A:70:_:LEU	A	70	LEU	RES	T	2	84.511	-6.833	-7.701	-3.074	Diceros bicornis.cif#70.A	1
+A:71:_:ALA	A	71	ALA	RES	T	3	75.373	-10.325	-8.294	-4.492	Diceros bicornis.cif#71.A	1
+A:72:_:GLY	A	72	GLY	RES	S	4	77.823	-11.625	-8.208	-0.920	Diceros bicornis.cif#72.A	1
+A:73:_:ARG	A	73	ARG	RES	H	2	76.278	-14.627	-6.760	0.856	Diceros bicornis.cif#73.A	1
+A:74:_:GLU	A	74	GLU	RES	H	5	73.699	-13.630	-3.123	0.405	Diceros bicornis.cif#74.A	1
+A:75:_:LEU	A	75	LEU	RES	H	5	75.802	-13.474	-3.566	-3.363	Diceros bicornis.cif#75.A	1
+A:76:_:GLN	A	76	GLN	RES	H	3	68.102	-16.862	-5.308	-3.406	Diceros bicornis.cif#76.A	1
+A:77:_:ARG	A	77	ARG	RES	H	1	71.815	-18.428	-2.578	-1.249	Diceros bicornis.cif#77.A	1
+A:78:_:GLY	A	78	GLY	RES	T	2	71.397	-16.820	0.321	-3.117	Diceros bicornis.cif#78.A	1
+A:79:_:THR	A	79	THR	RES	 	3	72.203	-15.114	1.595	0.045	Diceros bicornis.cif#79.A	1
+A:80:_:LEU	A	80	LEU	RES	S	4	76.640	-11.506	1.529	-1.184	Diceros bicornis.cif#80.A	1
+A:81:_:THR	A	81	THR	RES	 	5	81.275	-9.476	4.709	-1.285	Diceros bicornis.cif#81.A	1
+A:82:_:ALA	A	82	ALA	RES	H	2	76.615	-9.495	6.361	-4.695	Diceros bicornis.cif#82.A	1
+A:83:_:GLU	A	83	GLU	RES	H	3	76.904	-5.928	5.198	-5.280	Diceros bicornis.cif#83.A	1
+A:84:_:SER	A	84	SER	RES	H	4	79.579	-6.547	1.558	-4.359	Diceros bicornis.cif#84.A	1
+A:85:_:GLN	A	85	GLN	RES	H	2	71.090	-9.753	1.522	-6.386	Diceros bicornis.cif#85.A	1
+A:86:_:ARG	A	86	ARG	RES	H	3	77.412	-7.906	2.646	-9.514	Diceros bicornis.cif#86.A	1
+A:87:_:GLU	A	87	GLU	RES	H	7	77.818	-5.077	0.197	-8.850	Diceros bicornis.cif#87.A	1
+A:88:_:GLN	A	88	GLN	RES	H	3	74.794	-7.290	-2.830	-8.296	Diceros bicornis.cif#88.A	1
+A:89:_:SER	A	89	SER	RES	H	3	72.892	-9.667	-1.891	-11.116	Diceros bicornis.cif#89.A	1
+A:90:_:GLY	A	90	GLY	RES	H	1	70.810	-6.733	-1.431	-13.465	Diceros bicornis.cif#90.A	1
+A:91:_:ALA	A	91	ALA	RES	H	1	72.485	-5.487	-4.898	-12.513	Diceros bicornis.cif#91.A	1
+A:92:_:GLY	A	92	GLY	RES	H	2	72.780	-8.851	-6.419	-13.444	Diceros bicornis.cif#92.A	1
+A:93:_:LEU	A	93	LEU	RES	G	2	76.210	-9.815	-7.352	-9.877	Diceros bicornis.cif#93.A	1
+A:94:_:THR	A	94	THR	RES	G	1	72.399	-13.276	-5.765	-10.162	Diceros bicornis.cif#94.A	1
+A:95:_:SER	A	95	SER	RES	G	1	73.829	-14.410	-8.349	-12.727	Diceros bicornis.cif#95.A	1
+A:96:_:LEU	A	96	LEU	RES	 	1	74.385	-13.031	-11.644	-11.411	Diceros bicornis.cif#96.A	1
+A:97:_:GLY	A	97	GLY	RES	 	3	80.686	-15.150	-14.738	-11.881	Diceros bicornis.cif#97.A	1
+A:98:_:ALA	A	98	ALA	RES	H	1	82.699	-16.793	-16.384	-8.893	Diceros bicornis.cif#98.A	1
+A:99:_:ASP	A	99	ASP	RES	H	1	85.323	-14.228	-19.175	-8.617	Diceros bicornis.cif#99.A	1
+A:100:_:GLU	A	100	GLU	RES	H	2	84.418	-11.302	-16.764	-8.909	Diceros bicornis.cif#100.A	1
+A:101:_:ARG	A	101	ARG	RES	H	2	84.294	-12.779	-14.484	-6.254	Diceros bicornis.cif#101.A	1
+A:102:_:LEU	A	102	LEU	RES	H	2	88.822	-13.350	-17.392	-3.855	Diceros bicornis.cif#102.A	1
+A:103:_:ARG	A	103	ARG	RES	H	5	88.321	-9.796	-18.607	-4.427	Diceros bicornis.cif#103.A	1
+A:104:_:LEU	A	104	LEU	RES	H	3	88.542	-8.357	-15.208	-3.556	Diceros bicornis.cif#104.A	1
+A:105:_:ALA	A	105	ALA	RES	H	2	89.604	-10.635	-14.871	-0.523	Diceros bicornis.cif#105.A	1
+A:106:_:GLU	A	106	GLU	RES	H	3	93.832	-9.395	-18.199	0.818	Diceros bicornis.cif#106.A	1
+A:107:_:LEU	A	107	LEU	RES	H	7	93.663	-5.751	-17.271	0.266	Diceros bicornis.cif#107.A	1
+A:108:_:ASN	A	108	ASN	RES	H	4	92.678	-6.249	-13.829	1.828	Diceros bicornis.cif#108.A	1
+A:109:_:ALA	A	109	ALA	RES	H	3	94.839	-7.757	-15.406	4.948	Diceros bicornis.cif#109.A	1
+A:110:_:GLN	A	110	GLN	RES	H	5	96.709	-4.873	-17.862	5.264	Diceros bicornis.cif#110.A	1
+A:111:_:TYR	A	111	TYR	RES	H	7	96.677	-2.339	-15.069	4.777	Diceros bicornis.cif#111.A	1
+A:112:_:ARG	A	112	ARG	RES	H	3	95.012	-3.866	-12.857	7.464	Diceros bicornis.cif#112.A	1
+A:113:_:ALA	A	113	ALA	RES	H	1	97.165	-4.048	-15.798	9.862	Diceros bicornis.cif#113.A	1
+A:114:_:ARG	A	114	ARG	RES	H	6	97.313	-0.356	-16.524	9.375	Diceros bicornis.cif#114.A	1
+A:115:_:PHE	A	115	PHE	RES	H	3	97.700	1.169	-13.044	9.304	Diceros bicornis.cif#115.A	1
+A:116:_:GLY	A	116	GLY	RES	T	3	97.016	-1.347	-10.769	11.055	Diceros bicornis.cif#116.A	1
+A:117:_:PHE	A	117	PHE	RES	S	3	96.856	-1.561	-8.306	8.162	Diceros bicornis.cif#117.A	1
+A:118:_:PRO	A	118	PRO	RES	 	3	94.347	-3.059	-8.404	4.675	Diceros bicornis.cif#118.A	1
+A:119:_:PHE	A	119	PHE	RES	 	0	95.346	-1.222	-9.583	1.580	Diceros bicornis.cif#119.A	1
+A:120:_:VAL	A	120	VAL	RES	 	0	95.560	0.252	-6.537	-0.122	Diceros bicornis.cif#120.A	1
+A:121:_:LEU	A	121	LEU	RES	 	0	91.778	1.136	-6.555	-3.825	Diceros bicornis.cif#121.A	1
+A:122:_:ALA	A	122	ALA	RES	 	3	90.397	1.591	-3.711	-6.276	Diceros bicornis.cif#122.A	1
+A:123:_:ALA	A	123	ALA	RES	G	1	83.563	-1.361	-4.691	-8.450	Diceros bicornis.cif#123.A	1
+A:124:_:ARG	A	124	ARG	RES	G	2	78.816	-0.483	-2.226	-11.220	Diceros bicornis.cif#124.A	1
+A:125:_:LEU	A	125	LEU	RES	G	1	81.745	2.852	-4.010	-11.708	Diceros bicornis.cif#125.A	1
+A:126:_:THR	A	126	THR	RES	S	1	74.892	1.623	-7.607	-11.442	Diceros bicornis.cif#126.A	1
+A:127:_:ASP	A	127	ASP	RES	 	2	74.117	0.017	-9.975	-13.925	Diceros bicornis.cif#127.A	1
+A:128:_:PRO	A	128	PRO	RES	H	1	75.905	-3.456	-10.810	-12.554	Diceros bicornis.cif#128.A	1
+A:129:_:ALA	A	129	ALA	RES	H	0	77.989	-2.972	-14.464	-13.485	Diceros bicornis.cif#129.A	1
+A:130:_:ALA	A	130	ALA	RES	H	4	82.516	0.117	-14.584	-11.257	Diceros bicornis.cif#130.A	1
+A:131:_:MET	A	131	MET	RES	H	3	83.228	-1.503	-13.082	-8.156	Diceros bicornis.cif#131.A	1
+A:132:_:PRO	A	132	PRO	RES	H	1	87.379	-2.944	-16.298	-6.641	Diceros bicornis.cif#132.A	1
+A:133:_:ARG	A	133	ARG	RES	H	1	90.724	0.340	-18.134	-7.232	Diceros bicornis.cif#133.A	1
+A:134:_:GLU	A	134	GLU	RES	H	7	93.054	2.337	-15.319	-5.656	Diceros bicornis.cif#134.A	1
+A:135:_:LEU	A	135	LEU	RES	H	5	93.502	0.029	-15.220	-2.639	Diceros bicornis.cif#135.A	1
+A:136:_:ALA	A	136	ALA	RES	H	4	94.394	0.268	-18.992	-2.216	Diceros bicornis.cif#136.A	1
+A:137:_:ARG	A	137	ARG	RES	H	5	96.204	4.054	-18.859	-2.537	Diceros bicornis.cif#137.A	1
+A:138:_:ARG	A	138	ARG	RES	H	7	97.038	4.456	-16.102	0.034	Diceros bicornis.cif#138.A	1
+A:139:_:LEU	A	139	LEU	RES	H	4	96.661	2.281	-18.001	2.524	Diceros bicornis.cif#139.A	1
+A:140:_:HIS	A	140	HIS	RES	H	3	96.873	5.276	-20.309	2.977	Diceros bicornis.cif#140.A	1
+A:141:_:CYS	A	141	CYS	RES	S	2	96.946	7.890	-17.590	3.522	Diceros bicornis.cif#141.A	1
+A:142:_:PRO	A	142	PRO	RES	 	4	97.891	9.506	-17.000	6.899	Diceros bicornis.cif#142.A	1
+A:143:_:PRO	A	143	PRO	RES	H	2	96.485	7.811	-14.084	8.701	Diceros bicornis.cif#143.A	1
+A:144:_:ALA	A	144	ALA	RES	H	1	96.339	10.872	-11.812	8.668	Diceros bicornis.cif#144.A	1
+A:145:_:GLN	A	145	GLN	RES	H	4	97.530	11.388	-12.399	4.950	Diceros bicornis.cif#145.A	1
+A:146:_:GLU	A	146	GLU	RES	H	8	98.137	7.696	-11.816	4.218	Diceros bicornis.cif#146.A	1
+A:147:_:LEU	A	147	LEU	RES	H	2	97.972	7.716	-8.558	6.186	Diceros bicornis.cif#147.A	1
+A:148:_:ARG	A	148	ARG	RES	H	1	97.107	10.585	-7.267	4.044	Diceros bicornis.cif#148.A	1
+A:149:_:THR	A	149	THR	RES	H	3	97.632	8.866	-8.397	0.854	Diceros bicornis.cif#149.A	1
+A:150:_:ALA	A	150	ALA	RES	H	3	98.188	5.540	-6.819	1.822	Diceros bicornis.cif#150.A	1
+A:151:_:LEU	A	151	LEU	RES	H	4	98.203	7.212	-3.521	2.713	Diceros bicornis.cif#151.A	1
+A:152:_:GLY	A	152	GLY	RES	H	2	98.021	8.927	-3.624	-0.670	Diceros bicornis.cif#152.A	1
+A:153:_:GLU	A	153	GLU	RES	H	8	96.790	5.490	-3.829	-2.258	Diceros bicornis.cif#153.A	1
+A:154:_:VAL	A	154	VAL	RES	H	6	97.730	4.326	-0.850	-0.184	Diceros bicornis.cif#154.A	1
+A:155:_:LYS	A	155	LYS	RES	H	2	97.710	7.261	1.121	-1.587	Diceros bicornis.cif#155.A	1
+A:156:_:LYS	A	156	LYS	RES	H	6	94.905	6.398	0.102	-5.155	Diceros bicornis.cif#156.A	1
+A:157:_:ILE	A	157	ILE	RES	H	4	95.496	2.841	1.334	-4.591	Diceros bicornis.cif#157.A	1
+A:158:_:GLY	A	158	GLY	RES	H	2	96.422	4.139	4.548	-3.041	Diceros bicornis.cif#158.A	1
+A:159:_:ARG	A	159	ARG	RES	H	2	94.040	6.469	5.166	-5.971	Diceros bicornis.cif#159.A	1
+A:160:_:LEU	A	160	LEU	RES	H	4	91.446	3.589	4.836	-8.424	Diceros bicornis.cif#160.A	1
+A:161:_:ARG	A	161	ARG	RES	H	8	94.885	1.353	7.130	-6.368	Diceros bicornis.cif#161.A	1
+A:162:_:LEU	A	162	LEU	RES	H	2	94.713	4.036	9.806	-6.054	Diceros bicornis.cif#162.A	1
+A:163:_:ALA	A	163	ALA	RES	H	2	89.677	4.694	9.622	-9.788	Diceros bicornis.cif#163.A	1
+A:164:_:ASP	A	164	ASP	RES	H	3	90.017	0.972	9.999	-10.480	Diceros bicornis.cif#164.A	1
+A:165:_:LEU	A	165	LEU	RES	H	0	93.225	0.677	13.008	-8.173	Diceros bicornis.cif#165.A	1
+A:166:_:LEU	A	166	LEU	RES	H	3	90.658	3.680	14.715	-9.751	Diceros bicornis.cif#166.A	1
+A:167:_:CYS	A	167	CYS	RES	T	1	78.853	2.796	13.699	-13.340	Diceros bicornis.cif#167.A	1
+A:168:_:VAL	A	168	VAL	RES	 	2	70.704	6.084	11.852	-13.734	Diceros bicornis.cif#168.A	1
+A:169:_:ASP	A	169	ASP	RES	 	1	62.758	6.676	8.556	-15.555	Diceros bicornis.cif#169.A	1
+A:170:_:PRO	A	170	PRO	RES	T	0	58.237	7.163	5.959	-12.798	Diceros bicornis.cif#170.A	1
+A:171:_:SER	A	171	SER	RES	T	0	57.965	9.752	4.141	-14.943	Diceros bicornis.cif#171.A	1
+A:172:_:GLY	A	172	GLY	RES	 	1	54.378	11.891	7.274	-14.962	Diceros bicornis.cif#172.A	1
+A:173:_:PRO	A	173	PRO	RES	 	1	46.569	13.454	9.211	-12.069	Diceros bicornis.cif#173.A	1
